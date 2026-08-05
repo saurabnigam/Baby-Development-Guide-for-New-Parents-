@@ -37,14 +37,16 @@
 
 ### John Bowlby & Mary Ainsworth — Attachment Theory
 
-| Attachment Style | Caregiver Pattern | Child Outcome |
-|-----------------|-------------------|---------------|
-| **Secure** (65%) | Responsive, consistent, warm | Confident exploration, healthy relationships |
-| **Anxious-Resistant** (10%) | Inconsistent responsiveness | Clingy, anxious, difficulty with separation |
-| **Avoidant** (20%) | Emotionally distant, dismissive | Emotionally shut down, pseudo-independence |
-| **Disorganized** (5%) | Frightening or frightened behavior | Confused, contradictory behavior |
+| Attachment Style | Caregiver Pattern | Child Outcome | Roughly how common |
+|-----------------|-------------------|---------------|--------------------|
+| **Secure** | Responsive, consistent, warm | Confident exploration, healthy relationships | ~55–60% |
+| **Avoidant** | Emotionally distant, dismissive | Emotionally shut down, pseudo-independence | ~15–20% |
+| **Anxious-Resistant** | Inconsistent responsiveness | Clingy, anxious, difficulty with separation | ~10% |
+| **Disorganized** | Frightening or frightened behavior; unresolved loss or trauma | Confused, contradictory behavior | ~15% in normative samples; substantially higher in high-risk ones |
 
-*Secure attachment is the single strongest predictor of positive developmental outcomes across IQ and EQ domains (Sroufe et al., 2005).*
+*Percentages are approximate, drawn from meta-analytic work on the Strange Situation (van IJzendoorn et al., 1999). **Distributions vary meaningfully across cultures**, and the classification system was developed in a specific Western context — treat these as orientation, not as a population fact about your community.*
+
+*Secure attachment is among the strongest early predictors of positive developmental outcomes across IQ and EQ domains (Sroufe et al., 2005). Note that attachment classification is a measure of a **relationship**, not a trait of the child — a child can be securely attached to one caregiver and not another, and classifications can change over time in either direction.*
 
 ---
 
@@ -74,7 +76,7 @@
 |--------|-----------|
 | **Cognitive (IQ)** | Object permanence emerging (searches for hidden objects); understands "no"; explores objects more systematically; imitates simple actions |
 | **Emotional (EQ)** | Stranger anxiety appears; separation anxiety begins; shows preference for specific people; uses social referencing (looks to parent to gauge safety) |
-| **Motor** | Sits independently; begins crawling; picks up small objects (pincer grasp developing) |
+| **Motor** | Sits independently; picks up small objects (pincer grasp developing); gets mobile — often crawling, but bum-shuffling, rolling, or going straight to pulling up are all normal. *CDC removed crawling from its checklists in 2022 because a meaningful share of typically developing children skip it entirely* |
 | **Language** | Babbling becomes more varied; may say "mama" or "dada" (not yet specific); understands some words; uses gestures (reaching) |
 
 ### 9–12 Months: Language & Attachment
@@ -136,7 +138,9 @@
 | Domain | Milestones |
 |--------|-----------|
 | **Cognitive (IQ)** | Reads simple books; basic math operations; understands rules; increasing logical thinking; begins understanding conservation (Piaget) |
-| **Emotional (EQ)** | Develops real friendships; understands and follows rules; beginnings of moral reasoning; increasing self-regulation; can delay gratification |
+| **Emotional (EQ)** | Develops real friendships; understands and follows rules; beginnings of moral reasoning; increasing self-regulation; can delay gratification for longer, with support |
+| **Motor** | Rides a bike without stabilisers; skips; ties laces; writes legibly; catches a small ball; loses first teeth |
+| **Language** | 5,000–10,000 words; complex grammar; understands humour, sarcasm emerging; can explain reasoning; reads to learn, not just learns to read (from ~7) |
 
 ### 7–12 Years: Concrete Operations
 
@@ -144,13 +148,19 @@
 |--------|-----------|
 | **Cognitive (IQ)** | Logical reasoning about concrete events; classification and seriation; conservation mastered; metacognition developing; academic skills deepen |
 | **Emotional (EQ)** | Complex social navigation; peer influence increases; self-concept develops; understands nuanced emotions (jealousy, guilt, pride); increased independence |
+| **Motor** | Refined coordination; sport-specific skill; handwriting fluent; puberty may begin (girls from ~8–13, boys from ~9–14) |
+| **Language** | Vocabulary expands rapidly through reading; understands figurative language, idiom, and irony; can construct an argument; writes multi-paragraph text |
 
 ### 12–18 Years: Formal Operations & Identity
 
 | Domain | Milestones |
 |--------|-----------|
-| **Cognitive (IQ)** | Abstract thinking; hypothetical reasoning; systematic problem-solving; future orientation; philosophical thinking; prefrontal cortex still developing |
+| **Cognitive (IQ)** | Abstract thinking; hypothetical reasoning; systematic problem-solving; future orientation; philosophical thinking; prefrontal cortex still developing into the mid-20s |
 | **Emotional (EQ)** | Identity formation; intimate friendships; romantic relationships; values clarification; increased emotional intensity; developing emotional wisdom |
+| **Motor** | Puberty completes; adult height reached (girls ~14–16, boys ~16–18); coordination peaks; sleep phase shifts naturally later |
+| **Language** | Adult-level vocabulary and grammar; register-switching (talks differently to peers, teachers, family); can sustain and defend a complex argument |
+
+*Note: Piaget's formal operational stage is not reached universally or in all domains — many adults reason formally in familiar areas and concretely in unfamiliar ones. Treat it as a capacity that becomes available, not a state that switches on.*
 
 ---
 
@@ -172,22 +182,29 @@
 
 **Consult your pediatrician if you notice:**
 - No social smile by 3 months
-- No babbling by 9 months
-- No words by 16 months
-- No two-word phrases by 24 months
-- Loss of any previously acquired skill at any age
-- No pointing or gesturing by 12 months
 - No response to name by 12 months
+- No pointing, showing, or gesturing to communicate by 12 months
+- No babbling with varied consonant sounds by 12 months
+- No words by 16 months
+- **No two-word phrases by 30 months**
+- Loss of any previously acquired skill, at any age — this one always warrants a call
+
+> **Why 30 months and not 24.** Earlier versions of this list — and a lot of parenting content still online — use 24 months for two-word phrases. CDC's revised (2022) milestone checklists deliberately moved it to 30 months, because the checklists are now set at what **75% or more** of children do by that age rather than at the median. The change exists specifically to reduce false alarms in typically developing children. A 24-month-old with single words and good comprehension is very often fine; a 30-month-old without word combinations is worth a conversation.
+>
+> **The exception to all of this:** never wait on a regression, and never wait because a list says you have time. If your gut says something is off, ask. Early evaluation costs you an appointment; waiting costs intervention time you cannot get back.
 
 ---
 
-## The Golden Ratio: 70/30 Rule
+## Mostly Follow, Sometimes Stretch
 
-For optimal development at any stage, aim for approximately:
-- **70% child-led** — Follow your child's interests, let them explore, join their play
-- **30% adult-guided** — Introduce new concepts, scaffold challenges, structured activities
+A useful working heuristic — **not** a measured ratio, and you will see versions of it stated with false precision elsewhere:
 
-This ratio respects the child's natural curiosity while ensuring they're gently stretched beyond current abilities (Vygotsky's Zone of Proximal Development).
+- **Mostly child-led** — follow your child's interests, let them explore, join their play on their terms
+- **Sometimes adult-guided** — introduce a new concept, scaffold a challenge just beyond current ability, offer structure
+
+The principle behind it is Vygotsky's **zone of proximal development**: learning happens at the edge of what a child can do alone, with support. Below that edge, nothing new is learned. Above it, the child shuts down.
+
+No research establishes a specific split, and treating one as a target turns play into a schedule. The judgement you're actually making is simpler: *is my child mostly directing this, and am I occasionally offering something slightly harder than they'd choose?*
 
 ---
 

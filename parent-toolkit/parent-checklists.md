@@ -67,6 +67,57 @@ Use this when your baby is moving out of the newborn stage and into more active 
 
 ---
 
+## Daily Checklist: 5 to 12 Years
+
+- I asked about effort and difficulty, not just marks or outcomes.
+- There was a decompression buffer after school — food, movement, no interrogation.
+- My child had physical activity today.
+- My child had some unstructured, unscheduled time.
+- Screens did not run into the last hour before bed.
+- I let them do something themselves that I could have done faster.
+- I asked a question I didn't know the answer to.
+- Bedtime supported 9 to 12 hours of sleep, counting back from wake time.
+
+---
+
+## Daily Checklist: 12 to 18 Years
+
+- I was available without interrogating.
+- I listened to something all the way through before responding.
+- I noticed what they're actually interested in right now.
+- I let a natural consequence happen instead of preventing it.
+- I said something appreciative that wasn't about achievement.
+- Their sleep had a realistic chance of being 8 to 10 hours.
+- I asked before advising.
+- I did not make a disclosure cost them anything.
+
+---
+
+## Weekly Safety Checklist: 0 to 12 Months
+
+- Every sleep was **on the back, alone, on a firm flat surface**.
+- Nothing soft, loose, or inclined in the sleep space.
+- Everyone who cares for my baby knows the safe-sleep rules and **never to shake a baby**.
+- Car seat is rear-facing, correctly fitted, straps snug, no bulky coats.
+- My baby was never left alone on a raised surface or in the bath.
+- Small objects, **button/coin-cell batteries**, medicines, and cleaning products are out of reach.
+- Home has been re-swept at floor level for the current stage of mobility.
+- I know infant CPR and choking response — or I have booked a class.
+
+---
+
+## Weekly Safety Checklist: 1 to 5 Years
+
+- Water: no unsupervised access to baths, buckets, pools, or ponds. Touch supervision near water.
+- Roads: hands held, every time, no exceptions.
+- Furniture and TVs anchored. Blind cords secured. Window guards fitted.
+- Medicines, cleaning products, and batteries locked, not just high up.
+- Car seat still correct for current height and weight.
+- Smoke alarms tested; escape route known.
+- My child knows their own full name and mine.
+
+---
+
 ## Weekly Checklist: Home Environment
 
 - The home setup supports safe exploration.

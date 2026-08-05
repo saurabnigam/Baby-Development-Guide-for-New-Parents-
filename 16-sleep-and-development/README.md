@@ -11,6 +11,44 @@
 - Early sleep depends heavily on co-regulation and routine, not strict independence.
 - Sleep needs change by age, but consistency and emotional safety matter at every stage.
 - Fixing sleep often improves cognition, mood, and parent-child relationships at the same time.
+- **Before anything else in this module: if your child is under 1, safe sleep comes first.** See below.
+
+---
+
+## Safe Sleep for Infants — Non-Negotiable First
+
+Everything else in this module is about sleep *quality*. This section is about sleep *safety*, and it applies to every sleep in the first year: naps, nights, at home, at grandparents', in a hotel, anywhere.
+
+### The ABCs
+
+- **A**lone — nothing else in the sleep space. No pillows, blankets, bumpers, positioners, wedges, or soft toys
+- **B**ack — on the back for every sleep, until baby can roll both directions unaided. Once they can roll both ways reliably, you don't need to reposition them all night — but you still always *place* them on their back
+- **C**rib — firm, flat, **non-inclined** surface with a fitted sheet only
+
+### The rest of it
+
+| Rule | Why |
+|------|-----|
+| **Room-share, don't bed-share** | Baby in your room on their own surface, ideally for at least 6 months. Room-sharing lowers risk; bed-sharing raises it |
+| **Never on a sofa or armchair** | The highest-risk sleep surface there is. If you might doze off feeding, a cleared adult bed is the safer of two imperfect options |
+| **Bed-sharing risk multiplies** if anyone smokes, has drunk alcohol or taken sedating medication, is extremely sleep-deprived, or if the baby was premature or low birth weight | These are the factors present in most bed-sharing deaths |
+| **Don't overheat** | One more layer than you'd want. No hats indoors. Head uncovered |
+| **Stop swaddling at the first sign of rolling** | A swaddled baby who rolls face-down cannot get back |
+| **Move them from car seats and swings** | Not safe sleep surfaces. Positional asphyxia is a real risk in inclined seats |
+| **Pacifier at sleep** (once feeding is established) | Associated with reduced risk. Optional. Don't re-insert once asleep |
+| **Smoke-free environment** | One of the largest modifiable factors, in pregnancy and after |
+| **Breastfeeding, if it works for you** | Associated with reduced risk. Any amount helps |
+| **Keep vaccinations up to date** | Associated with reduced risk |
+
+### Products marketed as sleep aids
+
+Inclined sleepers, sleep positioners, cot bumpers (including "breathable" ones), weighted sleep sacks and weighted blankets for infants, and hammock-style sleepers are **not** recommended, regardless of marketing claims. Several categories have been recalled after infant deaths. If a product changes your baby's position or adds anything to the sleep surface, the answer is no.
+
+Consumer baby monitors that track breathing or oxygen are not medical devices, are not validated to prevent SIDS, and can produce both false alarms and false reassurance. They are not a substitute for the rules above.
+
+### If your baby has reflux, prematurity, or a medical condition
+
+Ask your paediatrician before deviating from any of this. The answer is almost always still "back to sleep on a flat surface" — reflux is not an indication for inclined or side sleeping.
 
 ---
 
@@ -114,6 +152,16 @@ Why it works:
 ---
 
 ## Common Sleep Challenges
+
+### "We Ended Up Bed-Sharing and I Feel Terrible About It"
+
+Almost every exhausted parent has, at some point, fallen asleep with their baby somewhere they didn't plan to. Shame is not useful here; information is.
+
+The honest position: the safest arrangement is baby on their own flat surface in your room. If bed-sharing is going to happen — planned or not — the risk is not uniform. It is dramatically higher on a sofa or armchair, and higher if anyone in the bed smokes, has been drinking or taking sedating medication, is unusually exhausted, or if the baby is under 4 months, premature, or low birth weight.
+
+If you're going to feed lying down at night, prepare the bed *in advance* rather than defaulting to the sofa when you're too tired to think: firm mattress, no duvet or pillows near the baby, no gaps between mattress and wall or headboard, no other children or pets, baby on their back.
+
+Talk to your health visitor, midwife, or paediatrician about your specific situation rather than making the decision alone at 4am.
 
 ### Newborn Day-Night Confusion
 

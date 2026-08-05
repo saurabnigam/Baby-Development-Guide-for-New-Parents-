@@ -125,7 +125,7 @@ Children are using symbols, building brief sequences, and beginning representati
 | Toy / Material | Why It Helps |
 |----------------|-------------|
 | Playdough with simple tools (roller, cutters) | Fine motor, creativity, calming sensory exploration |
-| Duplo or large connecting bricks | Construction, sequencing, planning, spatial reasoning |
+| Large chunky connecting bricks | Construction, sequencing, planning, spatial reasoning |
 | Tricycle or balance bike | Gross motor, coordination, independent mobility |
 | Dress-up clothes and simple props | Symbolic play, identity exploration, role rehearsal |
 | Simple 6 to 12 piece puzzles | Spatial reasoning, problem-solving, persistence |
@@ -163,7 +163,8 @@ Children are using symbols, building brief sequences, and beginning representati
 - Let the child decide whether and how much to eat from what is offered
 - Avoid pressure, bribing, or labeling the child as picky
 
-This “division of responsibility” approach is strongly supported in responsive feeding practice.
+This “division of responsibility” approach is strongly supported in responsive feeding practice. For how to actually teach mealtime behaviour — sitting, refusing politely, eating at other people's houses, and why "one more bite" backfires — see [Module 24, Part 7](../24-behaviour-and-discipline/README.md#part-7-food--mealtime-behaviour).
+
 ### Nutrition Milestones: Age 2 to 3
 
 | Marker | Typical Range |
@@ -179,6 +180,9 @@ This “division of responsibility” approach is strongly supported in responsi
 | Appetite regulators | Sleep quality and physical activity significantly affect daily intake |
 
 Picky eating in this window is developmentally normal and often peaks between ages 2 and 3. The research consistently shows that pressure worsens it; repeated neutral exposure improves it.
+
+**Drinks:** water and milk. Juice 4 oz (120ml) a day maximum, and none is better. No sweetened drinks.
+
 ---
 
 ## Parent Behaviors That Matter Most

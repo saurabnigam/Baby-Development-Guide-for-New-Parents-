@@ -104,7 +104,7 @@ Children in this stage benefit from activities that build real skill over time. 
 | Activity / Material | Why It Helps |
 |--------------------|-------------|
 | Chess or strategy board games | Abstract planning, patience, resilience after failure |
-| LEGO Technic, robotics kits, or electronics sets | STEM thinking, multi-step problem-solving, spatial reasoning |
+| Mechanical construction, robotics kits, or electronics sets | STEM thinking, multi-step problem-solving, spatial reasoning |
 | Musical instrument practice | Attention training, procedural memory, emotional outlet |
 | Team sports or individual sport | Coordination, social navigation, identity, stress regulation |
 | Science experiment books or kits | Curiosity, systematic thinking, real-world math |
@@ -133,7 +133,7 @@ Nutrition patterns now begin to solidify into longer-term habits, so family food
 |--------|---------------|
 | Energy | 1,400 to 2,200 kcal per day; wide range driven by growth spurts, sex, and activity level |
 | Iron | 8 to 10mg/day; pre-pubescent growth increases demand |
-| Calcium | 1,300mg/day from age 9 onward (AAP/WHO); peak window for bone mass accumulation |
+| Calcium | 1,000mg/day ages 4–8; **1,300mg/day from age 9** (US IOM/NASEM RDA — note that WHO and some national bodies set lower targets). Peak window for bone mass accumulation |
 | Vitamin D | 600 IU per day minimum; deficiency is common in higher-latitude regions |
 | Omega-3 fatty acids | 2 fish meals per week; supports continued brain maturation |
 | Protein | Approximately 20 to 34g/day depending on age and growth phase |

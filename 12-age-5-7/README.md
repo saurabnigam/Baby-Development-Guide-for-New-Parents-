@@ -112,9 +112,9 @@ Children are developing academic skills, sports competence, and rule-based strat
 
 | Toy / Material | Why It Helps |
 |----------------|-------------|
-| Board games (Uno, Sequence Junior, simple chess) | Strategy, working memory, managing frustration and sportsmanship |
+| Board and card games with real strategy — including beginner chess and draughts | Strategy, working memory, managing frustration and sportsmanship |
 | Early chapter books and reader series | Reading fluency, independence, comprehension, empathy |
-| LEGO sets or magnetic construction systems | Spatial reasoning, multi-step planning, creative engineering |
+| Interlocking bricks or magnetic construction systems | Spatial reasoning, multi-step planning, creative engineering |
 | Beginner science kits (chemistry sets, growing kits) | Hypothesis testing, curiosity, process thinking |
 | Sports equipment (ball, bat, jump rope, hula hoop) | Motor skills, coordination, team and solo physical play |
 | Art supplies (watercolor, modeling clay, collage) | Creativity, fine motor, emotional processing |
@@ -152,6 +152,32 @@ Children often appear inattentive or irritable when they are under-slept, hungry
 | Ultra-processed snacks and high-sugar cereals | Reduce intake; they displace higher-nutrient foods and blunt appetite |
 
 Children who eat breakfast before school show measurably better attention, memory, and mood through the morning. Breakfast protein is particularly linked to sustained concentration.
+
+---
+
+## Sleep, Screens & Movement at School Age
+
+The three things that most affect how a 5-to-7-year-old copes with school, and the three most likely to quietly deteriorate once school starts.
+
+**Sleep: 9–12 hours in 24, and the wake time matters more than the bedtime.** School-age children who are short on sleep rarely look sleepy — they look inattentive, irritable, impulsive, or "hyperactive." If your child's behaviour deteriorated when school started, count backwards from the wake time before concluding anything else. Work out what time they need to sleep and set bedtime from there.
+
+**Screens.** The shift at this age is from time limits to habits: no screens in the last hour before bed, devices charging outside the bedroom, no screens at meals, and outdoor play before entertainment media. See [Module 18](../18-screen-time-technology/README.md).
+
+**Movement.** At least an hour of moderate-to-vigorous activity a day, and it is not a nice-to-have — physical activity in this age group is associated with better attention, mood, and academic outcomes. A child who has sat still all day needs to move *before* homework, not after.
+
+**Water competence.** Ages 5–7 is when most children can achieve real water competence, and drowning risk shifts from "unsupervised access" to "overestimating ability." If your child hasn't had swim lessons, this is the window. See [Module 23, Part 3](../23-life-skills-critical-moments/README.md#part-3-water--swimming).
+
+---
+
+## Parent Behaviors That Matter Most
+
+- **Connection before correction**, especially in the first 20 minutes after school — a decompression buffer with food, movement, and no questions works better than an interrogation
+- Ask about **effort and difficulty**, not marks: "what was hard today?" beats "what did you get?"
+- Let them experience the natural consequence of forgotten homework and forgotten kit — the teacher is a better teacher of this than you are
+- Don't do it for them because it's faster. This is the year that habit sets for a decade
+- Model mistakes out loud: "I got that wrong. Let me try again."
+- Protect unstructured play. It doesn't stop being developmentally essential because school started
+- Stay in contact with the teacher before there's a problem, not only after
 
 ---
 

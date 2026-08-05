@@ -128,10 +128,10 @@ Children are developing rule-bound thinking, pre-academic skills, and growing ph
 
 | Toy / Material | Why It Helps |
 |----------------|-------------|
-| Board games with simple rules (Uno Junior, Snakes and Ladders) | Rule-following, working memory, managing wins and losses |
+| Board and card games with simple rules — matching, roll-and-move, colour/number games | Rule-following, working memory, managing wins and losses |
 | Alphabet and letter puzzles or foam letter sets | Letter recognition, phonological awareness |
 | Number games and counting sets | Number sense, early arithmetic, pattern recognition |
-| LEGO Duplo or beginning LEGO sets | Planning, spatial thinking, perseverance through multi-step building |
+| Interlocking building bricks (chunky, then standard size) | Planning, spatial thinking, perseverance through multi-step building |
 | Art and craft kits (papier-mâché, bead threading, clay) | Fine motor mastery, sequencing, creative expression |
 | Outdoor equipment (soft bat and ball, hoop, jump rope) | Gross motor coordination, bilateral movement, social play |
 | Beginner science kits (magnets, growing seeds, simple experiments) | Curiosity, observation, hypothesis testing |

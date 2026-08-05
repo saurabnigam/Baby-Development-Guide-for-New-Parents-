@@ -10,11 +10,9 @@ This guide is for parent education, not a substitute for your pediatrician. Use 
 
 ---
 
-## What Changed in This Verified Version
+## The Short Version
 
-This module has been rechecked against current CDC, AAP/HealthyChildren, and WHO guidance as of May 2026.
-
-Important corrections and practical updates:
+If you read nothing else in this module:
 
 - From 3 to about 6 months, breast milk or iron-fortified formula remains the baby's food. Do not start solids just to improve sleep.
 - CDC, AAP, and WHO guidance centers complementary foods around about 6 months, when the baby shows readiness signs. Foods before 4 months are not recommended.

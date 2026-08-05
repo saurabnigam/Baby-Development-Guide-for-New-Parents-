@@ -152,20 +152,33 @@ Babies are sitting, reaching bilaterally, and exploring with purpose. Materials 
 
 ### Allergen Introduction
 
-Current evidence supports introducing common allergens around the time solids begin, especially in infancy rather than delaying unnecessarily, unless your pediatrician or allergist advises otherwise.
+Current evidence supports introducing common allergens **early**, around the time solids begin, rather than delaying — delay is associated with *higher*, not lower, allergy rates.
 
-Common examples:
-- Peanut in safe form
-- Egg
-- Dairy
-- Wheat
-- Soy
+The common allergens (the US "top 9"):
+
+- **Peanut** — thinned smooth peanut butter or peanut powder mixed into puree. **Never whole nuts or thick globs**
+- **Egg** — well-cooked **whole** egg, mashed or pureed. Yolk alone is not enough for allergen purposes
+- **Dairy** — yoghurt or cheese (cow's milk as a *drink* still waits until 12 months)
+- **Wheat**, **Soy**, **Sesame** (thinned tahini), **Tree nuts** (smooth butters, thinned), **Fish**, **Shellfish**
+
+**How to do it safely:**
+
+1. Only after your baby has tolerated a few basic first foods
+2. **One new allergen at a time**, with a few days between new ones
+3. Start with a very small amount — a quarter-teaspoon — and increase over the next days if there's no reaction
+4. **At home, earlier in the day**, when you can watch them for a few hours and reach help if needed
+5. **Keep it in the diet regularly** — roughly twice a week — once introduced. Tolerance can be lost if a food is dropped
+6. **Talk to your paediatrician or an allergist first** if your baby has severe eczema, an existing food allergy, or a strong family history. Some babies need a supervised introduction
+
+**Signs of a reaction:** hives, swelling around the mouth or eyes, vomiting, sudden widespread rash, or — urgently — difficulty breathing, wheezing, or floppiness. **Any breathing difficulty or collapse is an emergency: call emergency services immediately.** Mild rash around the mouth from acidic foods is usually contact irritation, not allergy.
 
 ### Safety Notes
 
-- Avoid choking hazards
-- Always supervise eating
-- Avoid honey before 12 months
+- **Choking hazards to avoid entirely at this age:** whole nuts, whole grapes and cherry tomatoes (quarter them lengthways), popcorn, raw hard carrot or apple, chunks of meat or cheese, hard sweets, marshmallows, thick globs of nut butter
+- **Always supervise eating.** Baby sits upright, at a table or high chair — never lying down, never in a moving car or pram
+- **Never leave a baby alone with food**, and never prop a bottle
+- **Learn infant choking response and CPR.** Take an in-person class. Knowing the difference between gagging (noisy, self-resolving, normal and frequent at this age) and choking (silent, no air moving) matters, and it is far easier to learn in a room than from a page
+- Avoid honey before 12 months — botulism risk
 - Use responsive feeding: do not pressure, trick, or force bites
 
 ### Nutrition Milestones: 6 to 9 Months
@@ -175,11 +188,11 @@ Common examples:
 | First complementary foods | Around 6 months; not before 4 months |
 | Starting portion size | 1 to 2 teaspoons once daily, building gradually |
 | Meals per day by 8 months | 2 to 3 small meals alongside milk feeds |
-| Priority first foods | Iron-rich: pureed meats, iron-fortified cereal, lentils, egg yolk |
+| Priority first foods | Iron-rich: pureed meats, iron-fortified cereal, lentils and beans, well-cooked **whole** egg (not yolk alone), tofu |
 | Texture progression | Smooth puree → lumpier mash → soft mashed pieces by 8 to 9 months |
 | Breast milk or formula | Still primary nutrition source; solids complement, not replace |
 | Vitamin D | Continue 400 IU per day if breastfed |
-| Common allergens | Introduce in this window; peanut, egg, dairy, wheat, soy |
+| Common allergens | Introduce in this window: peanut, egg, dairy, wheat, soy, sesame, tree nuts, fish, shellfish. One at a time, small amounts, at home, then keep in the diet |
 | Avoid | Honey, whole grapes, whole nuts, added salt, added sugar |
 
 Expect mess, refusal, and strange faces. These are normal steps in the process, not signs of failure. Repeated calm exposure builds acceptance better than pressure.

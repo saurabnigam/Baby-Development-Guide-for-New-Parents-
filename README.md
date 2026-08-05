@@ -4,13 +4,17 @@
 >
 > A comprehensive, evidence-based guide grounded in developmental psychology, neuroscience, and nutritional science. Empowering parents with the knowledge, activities, and confidence to support their child's cognitive and emotional growth during the most critical years of brain development.
 
+> ⚕️ **This is parent education, not medical advice.** Please read the [Disclaimer](DISCLAIMER.md) — it takes two minutes and includes what to do in an emergency.
+
 ---
 
 ## Why This Guide Exists
 
-**90% of brain development happens before age 5.** By the time your child starts school, their brain has already formed over 1 million neural connections per second during peak development (Harvard Center on the Developing Child, 2024). The experiences, nutrition, and emotional environment you provide during these early years literally shape the architecture of your child's brain.
+**In the first years of life, a child's brain forms new neural connections at a rate of roughly a million per second** (Harvard Center on the Developing Child). The experiences, nutrition, and emotional environment you provide during these years genuinely shape the architecture of your child's brain.
 
-Yet most parents feel lost. Conflicting advice, social media pressure, and information overload make it hard to know what actually matters. This guide cuts through the noise with clear, research-backed guidance organized by your child's exact developmental stage.
+You may have heard that "90% of brain development happens before age 5." That claim is a misreading — what reaches ~90% by age 5 is brain **volume**. Myelination, synaptic refinement, and the prefrontal systems behind judgement and self-control keep developing into the mid-20s. The early years matter enormously. **They are not a closing door.** If you are reading this with a seven-year-old, or a fourteen-year-old, you have not missed anything.
+
+Most parents feel lost anyway. Conflicting advice, social media pressure, and information overload make it hard to know what actually matters. This guide tries to cut through that — including by telling you when a popular claim is weaker than it sounds.
 
 ---
 
@@ -73,6 +77,17 @@ Yet most parents feel lost. Conflicting advice, social media pressure, and infor
 | [19](19-common-challenges/README.md) | Common Challenges & Solutions | 2 hrs | Troubleshooting |
 | [20](20-resources-faq/README.md) | Resources, FAQ & Further Reading | 2 hrs | Reference library |
 
+### Part 6: Teaching Modules — How to Actually Build It (17 hours)
+
+The modules above tell you *what emerges and when*. These four tell you *what to do about it*. They are skill-teaching modules, written to be used at any age.
+
+| Module | Title | Time | What it teaches |
+|--------|-------|------|-----------------|
+| [21](21-building-eq/README.md) | **Building EQ** — Regulation, Empathy & Patience | 4 hrs | The five rungs of emotional intelligence, in the order they have to be built. Scripts for meltdowns, the four-step empathy skill, the three sub-skills of patience, and repair |
+| [22](22-building-iq/README.md) | **Building IQ** — Curiosity, Focus & Thinking | 4 hrs | Conversational turns, dialogic reading, attention training, executive function games, number sense — and an honest list of what doesn't work |
+| [23](23-life-skills-critical-moments/README.md) | **Life Skills & Critical Moments** | 5 hrs | The universal teaching loop, plus swimming and water safety, roads, cycling, knives and fire, body safety and consent, money, chores, and emergencies |
+| [24](24-behaviour-and-discipline/README.md) | **Behaviour & Discipline** — Teaching, Not Punishing | 4 hrs | One coherent behaviour model, a playbook for tantrums / hitting / whining / lying / siblings, and a full section on food and mealtime behaviour |
+
 ---
 
 ## How to Use This Guide
@@ -86,12 +101,22 @@ Start with Part 1 (Foundation & Science) to understand how brain development wor
 ### 📍 If You Want the Quick Version
 Each module has a **"Key Takeaways"** box at the top and **"5-Minute Action Plan"** at the bottom. Read those first.
 
-### 📍 If You Want a More Structured Parent Program
-Use the [Parent Toolkit](parent-toolkit/README.md). It turns the course into a more guided format with:
+### 📍 If You Have a Specific Question
+Some things don't live in an age module. Jump straight to:
 
-- [Lesson Objectives by Module](parent-toolkit/lesson-objectives.md)
-- [Parent Checklists](parent-toolkit/parent-checklists.md)
-- [Worksheets and Trackers](parent-toolkit/worksheets.md)
+| "How do I…" | Go to |
+|-------------|-------|
+| …handle tantrums, hitting, lying, whining, sibling fights | [Module 24](24-behaviour-and-discipline/README.md#part-6-the-playbook) |
+| …teach my child to swim / keep them safe around water | [Module 23, Part 3](23-life-skills-critical-moments/README.md#part-3-water--swimming) |
+| …teach empathy | [Module 21, Part 2](21-building-eq/README.md#part-2-empathy--the-four-step-skill) |
+| …teach patience and stop the giving-up | [Module 21, Part 3](21-building-eq/README.md#part-3-patience--three-skills-not-one) |
+| …handle mealtimes, picky eating, and food battles | [Module 24, Part 7](24-behaviour-and-discipline/README.md#part-7-food--mealtime-behaviour) |
+| …teach *any* skill — the method | [Module 23, Part 1](23-life-skills-critical-moments/README.md#part-1-the-teaching-loop) |
+| …talk about body safety and consent | [Module 23, Part 7](23-life-skills-critical-moments/README.md#part-7-body-safety--consent) |
+| …build attention span and curiosity | [Module 22](22-building-iq/README.md) |
+| …know what's safe for sleep | [Module 16](16-sleep-and-development/README.md#safe-sleep-for-infants--non-negotiable-first) |
+| …get through a night when the baby won't stop crying | [Module 03](03-newborn-0-3-months/README.md#read-this-first-when-the-crying-wont-stop) |
+| …help a teenager I'm worried about | [Module 14](14-age-12-18/README.md#if-you-are-worried-about-suicide-or-self-harm) |
 
 ---
 
@@ -103,6 +128,8 @@ If you want to use this guide like a structured program instead of a reference l
 - [Lesson Objectives by Module](parent-toolkit/lesson-objectives.md)
 - [Parent Checklists](parent-toolkit/parent-checklists.md)
 - [Worksheets and Trackers](parent-toolkit/worksheets.md)
+- [**EQ & IQ Skills Tracker**](parent-toolkit/eq-iq-skills-tracker.md) — quarterly review of the five EQ rungs and six cognitive habits
+- [**Life Skills Tracker**](parent-toolkit/life-skills-tracker.md) — introduced / with help / alone / unprompted, across every skill in Module 23
 
 This gives parents a practical layer on top of the course: what to focus on, what to observe, and what to do next.
 
@@ -127,21 +154,27 @@ No toy, app, or program can replace a responsive, loving parent. You don't need 
 ## The Science at a Glance
 
 ```
-Birth ─────────────────────────────────────────────── Age 18
-  │                                                       │
-  ▼                                                       ▼
-  ┌─────────────────────────────────────────────────────┐
-  │  BRAIN DEVELOPMENT INTENSITY                         │
-  │                                                       │
-  │  ████████████████████░░░░░░░░░░░░   Sensory (0-2)   │
-  │  ███████████████████████░░░░░░░░░   Language (0-5)   │
-  │  █████████████████████████░░░░░░░   Higher Cognitive │
-  │  ████████████████████████████████   Emotional (0-18) │
-  │                                                       │
-  │  Peak synaptic density: ~2 years                     │
-  │  Critical windows: 0-3 sensory, 0-5 language         │
-  │  Pruning begins: ~3 years (use it or lose it)        │
-  └─────────────────────────────────────────────────────┘
+Birth ─────────────────────────────────────────────── Age 18 ──── Mid-20s
+  │                                                       │           │
+  ▼                                                       ▼           ▼
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  BRAIN DEVELOPMENT INTENSITY                                     │
+  │                                                                   │
+  │  ████████████████████░░░░░░░░░░░░░░░   Sensory (0-2)            │
+  │  ███████████████████████░░░░░░░░░░░░   Language (0-5, peak 0-3) │
+  │  █████████████████████████░░░░░░░░░░   Higher cognitive (2-12)  │
+  │  ████████████████████████████████████  Emotional (0-18+)        │
+  │  ░░░░░░░░████████████████████████████  Executive function (3-25)│
+  │                                                                   │
+  │  Peak synaptic density: VARIES BY REGION — visual cortex within  │
+  │    the first year, prefrontal cortex several years later         │
+  │  Sensitive windows: 0-3 sensory, 0-5 language                    │
+  │  Pruning: follows each region's own peak, into adolescence       │
+  └─────────────────────────────────────────────────────────────────┘
+
+  This is an illustration of relative intensity, not measured data.
+  Most windows are SENSITIVE, not CRITICAL — earlier is easier,
+  but later is not too late.
 ```
 
 ---

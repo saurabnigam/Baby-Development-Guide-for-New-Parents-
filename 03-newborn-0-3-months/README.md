@@ -14,6 +14,53 @@
 
 ---
 
+## Read This First: Safe Sleep
+
+This is the highest-risk window for sudden unexpected infant death, and safe sleep is the single most protective thing you will do in these three months. It takes 30 seconds to set up and it applies to **every** sleep — naps, night, at home, at grandparents', anywhere.
+
+### The ABCs
+
+- **A**lone — nothing else in the sleep space. No pillows, blankets, bumpers, positioners, wedges, or soft toys
+- **B**ack — on the back, every single sleep, until they can roll both ways on their own
+- **C**rib — a firm, flat, **non-inclined** surface with a fitted sheet only
+
+### And
+
+- **Room-share without bed-sharing.** Baby sleeps in your room, on their own separate surface, ideally for at least the first 6 months. Room-sharing reduces risk substantially; bed-sharing increases it — and increases it sharply if anyone in the bed smokes, has been drinking or using sedating medication, or is extremely sleep-deprived, or if the surface is a sofa or armchair.
+- **Never sleep with a baby on a sofa or armchair.** This is one of the highest-risk situations there is. If you're feeding at night and feel you might doze off, feed in bed with the area cleared rather than on the sofa — it is the safer of two imperfect options.
+- **Don't overheat.** Dress them in one more layer than you'd be comfortable in, not three. No hats indoors. Keep the head uncovered.
+- **Move them after they fall asleep elsewhere.** Car seats, swings, carriers, and your arms are not safe sleep surfaces. Transfer as soon as it's practical.
+- **Stop swaddling** the moment they show any sign of trying to roll. A swaddled baby who rolls onto their front cannot get back.
+- **Offer a pacifier** at sleep once feeding is established, if you want to — it's associated with reduced risk. Don't force it, and don't re-insert it once they're asleep.
+- **A smoke-free environment**, in pregnancy and after, is one of the biggest modifiable factors.
+
+If your baby has reflux, prematurity, or any medical condition, ask your paediatrician before deviating from any of this — the answer is almost always still "back to sleep."
+
+---
+
+## Read This First: When the Crying Won't Stop
+
+Crying peaks around 6 to 8 weeks. That is normal, and it is also the point at which more parents than anyone admits reach the absolute end of their rope at 3am. Please read this before you need it.
+
+**It is always safe to put your baby down and walk away.**
+
+If you feel yourself getting angry, desperate, or out of control:
+
+1. Put the baby down on their back in the crib. **A crying baby in a safe crib is completely fine.**
+2. Leave the room. Close the door. Set a timer for 5 or 10 minutes.
+3. Breathe, drink water, step outside, call someone.
+4. Go back when you are calmer.
+
+Nothing bad happens to a baby who cries alone in a safe space for ten minutes. Something catastrophic can happen to a baby who is shaken.
+
+**Never shake a baby.** Shaking — even briefly, even out of desperation rather than anger — can cause bleeding in the brain, permanent brain injury, blindness, or death. There is no safe amount. This is not about being a bad parent; it happens to exhausted, loving people who reached a limit they didn't know they had.
+
+Tell whoever else cares for your baby the same thing, explicitly, including grandparents, partners, and any babysitter: *"If she won't stop crying, put her down in the cot and step out. Call me. Never shake her."*
+
+If you are having thoughts of harming your baby or yourself, or you feel nothing at all toward your baby, that is a medical situation and it is treatable. Call your doctor, midwife, or health visitor today. In the US you can also call or text **988**.
+
+---
+
 ## What Is Happening in the Brain
 
 During the first 12 weeks, the brain is rapidly organizing sensory pathways for sight, sound, touch, smell, and movement. Newborns are not passive. They are collecting patterns: your face, your smell, your voice, the rhythm of feeding, the feeling of being soothed.
@@ -138,6 +185,11 @@ At this stage, babies do not need toys in the traditional sense. The most powerf
 
 **Key principle:** Faces, singing, and touch do more brain work at this stage than any object. Use objects only during calm alert windows and never as substitutes for interaction.
 
+**Safety notes for this table:**
+- A **mobile** must be well out of reach and **removed by around 5 months**, or as soon as your baby can push up on hands and knees — whichever comes first. Anything hanging over a crib becomes a strangulation risk once a baby can reach it.
+- Nothing on this list goes into the crib for sleep. Toys, mirrors, and teethers are for supervised awake time only. The sleep space stays empty.
+- Check every item for small parts, loose fibres, long ribbons, and cords. Cords longer than about 20 cm do not belong anywhere near a baby.
+
 ---
 
 ## Nutrition Guidance for 0 to 3 Months
@@ -168,9 +220,9 @@ At this stage, babies do not need toys in the traditional sense. The most powerf
 | Daily feeds (breastfed) | 8 to 12 feeds per 24 hours |
 | Daily feeds (formula) | Every 3 to 4 hours; approximately 60 to 90ml per feed early on |
 | Wet diapers from day 5 onward | 6 or more per day signals adequate intake |
-| Vitamin D | 400 IU per day recommended for breastfed infants from birth or within the first 2 weeks |
+| Vitamin D | 400 IU per day recommended for breastfed and partially breastfed infants from birth or within the first 2 weeks |
 | No water or juice | Unnecessary and unsafe before 6 months |
-| Iron | Iron-fortified formula meets infant needs; breastfed infants may need supplemental iron screening by 4 months |
+| Iron | Iron-fortified formula meets infant needs. For exclusively or partially breastfed infants, AAP recommends **oral iron of about 1 mg/kg/day starting at 4 months**, continuing until iron-rich solids are established. Ask at the 4-month visit; do not self-prescribe |
 
 Watch for: poor weight gain, very long feeding gaps, fewer than 6 wet diapers per day after the first week, or persistent feeding pain. These warrant prompt pediatrician review.
 
@@ -185,6 +237,19 @@ Watch for: poor weight gain, very long feeding gaps, fewer than 6 wet diapers pe
 - Ask for support if you feel persistently sad, numb, anxious, or overwhelmed
 
 Parental mental health is a developmental variable, not a side issue. Postpartum depression and anxiety can reduce responsiveness, but treatment and support are highly effective.
+
+---
+
+## Other Safety Essentials for This Stage
+
+- **Car seat.** Rear-facing, correctly installed, every single journey including the one home from hospital. Straps flat and snug — two fingers under the strap at the collarbone. No bulky coats under the harness. A large share of car seats are installed incorrectly; if a free inspection service exists locally, use it.
+- **Learn infant CPR and choking response.** Take an in-person class before you need it. This is one of the highest-value hours a new parent can spend, and the window in a real emergency is measured in minutes.
+- **Never leave a baby unattended on any raised surface** — changing table, bed, sofa, counter. Keep one hand on them, always. Newborns can move more than you expect.
+- **Bath:** never leave them, not for a second, not for the doorbell. A baby can drown in a few centimetres of water. Take them with you.
+- **Water temperature:** test with your elbow or wrist, not your hand. Set your home water heater to a safe maximum if you can.
+- **No pillows, cot bumpers, sleep positioners, or inclined sleepers** — including products marketed as safe. Several have been recalled after infant deaths.
+- **Smoke alarms** tested and working.
+- **Everyone who holds your baby supports the head and neck**, and nobody carries hot drinks while holding them.
 
 ---
 

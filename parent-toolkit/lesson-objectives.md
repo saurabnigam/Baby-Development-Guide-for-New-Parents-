@@ -192,11 +192,64 @@ By the end of this module, parents should be able to:
 
 ---
 
+## Teaching Modules
+
+These four are skill-teaching rather than stage-describing. They apply at any age.
+
+### Module 21: Building EQ — Regulation, Empathy & Patience
+
+By the end of this module, parents should be able to:
+
+- name the five rungs of emotional intelligence and identify which one their child is actually on
+- run a 90-second regulation script during a meltdown without teaching or explaining
+- diagnose which of the four empathy steps (notice / name / wonder / act) is failing, and teach that step
+- distinguish the three sub-skills of patience and practise each one separately
+- repair after they themselves get it wrong, and teach their child to repair
+- know what to do if a child or teenager talks about self-harm
+
+### Module 22: Building IQ — Curiosity, Focus & Thinking
+
+By the end of this module, parents should be able to:
+
+- explain why conversational turns matter more than word count, and sustain a five-turn exchange
+- use dialogic reading instead of reading aloud at a child
+- protect and extend attention span by protecting deep play and finishing things
+- choose executive-function games matched to their child's current level
+- give strategy-focused rather than trait-focused praise
+- name the popular interventions that don't work, and why
+
+### Module 23: Life Skills & Critical Moments
+
+By the end of this module, parents should be able to:
+
+- apply the five-step teaching loop to any skill
+- explain why a child's skill is the *last* layer of protection, not the first
+- teach water competence with the correct age gates, and build the full layers of drowning prevention
+- teach road safety with realistic expectations of what a child under 10 can perceive
+- teach knife, fire, and kitchen skills safely and early
+- deliver body-safety and consent education in age-appropriate pieces, little and often
+- know what their child should be able to do in an emergency at each age
+
+### Module 24: Behaviour & Discipline — Teaching, Not Punishing
+
+By the end of this module, parents should be able to:
+
+- run the behaviour equation (capacity + state + skill + payoff) before responding
+- use the three-part response: stop, connect, **teach the replacement**
+- set a limit that holds, and distinguish natural from logical consequences
+- explain why physical punishment fails, and what the evidence says
+- respond to tantrums, hitting, whining, lying, backchat, and sibling conflict with a consistent model
+- teach mealtime behaviour without pressure, and explain why "one more bite" backfires
+
+---
+
 ## Suggested Teaching Sequence
 
 If you are turning this into a workshop, cohort, or self-study program, use this order:
 
 1. Modules 00 to 02 first
 2. The current age module next
-3. Modules 15 to 19 as support layers
-4. Module 20 as the long-term reference section
+3. Modules 21 and 24 — the two highest-yield teaching modules for almost every parent
+4. Modules 15 to 19 as support layers
+5. Modules 22 and 23 as the skill-building layer
+6. Module 20 as the long-term reference section

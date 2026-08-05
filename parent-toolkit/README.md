@@ -51,6 +51,18 @@ It gives you:
 - a family media plan template
 - a parent self-check page
 
+### 4. [EQ & IQ Skills Tracker](eq-iq-skills-tracker.md)
+
+Companion to [Module 21](../21-building-eq/README.md) and [Module 22](../22-building-iq/README.md). A **quarterly** review of the five EQ rungs (regulation → awareness → empathy → patience → repair) and the six buildable cognitive habits.
+
+Use it to notice growth you'd otherwise miss, and to work out which rung to focus on next. Not a weekly scorecard — these move over seasons.
+
+### 5. [Life Skills Tracker](life-skills-tracker.md)
+
+Companion to [Module 23](../23-life-skills-critical-moments/README.md). Every skill from swimming to shoelaces to budgeting, tracked across four columns: *introduced → with help → alone → unprompted.*
+
+Includes the safety-critical skills (marked ⚠), emergency knowledge, body-safety concepts, and a parent's own checklist — CPR training, pool fencing, car seat, button batteries.
+
 ---
 
 ## Fastest Ways to Use This Toolkit

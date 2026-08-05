@@ -130,7 +130,7 @@ Your baby is crawling, pulling up, cruising, and developing a pincer grasp. Mate
 |----------------|-------------|
 | Simple shape sorter (3 to 4 large shapes) | Visual-motor matching, problem-solving, persistence |
 | Stacking rings on a post | Sequencing, hand-eye coordination, early ordering |
-| Push-along walker or wagon | Gross motor confidence, spatial navigation, loading items |
+| **Push-along** walker or wagon (stable, weighted) | Gross motor confidence, spatial navigation, loading items |
 | Board books with single clear words and pictures | Pointing, naming, joint attention, vocabulary |
 | Soft balls and basket | Rolling, throwing, social back-and-forth games |
 | Drop-in container toy (balls through a hole) | Fine motor, cause-effect, filling and emptying |
@@ -139,6 +139,15 @@ Your baby is crawling, pulling up, cruising, and developing a pincer grasp. Mate
 | Drum or simple shaker | Rhythm, cause-effect, shared music making |
 
 **Key principle:** Toys that reward clear action (shapes go in, balls roll through) match this stage's drive for cause-and-effect discovery. Frustration is fine if short; abandon or simplify before your baby becomes overwhelmed.
+
+> **"Push walker" vs "baby walker" — these are two completely different things, and one of them is dangerous.**
+>
+> - ✅ A **push-along walker or wagon** is a toy your baby stands *behind* and pushes, feet on the floor, at their own pace. It supports emerging walking and is fine. Choose one that is weighted or resistant so it doesn't shoot away.
+> - ❌ A **sit-in baby walker** — the wheeled frame a baby sits inside — is what [Module 04](../04-infant-3-6-months/README.md) warns against. These are associated with thousands of injuries a year (falls down stairs, reaching hot or dangerous items, tip-overs), are **banned in Canada**, and do not help babies learn to walk. If anything they slightly delay it.
+>
+> The same distinction applies to stationary "activity centres" and jumpers: safer than sit-in walkers, but they hold a baby in a position they can't get into themselves, so keep the time short and prioritise floor play.
+
+**Safety for this stage generally:** now that your baby is mobile, redo your home safety sweep at floor level — literally crawl around and look. Stair gates, cupboard latches on anything with cleaning products or medications, furniture and TVs anchored to walls, blind cords secured or cut short, and **button/coin-cell batteries locked away** (they cause severe internal burns within hours and are a medical emergency). Buckets, toilets, and pet bowls are drowning hazards for a child this age — see [Module 23, Part 3](../23-life-skills-critical-moments/README.md#part-3-water--swimming).
 
 ---
 
@@ -171,7 +180,7 @@ Your baby is crawling, pulling up, cruising, and developing a pincer grasp. Mate
 | Finger food readiness | Soft, small pieces manageable with pincer grasp: banana, soft cooked carrot, small pasta |
 | Portion per meal | Approximately 2 to 4 tablespoons per food type offered |
 | Iron | 11mg/day; daily iron-rich food essential as breast-milk iron is declining |
-| Calcium | 270mg/day; achieved through breast milk, formula, yogurt, or cheese |
+| Calcium | ~260mg/day (Adequate Intake, 7–12 months); achieved through breast milk, formula, yogurt, or cheese |
 | Water | Small amounts (60 to 120ml) offered in a cup at meals |
 | Vitamin D | Continue 400 IU per day if breastfed |
 | No honey | Until after 12 months without exception |

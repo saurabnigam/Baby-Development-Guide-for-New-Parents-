@@ -16,12 +16,14 @@ Parents are overwhelmed by conflicting advice about child development. Most reso
 
 ## Success Metrics
 
-| Metric | Target |
-|--------|--------|
-| Clarity score | Parents can explain any module's key concepts to another parent |
-| Actionability | Every module contains ≥5 specific activities parents can do today |
-| Scientific backing | Every major claim links to peer-reviewed research |
-| Comprehensiveness | Covers birth → 18 years with 70% weight on 0–5 years |
+| Metric | Target | Status |
+|--------|--------|--------|
+| Clarity score | Parents can explain any module's key concepts to another parent | Met |
+| Actionability | Every module contains ≥5 specific activities parents can do today | Met |
+| Scientific backing | Every major claim links to peer-reviewed research | **Not met** — see [RED-TEAM-REVIEW.md](RED-TEAM-REVIEW.md) C4 |
+| Comprehensiveness | Covers birth → 18 years with 70% weight on 0–5 years | **Not met** — actual weight ~55%, see C9 |
+| Safety | No safety-critical omission in any module | Tracked in [TRACKER.md](TRACKER.md) |
+| Honesty | Where a popular claim is weaker than it sounds, the guide says so | Added — see B-series in the red team review |
 
 ## Course Structure
 
@@ -65,6 +67,14 @@ Essential knowledge that applies across all stages.
 - **18** Screen Time & Technology
 - **19** Common Challenges & Solutions
 - **20** Resources, FAQ & Further Reading
+
+### Part 6: Teaching Modules (4 modules)
+Parts 1–5 describe what develops and when. Part 6 teaches parents how to build it. These apply at any age.
+
+- **21** Building EQ — Regulation, Empathy & Patience
+- **22** Building IQ — Curiosity, Focus & Thinking
+- **23** Life Skills & Critical Moments (teaching loop; swimming and water safety, roads, cycling, kitchen and knives, body safety and consent, money, chores, emergencies)
+- **24** Behaviour & Discipline — Teaching, Not Punishing (including food and mealtime behaviour)
 
 ## Principles
 

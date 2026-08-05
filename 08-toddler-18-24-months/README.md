@@ -171,6 +171,7 @@ Toddlers often look “behavioral” when they are actually:
 - constipated
 - overstimulated
 - under-moved
+
 ### Nutrition Milestones: 18 to 24 Months
 
 | Marker | Typical Range |
@@ -186,6 +187,11 @@ Toddlers often look “behavioral” when they are actually:
 | Family meals | Eating together and modeling variety is more effective than any pressure tactic |
 
 Constipation is especially common in this stage. Adequate fluids, movement, and fiber-rich foods prevent most cases. Persistent constipation warrants pediatrician input.
+
+**Drinks at this age:** water and milk. Cap cow's milk at about 2 cups (480ml) a day — more than that displaces iron-rich food and is a common cause of toddler iron deficiency. **Juice: 4 oz (120ml) a day maximum, and none is better** — it delivers sugar without the fibre of whole fruit and is a leading contributor to dental caries in this age group. No sweetened drinks, no caffeine.
+
+**Mealtime behaviour** at this age — sitting, throwing food, getting up mid-meal, refusing everything — is covered in [Module 24, Part 7](../24-behaviour-and-discipline/README.md#part-7-food--mealtime-behaviour).
+
 ---
 
 ## Parent Behaviors That Matter Most

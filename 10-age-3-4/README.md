@@ -134,7 +134,7 @@ Imaginative play is rich and cooperative play is emerging. Materials should supp
 | Art supplies (paint, scissors, glue, collage materials) | Creativity, fine motor control, planning and sequencing |
 | Pretend play sets (doctor kit, supermarket, tool set) | Role play, social understanding, vocabulary building |
 | Magnetic tiles or wooden building sets | Spatial reasoning, STEM thinking, persistence through complexity |
-| Simple board games (Snakes and Ladders, Candy Land) | Turn-taking, rule-following, managing disappointment gracefully |
+| Simple board games — roll-and-move, colour-matching, no reading needed | Turn-taking, rule-following, managing disappointment gracefully |
 | 12 to 24 piece puzzles | Problem-solving, visual-spatial skill, sustained focus |
 | Outdoor equipment (slide, sandbox, balance beam) | Gross motor, calibrated risk-taking, social play |
 | Musical instruments (recorder, maracas, small drum) | Rhythm, coordination, creative expression |
@@ -173,10 +173,11 @@ Children often regulate better when they have:
 | Marker | Typical Range |
 |--------|---------------|
 | Energy | Approximately 1,200 to 1,400 kcal per day |
-| Iron | 10mg/day from age 4 (RDA increases); meats, eggs, beans, fortified foods |
-| Calcium | 1,000mg/day; approximately 2 to 3 dairy or fortified-alternative servings |
+| Iron | **7mg/day at age 3; 10mg/day from age 4** (the RDA steps up at 4). Meats, eggs, beans, fortified foods |
+| Calcium | **700mg/day at age 3; 1,000mg/day from age 4.** Roughly 2 servings at 3, 2–3 from age 4 |
 | Vitamin D | 600 IU per day |
-| Protein | Approximately 13 to 19g/day |
+| Protein | Approximately 13g/day at age 3; 19g/day from age 4 |
+| Juice | 4 oz (120ml)/day maximum at age 3; up to 4–6 oz from age 4. Water is the default drink |
 | Preschool influence | Peer modeling at preschool significantly affects food acceptance and food willingness |
 | Food preparation participation | Children can now wash, stir, place items, and pour with support |
 | Sugar and ultra-processed foods | Early moderation sets taste preferences that persist; reduce without making forbidden foods |

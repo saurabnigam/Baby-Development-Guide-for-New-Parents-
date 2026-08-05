@@ -137,7 +137,7 @@ Adolescents benefit less from toys and more from access to meaningful activities
 | Iron (boys) | 11mg/day; growing muscle mass increases demand |
 | Calcium | 1,300mg/day; much of peak bone mass is established before age 20 |
 | Vitamin D | 600 to 1,000 IU per day; global deficiency is extremely common in adolescents |
-| Protein | 46g/day (girls); 52g/day (boys); active teens may need more |
+| Protein | **34g/day ages 9–13**, rising to **46g (girls) / 52g (boys) from age 14**; active teens need more |
 | Omega-3 fatty acids | Support continued prefrontal cortex development through the mid-20s |
 | Zinc | 9 to 11mg/day; supports growth, immune function, and reproductive development |
 | Disordered eating | Disordered patterns begin most often in this period; watch for restriction, purging, bingeing, or rigid food rules |
@@ -178,6 +178,53 @@ What helps:
 - Self-harm, suicidal thinking, or major risk behavior
 - Severe school refusal or social withdrawal
 - Eating concerns, substance use, or major sleep disruption
+- A marked, sustained change in mood, sleep, friendships, or functioning
+- Giving away possessions, saying goodbye, or a sudden unexplained calm after a period of despair
+
+---
+
+## If You Are Worried About Suicide or Self-Harm
+
+Adolescence is when suicide risk rises sharply, and it is the leading cause of death in this age group in many countries. Most parents feel unequipped for this conversation. Here is what actually helps.
+
+### Ask directly
+
+> "Are you thinking about hurting yourself?"
+> "Are you thinking about ending your life?"
+
+Use the actual words. Vague questions get vague answers.
+
+**Asking does not plant the idea.** This is one of the most consistently replicated findings in suicide-prevention research, and it is the fear that stops most parents from asking. Not asking leaves your teenager alone with it.
+
+### If the answer is yes, or maybe
+
+1. **Stay calm and stay with them.** Your first reaction is what they will remember, and it determines whether they ever tell you again. Panic, anger, or "how could you do this to me" ends the conversation.
+2. **Thank them for telling you.** "I'm really glad you told me. We're going to get you help. You're not in trouble and I'm not angry."
+3. **Listen more than you talk.** Don't argue them out of it, don't list reasons to live, don't minimise ("you've got so much going for you"). Those responses feel like being dismissed.
+4. **Restrict access to means — today.** Lock up or remove medications (including over-the-counter painkillers), sharp items, and, if there are firearms in the home, store them out of the house or locked with ammunition stored separately. **Means restriction is one of the most effective suicide-prevention interventions that exists.** Suicidal crises are often short-lived; putting distance and time between a person and a method saves lives.
+5. **Do not leave them alone**, and get professional help the same day — GP, paediatrician, crisis line, or emergency department.
+6. **Follow up.** One conversation is not a plan. Check in regularly, and keep checking after the crisis appears to pass.
+
+### Self-harm without suicidal intent
+
+Cutting and similar behaviours are often about regulating unbearable feelings rather than about wanting to die — but they raise risk and they are a signal that a young person has no other way to cope. Respond with calm concern, not punishment or ultimatums. Get professional help. Don't demand promises to stop; ask what the self-harm does for them, and work on giving them something that works better.
+
+### Crisis numbers
+
+| Where | Contact |
+|-------|---------|
+| **US** | **988** — Suicide & Crisis Lifeline, call or text, 24/7 |
+| **UK & ROI** | **116 123** — Samaritans, 24/7. Or text SHOUT to 85258 |
+| **India** | **14416** — Tele-MANAS, 24/7 |
+| **Canada** | **988** |
+| **Australia** | **13 11 14** — Lifeline |
+| **Anywhere** | Your local emergency number, or the nearest emergency department |
+
+Write your local numbers somewhere physical — a fridge, a wallet — not only in a phone.
+
+### Protective factors you can actually build
+
+The strongest protective factor for adolescents is **connectedness** — feeling that at least one adult knows them and is reliably in their corner. That is the thing most under your control, and it is built in ordinary, unremarkable time: driving, cooking, walking, being available at odd hours without an agenda.
 
 ---
 

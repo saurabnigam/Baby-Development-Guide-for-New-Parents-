@@ -19,12 +19,12 @@
 ### Mindset Prerequisites
 
 1. **Let go of comparison** — Your child is not competing with other babies. Social media milestones are curated highlights, not reality
-2. **Embrace "good enough"** — Research by pediatrician Donald Winnicott shows that "good enough" parenting — not perfect parenting — produces the healthiest outcomes
+2. **Embrace "good enough"** — The paediatrician and psychoanalyst Donald Winnicott coined the idea of the "good enough" parent from decades of clinical practice: children need responsiveness and repair, not perfection. Later attachment research supports the underlying point — ordinary caregiving with reliable repair is what builds security
 3. **Trust the science, trust yourself** — This guide gives you frameworks. Your instincts fill in the gaps
 
 ### Practical Prerequisites
 
-- **Pediatrician relationship** — Regular well-child visits (the AAP recommends visits at 1, 2, 4, 6, 9, 12, 15, 18, 24, and 30 months, then annually)
+- **Pediatrician relationship** — Regular well-child visits. AAP's Bright Futures schedule is a newborn visit at 3–5 days, then 1, 2, 4, 6, 9, 12, 15, 18, 24, and 30 months, then annually from age 3. Schedules vary by country — ask your own clinician what applies where you live
 - **Safe environment** — Basic childproofing appropriate to your child's current stage
 - **Observation habit** — Start noticing what your baby looks at, reaches for, reacts to. This is your most powerful developmental tool
 
@@ -107,7 +107,11 @@ A child who walks at 16 months has the same long-term motor outcomes as one who 
 ### EQ (Emotional Intelligence)
 - Self-awareness, self-regulation, empathy, social skills, motivation
 - Measured through behavioral observations and social functioning
-- Research shows EQ is a **stronger predictor of life success** than IQ (Goleman, 1995; Mayer & Salovey, 1997)
+- Predicts relationship quality, mental health, and resilience better than IQ does
+
+> **A claim we're not going to repeat.** You have probably heard that "EQ matters more than IQ" or that it accounts for most of career success. That comes from a 1995 trade book, not from the research literature, and meta-analyses don't support it — cognitive ability remains the strongest single predictor of academic and job performance, with emotional skills adding meaningful value *on top of* it rather than replacing it. The claim is also frequently attributed to Mayer & Salovey, who developed the ability model of emotional intelligence and explicitly did not make it.
+>
+> The accurate version is more useful anyway: **IQ and EQ predict different things, and each one limits how much of the other actually gets used.** And crucially — emotional skills are far more teachable than raw cognitive ability, which is why this guide spends so much time on them.
 
 ### The Critical Insight
 

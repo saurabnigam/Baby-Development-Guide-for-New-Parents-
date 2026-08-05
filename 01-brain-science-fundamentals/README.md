@@ -20,15 +20,18 @@
 
 | Fact | Detail |
 |------|--------|
-| Neurons at birth | ~100 billion (same as an adult) |
-| Synapses at birth | ~50 trillion |
-| Synapses at age 2 | ~1,000 trillion (2x adult levels) |
-| New connections | 1+ million per second in early years |
-| Brain weight at birth | 25% of adult size |
-| Brain weight at age 2 | 75% of adult size |
-| Brain weight at age 5 | 90% of adult size |
+| Neurons at birth | ~100 billion (roughly the adult number) |
+| Synapse formation | On the order of **1 million new connections per second** at peak in the early years |
+| Synaptic density | Far exceeds adult levels in early childhood, then is pruned back |
+| Brain volume at birth | ~25% of adult |
+| Brain volume at age 2 | ~75% of adult |
+| Brain volume at age 5 | ~90% of adult |
 
-*Sources: Huttenlocher, 2002; Stiles & Jernigan, 2010; Knickmeyer et al., 2008*
+*Sources: Knickmeyer et al., 2008 (volume); Huttenlocher & Dabholkar, 1997 (synaptic density); Harvard Center on the Developing Child (connection rate).*
+
+> **A note on the numbers you'll see elsewhere.** Figures like "50 trillion synapses at birth, 1,000 trillion at age two" circulate widely. They are extrapolations from **regional synaptic density measured in small numbers of post-mortem samples**, not whole-brain counts, and they should be treated as illustrations of scale rather than measurements. The direction is solid — enormous overproduction followed by pruning. The precision is not.
+>
+> **And the big one: "90% of brain development happens before age 5" is a misreading.** What reaches ~90% by age 5 is brain *volume*. Development is not volume. Myelination, synaptic refinement, and prefrontal maturation continue into the mid-20s — as the myelination timeline further down this page shows. The early years matter enormously. They are not the whole story, and if you're reading this with a seven-year-old, you have not missed the window.
 
 ### What This Means for You
 
@@ -103,7 +106,7 @@ Every serve-and-return exchange:
 | Disruption | Impact | Research |
 |-----------|--------|----------|
 | Chronic caregiver unresponsiveness | Weak neural architecture, insecure attachment | Still-Face Experiment (Tronick, 1978) |
-| Caregiver phone distraction | 50% reduction in verbal interactions | Radesky et al., 2014 |
+| Caregiver device absorption | Fewer and lower-quality verbal and non-verbal exchanges; more child bids for attention | Radesky et al., 2014 (naturalistic observation); subsequent experimental work on "technoference" |
 | Toxic stress without buffering | Cortisol damages developing neural circuits | Shonkoff et al., 2012 |
 | Institutional care (orphanages) | Significant cognitive and emotional delays | Bucharest Early Intervention Project |
 
@@ -156,7 +159,9 @@ Neuroplasticity is the brain's ability to reorganize itself by forming new neura
 
 ### The Pruning Principle: "Use It or Lose It"
 
-Starting around age 2–3, the brain begins **synaptic pruning** — eliminating connections that aren't being used to make the remaining connections stronger and more efficient.
+Following each region's peak, the brain begins **synaptic pruning** — eliminating connections that aren't being used, so the remaining ones become stronger and more efficient.
+
+**Pruning is not one event on one schedule.** Different regions peak and prune at very different times: primary visual cortex peaks within roughly the first year, auditory areas somewhat later, and prefrontal cortex not until several years in — with its pruning continuing through adolescence. Any single number for "when the brain peaks" is an oversimplification, and the diagram below is a composite illustration, not a measurement.
 
 ```
 Synaptic Density Over Time:
@@ -165,7 +170,7 @@ High  ███████████████████
       █████████████████████████
       ████████████████████████████████
       █████████████████████████████████████
-      ██████████████████████████████████         ← Peak (~age 2)
+      ██████████████████████████████████         ← Composite peak (varies by region)
       ████████████████████████████████
       ███████████████████████████
       █████████████████████████
@@ -236,7 +241,8 @@ Key findings:
 - **Maternal stress during pregnancy** can affect gene expression related to the child's stress response (Oberlander et al., 2008)
 - **Responsive caregiving** can counteract genetic predispositions to anxiety (Belsky & Pluess, 2009)
 - **Nutrition in early life** affects genes controlling metabolism for decades (Waterland & Jirtle, 2003)
-- These epigenetic changes can potentially be passed to future generations
+
+> **Where the evidence stops.** You will read that these changes are passed down to grandchildren. Transgenerational epigenetic inheritance is demonstrated in some animal models; in humans it is **not established**, and the human studies most often cited have significant confounds. Nothing you do is writing an irreversible instruction into your grandchildren's biology. Treat this as an interesting open question, not a reason for pressure.
 
 ### Practical Implication
 
@@ -285,7 +291,9 @@ Even if there's a family history of anxiety, depression, or learning difficultie
 
 *"Now I'm going to pick you up. Up we go! Let's change your diaper. I'm going to undo the snaps — one, two, three. Oh, that feels better, doesn't it? Now let's put on a clean one..."*
 
-This single habit — consistent narration — builds language circuits, strengthens serve-and-return interaction, and creates connection. Research shows children whose parents use more "child-directed speech" have significantly larger vocabularies by age 2 (Hart & Risley, 1995; Weisleder & Fernald, 2013).
+This single habit — consistent narration — builds language circuits, strengthens serve-and-return interaction, and creates connection. Children who hear more **child-directed speech** (speech aimed at them, not overheard) have significantly larger vocabularies by age 2, and process language faster (Weisleder & Fernald, 2013).
+
+> **On the "30 million word gap":** the famous Hart & Risley (1995) figure is widely repeated and has **failed to replicate** (Sperry, Sperry & Miller, 2019). It rested on 42 families and has been extensively criticised for a deficit framing of low-income and non-white families that its data didn't support. The better-supported and more actionable finding is about **conversational turns** — the back-and-forth, not the raw count (Romeo et al., 2018). See [Module 22](../22-building-iq/README.md#part-1-language--the-highest-leverage-habit).
 
 ---
 
