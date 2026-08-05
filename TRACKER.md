@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 18 | 20 | 🔄 |
-| | **Total** | **142** | **149** | **95%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 19 | 20 | 🔄 |
+| | **Total** | **144** | **149** | **97%** |
 
 ---
 
@@ -186,7 +186,7 @@ against the source this session** — never recalled.
 | 16 Sleep | ✅ | 12.3 → **8.2** | 43.3 → 60.3 | 7 | Bedtime routine works in 3 nights; sleep-training 5-year follow-up added |
 | 17 Play | ✅ | 18.0 → **7.7** | 20.8 → 62.5 | 3 | AAP play report; risky-play systematic review added (was absent) |
 | 18 Screens | ✅ | 17.4 → **7.9** | 27.3 → 63.1 | 5 | Split strong vs weak evidence; Orben 0.4% finding added |
-| 19 Challenges | ⬜ | 19.1 | 17.6 | | |
+| 19 Challenges | ✅ | 19.1 → **7.7** | 17.6 → 64.0 | 4 | Rebuilt as a router + the content that lives nowhere else; parental burnout given real weight |
 | 20 Resources | ⬜ | 11.9 | 40.2 | | |
 | 04 3–6 months | ➖ | 7.9 | 61.1 | 20 | Already at the bar. Two items flagged below |
 | 21–24 Teaching | ➖ | 7.4–8.7 | 59.9–65.8 | — | Written to this standard |
