@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 12 | 20 | 🔄 |
-| | **Total** | **129** | **149** | **87%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 13 | 20 | 🔄 |
+| | **Total** | **132** | **149** | **89%** |
 
 ---
 
@@ -180,7 +180,7 @@ against the source this session** — never recalled.
 | 10 3–4 years | ✅ | 14.6 → **7.4** | 30.0 → 65.9 | 3 | False-belief task explained (Wellman, 178 studies); peer-conflict coaching script |
 | 11 4–5 years | ✅ | 14.7 → **6.6** | 28.8 → 69.0 | 3 | Moffitt self-control gradient; Diamond & Lee's two ingredients; losing-a-game script |
 | 12 5–7 years | ✅ | 15.5 → **8.0** | 31.6 → 61.5 | 3 | Sleep as first-line check; growth-mindset claim corrected against Sisk 2018 |
-| 13 7–12 years | ⬜ | 16.1 | 19.0 | | |
+| 13 7–12 years | ✅ | 16.1 → **7.3** | 19.0 → 64.8 | 5 | Worst file in the guide. 196→300 lines; competence engine; two worked examples |
 | 14 12–18 years | ⬜ | 12.6 | 37.8 | | |
 | 15 Nutrition | ⬜ | 16.4 | 24.4 | | |
 | 16 Sleep | ⬜ | 12.3 | 43.3 | | |
@@ -229,7 +229,7 @@ The new modules 21–24 are example-dense by design. The existing age modules mo
 | ✅ | 10 3–4 yr | Scripted digger conflict with both perspectives narrated, six steps |
 | ✅ | 11 4–5 yr | Scripted losing-a-game meltdown; friendship scripts table; exclusion guidance |
 | ✅ | 12 5–7 yr | The 20-minute after-school rule, scripted; "they say they're stupid" response |
-| ⬜ | 13 7–12 yr | Scripted social-problem-solving conversation. Scripted low-confidence moment |
+| ✅ | 13 7–12 yr | Five-question social problem script; six-step low-confidence script |
 | ⬜ | 14 12–18 yr | Scripted collaborative problem-solving. Scripted "I don't want to talk about it" |
 | ⬜ | 15–19 | One worked example each |
 
@@ -265,7 +265,7 @@ Module 04 is 1,270 lines. The median age module is ~250. All are advertised as "
 | ⬜ | 10 3–4 yr | 256 | ~450 |
 | ⬜ | 11 4–5 yr | 241 | ~450 |
 | ⬜ | 12 5–7 yr | 234 | ~400 |
-| ⬜ | 13 7–12 yr | 196 | ~400 |
+| ✅ | 13 7–12 yr | **300** | done |
 | ⬜ | 14 12–18 yr | 245 | ~400 |
 
 Alternatively: trim Module 04 to match. Depth parity matters more than absolute depth — a parent of a 7-month-old should not get a fifth of what a parent of a 4-month-old gets.
