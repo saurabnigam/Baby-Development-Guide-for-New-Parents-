@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 14 | 20 | 🔄 |
-| | **Total** | **134** | **149** | **90%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 15 | 20 | 🔄 |
+| | **Total** | **136** | **149** | **91%** |
 
 ---
 
@@ -182,7 +182,7 @@ against the source this session** — never recalled.
 | 12 5–7 years | ✅ | 15.5 → **8.0** | 31.6 → 61.5 | 3 | Sleep as first-line check; growth-mindset claim corrected against Sisk 2018 |
 | 13 7–12 years | ✅ | 16.1 → **7.3** | 19.0 → 64.8 | 5 | Worst file in the guide. 196→300 lines; competence engine; two worked examples |
 | 14 12–18 years | ✅ | 12.6 → **8.3** | 37.8 → 57.6 | 4 | Add Health connectedness finding; two worked scripts. Grade sits at 8.3 — clinical vocabulary (suicidality, means restriction, circadian) is irreducible here |
-| 15 Nutrition | ⬜ | 16.4 | 24.4 | | |
+| 15 Nutrition | ✅ | 16.4 → **7.9** | 24.4 → 61.0 | 6 | Restructured around iron (Lozoff); DHA supplement claim corrected; ARFID vs picky |
 | 16 Sleep | ⬜ | 12.3 | 43.3 | | |
 | 17 Play | ⬜ | 18.0 | 20.8 | | |
 | 18 Screens | ⬜ | 17.4 | 27.3 | | |
@@ -205,12 +205,14 @@ the public). Every completed chapter is inside it.
 - **AAP's iron-at-4-months recommendation has formal internal dissent** from its
   own Section on Breastfeeding. Ch03 says so plainly. Keep that framing in
   Ch15.
-- **Nutrient DRI numbers still need one verified source table.** The NIH ODS and
-  CDC pages both block automated access, so the specific mg-per-day figures
-  scattered through modules 06–14 remain unverified. Ch06 was written without
-  them rather than repeating numbers I could not check. Getting one
-  authoritative table and reconciling every module against it is the remaining
-  half of finding B15.
+- **Nutrient DRI numbers still need one verified source table.** NIH ODS and CDC
+  both block automated access (403), retried in the Ch15 pass and still blocked.
+  The mg-per-day figures in modules 06–14 therefore remain unverified against a
+  primary source. Ch06 was written without them entirely; Ch15 now carries an
+  explicit note that these values differ between US, UK, EU and WHO and should
+  be checked with a local clinician. Obtaining one authoritative table and
+  reconciling every module against it is the remaining half of finding B15, and
+  needs a human with browser access.
 
 ---
 
