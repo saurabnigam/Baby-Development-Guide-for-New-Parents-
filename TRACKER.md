@@ -3,7 +3,7 @@
 > Status of the red-team review and content build.
 > Findings are defined in [RED-TEAM-REVIEW.md](RED-TEAM-REVIEW.md); this file tracks what's been done about them.
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-06 — chapter-by-chapter pass complete
 
 ---
 
@@ -27,11 +27,11 @@
 | **2** | P1 factual corrections | 18 | 18 | ✅ |
 | **3** | New teaching modules (the D-series) | 10 | 10 | ✅ |
 | **4** | P2 structural fixes | 6 | 10 | 🔄 |
-| **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
-| **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
-| **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 19 | 20 | 🔄 |
-| | **Total** | **144** | **149** | **97%** |
+| **5** | Examples added to existing age modules | 12 | 12 | ✅ |
+| **6** | Citations across modules 05–20 | 15 | 16 | 🔄 |
+| **7** | Depth parity across age modules | 11 | 11 | ✅ |
+| **8** | **Chapter-by-chapter rewrite pass** | 20 | 20 | ✅ |
+| | **Total** | **148** | **149** | **99%** |
 
 ---
 
@@ -187,12 +187,31 @@ against the source this session** — never recalled.
 | 17 Play | ✅ | 18.0 → **7.7** | 20.8 → 62.5 | 3 | AAP play report; risky-play systematic review added (was absent) |
 | 18 Screens | ✅ | 17.4 → **7.9** | 27.3 → 63.1 | 5 | Split strong vs weak evidence; Orben 0.4% finding added |
 | 19 Challenges | ✅ | 19.1 → **7.7** | 17.6 → 64.0 | 4 | Rebuilt as a router + the content that lives nowhere else; parental burnout given real weight |
-| 20 Resources | ⬜ | 11.9 | 40.2 | | |
+| 20 Resources | ✅ | 11.9 → **8.4** | 40.2 → 60.7 | 12 | Rebuilt as reference + the "things everyone knows that aren't true" table |
 | 04 3–6 months | ➖ | 7.9 | 61.1 | 20 | Already at the bar. Two items flagged below |
 | 21–24 Teaching | ➖ | 7.4–8.7 | 59.9–65.8 | — | Written to this standard |
 
 **Health-literacy target is grade 6–8** (CDC/NIH guidance for material aimed at
-the public). Every completed chapter is inside it.
+the public).
+
+### Result
+
+**All 24 content modules now read at grade 6.4–8.7.** Before the pass, eleven
+were above grade 13 and the worst was 19.1.
+
+| | Before | After |
+|---|--------|-------|
+| Worst module | grade **19.1** (ease 17.6) | grade **8.7** |
+| Best module | grade 7.9 | grade **6.4** |
+| Modules above grade 10 | **19 of 24** | **0 of 24** |
+| Median reading ease | ~36 (college) | **~64 (plain English)** |
+
+Repo grew from 6,648 lines (at the start of this branch) to **11,838**.
+
+The four modules that sit at 8.2–8.7 — Adolescence, Behaviour, Sleep, Building
+IQ — carry irreducible clinical vocabulary (suicidality, means restriction,
+circadian, executive function). Simplifying further would cost precision in the
+chapters where precision matters most.
 
 ### Open items found mid-pass
 

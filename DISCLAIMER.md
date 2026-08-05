@@ -6,7 +6,9 @@ This guide is written to help you understand child development and to give you p
 
 **Nothing here is a diagnosis, a treatment plan, or a reason to delay getting help.**
 
-Your paediatrician, family doctor, midwife, health visitor, nurse, or therapist knows things about your child that no written guide can: their history, their growth, their hearing and vision, their family circumstances, and how they actually present in a room. When this guide and your clinician disagree, **follow your clinician.**
+Your doctor, midwife, health visitor, nurse, or therapist knows things no written guide can. Your child's history. Their growth. Their hearing and vision. Your family's circumstances. How they actually seem in a room.
+
+When this guide and your clinician disagree, **follow your clinician.**
 
 ## Get professional advice before changing anything if your child
 
@@ -22,9 +24,11 @@ Your paediatrician, family doctor, midwife, health visitor, nurse, or therapist 
 
 The single most common regret parents report is having waited. If you are concerned about your child's development, hearing, vision, feeding, growth, behaviour, or mood:
 
-**Ask now.** An unnecessary appointment costs you an hour. A delayed one can cost intervention time that does not come back. Early support works better than late support across essentially every developmental domain.
+**Ask now.** An unnecessary appointment costs you an hour. A delayed one can cost time you don't get back.
 
-**Trust your gut.** Parental concern is a genuinely useful clinical signal, and clinicians know it. "Something feels off and I can't say what" is a legitimate reason to book an appointment.
+Early support works better than late support, across nearly every area of development.
+
+**Trust your gut.** Parental concern is a real clinical signal, and good clinicians know it. "Something feels off and I can't say what" is a legitimate reason to book.
 
 ## Emergencies
 
@@ -44,15 +48,19 @@ This guide is never the right resource in an emergency. Call your local emergenc
 
 ## Regional differences
 
-This guide draws primarily on **AAP (US)**, **CDC (US)**, and **WHO** guidance, with some UK and Indian context. Recommendations differ between countries on vitamin D dosing, weaning timing, milestone checklists, immunisation schedules, well-child visit timing, and the legal age for staying home alone.
+This guide draws mainly on **AAP** and **CDC** (US) and **WHO** guidance, with some UK and Indian context.
+
+Countries differ on vitamin D dosing, weaning timing, milestone checklists, immunisation schedules, check-up timing, and the legal age for staying home alone.
 
 Where a recommendation is country-specific, we've tried to say so. **Check what applies where you live.** Crisis numbers, emergency services, and early-intervention entitlements are all local.
 
 ## Sources and currency
 
-Guidance changes. Content reflects widely accepted guidance at the time of writing, and where the evidence is contested or a popular claim is weaker than it sounds, we say so rather than smoothing it over — see [RED-TEAM-REVIEW.md](RED-TEAM-REVIEW.md) for the audit that produced several of those caveats.
+Guidance changes. This reflects widely accepted guidance at the time of writing.
 
-If you find something here that is out of date or wrong, that is worth raising. Health content that isn't corrected gets worse over time.
+Where the evidence is contested, or a popular claim is weaker than it sounds, we say so rather than smoothing it over. See [RED-TEAM-REVIEW.md](RED-TEAM-REVIEW.md) for the audit behind several of those caveats.
+
+If something here is out of date or wrong, please raise it. Health content that never gets corrected gets worse over time.
 
 ## What this guide will not do
 

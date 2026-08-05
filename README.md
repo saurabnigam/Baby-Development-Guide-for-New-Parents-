@@ -2,7 +2,9 @@
 
 > **Nurture Your Child's Mind and Heart — From Birth Through Adulthood**
 >
-> A comprehensive, evidence-based guide grounded in developmental psychology, neuroscience, and nutritional science. Empowering parents with the knowledge, activities, and confidence to support their child's cognitive and emotional growth during the most critical years of brain development.
+> A plain-language guide to how children grow, from birth to 18. Grounded in developmental psychology, neuroscience, and nutrition research — and honest about where that research is weaker than people claim.
+>
+> Every module names what to expect, what to do, and when to ask for help. Every claim carries a link you can check.
 
 > ⚕️ **This is parent education, not medical advice.** Please read the [Disclaimer](DISCLAIMER.md) — it takes two minutes and includes what to do in an emergency.
 
@@ -10,11 +12,19 @@
 
 ## Why This Guide Exists
 
-**In the first years of life, a child's brain forms new neural connections at a rate of roughly a million per second** (Harvard Center on the Developing Child). The experiences, nutrition, and emotional environment you provide during these years genuinely shape the architecture of your child's brain.
+**In the first years of life, a child's brain forms new connections at a rate of roughly a million per second** (Harvard Center on the Developing Child).
 
-You may have heard that "90% of brain development happens before age 5." That claim is a misreading — what reaches ~90% by age 5 is brain **volume**. Myelination, synaptic refinement, and the prefrontal systems behind judgement and self-control keep developing into the mid-20s. The early years matter enormously. **They are not a closing door.** If you are reading this with a seven-year-old, or a fourteen-year-old, you have not missed anything.
+What you provide in those years — attention, food, safety, and calm — genuinely shapes how that brain gets built.
 
-Most parents feel lost anyway. Conflicting advice, social media pressure, and information overload make it hard to know what actually matters. This guide tries to cut through that — including by telling you when a popular claim is weaker than it sounds.
+You may have heard that "90% of brain development happens before age 5." That's a misreading. What reaches about 90% by age 5 is brain **size**.
+
+Development is not size. The systems behind judgement and self-control keep maturing into the mid-20s.
+
+So the early years matter enormously. **They are not a closing door.** If you're reading this with a seven-year-old, or a fourteen-year-old, you have not missed anything.
+
+Most parents feel lost anyway. There's too much advice, most of it confident and some of it wrong.
+
+This guide tries to cut through that. Including by telling you when a popular claim is weaker than it sounds — there's [a list of those](20-resources-faq/README.md#things-everyone-knows-that-arent-true).
 
 ---
 
@@ -79,7 +89,7 @@ Most parents feel lost anyway. Conflicting advice, social media pressure, and in
 
 ### Part 6: Teaching Modules — How to Actually Build It (17 hours)
 
-The modules above tell you *what emerges and when*. These four tell you *what to do about it*. They are skill-teaching modules, written to be used at any age.
+The modules above tell you *what happens and when*. These four tell you *what to do about it*. They work at any age.
 
 | Module | Title | Time | What it teaches |
 |--------|-------|------|-----------------|
@@ -93,13 +103,13 @@ The modules above tell you *what emerges and when*. These four tell you *what to
 ## How to Use This Guide
 
 ### 📍 If Your Baby Is Already Born
-Jump directly to the module matching your child's current age. Then read the cross-cutting topics (Part 5) for nutrition, sleep, and play guidance that applies at every stage.
+Go straight to the module for your child's age. Then read Part 5 — food, sleep, play, and screens apply at every stage.
 
 ### 📍 If You're Expecting
-Start with Part 1 (Foundation & Science) to understand how brain development works. Then read Module 15 (Nutrition) for prenatal brain-building nutrition. When baby arrives, begin Module 03.
+Start with Part 1 to see how development works. Then Module 15 for nutrition in pregnancy. When the baby arrives, go to Module 03.
 
 ### 📍 If You Want the Quick Version
-Each module has a **"Key Takeaways"** box at the top and **"5-Minute Action Plan"** at the bottom. Read those first.
+Every module opens with **Key Takeaways** and closes with a **5-Minute Action Plan**. Read those two and skip the rest.
 
 ### 📍 If You Have a Specific Question
 Some things don't live in an age module. Jump straight to:
@@ -131,7 +141,7 @@ If you want to use this guide like a structured program instead of a reference l
 - [**EQ & IQ Skills Tracker**](parent-toolkit/eq-iq-skills-tracker.md) — quarterly review of the five EQ rungs and six cognitive habits
 - [**Life Skills Tracker**](parent-toolkit/life-skills-tracker.md) — introduced / with help / alone / unprompted, across every skill in Module 23
 
-This gives parents a practical layer on top of the course: what to focus on, what to observe, and what to do next.
+This is the practical layer: what to focus on, what to watch for, and what to do next.
 
 ---
 
