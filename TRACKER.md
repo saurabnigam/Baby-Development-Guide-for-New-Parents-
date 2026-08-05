@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 6 | 20 | 🔄 |
-| | **Total** | **117** | **149** | **79%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 7 | 20 | 🔄 |
+| | **Total** | **119** | **149** | **80%** |
 
 ---
 
@@ -91,7 +91,7 @@
 | ✅ | B16 | "Avoid walkers" vs "push walker recommended" | Explicit callout distinguishing push walkers from sit-in walkers | [06](06-infant-9-12-months/README.md) |
 | ✅ | B17 | Juice limit given only at age 4–5 | Added the tighter 1–3 year limit to modules 08, 09, 10 | 08, 09, 10 |
 
-*B18 ("10 or more exposures" unsourced) folded into Phase 6.*
+*B18 resolved in Ch07: the "10+ exposures" figure could not be traced to a real source, so it was **removed** and replaced with the protocol actually trialled — one taste a day for 14 days (Wardle et al., 2003, n=156).*
 
 ---
 
@@ -148,9 +148,21 @@ against the source this session** — never recalled.
 ### Rule for this phase
 
 > **No citation goes in that hasn't been opened and checked in this session.**
-> Two bad references were caught this way and discarded: a PMID that pointed at
-> a paper on peritoneal dialysis, and another that pointed at neonatal glucose
-> monitors. Both would have looked entirely plausible in a reference list.
+>
+> **Four bad references have been caught this way and discarded** — every one of
+> which would have looked entirely plausible sitting in a reference list:
+>
+> | Intended citation | What that PMID actually was |
+> |---|---|
+> | Knickmeyer 2008, infant brain MRI | A case report on peritoneal dialysis |
+> | AAP 2023, food allergy prevention | Neonatal blood glucose monitors |
+> | Cooke 2007, food exposures | *Streptomyces* sigma factors |
+> | (a PMC id for Knickmeyer) | Obstetric brachial plexus palsy |
+>
+> **Verification method:** PubMed began captcha-gating automated access partway
+> through, so the reliable route is the Europe PMC REST API, which returns
+> title, authors, journal and abstract as JSON:
+> `https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:<PMID>%20AND%20SRC:MED&format=json&resultType=core`
 
 ### Progress
 
@@ -162,7 +174,7 @@ against the source this session** — never recalled.
 | 03 Newborn | ✅ | 10.1 → **6.4** | 53.9 → 70.9 | 10 | Safe-sleep risk multipliers; AHT/crying peak alignment |
 | 05 6–9 months | ✅ | 13.6 → **7.0** | 36.2 → 68.1 | 6 | LEAP trial numbers; gagging vs choking |
 | 06 9–12 months | ✅ | 12.6 → **6.5** | 41.2 → 71.4 | 6 | Infant-walker injury data; pointing-to-show as the key signal |
-| 07 12–18 months | ⬜ | 13.4 | 36.3 | | |
+| 07 12–18 months | ✅ | 13.4 → **6.4** | 36.3 → 71.3 | 4 | B18 resolved: dropped the unsourced "10–15 exposures"; used Wardle's verified 14-day protocol |
 | 08 18–24 months | ⬜ | 13.1 | 38.7 | | |
 | 09 2–3 years | ⬜ | 13.4 | 35.0 | | |
 | 10 3–4 years | ⬜ | 14.6 | 30.0 | | |
@@ -211,7 +223,7 @@ The new modules 21–24 are example-dense by design. The existing age modules mo
 | ✅ | 03 Newborn | Worked example: reading a full overstimulation cycle from cue to recovery |
 | ✅ | 05 6–9 mo | Scripted first-solids session. Worked example of social referencing |
 | ✅ | 06 9–12 mo | Scripted separation goodbye. Worked example of following a point |
-| ⬜ | 07 12–18 mo | Scripted "I do it" standoff. Worked example of a helper job going wrong |
+| ✅ | 07 12–18 mo | Scripted "I do it" standoff (the shoe fight), with the five-step alternative |
 | ⬜ | 08 18–24 mo | Full scripted tantrum, start to repair |
 | ⬜ | 09 2–3 yr | Scripted sharing conflict. Scripted toilet-learning refusal |
 | ⬜ | 10 3–4 yr | Scripted peer conflict with both perspectives narrated |
