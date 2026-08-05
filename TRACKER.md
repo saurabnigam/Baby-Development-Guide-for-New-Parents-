@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 15 | 20 | 🔄 |
-| | **Total** | **136** | **149** | **91%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 16 | 20 | 🔄 |
+| | **Total** | **138** | **149** | **93%** |
 
 ---
 
@@ -183,7 +183,7 @@ against the source this session** — never recalled.
 | 13 7–12 years | ✅ | 16.1 → **7.3** | 19.0 → 64.8 | 5 | Worst file in the guide. 196→300 lines; competence engine; two worked examples |
 | 14 12–18 years | ✅ | 12.6 → **8.3** | 37.8 → 57.6 | 4 | Add Health connectedness finding; two worked scripts. Grade sits at 8.3 — clinical vocabulary (suicidality, means restriction, circadian) is irreducible here |
 | 15 Nutrition | ✅ | 16.4 → **7.9** | 24.4 → 61.0 | 6 | Restructured around iron (Lozoff); DHA supplement claim corrected; ARFID vs picky |
-| 16 Sleep | ⬜ | 12.3 | 43.3 | | |
+| 16 Sleep | ✅ | 12.3 → **8.2** | 43.3 → 60.3 | 7 | Bedtime routine works in 3 nights; sleep-training 5-year follow-up added |
 | 17 Play | ⬜ | 18.0 | 20.8 | | |
 | 18 Screens | ⬜ | 17.4 | 27.3 | | |
 | 19 Challenges | ⬜ | 19.1 | 17.6 | | |

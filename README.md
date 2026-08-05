@@ -114,7 +114,7 @@ Some things don't live in an age module. Jump straight to:
 | …teach *any* skill — the method | [Module 23, Part 1](23-life-skills-critical-moments/README.md#part-1-the-teaching-loop) |
 | …talk about body safety and consent | [Module 23, Part 7](23-life-skills-critical-moments/README.md#part-7-body-safety--consent) |
 | …build attention span and curiosity | [Module 22](22-building-iq/README.md) |
-| …know what's safe for sleep | [Module 16](16-sleep-and-development/README.md#safe-sleep-for-infants--non-negotiable-first) |
+| …know what's safe for sleep | [Module 16](16-sleep-and-development/README.md#safe-sleep-for-infants--first-and-non-negotiable) |
 | …get through a night when the baby won't stop crying | [Module 03](03-newborn-0-3-months/README.md#read-this-first-when-the-crying-wont-stop) |
 | …help a teenager I'm worried about | [Module 14](14-age-12-18/README.md#if-you-are-worried-about-suicide-or-self-harm) |
 
