@@ -27,10 +27,11 @@
 | **2** | P1 factual corrections | 18 | 18 | ✅ |
 | **3** | New teaching modules (the D-series) | 10 | 10 | ✅ |
 | **4** | P2 structural fixes | 6 | 10 | 🔄 |
-| **5** | Examples added to existing age modules | 0 | 12 | ⬜ |
-| **6** | Citations across modules 05–20 | 0 | 16 | ⬜ |
-| **7** | Depth parity across age modules | 0 | 11 | ⬜ |
-| | **Total** | **96** | **129** | **74%** |
+| **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
+| **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
+| **7** | Depth parity across age modules | 3 | 11 | 🔄 |
+| **8** | **Chapter-by-chapter rewrite pass** | 5 | 20 | 🔄 |
+| | **Total** | **114** | **149** | **77%** |
 
 ---
 
@@ -138,14 +139,71 @@
 
 ---
 
-## Phase 5 — Examples in existing age modules ⬜
+## Phase 8 — Chapter-by-chapter rewrite pass 🔄
+
+One chapter at a time. Each pass does four things: **plain language** (target
+grade 6–8), **accuracy check**, **worked examples**, and **references verified
+against the source this session** — never recalled.
+
+### Rule for this phase
+
+> **No citation goes in that hasn't been opened and checked in this session.**
+> Two bad references were caught this way and discarded: a PMID that pointed at
+> a paper on peritoneal dialysis, and another that pointed at neonatal glucose
+> monitors. Both would have looked entirely plausible in a reference list.
+
+### Progress
+
+| Ch | Status | Grade before → after | Reading ease | Refs verified | Key correction |
+|----|--------|---------------------|--------------|---------------|----------------|
+| 00 Start Here | ✅ | 13.0 → **6.6** | 37.7 → 70.4 | 5 | Real WHO milestone windows; IDEA Part C fee rules |
+| 01 Brain Science | ✅ | 13.5 → **6.5** | 33.1 → 67.0 | 12 | Removed brain-volume figures not present in the cited paper |
+| 02 Milestones | ✅ | 14.0 → **7.6** | 40.6 → 62.3 | 6 | Attachment percentages corrected again (Deneault 2023) |
+| 03 Newborn | ✅ | 10.1 → **6.4** | 53.9 → 70.9 | 10 | Safe-sleep risk multipliers; AHT/crying peak alignment |
+| 05 6–9 months | ✅ | 13.6 → **7.0** | 36.2 → 68.1 | 6 | LEAP trial numbers; gagging vs choking |
+| 06 9–12 months | ⬜ | 12.6 | 41.2 | | |
+| 07 12–18 months | ⬜ | 13.4 | 36.3 | | |
+| 08 18–24 months | ⬜ | 13.1 | 38.7 | | |
+| 09 2–3 years | ⬜ | 13.4 | 35.0 | | |
+| 10 3–4 years | ⬜ | 14.6 | 30.0 | | |
+| 11 4–5 years | ⬜ | 14.7 | 28.8 | | |
+| 12 5–7 years | ⬜ | 15.5 | 31.6 | | |
+| 13 7–12 years | ⬜ | 16.1 | 19.0 | | |
+| 14 12–18 years | ⬜ | 12.6 | 37.8 | | |
+| 15 Nutrition | ⬜ | 16.4 | 24.4 | | |
+| 16 Sleep | ⬜ | 12.3 | 43.3 | | |
+| 17 Play | ⬜ | 18.0 | 20.8 | | |
+| 18 Screens | ⬜ | 17.4 | 27.3 | | |
+| 19 Challenges | ⬜ | 19.1 | 17.6 | | |
+| 20 Resources | ⬜ | 11.9 | 40.2 | | |
+| 04 3–6 months | ➖ | 7.9 | 61.1 | 20 | Already at the bar. Two items flagged below |
+| 21–24 Teaching | ➖ | 7.4–8.7 | 59.9–65.8 | — | Written to this standard |
+
+**Health-literacy target is grade 6–8** (CDC/NIH guidance for material aimed at
+the public). Every completed chapter is inside it.
+
+### Open items found mid-pass
+
+- **Vitamin D threshold mismatch.** Ch03 now says formula-fed babies need no
+  supplement above ~27 oz/day, verified against AAP. Module 04 says 32 oz.
+  Reconcile when Ch04 is reviewed.
+- **Module 04 is the only module with an Indian-food section and an
+  evidence-strength table.** Decide whether to generalise these or replicate
+  them across the age modules.
+- **AAP's iron-at-4-months recommendation has formal internal dissent** from its
+  own Section on Breastfeeding. Ch03 says so plainly. Keep that framing in
+  Ch15.
+
+---
+
+## Phase 5 — Examples in existing age modules 🔄
 
 The new modules 21–24 are example-dense by design. The existing age modules mostly are not — Module 04 is the exception and shows what the standard should be (scripted dialogue, worked examples, "say this" blocks).
 
 | | Module | What it needs |
 |---|--------|---------------|
-| ⬜ | 03 Newborn | Worked example: reading a full overstimulation cycle from cue to recovery |
-| ⬜ | 05 6–9 mo | Scripted first-solids session. Worked example of social referencing |
+| ✅ | 03 Newborn | Worked example: reading a full overstimulation cycle from cue to recovery |
+| ✅ | 05 6–9 mo | Scripted first-solids session. Worked example of social referencing |
 | ⬜ | 06 9–12 mo | Scripted separation goodbye. Worked example of following a point |
 | ⬜ | 07 12–18 mo | Scripted "I do it" standoff. Worked example of a helper job going wrong |
 | ⬜ | 08 18–24 mo | Full scripted tantrum, start to repair |
