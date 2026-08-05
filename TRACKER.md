@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 5 | 20 | 🔄 |
-| | **Total** | **114** | **149** | **77%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 6 | 20 | 🔄 |
+| | **Total** | **117** | **149** | **79%** |
 
 ---
 
@@ -161,7 +161,7 @@ against the source this session** — never recalled.
 | 02 Milestones | ✅ | 14.0 → **7.6** | 40.6 → 62.3 | 6 | Attachment percentages corrected again (Deneault 2023) |
 | 03 Newborn | ✅ | 10.1 → **6.4** | 53.9 → 70.9 | 10 | Safe-sleep risk multipliers; AHT/crying peak alignment |
 | 05 6–9 months | ✅ | 13.6 → **7.0** | 36.2 → 68.1 | 6 | LEAP trial numbers; gagging vs choking |
-| 06 9–12 months | ⬜ | 12.6 | 41.2 | | |
+| 06 9–12 months | ✅ | 12.6 → **6.5** | 41.2 → 71.4 | 6 | Infant-walker injury data; pointing-to-show as the key signal |
 | 07 12–18 months | ⬜ | 13.4 | 36.3 | | |
 | 08 18–24 months | ⬜ | 13.1 | 38.7 | | |
 | 09 2–3 years | ⬜ | 13.4 | 35.0 | | |
@@ -193,6 +193,12 @@ the public). Every completed chapter is inside it.
 - **AAP's iron-at-4-months recommendation has formal internal dissent** from its
   own Section on Breastfeeding. Ch03 says so plainly. Keep that framing in
   Ch15.
+- **Nutrient DRI numbers still need one verified source table.** The NIH ODS and
+  CDC pages both block automated access, so the specific mg-per-day figures
+  scattered through modules 06–14 remain unverified. Ch06 was written without
+  them rather than repeating numbers I could not check. Getting one
+  authoritative table and reconciling every module against it is the remaining
+  half of finding B15.
 
 ---
 
@@ -204,7 +210,7 @@ The new modules 21–24 are example-dense by design. The existing age modules mo
 |---|--------|---------------|
 | ✅ | 03 Newborn | Worked example: reading a full overstimulation cycle from cue to recovery |
 | ✅ | 05 6–9 mo | Scripted first-solids session. Worked example of social referencing |
-| ⬜ | 06 9–12 mo | Scripted separation goodbye. Worked example of following a point |
+| ✅ | 06 9–12 mo | Scripted separation goodbye. Worked example of following a point |
 | ⬜ | 07 12–18 mo | Scripted "I do it" standoff. Worked example of a helper job going wrong |
 | ⬜ | 08 18–24 mo | Full scripted tantrum, start to repair |
 | ⬜ | 09 2–3 yr | Scripted sharing conflict. Scripted toilet-learning refusal |
