@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 7 | 20 | 🔄 |
-| | **Total** | **119** | **149** | **80%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 8 | 20 | 🔄 |
+| | **Total** | **121** | **149** | **81%** |
 
 ---
 
@@ -175,7 +175,7 @@ against the source this session** — never recalled.
 | 05 6–9 months | ✅ | 13.6 → **7.0** | 36.2 → 68.1 | 6 | LEAP trial numbers; gagging vs choking |
 | 06 9–12 months | ✅ | 12.6 → **6.5** | 41.2 → 71.4 | 6 | Infant-walker injury data; pointing-to-show as the key signal |
 | 07 12–18 months | ✅ | 13.4 → **6.4** | 36.3 → 71.3 | 4 | B18 resolved: dropped the unsourced "10–15 exposures"; used Wardle's verified 14-day protocol |
-| 08 18–24 months | ⬜ | 13.1 | 38.7 | | |
+| 08 18–24 months | ✅ | 13.1 → **7.2** | 38.7 → 65.6 | 6 | Two-process tantrum model (anger then distress); corrected my own juice error |
 | 09 2–3 years | ⬜ | 13.4 | 35.0 | | |
 | 10 3–4 years | ⬜ | 14.6 | 30.0 | | |
 | 11 4–5 years | ⬜ | 14.7 | 28.8 | | |
@@ -224,7 +224,7 @@ The new modules 21–24 are example-dense by design. The existing age modules mo
 | ✅ | 05 6–9 mo | Scripted first-solids session. Worked example of social referencing |
 | ✅ | 06 9–12 mo | Scripted separation goodbye. Worked example of following a point |
 | ✅ | 07 12–18 mo | Scripted "I do it" standoff (the shoe fight), with the five-step alternative |
-| ⬜ | 08 18–24 mo | Full scripted tantrum, start to repair |
+| ✅ | 08 18–24 mo | Full scripted supermarket tantrum, timed against the anger/distress phases |
 | ⬜ | 09 2–3 yr | Scripted sharing conflict. Scripted toilet-learning refusal |
 | ⬜ | 10 3–4 yr | Scripted peer conflict with both perspectives narrated |
 | ⬜ | 11 4–5 yr | Scripted losing-a-game meltdown. Scripted friendship exclusion conversation |
