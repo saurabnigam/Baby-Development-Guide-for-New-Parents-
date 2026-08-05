@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 10 | 20 | 🔄 |
-| | **Total** | **125** | **149** | **84%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 11 | 20 | 🔄 |
+| | **Total** | **127** | **149** | **85%** |
 
 ---
 
@@ -178,7 +178,7 @@ against the source this session** — never recalled.
 | 08 18–24 months | ✅ | 13.1 → **7.2** | 38.7 → 65.6 | 6 | Two-process tantrum model (anger then distress); corrected my own juice error |
 | 09 2–3 years | ✅ | 13.4 → **7.7** | 35.0 → 64.8 | 7 | Toilet learning: no benefit before ~27 months; sharing reframed as turn-taking |
 | 10 3–4 years | ✅ | 14.6 → **7.4** | 30.0 → 65.9 | 3 | False-belief task explained (Wellman, 178 studies); peer-conflict coaching script |
-| 11 4–5 years | ⬜ | 14.7 | 28.8 | | |
+| 11 4–5 years | ✅ | 14.7 → **6.6** | 28.8 → 69.0 | 3 | Moffitt self-control gradient; Diamond & Lee's two ingredients; losing-a-game script |
 | 12 5–7 years | ⬜ | 15.5 | 31.6 | | |
 | 13 7–12 years | ⬜ | 16.1 | 19.0 | | |
 | 14 12–18 years | ⬜ | 12.6 | 37.8 | | |
@@ -227,7 +227,7 @@ The new modules 21–24 are example-dense by design. The existing age modules mo
 | ✅ | 08 18–24 mo | Full scripted supermarket tantrum, timed against the anger/distress phases |
 | ✅ | 09 2–3 yr | Turn-taking script for sharing; full child-led toilet-learning sequence |
 | ✅ | 10 3–4 yr | Scripted digger conflict with both perspectives narrated, six steps |
-| ⬜ | 11 4–5 yr | Scripted losing-a-game meltdown. Scripted friendship exclusion conversation |
+| ✅ | 11 4–5 yr | Scripted losing-a-game meltdown; friendship scripts table; exclusion guidance |
 | ⬜ | 12 5–7 yr | Scripted after-school decompression. Scripted "I'm bad at reading" |
 | ⬜ | 13 7–12 yr | Scripted social-problem-solving conversation. Scripted low-confidence moment |
 | ⬜ | 14 12–18 yr | Scripted collaborative problem-solving. Scripted "I don't want to talk about it" |
