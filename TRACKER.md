@@ -30,8 +30,8 @@
 | **5** | Examples added to existing age modules | 5 | 12 | 🔄 |
 | **6** | Citations across modules 05–20 | 5 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 3 | 11 | 🔄 |
-| **8** | **Chapter-by-chapter rewrite pass** | 13 | 20 | 🔄 |
-| | **Total** | **132** | **149** | **89%** |
+| **8** | **Chapter-by-chapter rewrite pass** | 14 | 20 | 🔄 |
+| | **Total** | **134** | **149** | **90%** |
 
 ---
 
@@ -181,7 +181,7 @@ against the source this session** — never recalled.
 | 11 4–5 years | ✅ | 14.7 → **6.6** | 28.8 → 69.0 | 3 | Moffitt self-control gradient; Diamond & Lee's two ingredients; losing-a-game script |
 | 12 5–7 years | ✅ | 15.5 → **8.0** | 31.6 → 61.5 | 3 | Sleep as first-line check; growth-mindset claim corrected against Sisk 2018 |
 | 13 7–12 years | ✅ | 16.1 → **7.3** | 19.0 → 64.8 | 5 | Worst file in the guide. 196→300 lines; competence engine; two worked examples |
-| 14 12–18 years | ⬜ | 12.6 | 37.8 | | |
+| 14 12–18 years | ✅ | 12.6 → **8.3** | 37.8 → 57.6 | 4 | Add Health connectedness finding; two worked scripts. Grade sits at 8.3 — clinical vocabulary (suicidality, means restriction, circadian) is irreducible here |
 | 15 Nutrition | ⬜ | 16.4 | 24.4 | | |
 | 16 Sleep | ⬜ | 12.3 | 43.3 | | |
 | 17 Play | ⬜ | 18.0 | 20.8 | | |
@@ -230,7 +230,7 @@ The new modules 21–24 are example-dense by design. The existing age modules mo
 | ✅ | 11 4–5 yr | Scripted losing-a-game meltdown; friendship scripts table; exclusion guidance |
 | ✅ | 12 5–7 yr | The 20-minute after-school rule, scripted; "they say they're stupid" response |
 | ✅ | 13 7–12 yr | Five-question social problem script; six-step low-confidence script |
-| ⬜ | 14 12–18 yr | Scripted collaborative problem-solving. Scripted "I don't want to talk about it" |
+| ✅ | 14 12–18 yr | Collaborative problem-solving (the phone-at-night example); "I don't want to talk about it" |
 | ⬜ | 15–19 | One worked example each |
 
 ---
