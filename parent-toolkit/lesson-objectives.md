@@ -72,7 +72,7 @@ By the end of this module, parents should be able to:
 
 - support autonomy without turning every moment into a power struggle
 - use simple pretend play and helper jobs to build competence
-- understand why walking changes behavior and learning so much
+- understand why walking changes behaviour and learning so much
 
 ### Module 08: Toddler — 18 to 24 Months
 
@@ -178,7 +178,7 @@ By the end of this module, parents should be able to:
 
 By the end of this module, parents should be able to:
 
-- identify the likely drivers behind common behavior problems
+- identify the likely drivers behind common behaviour problems
 - respond with structure, empathy, and pattern awareness
 - know when to seek professional support earlier rather than later
 

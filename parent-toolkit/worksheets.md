@@ -15,7 +15,7 @@ Use this to notice patterns instead of reacting only to isolated moments.
 | Mood | | | |
 | Play | | | |
 | Language | | | |
-| Social behavior | | | |
+| Social behaviour | | | |
 
 ---
 
@@ -40,7 +40,7 @@ Questions I want to keep watching:
 - 
 - 
 
-Do I need to discuss anything with a pediatrician?
+Do I need to discuss anything with a paediatrician?
 
 - Yes
 - No

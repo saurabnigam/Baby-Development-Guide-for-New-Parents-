@@ -45,47 +45,47 @@ This guide tries to cut through that. Including by telling you when a popular cl
 
 | Module | Title | Time | Focus |
 |--------|-------|------|-------|
-| [00](00-prerequisites/README.md) | Prerequisites & How to Use This Guide | 30 min | Orientation |
-| [01](01-brain-science-fundamentals/README.md) | Brain Science Fundamentals | 2 hrs | Neuroscience |
-| [02](02-milestones-overview/README.md) | Developmental Milestones Overview | 2 hrs | IQ & EQ mapping |
+| [00](00-prerequisites/README.md) | Start Here — How to Use This Guide | 30 min | Orientation, milestones as ranges, glossary |
+| [01](01-brain-science-fundamentals/README.md) | How Your Child's Brain Gets Built | 2 hrs | Serve & return, stress, myths |
+| [02](02-milestones-overview/README.md) | Milestones — What They Mean and What They Don't | 2 hrs | The 2022 CDC revision, full map 0–18 |
 
 ### Part 2: The Critical First Years — 0 to 2 (18-24 hours)
 
 | Module | Title | Time | Age Range |
 |--------|-------|------|-----------|
-| [03](03-newborn-0-3-months/README.md) | Sensory Awakening | 3 hrs | 0–3 months |
+| [03](03-newborn-0-3-months/README.md) | Safe Sleep, Crying & First Connections | 3 hrs | 0–3 months |
 | [04](04-infant-3-6-months/README.md) | Social Engagement | 3 hrs | 3–6 months |
-| [05](05-infant-6-9-months/README.md) | Exploration & Object Permanence | 3 hrs | 6–9 months |
-| [06](06-infant-9-12-months/README.md) | Language & Attachment | 3 hrs | 9–12 months |
-| [07](07-toddler-12-18-months/README.md) | Walking & Language Explosion | 3 hrs | 12–18 months |
-| [08](08-toddler-18-24-months/README.md) | Emotional Regulation Begins | 3 hrs | 18–24 months |
+| [05](05-infant-6-9-months/README.md) | Exploration, Solids & Allergens | 3 hrs | 6–9 months |
+| [06](06-infant-9-12-months/README.md) | Pointing, First Words & Separation | 3 hrs | 9–12 months |
+| [07](07-toddler-12-18-months/README.md) | Walking & "I Do It" | 3 hrs | 12–18 months |
+| [08](08-toddler-18-24-months/README.md) | Tantrums & Two-Word Phrases | 3 hrs | 18–24 months |
 
 ### Part 3: The Wonder Years — 2 to 5 (9-12 hours)
 
 | Module | Title | Time | Age Range |
 |--------|-------|------|-----------|
-| [09](09-age-2-3/README.md) | Self-Identity & Parallel Play | 3 hrs | 2–3 years |
-| [10](10-age-3-4/README.md) | Imagination & Cooperative Play | 3 hrs | 3–4 years |
-| [11](11-age-4-5/README.md) | Pre-Academic Skills & Empathy | 3 hrs | 4–5 years |
+| [09](09-age-2-3/README.md) | Becoming a Person | 3 hrs | 2–3 years |
+| [10](10-age-3-4/README.md) | Imagination & Other Minds | 3 hrs | 3–4 years |
+| [11](11-age-4-5/README.md) | Self-Control, Friendship & School Readiness | 3 hrs | 4–5 years |
 
 ### Part 4: School Years & Beyond — 5 to 18 (9-12 hours)
 
 | Module | Title | Time | Age Range |
 |--------|-------|------|-----------|
-| [12](12-age-5-7/README.md) | School Readiness & Friendships | 3 hrs | 5–7 years |
-| [13](13-age-7-12/README.md) | Abstract Thinking & Social Navigation | 3 hrs | 7–12 years |
-| [14](14-age-12-18/README.md) | Adolescence, Identity & Independence | 3 hrs | 12–18 years |
+| [12](12-age-5-7/README.md) | School, Friends & Being Compared | 3 hrs | 5–7 years |
+| [13](13-age-7-12/README.md) | Competence, Friends & Being Someone | 3 hrs | 7–12 years |
+| [14](14-age-12-18/README.md) | Identity, Risk & Staying Connected | 3 hrs | 12–18 years |
 
 ### Part 5: Cross-Cutting Topics — Essential at Every Stage (12-15 hours)
 
 | Module | Title | Time | Focus |
 |--------|-------|------|-------|
-| [15](15-nutrition-brain-development/README.md) | Nutrition & Brain Development | 3 hrs | DHA, iron, feeding |
-| [16](16-sleep-and-development/README.md) | Sleep Science & Development | 2 hrs | Sleep architecture |
-| [17](17-play-based-learning/README.md) | Play-Based Learning | 2 hrs | Structured & free play |
-| [18](18-screen-time-technology/README.md) | Screen Time & Technology | 2 hrs | Digital wellness |
-| [19](19-common-challenges/README.md) | Common Challenges & Solutions | 2 hrs | Troubleshooting |
-| [20](20-resources-faq/README.md) | Resources, FAQ & Further Reading | 2 hrs | Reference library |
+| [15](15-nutrition-brain-development/README.md) | Food & the Growing Brain | 3 hrs | Iron first, responsive feeding |
+| [16](16-sleep-and-development/README.md) | Sleep | 2 hrs | Safe sleep, hours by age, routines |
+| [17](17-play-based-learning/README.md) | Play | 2 hrs | Free, pretend & risky play |
+| [18](18-screen-time-technology/README.md) | Screens | 2 hrs | Strong vs weak evidence, habits |
+| [19](19-common-challenges/README.md) | When It's Going Badly | 2 hrs | State check, one-hop index, burnout |
+| [20](20-resources-faq/README.md) | Resources, FAQ & What We Got Wrong | 2 hrs | Sources, myths table, crisis contacts |
 
 ### Part 6: Teaching Modules — How to Actually Build It (17 hours)
 

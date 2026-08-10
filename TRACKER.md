@@ -3,7 +3,7 @@
 > Status of the red-team review and content build.
 > Findings are defined in [RED-TEAM-REVIEW.md](RED-TEAM-REVIEW.md); this file tracks what's been done about them.
 
-**Last updated:** 2026-08-06 — chapter-by-chapter pass complete
+**Last updated:** 2026-08-10 — chapter-by-chapter pass complete; post-review consistency fixes applied
 
 ---
 
@@ -26,12 +26,12 @@
 | **1** | P0 safety fixes | 12 | 12 | ✅ |
 | **2** | P1 factual corrections | 18 | 18 | ✅ |
 | **3** | New teaching modules (the D-series) | 10 | 10 | ✅ |
-| **4** | P2 structural fixes | 6 | 10 | 🔄 |
+| **4** | P2 structural fixes | 10 | 10 | ✅ |
 | **5** | Examples added to existing age modules | 12 | 12 | ✅ |
 | **6** | Citations across modules 05–20 | 15 | 16 | 🔄 |
 | **7** | Depth parity across age modules | 11 | 11 | ✅ |
 | **8** | **Chapter-by-chapter rewrite pass** | 20 | 20 | ✅ |
-| | **Total** | **148** | **149** | **99%** |
+| | **Total** | **158** | **159** | **99%** |
 
 ---
 
@@ -132,8 +132,8 @@
 | ✅ | C6c | Module 02 milestone tables missing Motor/Language for 5–7, 7–12, 12–18 | All three completed |
 | ✅ | C7 | Markdown rendering breaks | Fixed in 08 (×2) and 09 (×2) |
 | ✅ | C8 | Toolkit checklists stopped at age 5 | Added 5–12 and 12–18 daily checklists, plus two safety checklists |
-| 🔄 | C9 | "70% weight on 0–5" not true | PRD now states the actual figure and flags it as unmet. Fixing it properly needs Phase 7 |
-| ⬜ | C10 | Cross-cutting modules don't link back to age modules | 15–19 still have no inbound links to specific stages |
+| ✅ | C9 | "70% weight on 0–5" not true | PRD reframed with the recomputed figure (~42% of module lines after the 5–18 and teaching-module build-out); the 70% target no longer fits the product |
+| ✅ | C10 | Cross-cutting modules don't link back to age modules | Done in Phase 8: Module 19 is a validated one-hop index into every module; 15–18 link into specific age modules |
 | ⬜ | C2 | Module 04 is 19% of the repo | Phase 7 |
 | ⬜ | C4 | PRD's citation metric unmet in 24 of 27 files | Phase 6 |
 
@@ -188,7 +188,7 @@ against the source this session** — never recalled.
 | 18 Screens | ✅ | 17.4 → **7.9** | 27.3 → 63.1 | 5 | Split strong vs weak evidence; Orben 0.4% finding added |
 | 19 Challenges | ✅ | 19.1 → **7.7** | 17.6 → 64.0 | 4 | Rebuilt as a router + the content that lives nowhere else; parental burnout given real weight |
 | 20 Resources | ✅ | 11.9 → **8.4** | 40.2 → 60.7 | 12 | Rebuilt as reference + the "things everyone knows that aren't true" table |
-| 04 3–6 months | ➖ | 7.9 | 61.1 | 20 | Already at the bar. Two items flagged below |
+| 04 3–6 months | 🔄 | 7.9 | 61.1 | 20 | Already at the bar. Review pass fixed its vitamin D threshold and aligned vocabulary; full rewrite still not needed |
 | 21–24 Teaching | ➖ | 7.4–8.7 | 59.9–65.8 | — | Written to this standard |
 
 **Health-literacy target is grade 6–8** (CDC/NIH guidance for material aimed at
@@ -215,9 +215,8 @@ chapters where precision matters most.
 
 ### Open items found mid-pass
 
-- **Vitamin D threshold mismatch.** Ch03 now says formula-fed babies need no
-  supplement above ~27 oz/day, verified against AAP. Module 04 says 32 oz.
-  Reconcile when Ch04 is reviewed.
+- ~~**Vitamin D threshold mismatch.**~~ Resolved 2026-08-10: Module 04 now says
+  ~27 oz (800ml), matching the AAP-verified value used in 03, 05, 06 and 15.
 - **Module 04 is the only module with an Indian-food section and an
   evidence-strength table.** Decide whether to generalise these or replicate
   them across the age modules.
@@ -319,11 +318,11 @@ Repo grew from **6,648** lines to **10,179** — a 53% increase, with the four t
 
 ## Recommended next order
 
-1. **Phase 6 (citations)** — the credibility gap is the biggest remaining risk. A guide that says "research shows" 40 times without a single link is asking to be disbelieved, and the PRD promises otherwise.
-2. **Phase 5 (examples)** — highest reader value per hour of work, and directly what was asked for in this round.
+1. ~~**Phase 6 (citations)**~~ — done bar one item: every module now carries source-verified linked references. Remaining: the mg/day DRI figures (B15), which need a human with browser access to NIH ODS.
+2. ~~**Phase 5 (examples)**~~ — done in Phase 8. Every age module carries at least one scripted worked example.
 3. **D8 and D9 (Modules 25, 26)** — the two remaining coverage gaps. D9 in particular: right now every red-flag list ends at "talk to your paediatrician" and abandons the parent at the moment they most need the next step.
-4. **Phase 7 (depth parity)** — largest effort, and it should follow the citation and example work rather than precede it, or it just multiplies the unsourced text.
-5. **C10** — cheap. Add inbound links from modules 15–19 to the age modules.
+4. ~~**Phase 7 (depth parity)**~~ — done in Phase 8. Module 13 went 196 → 300 lines; every age module now carries comparable depth.
+5. ~~**C10**~~ — done in Phase 8. Module 19 is a validated one-hop index, and modules 15–18 link into the age modules.
 
 ---
 

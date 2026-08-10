@@ -21,7 +21,7 @@
 Use this when your baby is moving out of the newborn stage and into more active social, hand, mouth, and movement exploration.
 
 - My baby was fed on hunger cues and not pressured past fullness.
-- I followed the vitamin D, iron, or medicine plan discussed with the pediatrician.
+- I followed the vitamin D, iron, or medicine plan discussed with the paediatrician.
 - My baby had several short chances for safe floor time or tummy time.
 - I placed one safe toy within reach and waited before helping.
 - I responded to at least a few sounds, smiles, looks, or movements.
@@ -37,9 +37,9 @@ Use this when your baby is moving out of the newborn stage and into more active 
 - No water, juice, honey, cow's milk as a drink, salt, sugar, or solids before readiness.
 - I know whether my baby needs vitamin D drops.
 - I have asked, or will ask, about iron at the 4-month checkup.
-- I am watching wet diapers, growth, and feeding comfort.
+- I am watching wet nappies, growth, and feeding comfort.
 - I am preparing for solids around 6 months using readiness signs, not pressure.
-- I have a local pediatrician plan for well visits and vaccines.
+- I have a local paediatrician plan for well visits and vaccines.
 
 ---
 
@@ -131,10 +131,10 @@ Use this when your baby is moving out of the newborn stage and into more active 
 
 ## Weekly Checklist: Development Review
 
-- I noticed at least one new skill or behavior.
+- I noticed at least one new skill or behaviour.
 - I saw what currently frustrates my child most.
 - I saw what currently motivates my child most.
-- I noticed whether sleep, food, or transitions are affecting behavior.
+- I noticed whether sleep, food, or transitions are affecting behaviour.
 - I adjusted one expectation to better fit my child’s stage.
 
 ---
@@ -142,7 +142,7 @@ Use this when your baby is moving out of the newborn stage and into more active 
 ## Weekly Checklist: Parent Self-Check
 
 - I am not using social media comparison as my main benchmark.
-- I am asking whether behavior is developmental before taking it personally.
+- I am asking whether behaviour is developmental before taking it personally.
 - I am protecting at least one daily connection ritual.
 - I am asking for support when I need it.
 - I am remembering that repair matters more than perfection.
@@ -160,7 +160,7 @@ Use this if you are deciding whether to seek professional input.
 - My concern keeps returning even when I try reasonable support strategies.
 - My intuition says this needs a closer look.
 
-If several of these are true, document what you are seeing and speak with your pediatrician or another qualified professional.
+If several of these are true, document what you are seeing and speak with your paediatrician or another qualified professional.
 
 ---
 

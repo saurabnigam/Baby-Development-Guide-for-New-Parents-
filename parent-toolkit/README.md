@@ -47,7 +47,7 @@ It gives you:
 
 - observation logs
 - milestone tracking pages
-- feeding, sleep, and behavior pattern trackers
+- feeding, sleep, and behaviour pattern trackers
 - a family media plan template
 - a parent self-check page
 
@@ -128,7 +128,7 @@ This works well for:
 
 - first-time parents
 - parent coaching programs
-- pediatric education handouts
+- paediatric education handouts
 - early childhood workshops
 - family support communities
 

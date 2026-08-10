@@ -6,7 +6,7 @@
 
 ## Medical Safety Note
 
-This guide is for parent education, not a substitute for your pediatrician. Use your baby's corrected age if your baby was born early. Ask your pediatrician before changing feeding if your baby has prematurity, poor weight gain, reflux, eczema, allergy history, anemia risk, feeding difficulty, or any medical condition.
+This guide is for parent education, not a substitute for your paediatrician. Use your baby's corrected age if your baby was born early. Ask your paediatrician before changing feeding if your baby has prematurity, poor weight gain, reflux, eczema, allergy history, anemia risk, feeding difficulty, or any medical condition.
 
 ---
 
@@ -16,10 +16,10 @@ If you read nothing else in this module:
 
 - From 3 to about 6 months, breast milk or iron-fortified formula remains the baby's food. Do not start solids just to improve sleep.
 - CDC, AAP, and WHO guidance centers complementary foods around about 6 months, when the baby shows readiness signs. Foods before 4 months are not recommended.
-- Breastfed or partially breastfed babies need vitamin D supplementation unless your pediatrician gives different advice.
+- Breastfed or partially breastfed babies need vitamin D supplementation unless your paediatrician gives different advice.
 - Iron becomes more important in the second half of infancy. At the 4-month visit, ask whether your baby needs iron drops before solids begin.
 - The 4-month and 6-month milestones should be used to observe and support development, not to drill the baby.
-- Developmental neuroscience and behavioral research support responsive back-and-forth interaction, parentese, motor exploration, affectionate touch, sleep, and caregiver co-regulation as practical levers for brain development.
+- Developmental neuroscience and behavioural research support responsive back-and-forth interaction, parentese, motor exploration, affectionate touch, sleep, and caregiver co-regulation as practical levers for brain development.
 - No screen-based learning is needed. Babies learn from faces, voices, touch, movement, and safe exploration.
 
 ---
@@ -40,7 +40,7 @@ You are not behind. The best way to prepare for 3+ months is to make a small dai
 
 ### Keep Doing
 
-- Feed on cues and track growth with your pediatrician.
+- Feed on cues and track growth with your paediatrician.
 - Do short tummy-time attempts while awake and supervised.
 - Talk, sing, and respond when your baby coos or looks at you.
 - Keep safe sleep consistent.
@@ -52,7 +52,7 @@ You are not behind. The best way to prepare for 3+ months is to make a small dai
 - Pause during songs and wait for a sound, smile, or body movement.
 - Offer safe objects to touch and mouth, such as a teether, cloth book, or soft rattle.
 - Use a mirror for 1 to 3 minutes at a time.
-- Narrate simple routines: feeding, diaper change, bath, getting dressed.
+- Narrate simple routines: feeding, nappy change, bath, getting dressed.
 
 ### Do Not Rush
 
@@ -77,11 +77,11 @@ At this age, development does not come from doing more. It comes from doing smal
 
 ## Expert Lens: What Actually Builds the Brain
 
-Think like a pediatrician, developmental neuroscientist, and behavioral scientist at the same time:
+Think like a paediatrician, developmental neuroscientist, and behavioural scientist at the same time:
 
-- The pediatrician asks: Is the baby safe, growing, feeding, sleeping, hearing, seeing, moving, and meeting broad milestones?
+- The paediatrician asks: Is the baby safe, growing, feeding, sleeping, hearing, seeing, moving, and meeting broad milestones?
 - The neuroscientist asks: What repeated experiences are shaping attention, sensory systems, motor planning, stress regulation, and social brain networks?
-- The behavioral scientist asks: Which parent behaviors are easy to repeat every day and are actually changing the baby's learning environment?
+- The behavioural scientist asks: Which parent behaviours are easy to repeat every day and are actually changing the baby's learning environment?
 
 The answer is not "more stimulation." The answer is better loops.
 
@@ -135,7 +135,7 @@ At 3 to 6 months, "IQ development" is not academics. It is:
 - sensorimotor problem-solving: reach, grasp, mouth, turn, roll, try again
 - language foundations: hearing real speech, turn-taking, sounds with social meaning
 
-Parent behavior that supports this:
+Parent behaviour that supports this:
 
 - narrate what baby is already doing
 - create one small challenge, not ten distractions
@@ -153,7 +153,7 @@ At 3 to 6 months, "EQ development" is not teaching manners or independence. It i
 - body regulation: feeding, burping, sleep, touch, rhythm, and reduced stimulation
 - social confidence: "People are interesting and mostly safe."
 
-Parent behavior that supports this:
+Parent behaviour that supports this:
 
 - respond before the baby is fully distressed when you can
 - use a calm voice during fussing
@@ -224,7 +224,7 @@ Many babies by 6 months:
 - Roll from tummy to back.
 - Push up with straight arms on tummy.
 
-If your baby is not doing several expected skills, has lost skills, seems very floppy or stiff, does not respond to sound, does not visually track, rarely vocalizes, or you feel concerned, talk to your pediatrician early.
+If your baby is not doing several expected skills, has lost skills, seems very floppy or stiff, does not respond to sound, does not visually track, rarely vocalizes, or you feel concerned, talk to your paediatrician early.
 
 ---
 
@@ -233,7 +233,7 @@ If your baby is not doing several expected skills, has lost skills, seems very f
 Do not force a rigid schedule. Use a repeated flow inside each awake window:
 
 1. Feed and burp.
-2. Diaper or simple care routine with talking.
+2. Nappy change or simple care routine with talking.
 3. One connection activity.
 4. One movement activity.
 5. Quiet wind-down before sleep.
@@ -244,8 +244,8 @@ Most babies this age do best with short activities. Two minutes of connected pla
 
 | Time of day | Simple plan |
 |-------------|-------------|
-| Morning wake | Feed, diaper narration, 3 to 8 minutes tummy time, one song |
-| Mid-morning | Feed, stroller or balcony/window light, mirror play, nap |
+| Morning wake | Feed, nappy narration, 3 to 8 minutes tummy time, one song |
+| Mid-morning | Feed, pram or balcony/window light, mirror play, nap |
 | Afternoon | Feed, floor mat, reaching game, read 1 cloth book, nap |
 | Late afternoon | Feed, walk around the house naming objects, texture play, nap if needed |
 | Evening | Feed, bath or wipe-down, massage if baby likes it, dim lights, song, sleep routine |
@@ -613,15 +613,15 @@ What it builds:
 - sensory mapping
 - calm curiosity
 
-### 9. Diaper-Change Turn Taking
+### 9. Nappy-Change Turn Taking
 
-Setup: Use the same 3 or 4 phrases during diaper changes.
+Setup: Use the same 3 or 4 phrases during nappy changes.
 
 Say:
 
 - "Legs up."
 - "Wipe."
-- "Clean diaper."
+- "Clean nappy."
 - "All done."
 
 Pause after each phrase. Watch for eye contact, movement, or sound.
@@ -683,7 +683,7 @@ Looking away is often self-regulation, not rejection.
 Use a simple check:
 
 1. Hungry?
-2. Wet/dirty diaper?
+2. Wet/dirty nappy?
 3. Tired?
 4. Gas/burp?
 5. Too hot/cold?
@@ -696,8 +696,8 @@ Then choose one soothing action and give it time:
 - hold upright
 - rock slowly
 - feed if hungry
-- swaddle only if baby is not showing rolling signs and your pediatrician says it is still safe
-- pacifier
+- swaddle only if baby is not showing rolling signs and your paediatrician says it is still safe
+- dummy
 - dim room
 - white noise at a safe volume
 
@@ -722,7 +722,7 @@ This builds confidence better than rescuing immediately or letting frustration e
 
 ### Main Rule
 
-From 3 months until about 6 months, breast milk or iron-fortified infant formula is the baby's nutrition. Solids are practice and nutrition support later; they are not needed yet unless your pediatrician gives a specific medical plan.
+From 3 months until about 6 months, breast milk or iron-fortified infant formula is the baby's nutrition. Solids are practice and nutrition support later; they are not needed yet unless your paediatrician gives a specific medical plan.
 
 ### Breastfeeding
 
@@ -746,7 +746,7 @@ Common fullness cues:
 
 Ask for help if:
 
-- wet diapers drop
+- wet nappies drop
 - weight gain is a concern
 - feeds are painful
 - baby coughs/chokes often during feeds
@@ -755,13 +755,13 @@ Ask for help if:
 
 ### Formula Feeding
 
-Use iron-fortified infant formula unless your pediatrician recommends something else.
+Use iron-fortified infant formula unless your paediatrician recommends something else.
 
 Practical expectations:
 
 - Formula-fed babies often feed on a somewhat more regular pattern.
 - By 6 months, many take about 6 to 8 ounces per feed at 4 or 5 feeds in 24 hours.
-- Many pediatric sources advise that babies usually not average more than about 32 ounces formula per 24 hours unless the pediatrician is guiding it.
+- Many paediatric sources advise that babies usually not average more than about 32 ounces formula per 24 hours unless the paediatrician is guiding it.
 - Watch your baby's hunger and fullness cues rather than pushing the bottle to empty.
 
 Responsive bottle-feeding tips:
@@ -778,8 +778,8 @@ Children younger than 12 months need 400 IU vitamin D daily.
 
 - Breastfed babies need vitamin D drops starting shortly after birth.
 - Partially breastfed babies usually need vitamin D drops too.
-- Fully formula-fed babies may not need extra vitamin D if they drink at least 32 ounces of fortified formula per day.
-- Ask your pediatrician if unsure.
+- Fully formula-fed babies may not need extra vitamin D if they drink at least about 27 ounces (800ml) of fortified formula per day.
+- Ask your paediatrician if unsure.
 
 ### Iron
 
@@ -793,7 +793,7 @@ Ask at the 4-month checkup:
 
 Formula usually contains iron. Breastfed or mixed-fed babies may need individualized advice before 6 months. Around 6 months, iron-rich foods become a priority.
 
-### What Not to Give Before 6 Months Unless Your Pediatrician Says So
+### What Not to Give Before 6 Months Unless Your Paediatrician Says So
 
 - water
 - juice
@@ -847,7 +847,7 @@ Interest in your food alone is not enough.
 
 ### First 2 Weeks of Solids: Simple Plan
 
-Only start when your baby is about 6 months and ready, or when your pediatrician advises.
+Only start when your baby is about 6 months and ready, or when your paediatrician advises.
 
 Keep milk first. Offer solids after a milk feed, once a day at first.
 
@@ -909,7 +909,7 @@ When solids have started and your baby is tolerating basic foods, introduce comm
 
 Safety notes:
 
-- If your baby has severe eczema, known egg allergy, or another allergy concern, ask your pediatrician before peanut or other allergen introduction.
+- If your baby has severe eczema, known egg allergy, or another allergy concern, ask your paediatrician before peanut or other allergen introduction.
 - Never give whole nuts.
 - Thin smooth peanut butter with warm water, breast milk, formula, or puree until it is runny.
 - Introduce one new allergen at a time, in the morning or earlier in the day, when you can observe.
@@ -944,7 +944,7 @@ Tired signs:
 Use the same short sequence:
 
 1. Dim lights.
-2. Diaper.
+2. Nappy.
 3. Feed if hungry.
 4. Burp.
 5. Song or phrase.
@@ -1009,7 +1009,7 @@ Better default:
 - tummy time
 - side-lying play
 - being held
-- stroller walk
+- pram walk
 
 Avoid walkers. They do not teach walking and can be dangerous.
 
@@ -1055,10 +1055,10 @@ Focus:
 Try:
 
 - rattle track and grab
-- diaper-change phrases
+- nappy-change phrases
 - side-lying reach
 
-Ask pediatrician:
+Ask paediatrician:
 
 - vitamin D plan
 - iron plan
@@ -1090,7 +1090,7 @@ Focus:
 Try:
 
 - practice sitting supported on your lap
-- high chair practice without food if baby has head control and your pediatrician agrees
+- high chair practice without food if baby has head control and your paediatrician agrees
 - prepare first-food plan for around 6 months
 
 Do not:
@@ -1111,7 +1111,7 @@ Try:
 - tummy on your chest
 - towel roll under chest if advised
 - face-to-face floor time
-- tummy time after diaper change, not right after a full feed
+- tummy time after nappy change, not right after a full feed
 - stop before hard crying
 
 ### "My Baby Is Distracted During Feeds"
@@ -1145,7 +1145,7 @@ Rolling varies. Support the foundation:
 - reaching across midline
 - floor time outside containers
 
-Ask your pediatrician if movement seems very one-sided, stiff, floppy, or delayed with other concerns.
+Ask your paediatrician if movement seems very one-sided, stiff, floppy, or delayed with other concerns.
 
 ### "My Baby Watches Screens Calmly"
 
@@ -1153,9 +1153,9 @@ Calm does not mean beneficial. Under 18 months, screen media is not needed excep
 
 ---
 
-## Red Flags: Talk to a Pediatrician
+## Red Flags: Talk to a Paediatrician
 
-Talk with your pediatrician if:
+Talk with your paediatrician if:
 
 - baby stops doing a skill they previously had
 - baby does not smile or engage socially by the late end of this period
@@ -1166,7 +1166,7 @@ Talk with your pediatrician if:
 - baby does not reach for objects by around 6 months
 - baby seems very stiff, floppy, or strongly one-sided
 - feeding is consistently difficult
-- wet diapers decrease
+- wet nappies decrease
 - growth is a concern
 - you suspect hearing or vision problems
 - crying seems extreme, painful, or different from normal
@@ -1225,18 +1225,18 @@ Use these notes to understand why the guide recommends simple, repeated interact
 
 | Area | Evidence strength | Parent conclusion |
 |------|-------------------|-------------------|
-| Safe sleep, milk feeding, vitamin D, iron, solids timing | strong pediatric/public-health guidance | follow pediatric guidance and individual medical advice |
+| Safe sleep, milk feeding, vitamin D, iron, solids timing | strong paediatric/public-health guidance | follow paediatric guidance and individual medical advice |
 | Responsive caregiving and parent-child interaction | strong developmental evidence | notice signals, respond, pause, repeat |
 | Parentese and conversational turns | growing experimental and intervention evidence | use warm real speech and back-and-forth pauses |
 | Motor exploration and cognition | strong developmental theory and observational evidence | prioritize safe floor time over containers |
-| Social touch and synchrony | growing behavioral/neuroscience evidence | use affectionate touch when baby likes it; avoid overstimulating handling |
+| Social touch and synchrony | growing behavioural/neuroscience evidence | use affectionate touch when baby likes it; avoid overstimulating handling |
 | Specific "brain boosting" products | weak or unsupported | skip flashcards, videos, and overstimulating gadgets |
 
 ---
 
 ## Verified Sources
 
-### Pediatric and Public-Health Guidance
+### Paediatric and Public-Health Guidance
 
 - CDC: [Milestones by 4 Months](https://www.cdc.gov/act-early/milestones/4-months.html)
 - CDC: [Milestones by 6 Months](https://www.cdc.gov/act-early/milestones/6-months.html)
