@@ -6,7 +6,7 @@
 
 ## What This Toolkit Does
 
-The main course explains development. This toolkit helps parents use it consistently.
+The main course explains development. This toolkit helps you actually use it.
 
 Use it if you want:
 
@@ -47,9 +47,23 @@ It gives you:
 
 - observation logs
 - milestone tracking pages
-- feeding, sleep, and behavior pattern trackers
+- feeding, sleep, and behaviour pattern trackers
 - a family media plan template
 - a parent self-check page
+
+### 4. [EQ & IQ Skills Tracker](eq-iq-skills-tracker.md)
+
+Companion to [Module 21](../21-building-eq/README.md) and [Module 22](../22-building-iq/README.md). A **quarterly** review of the five EQ rungs (regulation → awareness → empathy → patience → repair) and the six buildable cognitive habits.
+
+Use it to notice growth you'd otherwise miss, and to pick which rung to work on next.
+
+Not a weekly scorecard. These skills move over seasons, not days.
+
+### 5. [Life Skills Tracker](life-skills-tracker.md)
+
+Companion to [Module 23](../23-life-skills-critical-moments/README.md). Every skill from swimming to shoelaces to budgeting, tracked across four columns: *introduced → with help → alone → unprompted.*
+
+Includes the safety-critical skills (marked ⚠), what your child should know in an emergency, body-safety concepts, and a checklist for you — CPR training, pool fencing, car seat, button batteries.
 
 ---
 
@@ -110,11 +124,11 @@ Use this simple loop:
 
 ## Productized Use Cases
 
-This toolkit works especially well for:
+This works well for:
 
 - first-time parents
 - parent coaching programs
-- pediatric education handouts
+- paediatric education handouts
 - early childhood workshops
 - family support communities
 
@@ -122,7 +136,9 @@ This toolkit works especially well for:
 
 ## Important Reminder
 
-These tools are for reflection and support, not for diagnosing a child. If you have concerns about delays, feeding, sleep, hearing, behavior, or development, use the toolkit to organize your observations and then speak with a qualified professional.
+These tools are for reflection and support. They do not diagnose anything.
+
+If you're worried about delays, feeding, sleep, hearing, behaviour, or development, use them to organise what you've noticed. Then take those notes to a professional — dated observations are genuinely useful to a clinician.
 
 ---
 

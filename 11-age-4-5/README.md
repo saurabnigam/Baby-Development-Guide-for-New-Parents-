@@ -1,241 +1,319 @@
-# Module 11: Age 4 to 5 — Pre-Academic Skills & Empathy
+# Module 11: Age 4 to 5 — Self-Control, Friendship & School Readiness
 
-> Time: 3 hours | Difficulty: Beginner | Focus: school readiness, executive function, empathy, friendship
+> **Time**: 3 hours | **Difficulty**: Beginner | **Focus**: what school readiness actually is, why self-control matters so much, and how to build it through games
+>
+> ⚕️ Parent education, not medical advice. See the [Disclaimer](../DISCLAIMER.md).
 
 ---
 
 ## Key Takeaways
 
-- School readiness is not just letters and numbers; it also includes regulation, attention, language, and social confidence.
-- Ages 4 to 5 are ideal for building early executive function through games, routines, and conversation.
-- Empathy deepens when children discuss feelings, fairness, and perspective.
-- Play remains the primary engine of development, even when academic skills appear.
-- Gentle structure works better than pressure for lasting learning.
+- School readiness is mostly **not** letters and numbers. It's attention, self-control, language, and being able to cope when something is hard.
+- Childhood self-control predicts adult health, finances, and behaviour — **independently of intelligence and family background.** That finding is the reason this chapter exists.
+- It works as a **gradient, not a cliff.** Every step up helps. This is not about avoiding some catastrophic bottom.
+- Self-control is trainable, and the two things that make training work are simple: **repeat it, and keep making it harder.**
+- **Losing a game well** is one of the most transferable skills of this year. Coach the recovery, not the winning.
 
 ---
 
-## What Is Happening in the Brain
+## Self-Control: What the Long Studies Found
 
-By 4 to 5, children can hold rules in mind more consistently, plan slightly ahead, and manage longer stretches of focused attention. Their working memory and inhibitory control are still developing, but this is a sensitive period for executive-function practice.
+A group of researchers followed **1,000 children from birth to age 32**. They measured self-control in childhood — things like the ability to wait, to persist, to think before acting — and then looked at how life went.
 
-Emotionally, children are better able to think about feelings after the fact, not just in the moment. This makes reflection, empathy, and simple problem-solving conversations much more effective.
+Childhood self-control predicted:
 
----
+- physical health
+- substance dependence
+- personal finances
+- criminal offending
 
-## IQ Milestones: Age 4 to 5
+And here is the part that matters: **these effects held up even after separating out the children's intelligence and their social class.** Self-control was doing its own work, not standing in for being clever or well-off.
 
-Typical cognitive milestones include:
+([Moffitt et al., 2011, *PNAS*](https://europepmc.org/article/MED/21262822))
 
-- Counts further and understands simple quantity concepts
-- Recognizes some letters and sounds in many children
-- Understands sequencing and patterns
-- Retells stories with beginning, middle, and end elements
-- Sustains attention for longer play or learning periods
-- Solves more complex puzzles and follows multi-step directions
+### Two things to take from this, and one not to
 
-### Why These Matter
+**Take: it's a gradient.** The researchers found a **step-by-step relationship**, not a cliff edge. Children in the middle did better than children lower down, and children higher up did better still. So improvement anywhere on the scale is worth having. You are not trying to rescue your child from a category.
 
-These are pre-academic foundations. True school readiness depends less on early drilling and more on language, attention, curiosity, and the ability to persist when things are hard.
+**Take: it's trainable.** Which is the rest of this chapter.
 
----
-
-## EQ Milestones: Age 4 to 5
-
-Typical social-emotional milestones include:
-
-- Understands others may think or know different things
-- Begins managing disappointment with more support than before
-- Forms stronger friendships and preferences
-- Understands simple rules and fairness concepts
-- Can reflect on behavior after a conflict with support
-- Uses feeling words more accurately
-
-### Why These Matter
-
-Friendships become more meaningful in this period. Children need support learning how to enter play, handle exclusion, ask for turns, and repair after mistakes.
+**Don't take: that a 4-year-old with poor self-control is doomed.** They are 4. Self-control at this age is barely under construction, it varies enormously between children, and it responds to practice. This is a reason to play more games, not to worry.
 
 ---
 
-## Best Activities for Cognitive and Emotional Growth
+## What Actually Builds Self-Control
 
-### 1. Board Games and Rule Games
+A review in *Science* looked at everything that had been shown to improve executive function in children aged 4 to 12 — computer training, board games, aerobic exercise, martial arts, yoga, mindfulness, and whole school curricula.
 
-Use simple games with turns, waiting, and rules.
+Different activities, same two ingredients in **every** successful programme:
 
-Why it works:
-- Builds working memory and inhibition
-- Teaches losing and winning with support
-- Strengthens flexible thinking
+> **1. Repeated practice.**
+> **2. The challenge keeps increasing.**
 
-### 2. Sound and Story Play
+And one more finding worth knowing: **the children who start with the weakest executive function gain the most.**
 
-Play with rhymes, alliteration, sound matching, and story retelling.
+([Diamond & Lee, 2011, *Science*](https://europepmc.org/article/MED/21852486))
 
-Why it works:
-- Supports phonological awareness
-- Builds comprehension and memory
-- Creates a strong literacy foundation without pressure
+### What this means at home
 
-### 3. Counting in Real Life
+**You don't need a programme.** Games with rules do this, if you follow the two ingredients:
 
-Count stairs, fruit slices, toy cars, or jumps.
+- **Play often.** Little and regular beats occasional and long.
+- **Make it harder as they get better.** A game they can win easily has stopped training anything. Add a rule. Speed it up. Reverse it.
+- **Don't let them win.** Losing is half of what's being trained.
 
-Why it works:
-- Connects number sense to real experience
-- Avoids abstract overload
-- Supports confidence with quantity
+### Executive function in three parts
 
-### 4. Friendship Coaching
+| Part | Plain version | Games that build it |
+|------|--------------|--------------------|
+| **Working memory** | Holding things in your head while you use them | Memory pairs; "get your shoes, put the cup away, then come back"; retelling a story |
+| **Inhibition** | Stopping yourself | Simon Says; freeze dance; musical statues; "do the opposite" |
+| **Flexibility** | Switching rules | Sorting one set of cards two different ways; games where the rule changes mid-way |
 
-Practice scripts like:
-- “Can I play too?”
-- “I don’t like that.”
-- “Can we take turns?”
-- “I’m sorry. Can I help fix it?”
+### The "do the opposite" game
 
-Why it works:
-- Builds social confidence
-- Reduces reactive conflict
-- Supports empathy and boundaries together
+Free, portable, and one of the purest self-control exercises there is:
 
-### 5. Reflection Conversations
+> "When I say **up**, you touch your **toes**. When I say **down**, you touch your **head**."
 
-After a hard moment, ask:
-- “What happened?”
-- “How did you feel?”
-- “How did the other person feel?”
-- “What can we do next time?”
+Then speed up. Then add a third rule. Then swap the rules halfway through.
 
-Why it works:
-- Builds emotional literacy and accountability
-- Strengthens perspective-taking
-- Supports problem-solving instead of shame
-
-### 6. Open-Ended Creation
-
-Use drawing, blocks, clay, building materials, and dramatic play props.
-
-Why it works:
-- Builds planning and creativity
-- Supports fine motor development
-- Encourages persistence through trial and error
+They will find it hilarious and very difficult. That difficulty *is* the training.
 
 ---
 
-## Recommended Toys & Materials: Age 4 to 5
+## School Readiness: What Actually Matters
 
-Children are developing rule-bound thinking, pre-academic skills, and growing physical confidence. Materials should support executive function, early literacy and numeracy play, and fine motor mastery.
+Ask a reception teacher what they want children to arrive with and they will rarely say phonics.
 
-| Toy / Material | Why It Helps |
-|----------------|-------------|
-| Board games with simple rules (Uno Junior, Snakes and Ladders) | Rule-following, working memory, managing wins and losses |
-| Alphabet and letter puzzles or foam letter sets | Letter recognition, phonological awareness |
-| Number games and counting sets | Number sense, early arithmetic, pattern recognition |
-| LEGO Duplo or beginning LEGO sets | Planning, spatial thinking, perseverance through multi-step building |
-| Art and craft kits (papier-mâché, bead threading, clay) | Fine motor mastery, sequencing, creative expression |
-| Outdoor equipment (soft bat and ball, hoop, jump rope) | Gross motor coordination, bilateral movement, social play |
-| Beginner science kits (magnets, growing seeds, simple experiments) | Curiosity, observation, hypothesis testing |
-| Early reader book sets | Pre-literacy, comprehension, independent reading confidence |
-| Dress-up and character play props | Empathy, perspective-taking, collaborative storytelling |
+| Matters most | Matters less than parents think |
+|--------------|--------------------------------|
+| Can separate from you without falling apart | Knows the alphabet |
+| Can listen and follow a two- or three-step instruction | Can count to 100 |
+| Can cope when something is hard, without giving up or melting down | Can write their name neatly |
+| Can ask for help | Can read |
+| Can take turns and wait | Knows all the colours and shapes |
+| Can manage the loo, shoes, and coat mostly alone | Does worksheets |
+| Has enough language to say what they need | |
+| Is curious, and expects learning to be interesting | |
 
-**Key principle:** Games with rules are executive-function workouts. Focus the emotional coaching on recovering after losing, not on winning. That skill generalises to school more than any academic content.
+**None of the left column is taught by a worksheet.** All of it is built by play, conversation, games with rules, and being allowed to struggle a bit.
 
----
-
-## Nutrition Guidance for Age 4 to 5
-
-### Feeding Priorities
-
-- Keep regular meals and snacks with balanced macros and micronutrients.
-- Continue emphasizing iron, protein, omega-3 sources where practical, calcium, and fiber.
-- Maintain hydration and regular bowel habits.
-
-### School-Readiness Nutrition Tips
-
-- Protein + fiber at breakfast supports steadier energy and attention.
-- Avoid using sweets as the main emotional reward.
-- Involve children in shopping, washing, mixing, or serving to build ownership and food familiarity.
-
-### Nutrition Milestones: Age 4 to 5
-
-| Marker | Typical Range |
-|--------|---------------|
-| Energy | Approximately 1,200 to 1,600 kcal per day |
-| Iron | 10mg/day; protein and iron at breakfast supports sustained attention at school or preschool |
-| Calcium | 1,000mg/day; bone density accumulation accelerates in this window |
-| Vitamin D | 600 IU per day; discuss supplementation if dietary intake and sunlight exposure are limited |
-| Omega-3 fatty acids | Food-first approach: oily fish 1 to 2 times per week, walnuts, flaxseed |
-| Protein | Approximately 19g/day |
-| Utensil use | Full independent use of fork and spoon typical by 4 to 5 years |
-| Meal preparation | Children can now toss salad, spread butter, pour from a small container, and follow simple food instructions |
-| Breakfast quality | Protein and complex carbohydrate at breakfast has a measurable link to morning attention and early academic performance |
-| Juice | Limit to 4 to 6 oz per day maximum; offer water as the primary drink at all meals |
-
-Kitchen involvement at this age is a nutrition and life-skills investment. Children who help prepare food are statistically more likely to eat it and to develop a positive relationship with food.
+**If you push one thing, push language and self-regulation.** Early academic drilling produces gains that generally wash out; the left-hand column doesn't.
 
 ---
 
-## Parent Behaviors That Matter Most
+## Losing: A Worked Example
 
-- Protect unstructured play even if academic pressure rises
-- Use calm follow-through instead of threats
-- Discuss feelings and fairness in books and real life
-- Support independence with routines, not perfectionism
-- Notice strengths beyond academics: kindness, persistence, humor, curiosity
+This is the highest-value coaching opportunity of the year, and most adults handle it by avoiding it.
+
+> **The situation.** Snakes and ladders. Your 4-year-old is losing. On the last roll, they go down a snake. They hurl the board across the room and burst into tears.
+>
+> **What usually happens**
+>
+> "It's only a game!" · "Don't be a bad sport." · "Right, that's it, no more games." · Or — most commonly — quietly letting them win from now on.
+>
+> **What that teaches:** losing is unbearable, and adults will arrange for it not to happen.
+>
+> **What to do instead**
+>
+> **1. Don't teach during.** They're flooded. Nothing goes in.
+> > "That's so disappointing. You were nearly there."
+>
+> Stay near. Don't lecture, don't tidy the board yet.
+>
+> **2. Wait for the drop.** Same as a tantrum — the anger burns out first and the sadness is what's left. That's when they'll come to you.
+>
+> **3. Then, briefly:**
+> > "Losing feels horrible. It feels horrible for me too."
+>
+> Genuinely admit it. A parent who claims not to mind losing is not believable.
+>
+> **4. Name what you want, once:**
+> > "The board can't get thrown. Let's pick it up together."
+>
+> **5. Next time — and this is the actual technique — model it out loud.**
+>
+> Lose deliberately, and narrate:
+> > "Oh no, down the snake! …Argh. I really wanted to win." *[pause]* "Okay. Deep breath. Your turn."
+>
+> You have just shown them the whole sequence: feel it, say it, breathe, carry on. That is worth more than any amount of explaining.
+>
+> **6. Praise the recovery, not the outcome.**
+> > "You lost and you stayed at the table. That was hard and you did it."
+
+**Keep games short at this age.** A long game with a slow, visible loss coming is more than a 4-year-old can hold. Ten minutes is plenty.
 
 ---
 
-## Common Challenges
+## Friendship: Teach the Scripts
 
-### Difficulty Losing Games
+Children this age want friends and often have no idea how to get them. The skills are teachable, and most children are never taught them.
 
-Normal at this age.
+**Rehearse these when nothing is happening** — in the car, at bath time, with toys:
 
-What helps:
-- Keep games short
-- Model calm losing
-- Praise recovery more than outcome
-- Stop before games become consistently dysregulating
+| Situation | The script |
+|-----------|-----------|
+| Joining a game | "That looks fun. Can I play?" |
+| Being told no | "Okay. I'll play something else." *(and that this is survivable)* |
+| Wanting a turn | "Can I have a turn when you're done?" |
+| Not liking something | "I don't like that. Please stop." |
+| Being too rough | "Are you okay? Do you want me to stop?" |
+| Making it right | "I'm sorry. Can I help fix it?" |
+| Disagreeing | "I want to play the other way. Can we do both?" |
 
-### Friendship Exclusion or Conflict
+**Practise as play, not instruction.** Two soft toys having the conversation works far better than telling your child what to say.
 
-What helps:
-- Validate the feeling
-- Help the child understand multiple perspectives
-- Practice scripts and repair
-- Involve teachers if patterns persist in group settings
+### When they're excluded
 
-### Pressure Around Reading or School Readiness
+It will happen, and it hurts to watch.
 
-What helps:
-- Focus on conversation, stories, play, and attention
-- Avoid turning learning into a performance test
-- Remember that emotional readiness strongly affects academic readiness
+- **Get the story first.** "What happened?" before any advice
+- **Don't minimise.** "I'm sure they didn't mean it" ends the conversation
+- **Don't over-dramatise either.** Your face tells them how big this is
+- **Then problem-solve together:** "What could you try tomorrow?"
+- **Watch for pattern.** One bad afternoon is normal. Repeated targeted exclusion is worth raising with the setting
 
 ---
 
-## Red Flags: Talk to a Pediatrician If
+## Six Things to Do
 
-- Child cannot engage in back-and-forth conversation at an age-expected level
+### 1. Games with rules, getting harder
+
+Board games, card games, Simon Says, Red Light Green Light, musical statues.
+
+**Why:** the two ingredients — repetition and rising difficulty — in a form children volunteer for.
+
+### 2. Sound and word play
+
+Rhymes, silly alliteration, clapping syllables, "what does *cat* start with?"
+
+**Why:** hearing the sounds inside words is the foundation of reading, and it's built by playing with speech long before letters.
+
+### 3. Count real things
+
+Stairs, grapes, cars, jumps. Then: **"how many do you think?"** before counting.
+
+**Why:** estimating before counting builds number sense in a way counting alone doesn't.
+
+### 4. Friendship scripts
+
+See above. Rehearse when calm.
+
+### 5. Reflection after a hard moment
+
+Later, not during:
+
+> "What happened?"
+> "How did you feel?"
+> "How do you think she felt?"
+> "What could we try next time?"
+
+**Why:** turns an incident into a lesson without shame — and exercises perspective-taking directly.
+
+### 6. Make things with no instructions
+
+Drawing, blocks, clay, junk modelling, dens.
+
+**Why:** planning, persistence, and finishing something. Also boredom tolerance, which is its own skill — see [Module 21](../21-building-eq/README.md#sub-skill-3-boredom-tolerance).
+
+---
+
+## Feeding: Age 4 to 5
+
+| | |
+|---|---|
+| Energy | Roughly 1,200–1,600 kcal a day |
+| Iron | 10mg/day |
+| Calcium | 1,000mg/day |
+| Vitamin D | 600 IU a day |
+| Protein | ~19g/day |
+| Milk | 16–24 oz (2–3 cups), low-fat or non-fat |
+| Water | 8–40 oz (1–5 cups) |
+| Juice | 4–6 oz a day maximum |
+
+**Breakfast matters more now**, because they're about to spend mornings concentrating. Protein plus a slower carbohydrate holds up better than cereal alone.
+
+**Keep them in the kitchen.** At this age they can tear salad, spread butter, pour from a small jug, crack an egg, and follow a two-step instruction. Children who cook eat more variety — and it's numeracy, sequencing, and self-control practice at the same time.
+
+**Don't use sweets as the main emotional reward.** It's an easy habit to install and a hard one to remove.
+
+---
+
+## Toys
+
+| Thing | What it builds |
+|-------|---------------|
+| Board and card games with real rules | Working memory, inhibition, losing |
+| Letter puzzles or magnetic letters | Letter recognition, sound play |
+| Counting sets, dice, dominoes | Number sense, subitising, patterns |
+| Interlocking building bricks | Planning, spatial thinking, persistence |
+| Craft kits — beads, clay, papier-mâché | Fine motor, sequencing, finishing things |
+| Outdoor — soft bat and ball, hoop, skipping rope | Coordination, social play |
+| Beginner science kits — magnets, seeds | Curiosity, prediction, observation |
+| Early readers | Confidence, pre-literacy |
+| Dress-up and character props | Perspective-taking, collaborative stories |
+
+**Games with rules are executive-function workouts.** Choose ones you'll actually play repeatedly, and increase the difficulty as they improve.
+
+---
+
+## Common Worries
+
+### "They can't lose"
+
+Completely normal at 4. See the worked example above. Model losing out loud, keep games short, and praise the recovery.
+
+### "They're behind on letters"
+
+Check what the left-hand column of the readiness table looks like first. A child with strong language, attention, and self-regulation and no letters is in a much better position than the reverse.
+
+**Read to them, well above their own level.** Listening comprehension outruns reading ability for years, and that's where the vocabulary comes from.
+
+### "They're anxious about school"
+
+Predictable routines, visit beforehand if you can, and be matter-of-fact rather than reassuring at length — long reassurance signals there is something to be reassured about.
+
+Watch for anxiety showing up as tummy aches, sleep trouble, or sudden clinginess rather than as words.
+
+### "Everyone else's child is reading"
+
+Some are. The spread is enormous and early reading is a poor predictor of later reading. Protect the reading *relationship* — being read to, enjoying stories — over reading *performance*.
+
+---
+
+## Red Flags: Call a Doctor If
+
+- Can't hold a back-and-forth conversation at an age-expected level
 - Very limited pretend or social play remains
-- Emotional or behavioral dysregulation is extreme and persistent across settings
-- You notice loss of skills or major concerns about hearing, speech, attention, or social development
-
----
-
-## Research Notes
-
-- Executive-function skills in early childhood predict later academic and life outcomes.
-- Play-based learning produces stronger engagement and broader developmental benefits than narrow academic drilling in early childhood.
-- Parent-child discussion about feelings and mental states predicts stronger empathy and social understanding.
-- Rich early language environments predict later literacy and school adjustment.
+- Emotional or behavioural difficulty is extreme and persistent **across home and nursery/school**, not just at home
+- **Loses skills** — always, at any age
+- Concerns about hearing, speech clarity, attention, or vision
+- Not managing basic self-care — toilet, dressing — with support by around 5
 
 ---
 
 ## 5-Minute Action Plan
 
-Add one “thinking question” and one “feeling question” to your daily routine. Example: “What do you think will happen next?” and “How do you think she felt?” Those two questions train cognition and empathy together.
+**Add one thinking question and one feeling question to your day.**
+
+> "What do you think will happen next?"
+> "How do you think she felt about that?"
+
+Use them on a book, a film, a real thing that happened at nursery, or a stranger you both noticed in a shop.
+
+Two questions. Every day. They train reasoning and perspective-taking at once, and unlike almost everything else in this chapter, they cost nothing and need no equipment.
 
 ---
 
-Next: [12-age-5-7/README.md](../12-age-5-7/README.md)
+## References
+
+Every link checked on 2026-08-06.
+
+- **Moffitt, T. E., Arseneault, L., Belsky, D., et al. (2011).** *A gradient of childhood self-control predicts health, wealth, and public safety.* PNAS, 108(7), 2693–2698. [Europe PMC](https://europepmc.org/article/MED/21262822) — 1,000 children followed from birth to age 32
+- **Diamond, A., & Lee, K. (2011).** *Interventions shown to aid executive function development in children 4 to 12 years old.* Science, 333(6045), 959–964. [Europe PMC](https://europepmc.org/article/MED/21852486)
+- **AAP** — [Recommended Drinks for Children Age 5 & Younger](https://www.healthychildren.org/English/healthy-living/nutrition/Pages/recommended-drinks-for-young-children-ages-0-5.aspx)
+
+---
+
+*Next: [Module 12: Age 5 to 7 →](../12-age-5-7/README.md)*

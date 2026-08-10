@@ -1,249 +1,353 @@
 # Module 06: Infant — 9 to 12 Months
 
-> Time: 3 hours | Difficulty: Beginner | Focus: Language, pointing, attachment, intentional communication
+> **Time**: 3 hours | **Difficulty**: Beginner | **Focus**: pointing, first words, separation anxiety, and a baby who is properly on the move
+>
+> ⚕️ Parent education, not medical advice. See the [Disclaimer](../DISCLAIMER.md). If your baby was born early, use their **corrected age**.
 
 ---
 
 ## Key Takeaways
 
-- This is a communication breakthrough stage: pointing, gestures, and first true words often emerge.
-- Attachment becomes more visible as babies seek a secure base during exploration.
-- Joint attention is one of the most important predictors of later language growth.
-- Babies learn best through everyday routines, not through drills.
-- Separation anxiety often peaks here because memory and attachment are getting stronger.
+- Your baby stops just reacting and starts **initiating**. They point, they show you things, they check your face.
+- **Pointing to show you something is the single most important thing on this page.** It predicts language better than almost anything else you can observe.
+- Separation anxiety often peaks now. It's a sign the attachment system is working, not a sign something has gone wrong.
+- They understand far more words than they can say. That gap is normal and it's the more important half.
+- **Sit-in baby walkers are genuinely dangerous** — the numbers are below. Push-along walkers are a completely different thing and are fine.
 
 ---
 
-## What Is Happening in the Brain
+## What's Happening Now
 
-By the end of the first year, your baby is becoming much more intentional. They do not just react; they initiate. They point to show you something, hand you an object, look back to check your reaction, and experiment with how sounds, gestures, and actions influence others.
+Something changes around this age. Your baby stops being mostly a responder and starts being an initiator.
 
-This stage marks a major integration point between IQ and EQ. Language learning depends heavily on social engagement. Babies learn words best in live, responsive interaction, especially when adults follow the baby’s focus of attention.
+They don't just look at things — they point at things **so that you will look too.** They don't just hold objects — they hand them to you, then check your face to see what you thought. They have worked out that you have a mind, and that they can put things into it.
+
+This is the point where language and relationship fuse. Babies learn words best in live, responsive exchanges — especially when the adult **follows what the baby is already looking at** rather than redirecting them.
 
 ---
 
-## IQ Milestones: 9 to 12 Months
+## Pointing: Why It Matters So Much
 
-Typical cognitive milestones include:
+There are two kinds of pointing, and the difference is important.
 
-- Searches for hidden objects more deliberately
+**Pointing to get** — reaching toward the biscuit, whole hand, urgent. *"Give me that."*
+
+**Pointing to show** — a real index-finger point at something interesting, then **a glance back at your face.** *"Look at that! Are you seeing this?"*
+
+The second one is the developmental milestone. It means your baby understands that your attention is separate from theirs and can be directed. Researchers call this **joint attention**.
+
+**Why it's worth watching for.** Babies' joint attention around 12 months predicts their language months later — how much they understand at 24 months, and how fast their vocabulary grows through the second year. It holds up even after accounting for general ability. ([Mundy et al. — responding to joint attention across 6–24 months](https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/joint_attention/Morales2000RJA6810.pdf) · [review of joint attention and vocabulary](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11803541/))
+
+**In plain terms:** a baby who points at a bird and looks back at you is doing something more sophisticated than a baby who says a few words. Shared attention is the platform words get built on.
+
+### If your baby isn't pointing by 12 months
+
+Mention it. Not with alarm — plenty of children who don't point at 12 months are fine — but this is one of the more informative early signals, and it is worth a conversation rather than a wait-and-see.
+
+**Look for the alternatives too.** Some babies show rather than point: holding an object up to you, taking your hand and pulling you toward something, or looking back and forth between you and a thing. All of those are joint attention. It's the *sharing* that matters, not the finger.
+
+---
+
+## What to Expect: Thinking
+
+- Looks for things that are completely hidden, not just partly
 - Understands familiar words and routines
-- Uses gestures to communicate intention
-- Explores containers, stacks, and simple tool-like actions
-- Shows problem-solving through trying different approaches
-- Understands simple requests with context
+- Uses gestures on purpose to get a message across
+- Puts things in and takes them out of containers
+- Uses one object to get another
+- Follows a simple instruction when there's context — "give it to Daddy" while you hold your hands out
 
-### Why These Matter
+## What to Expect: Feeling
 
-Pointing, showing, and looking back and forth are major cognitive-social achievements. They signal joint attention, which is a cornerstone of language, social learning, and later academic success.
+- Strong preference for one or two specific people
+- **Separation anxiety often peaks**
+- Checks your face constantly in new situations
+- Deliberately seeks comfort when upset — comes to you, arms up
+- Obvious delight when you share attention with them
+- Starting to understand that you can be recruited to help
 
----
+**Why they seem *more* clingy, not less.** Parents often expect independence to arrive steadily. It doesn't. A securely attached baby usually gets *more* visibly attached first.
 
-## EQ Milestones: 9 to 12 Months
-
-Typical social-emotional milestones include:
-
-- Strong preference for primary caregivers
-- Separation anxiety often intensifies
-- Social referencing becomes more obvious
-- Seeks comfort intentionally when upset
-- Shows delight in shared attention and praise
-- Begins understanding that others can help achieve goals
-
-### Why These Matter
-
-A securely attached baby does not become less dependent immediately. They often become more visibly attached first. That dependence is what gives them the confidence to explore.
+That's the point. The clinginess is what makes the exploring possible — they go further because they know where home is.
 
 ---
 
-## Best Activities for Cognitive and Emotional Growth
+## Six Things to Do
 
-### 1. Follow-the-Point Play
+### 1. Follow the point
 
-If your baby points or looks intensely at something, go there with them.
+When your baby points or stares hard at something, **go there with them.**
 
-Why it works:
-- Builds joint attention
-- Strengthens word learning
-- Confirms that communication is effective
+> **A worked example**
+>
+> Your baby points at the washing machine.
+>
+> **What most adults do:** "Yes, that's the washing machine," and carry on doing what they were doing.
+>
+> **What to do instead:** carry them over. Crouch down. Let them touch it.
+>
+> "The washing machine. It's going round and round. Can you hear it? *Whooosh.* Your socks are in there. Look — round and round and round."
+>
+> *[pause — let them look, or babble, or bang on the door]*
+>
+> "You like that. Shall we watch a bit more?"
+>
+> **What you did:** you treated their interest as worth acting on. You gave them ten words attached to something they were already staring at. And you confirmed the thing they most need to learn right now — **when I point, things happen.**
 
-Say:
-- “Yes, that’s the dog.”
-- “You found the light.”
-- “You want the spoon.”
+**Naming what they're already looking at beats naming what you'd like them to look at.** This is the highest-value language habit of the whole first year.
 
-### 2. Book Sharing With Naming
+### 2. Books, their way
 
-Use sturdy books with clear pictures. Let your baby point, pat, or turn pages.
+Sturdy board books, one clear picture a page. Let them point, pat, chew, and turn pages in the wrong order.
 
-Why it works:
-- Supports vocabulary growth
-- Builds shared attention span
-- Connects images, sounds, and concepts
+**Don't read the words.** Follow their finger. If they stop on the dog for four pages, do the dog four times.
 
-### 3. Gesture Games
+### 3. Gesture games
 
-Practice waving, clapping, blowing kisses, and simple baby signs if your family wants to use them.
+Waving, clapping, blowing kisses, arms up for "up", and simple signs if your family wants them.
 
-Why it works:
-- Supports intentional communication
-- Reduces frustration before speech is fluent
-- Strengthens imitation circuits
+**Why:** gives them a way to communicate before speech arrives, which cuts a lot of frustration. It doesn't delay talking.
 
-### 4. Container and Object Transfer Games
+### 4. In, out, open, shut
 
-Use cups, boxes, and large safe objects to put in, dump out, stack, and hand over.
+Cups, boxes, and safe objects to fill, dump, stack, and hand over.
 
-Why it works:
-- Builds sequencing and spatial reasoning
-- Supports fine motor planning
-- Teaches “in,” “out,” “open,” and “close” through real experience
+**Why:** builds sequencing and hand control — and teaches "in", "out", "open", "more", and "gone" through actually doing them, which is how those words stick.
 
-### 5. Predictable Separation Rituals
+### 5. A goodbye ritual you never change
 
-Use the same short goodbye each time.
+Same words, same actions, every single time. See the worked example below.
 
-Why it works:
-- Builds trust and emotional predictability
-- Helps babies tolerate transitions better
-- Supports regulation through routine
+### 6. Name the feeling as it happens
 
-### 6. Emotion Coaching in Real Time
+> "You were sad when I went out."
+> "You're happy I'm back."
+> "That was frustrating."
 
-Say things like:
-- “You were sad when I left.”
-- “You feel better now that I’m back.”
-- “That was frustrating.”
-
-Why it works:
-- Creates emotional meaning around experiences
-- Helps parents stay calm and connected
-- Lays early foundations for self-awareness
+**Why:** builds the map between how things feel inside and what they're called — years before your child can use the words themselves.
 
 ---
 
-## Recommended Toys & Materials: 9 to 12 Months
+## Separation Anxiety: What Actually Helps
 
-Your baby is crawling, pulling up, cruising, and developing a pincer grasp. Materials should reward intentional action and invite exploration at floor level.
+This is the hardest part of this stage for most families, and the standard instinct — slipping out quietly — makes it worse.
 
-| Toy / Material | Why It Helps |
-|----------------|-------------|
-| Simple shape sorter (3 to 4 large shapes) | Visual-motor matching, problem-solving, persistence |
-| Stacking rings on a post | Sequencing, hand-eye coordination, early ordering |
-| Push-along walker or wagon | Gross motor confidence, spatial navigation, loading items |
-| Board books with single clear words and pictures | Pointing, naming, joint attention, vocabulary |
-| Soft balls and basket | Rolling, throwing, social back-and-forth games |
-| Drop-in container toy (balls through a hole) | Fine motor, cause-effect, filling and emptying |
-| Toy telephone or familiar household prop | Imitative play, early communication, language |
-| Soft stuffed animals with face features | Emerging nurturing play, social understanding |
-| Drum or simple shaker | Rhythm, cause-effect, shared music making |
+### Why sneaking out backfires
 
-**Key principle:** Toys that reward clear action (shapes go in, balls roll through) match this stage's drive for cause-and-effect discovery. Frustration is fine if short; abandon or simplify before your baby becomes overwhelmed.
+It avoids one bad minute. In exchange, your baby learns that **you can vanish without warning**, so the sensible response is to monitor you constantly and object whenever you move toward a door.
 
----
+Parents who sneak out often report their baby becomes *more* clingy over the following weeks. That's why.
 
-## Nutrition Guidance for 9 to 12 Months
+### A worked example — the nursery drop-off
 
-### Feeding Priorities
+> **What tends to happen**
+>
+> You linger. You look worried. You say "Mummy's going now… are you okay? Are you sure? I'll be back so soon, don't cry, oh don't cry…" You come back for one more cuddle. You leave looking stricken.
+>
+> Your baby now has strong evidence that this situation is genuinely alarming, because **the person who tells them what's safe is clearly not okay.**
+>
+> **What to do instead**
+>
+> Same sequence, every single time, no variation:
+>
+> 1. **Arrive with time.** Rushed goodbyes are worse.
+> 2. **Settle them into something.** Hand them to the same person, or sit with them for two minutes at an activity.
+> 3. **The ritual.** Exactly the same words and actions every day: *"Two kisses and a squeeze. Mummy's going to work. Mummy always comes back."* Two kisses. One squeeze.
+> 4. **Go.** Warm, confident, and without turning back.
+> 5. **A big warm reunion.** They need the *return* to be reliable more than they need the departure to be painless.
+>
+> **They will still cry.** That is not failure. Most babies settle within a few minutes of the parent leaving — nursery staff will tell you this, and you can ask them to text you.
+>
+> **What's doing the work:** the sameness. After twenty repetitions, the ritual itself becomes reassuring, because it always ends the same way.
 
-- Continue breast milk or formula while solids expand.
-- Offer iron-rich foods daily.
-- Include varied textures when developmentally ready to support oral-motor skills.
-- Include healthy fats regularly for brain growth.
+### Practise at home
 
-### Important Safety Points
+Leave the room for thirty seconds. Call out cheerfully from the next room — "I'm here! Coming back!" — and come back. Build up.
 
-- No honey before age 1
-- Avoid choking hazards such as whole nuts, whole grapes, hard raw pieces, and large globs of nut butter
-- Offer water in small amounts with meals if recommended by your pediatrician
-
-### Responsive Feeding Reminders
-
-- Respect appetite changes day to day
-- Do not pressure “one more bite”
-- Let your baby participate with finger foods when ready
-
-### Nutrition Milestones: 9 to 12 Months
-
-| Marker | Typical Range |
-|--------|---------------|
-| Meals per day | 3 meals plus 1 to 2 snacks |
-| Finger food readiness | Soft, small pieces manageable with pincer grasp: banana, soft cooked carrot, small pasta |
-| Portion per meal | Approximately 2 to 4 tablespoons per food type offered |
-| Iron | 11mg/day; daily iron-rich food essential as breast-milk iron is declining |
-| Calcium | 270mg/day; achieved through breast milk, formula, yogurt, or cheese |
-| Water | Small amounts (60 to 120ml) offered in a cup at meals |
-| Vitamin D | Continue 400 IU per day if breastfed |
-| No honey | Until after 12 months without exception |
-| Milk feeds | Breast milk or formula still nutritionally important through month 12 |
-
-By 12 months, most babies are eating a wide variety of family foods in safe textures. Appetite and portion size vary significantly. Weight gain trajectory matters more than how much is eaten at any single meal.
+You're teaching one thing: **gone is temporary.**
 
 ---
 
-## Parent Behaviors That Matter Most
+## Sit-In Baby Walkers: Please Don't
 
-- Name what your baby is already focused on instead of redirecting constantly
-- Keep reunions warm after separation; this strengthens security
-- Read the same favorite books many times
-- Celebrate communication attempts, not just clear words
-- Allow safe exploration while staying emotionally available
+This deserves its own section because they're still widely sold and given as gifts.
 
----
+A study of US emergency department data found:
 
-## Common Challenges
+| Finding | Number |
+|---------|--------|
+| Children under 15 months treated for infant-walker injuries, 1990–2014 | **an estimated 230,676** |
+| Injuries that were to the **head or neck** | **90.6%** |
+| Injuries caused by **falling down the stairs in the walker** | **74.1%** |
+| Of those admitted to hospital, how many had a **skull fracture** | **37.8%** |
 
-### Separation Anxiety
+*([Sims et al., 2018, *Pediatrics*](https://pubmed.ncbi.nlm.nih.gov/30224365/))*
 
-This is developmentally normal and often strongest in this stage.
+**They also don't do the thing they're sold for.** Walkers don't help babies learn to walk, and may slightly delay it — the baby is held upright in a position they can't achieve themselves, and gets around without doing any of the balance work.
 
-What helps:
-- Practice brief, predictable separations
-- Use calm, confident goodbyes
-- Reconnect warmly afterward
-- Avoid extending departures with anxious energy
+The AAP has called for a **ban on their manufacture and sale**. **Canada banned them in 2004.** ([AAP](https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Baby-Walkers-A-Dangerous-Choice.aspx))
 
-### “My Baby Isn’t Saying Words Yet”
+### The two things called "walkers" are not the same
 
-Remember that gestures, pointing, understanding words, and babbling are all important language milestones.
+| ❌ **Sit-in baby walker** | ✅ **Push-along walker or wagon** |
+|---|---|
+| Baby sits *inside* a wheeled frame | Baby stands *behind* it and pushes |
+| Moves fast, reaches hazards, falls down stairs | Baby's own feet set the pace and can stop |
+| Doesn't help walking | Supports emerging walking |
+| Banned in Canada; AAP wants it banned | Fine — choose a weighted one that won't shoot away |
 
-What helps:
-- Increase naming during daily routines
-- Read daily
-- Follow your baby’s focus instead of quizzing
-- Watch for communication attempts beyond speech
+**Stationary activity centres and jumpers** sit in between: safer than sit-in walkers, but they still hold a baby in a position they can't get into or out of alone. Keep the time short and default to the floor.
 
-### Clinginess During Exploration
-
-Your baby may crawl away and return repeatedly.
-
-This is healthy secure-base behavior. Stay available, steady, and encouraging.
+**The best thing for learning to walk is floor time.** Bare feet, safe space, furniture to pull up on, and nothing holding them upright.
 
 ---
 
-## Red Flags: Talk to a Pediatrician If
+## Feeding: 9 to 12 Months
 
-- Baby does not respond to name consistently by the late end of this stage
-- Baby does not babble with varied sounds
-- Baby does not point, show, reach, or gesture to communicate
-- Baby shows very limited social engagement
-- Baby seems not to understand simple familiar routines or requests
+### The main jobs of this stage
+
+**Iron, every day.** Iron needs are high in the second half of the first year and the store your baby was born with is gone. Build meals around iron-rich foods — eggs, lentils and beans, meat or fish if you eat them, fortified cereal, tofu — and pair plant sources with something high in vitamin C.
+
+**Textures, not just purees.** Lumps, soft pieces, and finger foods. Babies who stay on smooth purees too long often struggle with texture later.
+
+**Let them feed themselves.** Now they have a pincer grip, finger foods are how self-feeding starts. It is extremely messy and that is the process, not a problem.
+
+### What it looks like
+
+| | |
+|---|---|
+| Meals | 3 a day, plus 1–2 snacks |
+| Milk | Breast milk or formula still matters nutritionally through month 12 |
+| Finger foods | Soft pieces they can pick up — banana, well-cooked carrot, small pasta, soft cheese |
+| Water | Small amounts in an **open cup** at meals |
+| Vitamin D | 400 IU a day, unless taking over ~27oz/800ml formula |
+
+### Still off the list
+
+- **Honey** — until after the first birthday, no exceptions, including cooked into things
+- **Cow's milk as a drink** — after 12 months. In food is fine
+- **Whole nuts, whole grapes and cherry tomatoes** (quarter grapes lengthways), hard raw pieces, thick blobs of nut butter
+- **Added salt and sugar**
+- **Juice** — not needed at all before 12 months
+
+### Appetite goes up and down
+
+Wildly, day to day. Judge by growth over weeks and by nappies, never by one meal.
+
+**Keep it pressure-free.** Don't do "one more bite", don't chase with the spoon, don't bribe. Every one of those makes the next meal harder — see [Module 24](../24-behaviour-and-discipline/README.md#part-7-food--mealtime-behaviour).
 
 ---
 
-## Research Notes
+## Toys
 
-- Joint attention in infancy predicts later vocabulary and social communication outcomes.
-- Attachment research shows secure-base behavior supports both exploration and emotion regulation.
-- Live adult language interaction is far more effective for infant language learning than passive audio or video exposure.
-- Responsive feeding and shared routines support both nutrition and emotional security.
+They're crawling, pulling up, cruising, and have a pincer grip. Things that reward a clear, deliberate action.
+
+| Thing | What it builds |
+|-------|---------------|
+| Simple shape sorter, 3–4 big shapes | Matching, problem-solving, persistence |
+| Stacking rings on a post | Order, size, hand-eye coordination |
+| **Push-along** walker or wagon (weighted) | Walking confidence, loading and unloading |
+| Board books, single clear pictures | Pointing, naming, shared attention |
+| Soft balls and a basket | Rolling, throwing, back-and-forth games |
+| A container with a hole to post things through | Fine motor, cause and effect |
+| Toy phone, or a real dead one | Imitation, early pretend |
+| Soft toy with a clear face | Early nurturing play |
+| Drum or shaker | Rhythm, making something happen |
+
+**The principle:** short frustration is fine and useful. If they're getting overwhelmed, simplify the task rather than doing it for them.
+
+---
+
+## Safety: Redo Everything at Floor Level
+
+Get on your hands and knees and look. You will find things.
+
+- **Stair gates**, top and bottom
+- **Furniture and TVs anchored to the wall** — tip-overs are a leading cause of serious household injury in under-5s
+- **Cupboard latches** on cleaning products and medicines. High shelves stop working once they climb
+- **Blind cords** cut short or secured
+- **Button and coin-cell batteries locked away.** They cause severe internal burns within hours and are a medical emergency. Check remotes, scales, thermometers, musical cards, small toys
+- **Water:** buckets, toilets, pet bowls, paddling pools. A few centimetres is enough and a baby this age can't right themselves. See [Module 23](../23-life-skills-critical-moments/README.md#part-3-water--swimming)
+- **Toilet-roll test:** if it fits through the tube, it's a choking hazard
+- **Hot drinks and hobs.** Pan handles turned in. Never a hot drink near a baby who can now reach
+
+---
+
+## Common Worries
+
+### "They're not saying words yet"
+
+At this age, **understanding matters more than speaking.** Check:
+
+- Do they respond to their name?
+- Do they follow a simple instruction with context?
+- Do they point, show, or gesture?
+- Do they babble with lots of different consonants — bababa, dadada, gagaga?
+
+If those are all yes, keep talking and reading. Words tend to arrive between about 10 and 15 months, with a wide spread.
+
+**Worth a conversation if:** no response to their name, no pointing or gesturing, no varied babbling, or they've **stopped** doing something they used to do.
+
+### Constant crawling away and coming back
+
+Textbook secure-base behaviour. They're using you as a home port. Stay available and unbothered — being a reliably boring safe place is the whole job.
+
+### "They only want me"
+
+Extremely common at this age and it can be exhausting for one parent and hurtful for the other.
+
+**What helps:** the less-preferred parent doing the *good* stuff — bath, books, play — rather than only the hard handovers. And short, cheerful, non-negotiated absences by the preferred parent. It passes.
+
+---
+
+## Red Flags: Call a Doctor If
+
+- Doesn't respond to their name by the end of this stage
+- Doesn't babble with varied consonant sounds
+- **Doesn't point, show, reach, or gesture to communicate**
+- Little social interest in familiar people
+- Doesn't seem to understand any familiar routines or simple requests
+- **Loses a skill they had before** — always, at any age
+- You suspect a hearing problem, including after frequent ear infections
+
+**Ask for a hearing test if you have any doubt.** Hearing is easy to check, commonly affected by glue ear at this age, and quietly affects everything else.
 
 ---
 
 ## 5-Minute Action Plan
 
-Today, pick one book with simple pictures. Sit face-to-face, let your baby touch the pages, and name only what they look at or point to. This is one of the highest-value language activities in the first year.
+**Pick one book. Sit face to face. Say only what they look at.**
+
+Don't read the text. Watch their eyes and their finger, and name whatever they're attending to.
+
+> *[baby pats the dog]*
+> "Dog. Woof woof."
+> *[pause]*
+> *[baby pats it again]*
+> "You like the dog. Big brown dog."
+> *[baby turns the page, backwards]*
+> "Back to the cat! Miaow."
+
+Five minutes, following their lead. This is one of the highest-value language activities available in the first year — and it's easier than reading the actual book.
 
 ---
 
-Next: [07-toddler-12-18-months/README.md](../07-toddler-12-18-months/README.md)
+## References
+
+Every link checked on 2026-08-06.
+
+**Joint attention and language**
+- Morales, M., Mundy, P., et al. *Responding to Joint Attention Across the 6- Through 24-Month Age Period and Early Language Acquisition.* [PDF](https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/joint_attention/Morales2000RJA6810.pdf)
+- *Developmental Relationships Between Early Vocabulary Acquisition, Joint Attention and Parental Supportive Behaviors.* [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11803541/)
+- Mundy, P., et al. *Infant Responding to Joint Attention, Executive Processes, and Self-Regulation in Preschool Children.* [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3306494/)
+
+**Infant walkers**
+- Sims, A., Chounthirath, T., Yang, J., Hodges, N. L., & Smith, G. A. (2018). *Infant Walker–Related Injuries in the United States.* Pediatrics, 142(4), e20174332. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30224365/)
+- AAP — [Baby Walkers: A Dangerous Choice](https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Baby-Walkers-A-Dangerous-Choice.aspx)
+
+**Feeding**
+- AAP — [Vitamin and Iron Supplements for Babies](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx)
+
+---
+
+*Next: [Module 07: Toddler — 12 to 18 Months →](../07-toddler-12-18-months/README.md)*
