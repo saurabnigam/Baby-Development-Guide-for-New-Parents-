@@ -84,6 +84,15 @@ A standalone single-page interactive web application you can open directly in an
 - Side-by-side normal care vs. special care feeding frequency comparator
 - Filterable stage-by-stage diet charts
 - Pharmacology reference and interactive recipe cards
+- Popular Books directory with Goodreads ratings and evidence correlations
+
+### 8. [Popular Books & Literature Correlation](popular-books-and-literature-correlation.md)
+
+An exhaustive cross-correlation of 25 best-selling parenting and child psychology books (from Goodreads and Amazon):
+- Ratings, reviews, and foundational theories across 6 categories (Pediatrics, Brain Science & EQ, Communication & Discipline, Feeding & Picky Eating, Cognition & Free Play, Sleep Science)
+- Direct mapping to the 24 guide chapters
+- Scientific consensus fact-checks (e.g. *The Wonder Weeks* replication failure, AAP swaddling safety boundaries for the "5 S's", pure BLW vs. hybrid feeding, sleep training 5-year cortisol outcomes)
+- Actionable clinical takeaways for parents
 
 ---
 

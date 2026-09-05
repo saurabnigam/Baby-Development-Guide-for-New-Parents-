@@ -157,35 +157,47 @@ Four to six steps, same order, most nights, 20–45 minutes:
 
 ---
 
-## Sleep Training: An Honest Section
+## Sleep Training & Night Settling: An Honest, Evidence-Based Guide
 
 This is the most emotive question in early parenting, and the guide owes you a straight answer rather than a dodge.
 
-### What it is
+### Why Night Wakings Happen: The Biology of Sleep Cycles & Associations
 
-A group of behavioural approaches that reduce how much help a baby needs to fall asleep. They're used from around 6 months, and it's worth checking with your doctor first.
+In popular sleep science literature—notably Alexis Dubief's *Precious Little Sleep* and Dr. Marc Weissbluth's *Healthy Sleep Habits, Happy Child*—the central breakthrough is understanding **sleep cycles and sleep associations**:
 
-They range from gradual, parent-present methods through to leaving longer gaps before responding.
+1. **The 45-Minute Infant Sleep Cycle:** Adults sleep in ~90-minute cycles; infants sleep in ~45-minute cycles. At the end of every cycle, the brain surfaces into brief, partial wakefulness to survey the environment for safety.
+2. **The "Disappearing Pillow" Metaphor (Dubief):** If you fall asleep with your head on a comfortable pillow, but wake up 90 minutes later on the bare floor with the pillow gone, your nervous system triggers an immediate alarm. Similarly, if an infant falls asleep while nursing, being rocked in arms, or bounced on a yoga ball, and then wakes up 45 minutes later in a still, flat cot with the parent gone, their sensory alarm sounds. They do not know how to bridge the next sleep cycle without the identical conditions restored.
+3. **Sleep Associations Are Not Moral Failings:** Rocking, feeding to sleep, and dummy use are beautiful, biologically normal comforting tools. They only become a problem if they are exhausting the parents to the point of clinical deprivation or breakdown.
 
-### What's actually known
+### The Spectrum of Sleep Approaches
 
-**Short term, they work.** Randomised trials show behavioural approaches improve infant sleep and maternal mood.
+Different methods suit different family temperaments. As economist Emily Oster (*Cribsheet*) emphasizes, there is no single "correct" sleep method; the best method is the one parents can execute consistently without resentment:
 
-**The long-term worry has been tested.** The most common fear is that these methods damage attachment, stress regulation, or mental health. Researchers followed up a randomised trial when the children were **6 years old**. That's 326 children, roughly half of whom had the intervention as babies.
+| Approach | Typical Age | How It Works | Key Author Reference |
+| :--- | :--- | :--- | :--- |
+| **SWAP (Sleep With Assistance Plans)** | 2–6 months | Gentle prop-fading. Gradually substitute high-effort parental props (bouncing/nursing) with lower-effort props (patting in cot, continuous white noise) to gently teach falling asleep in the cot. | Alexis Dubief (*Precious Little Sleep*) |
+| **Graduated Extinction (Check & Console)** | 6+ months | Baby is put down awake. Parent checks in at predetermined, progressively longer intervals (e.g., 3 min, 5 min, 10 min) to offer brief verbal reassurance and a gentle pat without picking them up. | Dr. Richard Ferber (*Solve Your Child's Sleep Problems*) |
+| **Fading / Parental Presence ("Chair Method")** | 6+ months | Parent sits beside the cot until the baby falls asleep, moving the chair progressively further away across several nights until exiting the room. | Kim West (*The Sleep Lady's Good Night, Sleep Tight*) |
+| **Full Extinction** | 6+ months | Putting the child down awake at a developmentally appropriate bedtime after a loving routine, not returning unless there is a safety, pain, or diaper issue. Typically results in the fewest total minutes of crying over the course of a week. | Dr. Marc Weissbluth (*Healthy Sleep Habits, Happy Child*) |
 
-They measured child mental health, sleep, psychosocial functioning, stress regulation via cortisol, the child–parent relationship, maternal mental health, and parenting style.
+### What's Actually Known: What the Data Shows
 
-**They found no evidence of differences between the groups on any outcome.** Not better, not worse ([Price, Wake, Ukoumunne & Hiscock, 2012, *Pediatrics*](https://europepmc.org/article/MED/22966034)).
+**Short term, behavioural interventions work.** Multiple randomised controlled trials show that behavioural sleep interventions reduce nighttime awakenings, improve infant sleep continuity, and dramatically lower maternal postpartum depression rates.
 
-### What that means for you
+**The long-term worry has been thoroughly tested.** The most common parental fear is that letting a baby cry during settling damages infant attachment security, spikes chronic cortisol, or impairs emotional development. 
 
-**It means this is genuinely your choice**, and neither answer is the wrong one.
+Researchers followed up a large randomised trial when the children were **6 years old** (326 children, roughly half of whom had behavioural sleep interventions as babies). They measured child mental health, sleep, psychosocial functioning, stress regulation via cortisol, parent-child attachment, and maternal mental health.
 
-- If sleep deprivation is damaging your health, your mental health, or your ability to parent the way you want to — **behavioural sleep support is a legitimate option. The long-term fears are not supported.**
-- If you don't want to, you don't have to. Night waking in the first year is normal, most children sleep through eventually regardless, and there is no developmental prize for early independent sleep.
-- **Don't do it because someone made you feel judged**, in either direction. This debate generates a lot of heat and very little of it is about your family.
+**They found zero evidence of differences between the groups on any outcome.** Attachment was equally secure; stress regulation and mental health were identical ([Price et al., 2012, *Pediatrics*](https://europepmc.org/article/MED/22966034)). Subsequent meta-analyses (reviewed in Oster's *Cribsheet*) confirm that sleep training does not elevate chronic infant stress or harm parent-infant bonds.
 
-**Whatever you choose, safe sleep rules don't change.**
+### What That Means for You
+
+**It means this is genuinely your family's choice**, and neither answer is the wrong one:
+
+- If chronic sleep deprivation is damaging your physical health, your mental health, your marriage, or your capacity to parent safely — **behavioural sleep support is a legitimate, scientifically validated option. The long-term attachment fears are not supported by data.**
+- If you do not want to sleep train, you do not have to. Night waking in the first year is biologically normal, children eventually consolidate sleep without training, and there is no developmental gold medal for early independent sleep.
+- **Do not make this decision out of guilt, judgment, or social media pressure.** 
+- **Whatever you choose, infant safe sleep rules (ABCs) remain absolute.**
 
 ---
 
@@ -286,6 +298,13 @@ Every link checked on 2026-08-06.
 
 **Sleep training follow-up**
 - Price, A. M., Wake, M., Ukoumunne, O. C., & Hiscock, H. (2012). *Five-year follow-up of harms and benefits of behavioral infant sleep intervention: randomized trial.* Pediatrics, 130(4), 643–651. [Europe PMC](https://europepmc.org/article/MED/22966034)
+
+**Popular Sleep Literature & Methodologies**
+- Dubief, A. (2020). *Precious Little Sleep: The Complete Baby Sleep Guide for Modern Parents.* 2nd ed.
+- Ferber, R. (2006). *Solve Your Child's Sleep Problems: New, Revised, and Expanded Edition.* Simon & Schuster.
+- Weissbluth, M. (2021). *Healthy Sleep Habits, Happy Child.* 5th ed. Ballantine Books.
+- Oster, E. (2019). *Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool.* Penguin Press.
+- *For detailed book profiles and scientific fact-checks, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#category-6-sleep-science--bedtime-challenges).*
 
 ---
 

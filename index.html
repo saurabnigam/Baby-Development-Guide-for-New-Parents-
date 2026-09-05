@@ -868,132 +868,585 @@
   <!-- ================================================================================== -->
   <!-- TAB 7: POPULAR BOOKS & LITERATURE REFERENCES -->
   <!-- ================================================================================== -->
+  <!-- ================================================================================== -->
+  <!-- TAB 7: POPULAR BOOKS & SCIENTIFIC CORRELATION (25 BOOKS DIRECTORY)                -->
+  <!-- ================================================================================== -->
   <div id="tab-books" class="tab-content hidden space-y-6">
     <div class="card p-6">
-      <div class="mb-4">
-        <h2 class="text-xl font-bold text-slate-900 flex items-center gap-2">
-          <span class="w-2.5 h-6 bg-indigo-600 rounded-full inline-block"></span>
-          Popular Books & Scientific Foundations
-        </h2>
-        <p class="text-slate-600 text-xs mt-1">Key concepts from the world's most influential parenting, neuroscience, feeding, and psychology books referenced in this guide.</p>
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6 pb-4 border-b border-slate-200">
+        <div>
+          <h2 class="text-xl font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-2.5 h-6 bg-indigo-600 rounded-full inline-block"></span>
+            Popular Books & Scientific Correlation Directory
+          </h2>
+          <p class="text-slate-600 text-xs mt-1">Cross-referencing 25 of the world's most influential, highly-rated parenting books (Goodreads &gt; 4.0) with clinical trials, WHO/AAP guidelines, and guide modules.</p>
+        </div>
+        <a href="parent-toolkit/popular-books-and-literature-correlation.md" target="_blank" class="inline-flex items-center gap-2 px-3 py-2 bg-indigo-50 border border-indigo-200 text-indigo-700 rounded-lg text-xs font-bold hover:bg-indigo-100 transition whitespace-nowrap">
+          📖 Read Full 25-Book Analysis Doc →
+        </a>
       </div>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+      <!-- Quick Filter Pills -->
+      <div class="flex flex-wrap gap-2 mb-6" id="book-filter-bar">
+        <button onclick="filterBooks('all')" class="book-filter-btn active px-3 py-1.5 rounded-full text-xs font-bold bg-indigo-600 text-white shadow-sm transition" data-filter="all">All Books (25)</button>
+        <button onclick="filterBooks('pediatrics')" class="book-filter-btn px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200 transition" data-filter="pediatrics">Pediatrics & Vitals (3)</button>
+        <button onclick="filterBooks('neuro-eq')" class="book-filter-btn px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200 transition" data-filter="neuro-eq">Brain Science & EQ (4)</button>
+        <button onclick="filterBooks('discipline')" class="book-filter-btn px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200 transition" data-filter="discipline">Communication & Discipline (6)</button>
+        <button onclick="filterBooks('feeding')" class="book-filter-btn px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200 transition" data-filter="feeding">Feeding & Picky Eating (4)</button>
+        <button onclick="filterBooks('cognition')" class="book-filter-btn px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200 transition" data-filter="cognition">Cognition & Screens (6)</button>
+        <button onclick="filterBooks('sleep')" class="book-filter-btn px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200 transition" data-filter="sleep">Sleep Science (4)</button>
+      </div>
+
+      <!-- Book Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5" id="books-container">
         
-        <!-- Category 1: Brain Science & EQ -->
-        <div class="card p-5 border-t-4 border-t-blue-500">
-          <span class="badge badge-primary mb-2">Brain Science & EQ</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">The Whole-Brain Child</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Dr. Daniel J. Siegel & Dr. Tina Payne Bryson</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> Upstairs (prefrontal cortex) vs downstairs (amygdala) brain. Establishes the clinical rule: <em>"Connect before you redirect"</em> — soothing emotional distress before expecting logic.
-          </p>
-          <div class="bg-blue-50 p-2 rounded text-[11px] text-blue-900">
-            <strong>Where Used:</strong> Modules 08, 21, and 24.
+        <!-- Book 1: AAP -->
+        <div class="card p-5 border-t-4 border-t-blue-600 flex flex-col justify-between book-item" data-category="pediatrics">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-primary">Clinical Pediatrics</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.31 (5.2k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Caring for Your Baby and Young Child</h3>
+            <p class="text-[11px] text-slate-500 mb-2">American Academy of Pediatrics (Ed. Tanya Altmann)</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Definitive clinical manual on infant safety, developmental milestones, physical growth curves, immunizations, and acute illness triage.
+            </p>
+            <div class="bg-blue-50/70 p-2.5 rounded text-[11px] text-blue-900 mb-3 space-y-1">
+              <p><strong>Scientific Fact Check:</strong> Gold standard for safe sleep (ABCs) and pediatric vitals. Forms the medical baseline of our entire guide.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>00, 02, 03, 16</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A+</span>
           </div>
         </div>
 
-        <!-- Book 2: Gottman -->
-        <div class="card p-5 border-t-4 border-t-indigo-500">
-          <span class="badge badge-purple mb-2">Emotion Coaching</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">Raising an Emotionally Intelligent Child</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Dr. John Gottman</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> Longitudinal proof that parents who coach negative emotions (rather than dismissing or punishing them) foster higher vagal tone and superior physiological regulation.
-          </p>
-          <div class="bg-indigo-50 p-2 rounded text-[11px] text-indigo-900">
-            <strong>Where Used:</strong> Modules 08, 21, and 24.
+        <!-- Book 2: Harvey Karp -->
+        <div class="card p-5 border-t-4 border-t-blue-500 flex flex-col justify-between book-item" data-category="pediatrics">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-primary">Newborn Soothing</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 3.94 (38k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">The Happiest Baby on the Block</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. Harvey Karp, MD, FAAP</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> The "4th Trimester" and the 5 S's (Swaddle, Side/Stomach, Shush, Swing, Suck) to activate the calming reflex.
+            </p>
+            <div class="bg-amber-50/70 p-2.5 rounded text-[11px] text-amber-900 mb-3 space-y-1">
+              <p><strong>Critical Safety Check:</strong> Highly effective awake soothing, BUT side/stomach holding is ONLY safe in adult arms—never in a cot. Swaddling must stop at first sign of rolling (~8–12w).</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>03, 16</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: B+</span>
           </div>
         </div>
 
-        <!-- Book 3: Faber & King -->
-        <div class="card p-5 border-t-4 border-t-emerald-500">
-          <span class="badge badge-success mb-2">Communication & Scripts</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">How to Talk So Little Kids Will Listen</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Joanna Faber & Julie King / Faber & Mazlish</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> Descriptive praise, acknowledging frustration before giving instructions, and using playfulness to dismantle toddler defiance without threats or bribes.
-          </p>
-          <div class="bg-emerald-50 p-2 rounded text-[11px] text-emerald-900">
-            <strong>Where Used:</strong> Modules 09, 10, and 24.
+        <!-- Book 3: Wonder Weeks (CRITICAL) -->
+        <div class="card p-5 border-t-4 border-t-rose-500 flex flex-col justify-between book-item" data-category="pediatrics">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-danger">Critical Scientific Audit</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 3.82 (19k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">The Wonder Weeks</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Frans X. Plooij & Hetty van de Rijt</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Claims all infants undergo 10 predictable "mental leaps" tied to exact calendar weeks from due date, accompanied by fussy phases ("The Three Cs").
+            </p>
+            <div class="bg-rose-50 p-2.5 rounded text-[11px] text-rose-900 mb-3 space-y-1">
+              <p><strong>Failed Replication:</strong> Plooij's doctoral student (de Weerth, 1997) failed to replicate the fixed weekly timetable. Infant development is non-linear; fixed calendar alerts create artificial parental anxiety.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>00, 02, 20</strong></span>
+            <span class="text-rose-600 font-semibold">Evidence Grade: D</span>
           </div>
         </div>
 
-        <!-- Book 4: Ellyn Satter -->
-        <div class="card p-5 border-t-4 border-t-amber-500">
-          <span class="badge badge-warning mb-2">Feeding Gold Standard</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">Child of Mine: Feeding with Love & Sense</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Ellyn Satter, MS, RD, LCSW</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> The <em>Division of Responsibility</em> in feeding: Parent chooses <strong>WHAT, WHEN, WHERE</strong>; Child chooses <strong>WHETHER and HOW MUCH</strong>. Eliminates mealtime battles.
-          </p>
-          <div class="bg-amber-50 p-2 rounded text-[11px] text-amber-900">
-            <strong>Where Used:</strong> Modules 05, 15, 24, and Diet Guide.
+        <!-- Book 4: Whole-Brain Child -->
+        <div class="card p-5 border-t-4 border-t-indigo-600 flex flex-col justify-between book-item" data-category="neuro-eq">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Brain Science & EQ</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.30 (65k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">The Whole-Brain Child</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. Daniel J. Siegel & Dr. Tina Payne Bryson</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Upstairs (prefrontal cortex) vs downstairs (amygdala) brain. Horizontal integration (logic + emotion) and vertical integration. Rule: <em>"Connect before you redirect"</em>.
+            </p>
+            <div class="bg-indigo-50/70 p-2.5 rounded text-[11px] text-indigo-900 mb-3 space-y-1">
+              <p><strong>Scientific Consensus:</strong> Aligns with neurodevelopmental biology. You cannot reason with an amygdala-hijacked brain until physiological safety is restored.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>01, 08, 21, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
           </div>
         </div>
 
-        <!-- Book 5: Alison Gopnik -->
-        <div class="card p-5 border-t-4 border-t-teal-500">
-          <span class="badge badge-primary mb-2">Cognitive Science & IQ</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">The Scientist in the Crib</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Alison Gopnik, Andrew Meltzoff, Patricia Kuhl</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> Proves babies use statistical Bayesian inference and trial-and-error motor experiments (dropping spoons, object tracking) as active mini-scientists.
-          </p>
-          <div class="bg-teal-50 p-2 rounded text-[11px] text-teal-900">
-            <strong>Where Used:</strong> Modules 01, 05, and 22.
+        <!-- Book 5: Gottman -->
+        <div class="card p-5 border-t-4 border-t-indigo-500 flex flex-col justify-between book-item" data-category="neuro-eq">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Emotion Coaching</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.25 (14k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Raising an Emotionally Intelligent Child</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. John Gottman</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Identifies 4 parenting styles (Dismissing, Disapproving, Laissez-Faire, Emotion Coaching). Emotion coaches acknowledge feelings and set limits on behavior.
+            </p>
+            <div class="bg-indigo-50/70 p-2.5 rounded text-[11px] text-indigo-900 mb-3 space-y-1">
+              <p><strong>Longitudinal Data:</strong> Children of emotion coaches show higher vagal tone (superior physiological self-soothing) and higher academic resilience.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>08, 09, 21, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A+</span>
           </div>
         </div>
 
-        <!-- Book 6: Carol Dweck -->
-        <div class="card p-5 border-t-4 border-t-rose-500">
-          <span class="badge badge-danger mb-2">Growth Mindset</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">Mindset: The New Psychology of Success</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Dr. Carol S. Dweck</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> Praising innate intelligence produces fragile perfectionism; praising effort, process, and strategy fosters persistence and neuroplastic cognitive growth.
-          </p>
-          <div class="bg-rose-50 p-2 rounded text-[11px] text-rose-900">
-            <strong>Where Used:</strong> Modules 12 and 22.
+        <!-- Book 6: Bruce Perry -->
+        <div class="card p-5 border-t-4 border-t-indigo-400 flex flex-col justify-between book-item" data-category="neuro-eq">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Neurosequential Model</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.45 (72k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">The Boy Who Was Raised as a Dog</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. Bruce D. Perry & Maia Szalavitz</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Hierarchical brain development: Regulate (brainstem/somatic) → Relate (limbic/connection) → Reason (cortex/logic). Patterned, repetitive sensory input heals dysregulation.
+            </p>
+            <div class="bg-indigo-50/70 p-2.5 rounded text-[11px] text-indigo-900 mb-3 space-y-1">
+              <p><strong>Clinical Utility:</strong> Foundational for de-escalating meltdowns. Lecturing a distressed child violates the sequence of brain architecture.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>01, 19, 21</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
           </div>
         </div>
 
-        <!-- Book 7: Peter Gray -->
-        <div class="card p-5 border-t-4 border-t-sky-500">
-          <span class="badge badge-primary mb-2">Play-Based Learning</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">Free to Learn</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Dr. Peter Gray</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> Evolutionary and psychological evidence that unstructured, self-directed play is the primary vehicle for developing initiative and social competence.
-          </p>
-          <div class="bg-sky-50 p-2 rounded text-[11px] text-sky-900">
-            <strong>Where Used:</strong> Modules 17 and 22.
+        <!-- Book 7: Robert Karen -->
+        <div class="card p-5 border-t-4 border-t-indigo-300 flex flex-col justify-between book-item" data-category="neuro-eq">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Attachment Theory</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.29 (1.8k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Becoming Attached</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Robert Karen, PhD</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Comprehensive history and empirical validation of Bowlby and Ainsworth's Attachment Theory (Secure, Insecure-Avoidant, Ambivalent, Disorganized).
+            </p>
+            <div class="bg-indigo-50/70 p-2.5 rounded text-[11px] text-indigo-900 mb-3 space-y-1">
+              <p><strong>Key Clinical Insight:</strong> Attachment security does NOT require 24/7 flawless attunement; research shows ~30% attunement with consistent repair creates secure attachment.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>03, 04, 06, 21</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
           </div>
         </div>
 
-        <!-- Book 8: Richard Ferber & Marc Weissbluth -->
-        <div class="card p-5 border-t-4 border-t-purple-500">
-          <span class="badge badge-purple mb-2">Sleep Physiology</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">Solve Your Child's Sleep Problems / Healthy Sleep Habits</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Dr. Richard Ferber / Dr. Marc Weissbluth</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> Circadian rhythms, sleep associations, and preventing overtired cortisol surges. Night waking is physiological; self-settling associations enable consolidation.
-          </p>
-          <div class="bg-purple-50 p-2 rounded text-[11px] text-purple-900">
-            <strong>Where Used:</strong> Module 16 (Sleep Science).
+        <!-- Book 8: Faber & King -->
+        <div class="card p-5 border-t-4 border-t-emerald-600 flex flex-col justify-between book-item" data-category="discipline">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-success">Communication & Scripts</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.41 (32k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">How to Talk So Little Kids Will Listen</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Joanna Faber & Julie King</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Practical tools for ages 2–7: Acknowledge feelings with words, give choices, express anger without insult, and use playfulness to enlist cooperation.
+            </p>
+            <div class="bg-emerald-50/70 p-2.5 rounded text-[11px] text-emerald-900 mb-3 space-y-1">
+              <p><strong>Actionable Tool:</strong> "Write a note", "Give wishes in fantasy", and describe what you see instead of ordering commands.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>08, 09, 10, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
           </div>
         </div>
 
-        <!-- Book 9: Emily Oster -->
-        <div class="card p-5 border-t-4 border-t-slate-500">
-          <span class="badge badge-warning mb-2">Data-Driven Parenting</span>
-          <h3 class="font-bold text-slate-900 text-sm mb-2">Cribsheet</h3>
-          <p class="text-[11px] text-slate-500 mb-2">Emily Oster</p>
-          <p class="text-xs text-slate-700 leading-relaxed mb-3">
-            <strong>Core Concept:</strong> Applies statistical and epidemiological rigor to controversial parenting topics (breast vs formula, sleep training, screens), debunking pervasive myths.
-          </p>
-          <div class="bg-slate-100 p-2 rounded text-[11px] text-slate-800">
-            <strong>Where Used:</strong> Modules 00, 16, and 20.
+        <!-- Book 9: No-Drama Discipline -->
+        <div class="card p-5 border-t-4 border-t-emerald-500 flex flex-col justify-between book-item" data-category="discipline">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-success">Teaching Not Punishing</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.21 (24k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">No-Drama Discipline</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Daniel J. Siegel & Tina Payne Bryson</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Discipline comes from Latin <em>disciplina</em> ("to teach"). Distinguishes between reactive punishment (timeouts) and relational teaching that builds executive prefrontal circuits.
+            </p>
+            <div class="bg-emerald-50/70 p-2.5 rounded text-[11px] text-emerald-900 mb-3 space-y-1">
+              <p><strong>Core Rule:</strong> Wait until the emotional storm passes before reviewing consequences or rules.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>09, 10, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
+          </div>
+        </div>
+
+        <!-- Book 10: Good Inside -->
+        <div class="card p-5 border-t-4 border-t-emerald-400 flex flex-col justify-between book-item" data-category="discipline">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-success">Internal Goodness</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.49 (42k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Good Inside</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. Becky Kennedy</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Every child is fundamentally "good inside"; misbehavior is a signal of dysregulation, not malicious intent. Clear boundaries paired with unconditional warmth.
+            </p>
+            <div class="bg-emerald-50/70 p-2.5 rounded text-[11px] text-emerald-900 mb-3 space-y-1">
+              <p><strong>Parent Boundary:</strong> "My job is to keep you safe and set the boundary; your job is to feel your feelings about that boundary."</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>08, 11, 21, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A-</span>
+          </div>
+        </div>
+
+        <!-- Book 11: Ross Greene -->
+        <div class="card p-5 border-t-4 border-t-emerald-300 flex flex-col justify-between book-item" data-category="discipline">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-success">Collaborative Problem Solving</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.27 (18k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">The Explosive Child</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. Ross W. Greene, PhD</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> <em>"Kids do well if they can."</em> Explosive behavior stems from lagging cognitive skills (flexibility, frustration tolerance), not poor motivation. Plan B collaborative problem solving.
+            </p>
+            <div class="bg-emerald-50/70 p-2.5 rounded text-[11px] text-emerald-900 mb-3 space-y-1">
+              <p><strong>Clinical Utility:</strong> Invaluable for neurodivergent (ADHD/Autism) and highly reactive children where conventional rewards fail.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>11, 13, 19, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
+          </div>
+        </div>
+
+        <!-- Book 12: Hunt, Gather, Parent -->
+        <div class="card p-5 border-t-4 border-t-teal-600 flex flex-col justify-between book-item" data-category="discipline">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-success">Cross-Cultural Autonomy</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.19 (26k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Hunt, Gather, Parent</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Michaeleen Doucleff, PhD</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Indigenous Maya, Inuit, and Hadza methods: TEAM model (Togetherness, Encouragement, Autonomy, Minimal interference), Inuit calm, integrating toddlers into real chores.
+            </p>
+            <div class="bg-teal-50/70 p-2.5 rounded text-[11px] text-teal-900 mb-3 space-y-1">
+              <p><strong>Cross-Cultural Proof:</strong> Eliminates artificial chore charts and adult anger; harnesses the innate toddler drive to belong and assist.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>07, 10, 23, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A-</span>
+          </div>
+        </div>
+
+        <!-- Book 13: Hunter Clarke-Fields -->
+        <div class="card p-5 border-t-4 border-t-teal-500 flex flex-col justify-between book-item" data-category="discipline">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-success">Mindful Self-Regulation</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.24 (11k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Raising Good Humans</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Hunter Clarke-Fields, MSAE</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Parental somatic self-regulation is the prerequisite for child co-regulation. Breaking generational cycles of reactivity; unhooking from automatic threat responses.
+            </p>
+            <div class="bg-teal-50/70 p-2.5 rounded text-[11px] text-teal-900 mb-3 space-y-1">
+              <p><strong>Practice:</strong> Stopping the parental amygdala hijack before reacting to toddler defiance.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>00, 19, 21, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: B+</span>
+          </div>
+        </div>
+
+        <!-- Book 14: Ellyn Satter -->
+        <div class="card p-5 border-t-4 border-t-amber-600 flex flex-col justify-between book-item" data-category="feeding">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-warning">Feeding Gold Standard</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.23 (3.5k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Child of Mine: Feeding with Love & Good Sense</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Ellyn Satter, MS, RD, LCSW</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> The <em>Division of Responsibility in Feeding (sDOR)</em>: Parent chooses WHAT, WHEN, WHERE; Child chooses WHETHER and HOW MUCH. Respects internal satiety signals.
+            </p>
+            <div class="bg-amber-50/70 p-2.5 rounded text-[11px] text-amber-900 mb-3 space-y-1">
+              <p><strong>Clinical Endorsement:</strong> Endorsed by AAP and Academy of Nutrition and Dietetics. Prevents childhood eating disorders and mealtime battles.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>05, 15, 24, Diet Guide</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A+</span>
+          </div>
+        </div>
+
+        <!-- Book 15: Rapley & Murkett (BLW) -->
+        <div class="card p-5 border-t-4 border-t-amber-500 flex flex-col justify-between book-item" data-category="feeding">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-warning">Baby-Led Weaning</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.02 (16k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Baby-Led Weaning</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Gill Rapley, PhD & Tracey Murkett</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Skipping purees to offer soft whole finger foods from 6 months. Fosters oral motor dexterity, hand-eye coordination, and self-paced caloric regulation.
+            </p>
+            <div class="bg-amber-50/70 p-2.5 rounded text-[11px] text-amber-900 mb-3 space-y-1">
+              <p><strong>Pediatric Caveat:</strong> The BLISS randomized trial proved BLW does not increase choking, BUT low-weight babies on strict BLW risk iron/calorie deficits. Our guide recommends a <strong>hybrid model</strong>.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>05, 15, Diet Guide</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: B+</span>
+          </div>
+        </div>
+
+        <!-- Book 16: Rowell & McGlothlin -->
+        <div class="card p-5 border-t-4 border-t-amber-400 flex flex-col justify-between book-item" data-category="feeding">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-warning">Extreme Picky Eating</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.38 (1.4k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Helping Your Child with Extreme Picky Eating</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Katja Rowell, MD & Jenny McGlothlin, SLP</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Addresses sensory food aversion and ARFID (Avoidant/Restrictive Food Intake Disorder). Systematic steps to remove mealtime anxiety and heal oral sensory defensiveness.
+            </p>
+            <div class="bg-amber-50/70 p-2.5 rounded text-[11px] text-amber-900 mb-3 space-y-1">
+              <p><strong>Clinical Principle:</strong> Pressure kills appetite. Children cannot chew or swallow unfamiliar textures when experiencing fight-or-flight arousal.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>07, 15, 24</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
+          </div>
+        </div>
+
+        <!-- Book 17: Bee Wilson -->
+        <div class="card p-5 border-t-4 border-t-amber-300 flex flex-col justify-between book-item" data-category="feeding">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-warning">Palate Formation</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 3.92 (8.5k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">First Bite: How We Learn to Eat</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Bee Wilson</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Food preferences are learned neurobiological associations, not innate genetic destinies. The critical flavor window opens in the 4–7 month stage via amniotic fluid and breastmilk.
+            </p>
+            <div class="bg-amber-50/70 p-2.5 rounded text-[11px] text-amber-900 mb-3 space-y-1">
+              <p><strong>Evidence Fact:</strong> It takes 10–15 neutral, pressure-free exposures for an infant or toddler brain to accept a bitter vegetable flavor.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>05, 15</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A-</span>
+          </div>
+        </div>
+
+        <!-- Book 18: Gopnik (Scientist) -->
+        <div class="card p-5 border-t-4 border-t-violet-600 flex flex-col justify-between book-item" data-category="cognition">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Cognitive Science</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.04 (3.1k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">The Scientist in the Crib</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Alison Gopnik, Andrew Meltzoff, Patricia Kuhl</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Breakthrough lab proofs that infants are active Bayesian statisticians: calculating probabilities, testing causal physics (gravity/dropping), and decoding phonemes.
+            </p>
+            <div class="bg-violet-50/70 p-2.5 rounded text-[11px] text-violet-900 mb-3 space-y-1">
+              <p><strong>Parent Application:</strong> A baby repeatedly dropping a spoon is testing gravitational mechanics, not defying parental authority.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>01, 04, 05, 22</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A+</span>
+          </div>
+        </div>
+
+        <!-- Book 19: Gopnik (Gardener) -->
+        <div class="card p-5 border-t-4 border-t-violet-500 flex flex-col justify-between book-item" data-category="cognition">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Philosophy of Parenting</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.14 (8.9k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">The Gardener and the Carpenter</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Alison Gopnik, PhD</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Rejects "carpentry" (trying to shape a child into a specific adult product); advocates "gardening" (creating a rich, secure, biodiverse ecosystem for self-directed growth).
+            </p>
+            <div class="bg-violet-50/70 p-2.5 rounded text-[11px] text-violet-900 mb-3 space-y-1">
+              <p><strong>Core Warning:</strong> Hyper-programmed "tiger parenting" undermines exploratory play and psychological adaptability.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>00, 17, 22</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
+          </div>
+        </div>
+
+        <!-- Book 20: John Medina -->
+        <div class="card p-5 border-t-4 border-t-violet-400 flex flex-col justify-between book-item" data-category="cognition">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Neuroscience for Parents</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.13 (15k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Brain Rules for Baby</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. John Medina (Molecular Biologist)</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Peer-reviewed neuroscience rules: Marital harmony is brain fuel, open-ended play beats smart toys, emotion coaching builds IQ, and executive function predicts life outcomes.
+            </p>
+            <div class="bg-violet-50/70 p-2.5 rounded text-[11px] text-violet-900 mb-3 space-y-1">
+              <p><strong>Debunked:</strong> "Baby Einstein" DVDs and screen flashcards provide zero cognitive benefit and delay vocabulary acquisition.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>01, 15, 17, 22</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
+          </div>
+        </div>
+
+        <!-- Book 21: Carol Dweck -->
+        <div class="card p-5 border-t-4 border-t-rose-500 flex flex-col justify-between book-item" data-category="cognition">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-danger">Growth Mindset</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.10 (145k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Mindset: The New Psychology of Success</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. Carol S. Dweck, PhD</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Praising innate intelligence ("You're so smart!") creates a brittle, risk-averse Fixed Mindset; praising process, effort, and strategy fosters a Growth Mindset.
+            </p>
+            <div class="bg-rose-50/70 p-2.5 rounded text-[11px] text-rose-900 mb-3 space-y-1">
+              <p><strong>Script:</strong> "You worked hard figuring out that puzzle piece" beats "You're a genius."</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>12, 13, 22</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
+          </div>
+        </div>
+
+        <!-- Book 22: Peter Gray -->
+        <div class="card p-5 border-t-4 border-t-sky-500 flex flex-col justify-between book-item" data-category="cognition">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-primary">Evolutionary Play</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.29 (5.8k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Free to Learn</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. Peter Gray (Evolutionary Psychologist)</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Hunter-gatherer anthropology and developmental psychology prove that self-directed, mixed-age free play is how mammals develop empathy, social negotiation, and emotional control.
+            </p>
+            <div class="bg-sky-50/70 p-2.5 rounded text-[11px] text-sky-900 mb-3 space-y-1">
+              <p><strong>Diagnosis:</strong> The modern decline in unsupervised free play directly correlates with the multi-decade rise in adolescent mental disorders.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>11, 17, 22</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A-</span>
+          </div>
+        </div>
+
+        <!-- Book 23: Jonathan Haidt -->
+        <div class="card p-5 border-t-4 border-t-sky-600 flex flex-col justify-between book-item" data-category="cognition">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-primary">Screen Science & Autonomy</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.54 (55k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">The Anxious Generation</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Jonathan Haidt, PhD (Social Psychologist)</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Documents "The Great Rewiring": transitioning from a play-based childhood to a phone-based childhood. Society overprotects in the real world and underprotects online.
+            </p>
+            <div class="bg-sky-50/70 p-2.5 rounded text-[11px] text-sky-900 mb-3 space-y-1">
+              <p><strong>4 Foundational Norms:</strong> 1. No smartphones before high school; 2. No social media before 16; 3. Phone-free schools; 4. Restore real-world unsupervised free play.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>14, 18, 23</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
+          </div>
+        </div>
+
+        <!-- Book 24: Alexis Dubief -->
+        <div class="card p-5 border-t-4 border-t-purple-600 flex flex-col justify-between book-item" data-category="sleep">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Modern Sleep Mechanics</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.31 (12k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Precious Little Sleep</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Alexis Dubief</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Sleep associations and the "Disappearing Pillow" metaphor. Outlines SWAP (Sleep With Assistance Plans for &lt;6m) and SLIP (Independent Parenting methods for 6+m).
+            </p>
+            <div class="bg-purple-50/70 p-2.5 rounded text-[11px] text-purple-900 mb-3 space-y-1">
+              <p><strong>Practical Insight:</strong> Distinguishes hunger waking from settling waking based on circadian drive and bedtime sleep props.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>03, 04, 05, 16</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
+          </div>
+        </div>
+
+        <!-- Book 25: Ferber / Weissbluth / Oster -->
+        <div class="card p-5 border-t-4 border-t-purple-500 flex flex-col justify-between book-item" data-category="sleep">
+          <div>
+            <div class="flex items-center justify-between mb-2">
+              <span class="badge badge-purple">Sleep Science Classics</span>
+              <span class="text-[11px] font-bold text-amber-600">⭐ 4.23 (Oster 52k reviews)</span>
+            </div>
+            <h3 class="font-bold text-slate-900 text-sm mb-1">Ferber, Weissbluth & Oster (Cribsheet)</h3>
+            <p class="text-[11px] text-slate-500 mb-2">Dr. Richard Ferber / Dr. Marc Weissbluth / Emily Oster</p>
+            <p class="text-xs text-slate-700 leading-relaxed mb-2">
+              <strong>Core Concept:</strong> Ferber's progressive waiting intervals, Weissbluth's biological nap windows & overtired cortisol prevention, and Oster's data-driven meta-analysis.
+            </p>
+            <div class="bg-purple-50/70 p-2.5 rounded text-[11px] text-purple-900 mb-3 space-y-1">
+              <p><strong>Long-Term Evidence:</strong> Randomised trials with 5-year follow-up confirm sleep training does not harm attachment or emotional health, while significantly reducing maternal depression.</p>
+            </div>
+          </div>
+          <div class="text-[11px] text-slate-500 border-t border-slate-100 pt-2 flex items-center justify-between">
+            <span>Modules: <strong>00, 16, 20</strong></span>
+            <span class="text-indigo-600 font-semibold">Evidence Grade: A</span>
           </div>
         </div>
 
@@ -1157,6 +1610,29 @@
         btnSide.classList.add('bg-white', 'shadow-sm', 'font-bold', 'text-slate-900');
         btnSide.classList.remove('text-slate-600');
       }
+    }
+
+    function filterBooks(category) {
+      const books = document.querySelectorAll('.book-item');
+      const filterBtns = document.querySelectorAll('.book-filter-btn');
+
+      filterBtns.forEach(btn => {
+        if (btn.getAttribute('data-filter') === category) {
+          btn.classList.add('bg-indigo-600', 'text-white', 'shadow-sm');
+          btn.classList.remove('bg-slate-100', 'text-slate-700');
+        } else {
+          btn.classList.remove('bg-indigo-600', 'text-white', 'shadow-sm');
+          btn.classList.add('bg-slate-100', 'text-slate-700');
+        }
+      });
+
+      books.forEach(b => {
+        if (category === 'all' || b.getAttribute('data-category') === category) {
+          b.classList.remove('hidden');
+        } else {
+          b.classList.add('hidden');
+        }
+      });
     }
 
     // Initial run

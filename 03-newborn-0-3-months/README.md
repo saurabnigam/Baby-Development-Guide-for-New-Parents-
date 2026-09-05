@@ -106,6 +106,20 @@ Nothing bad happens to a baby who cries in a safe space for ten minutes. Somethi
 
 **Never shake a baby.** Even briefly. Even out of desperation rather than anger. Shaking can cause bleeding in the brain, permanent brain injury, blindness, or death. There is no safe amount.
 
+---
+
+### Practical Soothing Tools: The "5 S's" & Critical Safety Boundaries
+
+Pediatrician Dr. Harvey Karp (*The Happiest Baby on the Block*) popularized the concept of the **"4th Trimester"**, observing that newborns enter the world sensory-underprepared and retain an innate **Calming Reflex** triggered by sensations replicating the womb:
+
+| The "S" | How It Works | **Critical Pediatric Safety Boundary (AAP 2022)** |
+| :--- | :--- | :--- |
+| **1. Swaddle** | Snug wrapping provides boundaries, dampening the startling Moro reflex. | **Stop immediately when rolling starts:** The moment your baby shows any attempt to roll (~8–12 weeks), swaddling must stop completely. Hands must be free. Never use weighted swaddles. |
+| **2. Side or Stomach** | Holding baby on their side or tummy across your forearm activates the calming reflex. | **ONLY while held awake in an adult's arms:** Side/stomach positioning is **never safe in a cot or bassinet**. Sleep must ALWAYS be exclusively on the back on a flat, firm surface. |
+| **3. Shush** | White noise mimics the rushing sound of blood through the uterine arteries. | Keep sound machines $\le 65\text{ dB}$, placed at least 7 feet (2 metres) away from the baby's ears. |
+| **4. Swing** | Gentle, rhythmic bobbing mimics uterine motion when the parent walked. | Support the heavy newborn head at all times. Never shake, jar, or use aggressive movement. |
+| **5. Suck** | Non-nutritive sucking releases oxytocin and lowers infant heart rate. | Offer a clean dummy/pacifier. If breastfeeding, you may wait 3–4 weeks until latch is established, though early pacifier use has no proven harm once feeding is progressing. |
+
 ## Tell everyone else, out loud
 
 This is the part people skip. Say it explicitly to every single person who will ever be alone with your baby — partner, grandparents, babysitter, anyone:

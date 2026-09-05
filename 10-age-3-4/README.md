@@ -192,11 +192,17 @@ In books and in life:
 
 **Teach these when nothing is wrong.** A tool introduced mid-meltdown gets rejected, and then it's contaminated.
 
-### 6. Talk during real tasks
+### 6. Involve in real household tasks (The TEAM Model)
 
-Cooking, washing up, walking, shopping, gardening.
+Washing vegetables, wiping the table, folding small towels, sweeping, sorting laundry.
 
-**Why:** vocabulary in real context, and this is where "decontextualised" talk starts — talking about things that aren't in front of you, which is the language school runs on.
+**Why:** In *Hunt, Gather, Parent*, Michaeleen Doucleff documents how Indigenous Maya, Inuit, and Hadza cultures raise helpful, cooperative preschoolers without yelling or bribes. Instead of treating parenting as 24/7 child-centered entertainment, they integrate young children directly into daily adult chores using the **TEAM Model**:
+- **Togetherness:** Do chores side-by-side as a family unit rather than assigning isolated chore tasks.
+- **Encouragement:** Acknowledge genuine contributions without artificial gold stars or inflated praise.
+- **Autonomy:** Let the child perform the task their own way without constantly jumping in to "correct" small imperfections.
+- **Minimal interference:** Step back and resist micromanaging; allow them to experience real competence.
+
+Preschoolers who regularly participate in genuine household tasks develop superior executive function, social initiative, and intrinsic family responsibility. More in [Module 23 (Life Skills)](../23-life-skills-critical-moments/README.md).
 
 ---
 

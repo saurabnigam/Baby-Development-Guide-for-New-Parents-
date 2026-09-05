@@ -156,8 +156,11 @@ Every one of these appears constantly in parenting content. Several appeared in 
 | **"Delay peanuts and eggs to prevent allergy"** | **Reversed.** Early introduction reduces allergy substantially. [The trial](../05-infant-6-9-months/README.md#allergens-the-advice-has-reversed) |
 | **"Crawling is a milestone"** | Removed from CDC checklists. 4.3% of healthy children never crawl on hands and knees |
 | **"Baby walkers help babies walk"** | They don't, and may delay it. ~230,000 US emergency visits over 25 years. Banned in Canada. [More](../06-infant-9-12-months/README.md#sit-in-baby-walkers-please-dont) |
+| **"All babies go through 10 strictly timed 'mental leaps' (The Wonder Weeks)"** | **Failed replication.** A detailed longitudinal attempt to replicate the fixed calendar leaps (de Weerth, 1997) found no statistical evidence for fixed weekly timing. Development is non-linear and individualized; rigid leap calendars act like a "baby horoscope" and generate unnecessary parental anxiety. [Full analysis](../parent-toolkit/popular-books-and-literature-correlation.md#25-the-wonder-weeks-a-critical-examination) |
 
 **The pattern worth noticing:** the sticky claims are the dramatic ones. A finding that says *this one thing determines your child's future* travels much further than *it's complicated and the effect is modest*. Be suspicious of parenting advice that is very confident and very simple.
+
+For our complete 25-book analysis with Goodreads ratings and scientific breakdowns, see the **[Master Correlation Guide: Popular Parenting Books & Scientific Consensus](../parent-toolkit/popular-books-and-literature-correlation.md)**.
 
 ---
 
