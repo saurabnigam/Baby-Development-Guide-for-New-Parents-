@@ -142,6 +142,7 @@ If you want to use this guide like a structured program instead of a reference l
 - [**Life Skills Tracker**](parent-toolkit/life-skills-tracker.md) — introduced / with help / alone / unprompted, across every skill in Module 23
 - [**Infant Diet Charts & Growth Guide**](parent-toolkit/infant-diet-charts-and-growth-guide.md) — WHO percentiles (0–24m), 6m+ stage diet charts, normal vs. special care feeding, MCT powder & supplement protocols
 - [**Popular Books & Literature Correlation**](parent-toolkit/popular-books-and-literature-correlation.md) — 25 best-selling parenting books cross-correlated against clinical research and guide chapters
+- [**WhatsApp Quick-Reference Cards**](parent-toolkit/whatsapp-quick-reference-cards.md) — ready-to-copy mobile snippets for daily schedules, supplements, recipes, and soothing SOS
 - [**Interactive Web Dashboard**](index.html) — standalone browser application with interactive WHO percentile calculator, feeding comparator, and recipe guides
 
 This is the practical layer: what to focus on, what to watch for, and what to do next.

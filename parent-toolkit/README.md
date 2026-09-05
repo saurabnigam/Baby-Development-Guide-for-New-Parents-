@@ -94,6 +94,16 @@ An exhaustive cross-correlation of 25 best-selling parenting and child psycholog
 - Scientific consensus fact-checks (e.g. *The Wonder Weeks* replication failure, AAP swaddling safety boundaries for the "5 S's", pure BLW vs. hybrid feeding, sleep training 5-year cortisol outcomes)
 - Actionable clinical takeaways for parents
 
+### 9. [WhatsApp Quick-Reference Cards](whatsapp-quick-reference-cards.md)
+
+Pre-formatted, mobile-friendly WhatsApp cards designed for effortless sharing and pinning:
+- How to add the live dashboard to phone home screen in 10 seconds (PWA bookmark)
+- 6–9 months daily feeding and solids routine (times, milk volumes, solid meals)
+- Pediatric supplement & MCT powder checklist (morning Hemfer, 800 IU Vitamin D, MCT mixing)
+- 5-minute high-calorie baby growth recipes
+- Fussy evening soothing SOS (Harvey Karp 5 S's + safe sleep)
+- Pediatrician checkup question checklist
+
 ---
 
 ## Fastest Ways to Use This Toolkit
