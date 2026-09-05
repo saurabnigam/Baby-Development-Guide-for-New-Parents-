@@ -103,6 +103,9 @@
     <button onclick="switchTab('tab-recipes')" id="btn-tab-recipes" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 transition">
       🥑 7 Energy-Dense Recipes
     </button>
+    <button onclick="switchTab('tab-books')" id="btn-tab-books" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 transition">
+      📚 Popular Books & Evidence
+    </button>
   </nav>
 
   <!-- ================================================================================== -->
@@ -859,6 +862,138 @@
           <p class="text-slate-700 text-xs mb-2"><strong>Prep:</strong> Cook red lentils and spinach until soft. Blend into a thick mash and drizzle with extra virgin olive oil.</p>
           <div class="text-[11px] text-emerald-900 bg-emerald-50 p-2 rounded">
             <strong>Benefit:</strong> High plant iron paired with carotenoids and gut-friendly fats.
+          </div>
+        </div>
+
+  <!-- ================================================================================== -->
+  <!-- TAB 7: POPULAR BOOKS & LITERATURE REFERENCES -->
+  <!-- ================================================================================== -->
+  <div id="tab-books" class="tab-content hidden space-y-6">
+    <div class="card p-6">
+      <div class="mb-4">
+        <h2 class="text-xl font-bold text-slate-900 flex items-center gap-2">
+          <span class="w-2.5 h-6 bg-indigo-600 rounded-full inline-block"></span>
+          Popular Books & Scientific Foundations
+        </h2>
+        <p class="text-slate-600 text-xs mt-1">Key concepts from the world's most influential parenting, neuroscience, feeding, and psychology books referenced in this guide.</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        
+        <!-- Category 1: Brain Science & EQ -->
+        <div class="card p-5 border-t-4 border-t-blue-500">
+          <span class="badge badge-primary mb-2">Brain Science & EQ</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">The Whole-Brain Child</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Dr. Daniel J. Siegel & Dr. Tina Payne Bryson</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> Upstairs (prefrontal cortex) vs downstairs (amygdala) brain. Establishes the clinical rule: <em>"Connect before you redirect"</em> — soothing emotional distress before expecting logic.
+          </p>
+          <div class="bg-blue-50 p-2 rounded text-[11px] text-blue-900">
+            <strong>Where Used:</strong> Modules 08, 21, and 24.
+          </div>
+        </div>
+
+        <!-- Book 2: Gottman -->
+        <div class="card p-5 border-t-4 border-t-indigo-500">
+          <span class="badge badge-purple mb-2">Emotion Coaching</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Raising an Emotionally Intelligent Child</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Dr. John Gottman</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> Longitudinal proof that parents who coach negative emotions (rather than dismissing or punishing them) foster higher vagal tone and superior physiological regulation.
+          </p>
+          <div class="bg-indigo-50 p-2 rounded text-[11px] text-indigo-900">
+            <strong>Where Used:</strong> Modules 08, 21, and 24.
+          </div>
+        </div>
+
+        <!-- Book 3: Faber & King -->
+        <div class="card p-5 border-t-4 border-t-emerald-500">
+          <span class="badge badge-success mb-2">Communication & Scripts</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">How to Talk So Little Kids Will Listen</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Joanna Faber & Julie King / Faber & Mazlish</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> Descriptive praise, acknowledging frustration before giving instructions, and using playfulness to dismantle toddler defiance without threats or bribes.
+          </p>
+          <div class="bg-emerald-50 p-2 rounded text-[11px] text-emerald-900">
+            <strong>Where Used:</strong> Modules 09, 10, and 24.
+          </div>
+        </div>
+
+        <!-- Book 4: Ellyn Satter -->
+        <div class="card p-5 border-t-4 border-t-amber-500">
+          <span class="badge badge-warning mb-2">Feeding Gold Standard</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Child of Mine: Feeding with Love & Sense</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Ellyn Satter, MS, RD, LCSW</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> The <em>Division of Responsibility</em> in feeding: Parent chooses <strong>WHAT, WHEN, WHERE</strong>; Child chooses <strong>WHETHER and HOW MUCH</strong>. Eliminates mealtime battles.
+          </p>
+          <div class="bg-amber-50 p-2 rounded text-[11px] text-amber-900">
+            <strong>Where Used:</strong> Modules 05, 15, 24, and Diet Guide.
+          </div>
+        </div>
+
+        <!-- Book 5: Alison Gopnik -->
+        <div class="card p-5 border-t-4 border-t-teal-500">
+          <span class="badge badge-primary mb-2">Cognitive Science & IQ</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">The Scientist in the Crib</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Alison Gopnik, Andrew Meltzoff, Patricia Kuhl</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> Proves babies use statistical Bayesian inference and trial-and-error motor experiments (dropping spoons, object tracking) as active mini-scientists.
+          </p>
+          <div class="bg-teal-50 p-2 rounded text-[11px] text-teal-900">
+            <strong>Where Used:</strong> Modules 01, 05, and 22.
+          </div>
+        </div>
+
+        <!-- Book 6: Carol Dweck -->
+        <div class="card p-5 border-t-4 border-t-rose-500">
+          <span class="badge badge-danger mb-2">Growth Mindset</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Mindset: The New Psychology of Success</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Dr. Carol S. Dweck</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> Praising innate intelligence produces fragile perfectionism; praising effort, process, and strategy fosters persistence and neuroplastic cognitive growth.
+          </p>
+          <div class="bg-rose-50 p-2 rounded text-[11px] text-rose-900">
+            <strong>Where Used:</strong> Modules 12 and 22.
+          </div>
+        </div>
+
+        <!-- Book 7: Peter Gray -->
+        <div class="card p-5 border-t-4 border-t-sky-500">
+          <span class="badge badge-primary mb-2">Play-Based Learning</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Free to Learn</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Dr. Peter Gray</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> Evolutionary and psychological evidence that unstructured, self-directed play is the primary vehicle for developing initiative and social competence.
+          </p>
+          <div class="bg-sky-50 p-2 rounded text-[11px] text-sky-900">
+            <strong>Where Used:</strong> Modules 17 and 22.
+          </div>
+        </div>
+
+        <!-- Book 8: Richard Ferber & Marc Weissbluth -->
+        <div class="card p-5 border-t-4 border-t-purple-500">
+          <span class="badge badge-purple mb-2">Sleep Physiology</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Solve Your Child's Sleep Problems / Healthy Sleep Habits</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Dr. Richard Ferber / Dr. Marc Weissbluth</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> Circadian rhythms, sleep associations, and preventing overtired cortisol surges. Night waking is physiological; self-settling associations enable consolidation.
+          </p>
+          <div class="bg-purple-50 p-2 rounded text-[11px] text-purple-900">
+            <strong>Where Used:</strong> Module 16 (Sleep Science).
+          </div>
+        </div>
+
+        <!-- Book 9: Emily Oster -->
+        <div class="card p-5 border-t-4 border-t-slate-500">
+          <span class="badge badge-warning mb-2">Data-Driven Parenting</span>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Cribsheet</h3>
+          <p class="text-[11px] text-slate-500 mb-2">Emily Oster</p>
+          <p class="text-xs text-slate-700 leading-relaxed mb-3">
+            <strong>Core Concept:</strong> Applies statistical and epidemiological rigor to controversial parenting topics (breast vs formula, sleep training, screens), debunking pervasive myths.
+          </p>
+          <div class="bg-slate-100 p-2 rounded text-[11px] text-slate-800">
+            <strong>Where Used:</strong> Modules 00, 16, and 20.
           </div>
         </div>
 

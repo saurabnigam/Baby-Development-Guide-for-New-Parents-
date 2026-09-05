@@ -71,24 +71,68 @@ If you want to check a claim rather than take someone's word for it:
 
 ---
 
-## Books
+## Books: Key References & Recommended Reading
 
-Read critically, and expect to disagree with parts. No book replaces professional help when something is genuinely wrong.
+This guide draws heavily on seminal parenting, developmental psychology, neuroscience, and pediatric nutrition books. Below is a curated, annotated guide to the most influential titles referenced throughout this curriculum, what they are known for, and where their core models appear in this guide.
 
-**Understanding children**
-- *The Whole-Brain Child* — Siegel & Bryson
-- *How to Talk So Little Kids Will Listen* — Faber & King. The most immediately practical book on this list
-- *The Scientist in the Crib* — Gopnik, Meltzoff & Kuhl
-- *Becoming Attached* — Robert Karen, on attachment research and its history
+Read critically, and expect to disagree with parts. No book replaces individualized clinical guidance when an infant has medical or developmental concerns.
 
-**Behaviour**
-- *No-Drama Discipline* — Siegel & Bryson
+---
 
-**Feeding**
-- *Child of Mine* — Ellyn Satter, the source of the Division of Responsibility used throughout this guide
-- *Helping Your Child with Extreme Picky Eating* — Rowell & McGlothlin
+### 1. Child Brain Development & Emotional Regulation (EQ)
 
-> **A caveat on the sleep and parenting shelf generally.** Popular parenting books vary enormously in how much evidence sits behind them, and confident tone is not a proxy for evidence. Where this guide cites research, the link is there — check it. Where a book asserts something with no source, treat it as one experienced person's opinion, which is worth something but isn't the same thing.
+| Book & Authors | Core Scientific Contribution | Where It Appears in This Guide |
+| :--- | :--- | :--- |
+| ***The Whole-Brain Child*<br>Dr. Daniel J. Siegel & Dr. Tina Payne Bryson** | Explains the neurobiology of the **"upstairs brain" (prefrontal cortex)** vs. the **"downstairs brain" (amygdala/limbic system)**. Establishes the core clinical rule: **"Connect before you redirect"** — dysregulated emotions must be soothed before a child can access logic. | • [Module 08 (18–24m)](../08-toddler-18-24-months/README.md)<br>• [Module 21 (Building EQ)](../21-building-eq/README.md)<br>• [Module 24 (Discipline)](../24-behaviour-and-discipline/README.md) |
+| ***Raising an Emotionally Intelligent Child*<br>Dr. John Gottman** | Groundbreaking longitudinal research on **Emotion Coaching**. Distinguishes Emotion-Coaching parents (who validate feelings and guide problem-solving) from Dismissing, Disapproving, or Laissez-Faire parents, proving coached children exhibit higher vagal tone and superior executive self-regulation. | • [Module 08 (18–24m)](../08-toddler-18-24-months/README.md)<br>• [Module 21 (Building EQ)](../21-building-eq/README.md)<br>• [Module 24 (Discipline)](../24-behaviour-and-discipline/README.md) |
+| ***The Boy Who Was Raised as a Dog*<br>Dr. Bruce Perry & Maia Szalavitz** | Defines the **Neurosequential Model of Therapeutics**. Demonstrates that brain development occurs from bottom-up (brainstem $\to$ limbic $\to$ cortex). Formulates the universal co-regulation sequence: **Regulate $\rightarrow$ Relate $\rightarrow$ Reason**. | • [Module 01 (Brain Science)](../01-brain-science-fundamentals/README.md)<br>• [Module 21 (Building EQ)](../21-building-eq/README.md) |
+| ***Becoming Attached*<br>Robert Karen** | The definitive history and clinical summary of John Bowlby and Mary Ainsworth's **Attachment Theory**, the Strange Situation experiments, and how consistent maternal sensitivity shapes internal working models of security. | • [Module 02 (Milestones)](../02-milestones-overview/README.md)<br>• [Module 06 (9–12m)](../06-infant-9-12-months/README.md)<br>• [Module 21 (Building EQ)](../21-building-eq/README.md) |
+
+---
+
+### 2. Communication, Discipline & Daily Behavior
+
+| Book & Authors | Core Practical Contribution | Where It Appears in This Guide |
+| :--- | :--- | :--- |
+| ***How to Talk So Little Kids Will Listen*<br>Joanna Faber & Julie King**<br>*(and the classic by Adele Faber & Elaine Mazlish)* | The most immediately usable communication playbook in early childhood. Teaches non-punitive collaboration: **descriptive praise**, acknowledging frustration before giving instructions, offering constrained choices, and using playfulness to bypass toddler oppositional defiance. | • [Module 09 (Age 2–3)](../09-age-2-3/README.md)<br>• [Module 10 (Age 3–4)](../10-age-3-4/README.md)<br>• [Module 24 (Discipline)](../24-behaviour-and-discipline/README.md) |
+| ***No-Drama Discipline*<br>Dr. Daniel J. Siegel & Dr. Tina Payne Bryson** | Reframes discipline from its Latin root *disciplina* (**"to teach"**, not to punish). Demonstrates why time-outs often trigger abandonment panic rather than reflection, and offers a two-step framework: 1) Connect emotionally to downregulate cortisol, 2) Redirect cognitively once calm. | • [Module 24 (Behaviour & Discipline)](../24-behaviour-and-discipline/README.md) |
+| ***Good Inside*<br>Dr. Becky Kennedy** | Centers on the premise that children (and parents) are fundamentally "good inside", and that behavioral meltdowns represent dysregulation rather than identity or defiance. Teaches parents to hold firm boundaries without withdrawing love or connection. | • [Module 19 (Common Challenges)](../19-common-challenges/README.md)<br>• [Module 24 (Discipline)](../24-behaviour-and-discipline/README.md) |
+| ***The Explosive Child*<br>Dr. Ross Greene** | Introduces the **Collaborative & Proactive Solutions (CPS)** model. Core insight: *"Kids do well if they can"* — behavioral crises occur when situational demands exceed a child's lagging cognitive flexibility or frustration tolerance skills. | • [Module 19 (Common Challenges)](../19-common-challenges/README.md)<br>• [Module 24 (Discipline)](../24-behaviour-and-discipline/README.md) |
+
+---
+
+### 3. Pediatric Feeding, Solids & Nutrition
+
+| Book & Authors | Core Clinical Contribution | Where It Appears in This Guide |
+| :--- | :--- | :--- |
+| ***Child of Mine: Feeding with Love and Good Sense*<br>Ellyn Satter, MS, RD, LCSW** | The clinical gold standard of infant and child feeding. Formulates the **Division of Responsibility in Feeding**: The parent decides **WHAT, WHEN, and WHERE** food is offered; the child decides **WHETHER and HOW MUCH** to eat. Prevents picky eating and power struggles. | • [Module 05 (6–9m)](../05-infant-6-9-months/README.md)<br>• [Module 15 (Nutrition)](../15-nutrition-brain-development/README.md)<br>• [Module 24 (Part 7)](../24-behaviour-and-discipline/README.md)<br>• [Infant Diet Guide](../parent-toolkit/infant-diet-charts-and-growth-guide.md) |
+| ***Helping Your Child with Extreme Picky Eating*<br>Dr. Katja Rowell & Jenny McGlothlin, SLP** | Provides a step-by-step clinical roadmap to step down mealtimes from battles. Analyzes sensory processing sensitivities, oral motor coordination challenges, and why pressuring children to take "one more bite" suppresses natural appetite. | • [Module 15 (Nutrition)](../15-nutrition-brain-development/README.md)<br>• [Module 24 (Discipline)](../24-behaviour-and-discipline/README.md) |
+| ***First Bite: How We Learn to Eat*<br>Bee Wilson** | Explores the psychology and cultural neuroscience of taste development. Details how infant flavor acceptance is established in the 6–12 month "flavor window" and how repeated neutral exposures (10–15 tries) overcome neophobia. | • [Module 05 (6–9m)](../05-infant-6-9-months/README.md)<br>• [Module 15 (Nutrition)](../15-nutrition-brain-development/README.md) |
+
+---
+
+### 4. Cognitive Science, Curiosity, Play & IQ
+
+| Book & Authors | Core Scientific Contribution | Where It Appears in This Guide |
+| :--- | :--- | :--- |
+| ***The Scientist in the Crib*<br>Alison Gopnik, Andrew N. Meltzoff & Patricia K. Kuhl** | Synthesizes modern developmental cognitive science to prove that babies are natural scientists from birth, using Bayesian statistical inference and trial-and-error motor experiments (dropping spoons, testing gravity) to construct mental models of the world. | • [Module 01 (Brain Science)](../01-brain-science-fundamentals/README.md)<br>• [Module 05 (6–9m)](../05-infant-6-9-months/README.md)<br>• [Module 22 (Building IQ)](../22-building-iq/README.md) |
+| ***Free to Learn*<br>Dr. Peter Gray** | Biological and evolutionary evidence proving that **self-directed, unstructured play** is children's primary vehicle for developing initiative, intrinsic motivation, executive functioning, and social peer regulation. | • [Module 17 (Play-Based Learning)](../17-play-based-learning/README.md)<br>• [Module 22 (Building IQ)](../22-building-iq/README.md) |
+| ***Mindset: The New Psychology of Success*<br>Dr. Carol S. Dweck** | Foundational research contrasting a **Fixed Mindset** (belief that intelligence is static) with a **Growth Mindset** (belief that abilities develop through effort and strategy). Proves that praising innate intelligence promotes fragility, whereas praising strategy and effort builds resilience. | • [Module 12 (Age 5–7)](../12-age-5-7/README.md)<br>• [Module 22 (Building IQ)](../22-building-iq/README.md) |
+
+---
+
+### 5. Sleep Science & Pediatric Practice
+
+| Book & Authors | Core Clinical Contribution | Where It Appears in This Guide |
+| :--- | :--- | :--- |
+| ***Solve Your Child's Sleep Problems*<br>Dr. Richard Ferber** | Explains circadian biology, sleep onset associations, and graduated extinction ("the Ferber method"). Emphasizes that night awakenings are normal, but learning independent sleep associations is key for consolidated sleep. | • [Module 16 (Sleep Science)](../16-sleep-and-development/README.md) |
+| ***Healthy Sleep Habits, Happy Child*<br>Dr. Marc Weissbluth, MD** | Pediatric clinical guide to sleep architecture, biological sleep rhythms, and preventing the overtired state where sleep deprivation elevates cortisol and adrenaline, paradoxically preventing sleep. | • [Module 16 (Sleep Science)](../16-sleep-and-development/README.md) |
+| ***Cribsheet*<br>Emily Oster** | An economist's data-driven, statistical evaluation of parenting controversies (breastfeeding benefits vs. formula, sleep training outcomes, allergy introduction timelines, screen effects), distinguishing real causal effects from confounding variables. | • [Module 00 (Prerequisites)](../00-prerequisites/README.md)<br>• [Module 16 (Sleep)](../16-sleep-and-development/README.md)<br>• [Module 20 (Resources)](../20-resources-faq/README.md) |
+
+---
+
+> **A Note on Critical Reading:**  
+> Popular parenting books vary enormously in the rigor of their evidence base. In this curriculum, we use these books for their **tested practical scripts, structural frameworks, and clinical insights**, while always verifying their scientific assertions against peer-reviewed systematic reviews (Cochrane, PubMed) and established clinical guidelines (AAP, WHO, ESPGHAN). Where a popular book's assertion lacks empirical replication, we point it out honestly.
 
 ---
 
