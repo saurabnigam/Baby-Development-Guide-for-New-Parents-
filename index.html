@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infant Growth, Diet & Clinical Nutrition Dashboard (0–24 Months)</title>
+  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
+  <style>
+    :root {
+      --primary: #0284c7;
+      --primary-dark: #0369a1;
+      --secondary: #0d9488;
+      --accent: #f59e0b;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text-main);
+      margin: 0;
+      padding: 0;
+    }
+    .tab-btn.active {
+      background-color: var(--primary);
+      color: #ffffff;
+      border-color: var(--primary);
+    }
+    .stage-btn.active {
+      background-color: var(--secondary);
+      color: #ffffff;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.25rem 0.6rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    .badge-primary { background-color: #e0f2fe; color: #0369a1; }
+    .badge-success { background-color: #d1fae5; color: #065f46; }
+    .badge-warning { background-color: #fef3c7; color: #92400e; }
+    .badge-danger { background-color: #fee2e2; color: #991b1b; }
+    .badge-purple { background-color: #f3e8ff; color: #6b21a8; }
+    .card {
+      background-color: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+      box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+    }
+    @media print {
+      .no-print { display: none !important; }
+      body { background: white; }
+    }
+  </style>
+</head>
+<body class="p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto">
+
+  <!-- Top Header Banner -->
+  <header class="mb-6 card p-6 bg-gradient-to-r from-sky-900 via-blue-900 to-indigo-900 text-white rounded-2xl shadow-lg border-0">
+    <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div>
+        <div class="flex items-center gap-2 mb-2">
+          <span class="px-2.5 py-1 bg-sky-500/30 text-sky-200 border border-sky-400/30 rounded-full text-xs font-semibold uppercase tracking-wider">Clinical Pediatric Reference</span>
+          <span class="px-2.5 py-1 bg-emerald-500/30 text-emerald-200 border border-emerald-400/30 rounded-full text-xs font-semibold">WHO & AAP Aligned</span>
+        </div>
+        <h1 class="text-2xl sm:text-3xl font-extrabold tracking-tight">Infant Growth, Nutrition & Diet Dashboard</h1>
+        <p class="text-sky-200 text-sm mt-1 max-w-2xl">Standardized WHO 0–24m Percentiles, Normal vs. Special Care Feeding Frequencies, 6m+ Stage Diet Charts, MCT Powder Pharmacology & Supplement Protocols.</p>
+      </div>
+      <div class="flex flex-wrap gap-2 no-print">
+        <button onclick="window.print()" class="px-3.5 py-2 bg-white/10 hover:bg-white/20 text-white text-xs font-semibold rounded-lg border border-white/20 transition flex items-center gap-1.5">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/></svg>
+          Print Guide
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation Tabs -->
+  <nav class="flex flex-wrap gap-2 mb-6 border-b border-slate-200 pb-3 no-print">
+    <button onclick="switchTab('tab-dashboard')" id="btn-tab-dashboard" class="tab-btn active px-4 py-2 text-sm font-semibold rounded-lg border border-slate-200 transition">
+      📊 6 Key Metrics & Growth Calculator
+    </button>
+    <button onclick="switchTab('tab-frequency')" id="btn-tab-frequency" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 transition">
+      ⏱️ Normal vs. Special Care Feeding
+    </button>
+    <button onclick="switchTab('tab-diets')" id="btn-tab-diets" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 transition">
+      🥣 6m+ Stage-by-Stage Diet Charts
+    </button>
+    <button onclick="switchTab('tab-supplements')" id="btn-tab-supplements" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 transition">
+      💊 MCT Powder, Vitamin D & Iron
+    </button>
+    <button onclick="switchTab('tab-course-correction')" id="btn-tab-course-correction" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 transition">
+      📈 Clinical Course Correction
+    </button>
+    <button onclick="switchTab('tab-recipes')" id="btn-tab-recipes" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 transition">
+      🥑 7 Energy-Dense Recipes
+    </button>
+  </nav>
+
+  <!-- ================================================================================== -->
+  <!-- TAB 1: 6 KEY METRICS & INTERACTIVE GROWTH CALCULATOR -->
+  <!-- ================================================================================== -->
+  <div id="tab-dashboard" class="tab-content block space-y-6">
+    
+    <!-- 6 Key Metrics Cards -->
+    <div>
+      <h2 class="text-xl font-bold text-slate-900 mb-3 flex items-center gap-2">
+        <span class="w-2.5 h-6 bg-sky-600 rounded-full inline-block"></span>
+        The 6 Essential Infant Growth Metrics (Growth Dashboard)
+      </h2>
+      <p class="text-slate-600 text-sm mb-4">Never evaluate growth solely on an isolated scale reading. Pediatricians examine body symmetry, velocity, and neurocranial expansion together.</p>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <!-- Metric 1 -->
+        <div class="card p-5 border-l-4 border-l-blue-500">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-base">1. Weight-for-Age</h3>
+            <span class="badge badge-primary">Acute Nutrition</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-3">Reflects immediate caloric balance. Drops fastest during illness, teething, or poor intake; recovers first during nutritional rehabilitation.</p>
+          <div class="bg-slate-50 p-2 rounded text-[11px] text-slate-700">
+            <strong>Red Flag:</strong> Dropping downward across 2 major percentile bands within 2 months.
+          </div>
+        </div>
+
+        <!-- Metric 2 -->
+        <div class="card p-5 border-l-4 border-l-indigo-500">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-base">2. Length-for-Age</h3>
+            <span class="badge badge-purple">Skeletal / Height</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-3">Reflects linear bone elongation at epiphyseal plates. Indicates chronic, long-term nutritional adequacy, calcium/Vit D, and IGF-1 status.</p>
+          <div class="bg-slate-50 p-2 rounded text-[11px] text-slate-700">
+            <strong>Key Target:</strong> ~1.0 to 1.5 cm/month linear growth between 6 and 12 months.
+          </div>
+        </div>
+
+        <!-- Metric 3 -->
+        <div class="card p-5 border-l-4 border-l-emerald-500">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-base">3. Weight-for-Length</h3>
+            <span class="badge badge-success">Gold Standard Proportionality</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-3">Evaluates body symmetry. Distinguishes naturally lean, long babies (proportional) from acute nutritional wasting (weight %ile markedly lower than length %ile).</p>
+          <div class="bg-slate-50 p-2 rounded text-[11px] text-slate-700">
+            <strong>Optimal Zone:</strong> 15th to 85th percentile on the WHO Weight-for-Length curve.
+          </div>
+        </div>
+
+        <!-- Metric 4 -->
+        <div class="card p-5 border-l-4 border-l-amber-500">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-base">4. Head Circumference</h3>
+            <span class="badge badge-warning">Neurocranial Brain Growth</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-3">Measures intracranial brain volume expansion. The body prioritizes brain growth ("brain-sparing") even if somatic weight dips.</p>
+          <div class="bg-slate-50 p-2 rounded text-[11px] text-slate-700">
+            <strong>Normal Trajectory:</strong> Reaches ~42.2 cm (girls) / ~43.3 cm (boys) by 6 months.
+          </div>
+        </div>
+
+        <!-- Metric 5 -->
+        <div class="card p-5 border-l-4 border-l-rose-500">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-base">5. Growth Velocity</h3>
+            <span class="badge badge-danger">Rate of Gain / Day</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-3">The truest clinical barometer of growth. A steady rate of gain is far more informative than an isolated scale reading.</p>
+          <div class="bg-slate-50 p-2 rounded text-[11px] text-slate-700">
+            <strong>Velocity Goals:</strong> 0–3m: 25–30g/day | 3–6m: 15–20g/day | 6–9m: 12–15g/day.
+          </div>
+        </div>
+
+        <!-- Metric 6 -->
+        <div class="card p-5 border-l-4 border-l-teal-500">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-base">6. Daily Output & Vitality</h3>
+            <span class="badge badge-primary">Physiological Hydration</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-3">Daily indicators of hydration, gut transit, and cellular vitality. Confirms caloric bioavailability before weekly weigh-ins.</p>
+          <div class="bg-slate-50 p-2 rounded text-[11px] text-slate-700">
+            <strong>Daily Standard:</strong> &ge; 5–6 heavy pale wet diapers/24 hrs, moist lips, energetic play.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Interactive Growth Calculator & WHO Reference Table -->
+    <div class="card p-6">
+      <h3 class="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
+        <svg class="w-5 h-5 text-sky-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg>
+        Interactive WHO Percentile Calculator (0 to 24 Months)
+      </h3>
+      <p class="text-slate-600 text-xs mb-4">Select your baby's gender, age, and enter measurements to see immediate percentile classifications based on the WHO Child Growth Standards.</p>
+      
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-4 p-4 bg-slate-50 rounded-xl mb-6">
+        <div>
+          <label class="block text-xs font-semibold text-slate-700 mb-1">Child's Sex</label>
+          <select id="calc-sex" onchange="calculateGrowth()" class="w-full text-sm border-slate-300 rounded-lg p-2 bg-white border focus:ring-2 focus:ring-sky-500">
+            <option value="girl" selected>Baby Girl</option>
+            <option value="boy">Baby Boy</option>
+          </select>
+        </div>
+        <div>
+          <label class="block text-xs font-semibold text-slate-700 mb-1">Age Milestone</label>
+          <select id="calc-age" onchange="calculateGrowth()" class="w-full text-sm border-slate-300 rounded-lg p-2 bg-white border focus:ring-2 focus:ring-sky-500">
+            <option value="0">Birth (Newborn)</option>
+            <option value="3">3 Months</option>
+            <option value="6" selected>6 Months</option>
+            <option value="9">9 Months</option>
+            <option value="12">12 Months (1 Year)</option>
+            <option value="18">18 Months</option>
+            <option value="24">24 Months (2 Years)</option>
+          </select>
+        </div>
+        <div>
+          <label class="block text-xs font-semibold text-slate-700 mb-1">Weight (kg)</label>
+          <input type="number" id="calc-weight" step="0.1" value="6.5" oninput="calculateGrowth()" class="w-full text-sm border-slate-300 rounded-lg p-2 bg-white border focus:ring-2 focus:ring-sky-500" placeholder="e.g. 6.5">
+        </div>
+        <div>
+          <label class="block text-xs font-semibold text-slate-700 mb-1">Length (cm)</label>
+          <input type="number" id="calc-length" step="0.1" value="63.5" oninput="calculateGrowth()" class="w-full text-sm border-slate-300 rounded-lg p-2 bg-white border focus:ring-2 focus:ring-sky-500" placeholder="e.g. 63.5">
+        </div>
+        <div>
+          <label class="block text-xs font-semibold text-slate-700 mb-1">Head Circ (cm)</label>
+          <input type="number" id="calc-hc" step="0.1" value="41.2" oninput="calculateGrowth()" class="w-full text-sm border-slate-300 rounded-lg p-2 bg-white border focus:ring-2 focus:ring-sky-500" placeholder="e.g. 41.2">
+        </div>
+      </div>
+
+      <!-- Result Banner -->
+      <div id="calc-result" class="p-4 bg-sky-50 border border-sky-200 rounded-xl mb-6">
+        <div class="flex flex-col md:flex-row md:items-center justify-between gap-3">
+          <div>
+            <h4 class="font-bold text-sky-950 text-sm mb-1" id="res-summary">Baby Girl at 6 Months</h4>
+            <div class="flex flex-wrap gap-2 text-xs" id="res-badges">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+          <div id="res-advice" class="text-xs text-slate-700 max-w-md bg-white p-3 rounded-lg border border-sky-100 shadow-sm">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Reference WHO Table -->
+      <div class="overflow-x-auto">
+        <h4 class="text-sm font-bold text-slate-900 mb-2 flex items-center justify-between">
+          <span id="table-title">WHO Child Growth Standards Reference Table (Girls 0–24m)</span>
+          <span class="text-[11px] text-slate-500 font-normal">All values in kg / cm</span>
+        </h4>
+        <table class="min-w-full text-xs text-left border border-slate-200 rounded-lg overflow-hidden">
+          <thead class="bg-slate-100 text-slate-700 font-semibold uppercase tracking-wider">
+            <tr>
+              <th class="p-2.5 border-b">Age</th>
+              <th class="p-2.5 border-b">Metric</th>
+              <th class="p-2.5 border-b text-amber-700 bg-amber-50/50">3rd %ile (Lower)</th>
+              <th class="p-2.5 border-b">15th %ile</th>
+              <th class="p-2.5 border-b text-emerald-800 bg-emerald-50/50">50th %ile (Median)</th>
+              <th class="p-2.5 border-b">85th %ile</th>
+              <th class="p-2.5 border-b">97th %ile</th>
+            </tr>
+          </thead>
+          <tbody id="who-table-body" class="divide-y divide-slate-200">
+            <!-- Dynamically populated -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================================================================================== -->
+  <!-- TAB 2: NORMAL VS SPECIAL CARE FEEDING FREQUENCY -->
+  <!-- ================================================================================== -->
+  <div id="tab-frequency" class="tab-content hidden space-y-6">
+    <div class="card p-6">
+      <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-4">
+        <div>
+          <h2 class="text-xl font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            Feeding Frequency: Normal Care vs. Special Care
+          </h2>
+          <p class="text-slate-600 text-xs mt-1">Comparing standard on-demand feeding with catch-up growth protocols for underweight or small-for-gestational-age infants.</p>
+        </div>
+        <div class="flex items-center gap-2 bg-slate-100 p-1.5 rounded-xl text-xs font-semibold">
+          <span class="text-slate-600 ml-2">View Mode:</span>
+          <button onclick="toggleFreqView('side-by-side')" id="btn-view-side" class="px-3 py-1.5 bg-white shadow-sm rounded-lg text-slate-900 font-bold transition">Side-by-Side</button>
+          <button onclick="toggleFreqView('special-care')" id="btn-view-special" class="px-3 py-1.5 text-slate-600 rounded-lg hover:text-slate-900 transition">Special Care Only</button>
+        </div>
+      </div>
+
+      <!-- Clinical Rationale Callout -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+        <div class="p-4 bg-sky-50 border border-sky-200 rounded-xl">
+          <div class="flex items-center gap-2 mb-1">
+            <span class="badge badge-primary">Normal Care Baseline</span>
+            <span class="text-xs font-bold text-slate-800">100 to 110 kcal/kg/day</span>
+          </div>
+          <p class="text-slate-700 text-xs leading-relaxed">
+            Responsive, on-demand feeding. As the infant's stomach naturally expands from ~60 ml at 1 month to ~220 ml at 9–12 months, daytime feeds naturally space apart (every 3 to 4 hours) and night feeds drop without compromising caloric velocity.
+          </p>
+        </div>
+        <div class="p-4 bg-amber-50 border border-amber-200 rounded-xl">
+          <div class="flex items-center gap-2 mb-1">
+            <span class="badge badge-warning">Special Care (Catch-Up Growth)</span>
+            <span class="text-xs font-bold text-amber-900">120 to 150 kcal/kg/day</span>
+          </div>
+          <p class="text-slate-800 text-xs leading-relaxed">
+            Underweight infants cannot tolerate massive single boluses due to limited stomach capacity or reflux. Catch-up growth requires <strong>higher frequency (every 2–2.5 hrs) + caloric fortification + retaining a 10:30 PM dream feed</strong> to prevent extended nighttime fasting.
+          </p>
+        </div>
+      </div>
+
+      <!-- Master Comparison Table -->
+      <div class="overflow-x-auto">
+        <table class="min-w-full text-xs text-left border border-slate-200 rounded-xl overflow-hidden">
+          <thead class="bg-slate-100 text-slate-700 font-semibold uppercase tracking-wider">
+            <tr>
+              <th class="p-3 border-b">Age Window</th>
+              <th class="p-3 border-b">Key Parameters</th>
+              <th class="p-3 border-b bg-sky-50/50 text-sky-900 freq-col-normal">Normal Care (Standard Growth)</th>
+              <th class="p-3 border-b bg-amber-50 text-amber-950 font-bold freq-col-special">Special Care (Catch-Up / Low Weight)</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-200">
+            <!-- 0 to 1 Month -->
+            <tr>
+              <td class="p-3 font-bold text-slate-900 bg-slate-50">0 to 1 Month<br><span class="font-normal text-slate-500 text-[11px]">(Newborn)</span></td>
+              <td class="p-3 text-slate-600">Frequency<br>Interval<br>Volume/Feed<br>Night Plan</td>
+              <td class="p-3 freq-col-normal">
+                <strong>8 to 12 feeds / 24 hrs</strong><br>
+                Every 2.5 to 3 hrs on demand<br>
+                2 to 3 oz (60–90 ml)<br>
+                Feeds on demand; 2–3 night feeds
+              </td>
+              <td class="p-3 bg-amber-50/40 freq-col-special text-slate-900">
+                <strong class="text-amber-900">10 to 12+ feeds / 24 hrs</strong><br>
+                Strictly every 2 to 2.5 hrs by the clock<br>
+                1.5 to 2.5 oz (45–75 ml) dense feeds<br>
+                <span class="text-rose-700 font-semibold">Wake to feed:</span> Never let sleep exceed 3 hrs without feeding
+              </td>
+            </tr>
+            <!-- 1 to 3 Months -->
+            <tr>
+              <td class="p-3 font-bold text-slate-900 bg-slate-50">1 to 3 Months</td>
+              <td class="p-3 text-slate-600">Frequency<br>Interval<br>Volume/Feed<br>Night Plan</td>
+              <td class="p-3 freq-col-normal">
+                <strong>6 to 8 feeds / 24 hrs</strong><br>
+                Every 2.5 to 3.5 hrs<br>
+                3 to 5 oz (90–150 ml)<br>
+                1 to 2 night feeds; 4–5 hr sleep stretch
+              </td>
+              <td class="p-3 bg-amber-50/40 freq-col-special text-slate-900">
+                <strong class="text-amber-900">8 to 10 feeds / 24 hrs</strong><br>
+                Every 2.5 to 3 hrs<br>
+                2.5 to 4 oz (75–120 ml) fortified milk<br>
+                2 scheduled night feeds; max 3.5–4 hr interval
+              </td>
+            </tr>
+            <!-- 3 to 6 Months -->
+            <tr>
+              <td class="p-3 font-bold text-slate-900 bg-slate-50">3 to 6 Months</td>
+              <td class="p-3 text-slate-600">Frequency<br>Interval<br>Volume/Feed<br>Night Plan</td>
+              <td class="p-3 freq-col-normal">
+                <strong>5 to 6 feeds / 24 hrs</strong><br>
+                Every 3 to 4 hrs<br>
+                5 to 7 oz (150–210 ml)<br>
+                0 to 1 night feed; 6–8 hr sleep stretches
+              </td>
+              <td class="p-3 bg-amber-50/40 freq-col-special text-slate-900">
+                <strong class="text-amber-900">6 to 8 feeds / 24 hrs</strong><br>
+                Every 2.5 to 3 hrs during day<br>
+                4 to 5 oz (120–150 ml) high-density feeds<br>
+                <strong class="text-indigo-900">10:30 PM dream feed:</strong> Prevents prolonged catabolic fast
+              </td>
+            </tr>
+            <!-- 6 to 9 Months -->
+            <tr class="bg-blue-50/20">
+              <td class="p-3 font-bold text-slate-900 bg-slate-50">6 to 9 Months<br><span class="font-normal text-emerald-700 text-[11px]">(Solids Begin)</span></td>
+              <td class="p-3 text-slate-600">Milk Feeds<br>Solid Meals<br>Daytime Rhythm<br>Fortification</td>
+              <td class="p-3 freq-col-normal">
+                <strong>4 to 5 milk feeds / day</strong> (24–28 oz total)<br>
+                <strong>1 to 2 solid meals / day</strong> (1–3 tbsp)<br>
+                Milk every 3–4 hrs, solids mid-morning<br>
+                Standard single-grain purees & fruits
+              </td>
+              <td class="p-3 bg-amber-50/40 freq-col-special text-slate-900">
+                <strong class="text-amber-900">5 to 6 milk feeds / day</strong> (26–30 oz total)<br>
+                <strong class="text-amber-900">2 to 3 solid meals / day</strong> (2–4 tbsp)<br>
+                Feed every 2 to 2.5 hrs (alternating milk & dense solids)<br>
+                <span class="text-emerald-800 font-semibold">Fortify:</span> Add MCT powder, 1 tsp ghee/oil, egg yolk
+              </td>
+            </tr>
+            <!-- 9 to 12 Months -->
+            <tr>
+              <td class="p-3 font-bold text-slate-900 bg-slate-50">9 to 12 Months</td>
+              <td class="p-3 text-slate-600">Milk Feeds<br>Solid Meals<br>Daytime Rhythm<br>Snacks</td>
+              <td class="p-3 freq-col-normal">
+                <strong>3 to 4 milk feeds / day</strong> (20–24 oz total)<br>
+                <strong>3 family meals / day</strong><br>
+                Breakfast, Lunch, Dinner with family<br>
+                1 light snack (fruit or curd); open cup water
+              </td>
+              <td class="p-3 bg-amber-50/40 freq-col-special text-slate-900">
+                <strong class="text-amber-900">4 to 5 milk feeds / day</strong> (22–26 oz total)<br>
+                <strong class="text-amber-900">3 calorie-dense meals + 2 snacks / day</strong><br>
+                Structured meal or snack every 2.5 hrs<br>
+                Avocado spears, paneer cubes, whole curd, nut butter
+              </td>
+            </tr>
+            <!-- 12 to 18 Months -->
+            <tr>
+              <td class="p-3 font-bold text-slate-900 bg-slate-50">12 to 18 Months<br><span class="font-normal text-slate-500 text-[11px]">(Toddler)</span></td>
+              <td class="p-3 text-slate-600">Meals & Snacks<br>Milk Intake<br>Focus</td>
+              <td class="p-3 freq-col-normal">
+                <strong>3 meals + 2 snacks / day</strong><br>
+                Whole milk capped at 16–20 oz (480–600 ml)<br>
+                Autonomous self-feeding, family table food
+              </td>
+              <td class="p-3 bg-amber-50/40 freq-col-special text-slate-900">
+                <strong class="text-amber-900">3 meals + 3 energy-dense mini-meals / day</strong><br>
+                Milk strictly capped at 16–20 oz (higher blocks iron)<br>
+                Ghee/butter added to all grains; zero continuous grazing
+              </td>
+            </tr>
+            <!-- 18 to 24 Months -->
+            <tr>
+              <td class="p-3 font-bold text-slate-900 bg-slate-50">18 to 24 Months</td>
+              <td class="p-3 text-slate-600">Meals & Snacks<br>Milk Intake<br>Focus</td>
+              <td class="p-3 freq-col-normal">
+                <strong>3 meals + 2 snacks / day</strong><br>
+                Whole milk 12–16 oz (360–480 ml)<br>
+                Standard family nutrition, responsive portions
+              </td>
+              <td class="p-3 bg-amber-50/40 freq-col-special text-slate-900">
+                <strong class="text-amber-900">3 meals + 2 to 3 high-calorie snacks / day</strong><br>
+                Whole milk or toddler formula 14–18 oz<br>
+                Nutrient density focus (eggs, paneer, meats, nut pastes)
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Golden Rules -->
+      <div class="mt-6 p-4 bg-slate-50 border border-slate-200 rounded-xl">
+        <h4 class="font-bold text-slate-900 text-sm mb-2">3 Golden Rules for Special Care Feeding</h4>
+        <ul class="text-xs text-slate-700 space-y-1.5 list-disc pl-5">
+          <li><strong>Never let an underweight infant fast for 8+ hours overnight:</strong> Retain a 10:30 PM dream feed to safely supply 100–120 kcal without disrupting sleep cycles.</li>
+          <li><strong>Never dilute solid purees to force volume:</strong> Broth and "dal ka paani" fill the stomach with 98% water. Every spoonful must be thick and lipid-fortified.</li>
+          <li><strong>Zero continuous grazing:</strong> Keep feeds 2 to 2.5 hours apart. Continuous nibbling suppresses ghrelin (hunger hormone) and prevents hearty feeding.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================================================================================== -->
+  <!-- TAB 3: 6M+ STAGE-BY-STAGE DIET CHARTS -->
+  <!-- ================================================================================== -->
+  <div id="tab-diets" class="tab-content hidden space-y-6">
+    <div class="card p-6">
+      <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-4">
+        <div>
+          <h2 class="text-xl font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-2.5 h-6 bg-amber-500 rounded-full inline-block"></span>
+            Stage-by-Stage Infant Diet Charts (6 Months Onward)
+          </h2>
+          <p class="text-slate-600 text-xs mt-1">Complementary feeding timelines, textures, and calorie-dense fortifications.</p>
+        </div>
+        <!-- Stage Selector Buttons -->
+        <div class="flex flex-wrap gap-1.5 bg-slate-100 p-1.5 rounded-xl text-xs font-semibold">
+          <button onclick="switchStage('stage-1')" id="btn-stage-1" class="stage-btn active px-3 py-1.5 rounded-lg transition">Stage 1: 6–7m</button>
+          <button onclick="switchStage('stage-2')" id="btn-stage-2" class="stage-btn px-3 py-1.5 rounded-lg text-slate-700 hover:bg-slate-200 transition">Stage 2: 7–8m</button>
+          <button onclick="switchStage('stage-3')" id="btn-stage-3" class="stage-btn px-3 py-1.5 rounded-lg text-slate-700 hover:bg-slate-200 transition">Stage 3: 8–9m</button>
+          <button onclick="switchStage('stage-4')" id="btn-stage-4" class="stage-btn px-3 py-1.5 rounded-lg text-slate-700 hover:bg-slate-200 transition">Stage 4: 9–12m</button>
+        </div>
+      </div>
+
+      <!-- Core Principle Banner -->
+      <div class="p-3 bg-sky-50 border border-sky-200 rounded-lg text-xs text-sky-950 mb-4 flex items-center gap-2">
+        <svg class="w-5 h-5 text-sky-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+        <span><strong>Core Pediatric Foundation:</strong> At 6 months, breastmilk/formula provides 75%–80% of daily calories. Maintain <strong>24–32 oz (700–950 ml)</strong> of milk daily. Solids supplement milk; they do not replace it.</span>
+      </div>
+
+      <!-- STAGE 1 (6 to 7 Months) -->
+      <div id="stage-1" class="stage-content block space-y-4">
+        <div class="flex items-center justify-between bg-slate-50 p-3 rounded-lg border border-slate-200 text-xs">
+          <div><strong>Frequency:</strong> 1 Solid Meal/Day (1–2 tbsp) + 5 Milk Feeds</div>
+          <div><strong>Texture:</strong> Silky Smooth Puree</div>
+          <div><strong>Focus:</strong> Iron tolerance, spoon mechanics, ghee habituation</div>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="min-w-full text-xs text-left border border-slate-200 rounded-lg overflow-hidden">
+            <thead class="bg-slate-100 text-slate-700 font-semibold">
+              <tr>
+                <th class="p-2.5 border-b w-24">Time</th>
+                <th class="p-2.5 border-b w-40">Feed Type</th>
+                <th class="p-2.5 border-b">Menu Item & Calorie-Dense Fortification</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-200">
+              <tr><td class="p-2.5 font-semibold text-slate-800">7:00 AM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Morning milk feed (6–8 oz / 180–240 ml)</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">9:30 AM</td><td class="p-2.5 font-bold text-amber-900">Solids (Breakfast)</td><td class="p-2.5 text-slate-800 font-medium"><strong>1 to 2 tablespoons:</strong> Sprouted ragi porridge cooked in breastmilk + <strong>1/2 tsp pure ghee</strong> <em>OR</em> Steamed apple-pear puree with a drop of coconut oil <em>OR</em> Mashed sweet potato puree.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">11:00 AM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Pre-nap milk feed (6–7 oz / 180–210 ml)</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">2:30 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Mid-day milk feed (6–7 oz / 180–210 ml)</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">5:30 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Late afternoon milk feed (6–7 oz / 180–210 ml)</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">8:00 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Bedtime milk feed (6–8 oz / 180–240 ml)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- STAGE 2 (7 to 8 Months) -->
+      <div id="stage-2" class="stage-content hidden space-y-4">
+        <div class="flex items-center justify-between bg-slate-50 p-3 rounded-lg border border-slate-200 text-xs">
+          <div><strong>Frequency:</strong> 2 Solid Meals/Day (2–3 tbsp) + 4–5 Milk Feeds</div>
+          <div><strong>Texture:</strong> Fork-mashed thick puree with soft lumps</div>
+          <div><strong>Focus:</strong> Moong dal lentils, boiled egg yolk, curd lipids, zinc</div>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="min-w-full text-xs text-left border border-slate-200 rounded-lg overflow-hidden">
+            <thead class="bg-slate-100 text-slate-700 font-semibold">
+              <tr>
+                <th class="p-2.5 border-b w-24">Time</th>
+                <th class="p-2.5 border-b w-40">Feed Type</th>
+                <th class="p-2.5 border-b">Menu Item & Calorie-Dense Fortification</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-200">
+              <tr><td class="p-2.5 font-semibold text-slate-800">7:00 AM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Morning milk feed (6–8 oz / 180–240 ml)</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">9:00 AM</td><td class="p-2.5 font-bold text-amber-900">Solids 1 (Breakfast)</td><td class="p-2.5 text-slate-800 font-medium"><strong>2 to 3 tablespoons:</strong> Yellow moong dal + rice khichdi (thick mash) with <strong>1 tsp pure ghee</strong> and cumin <em>OR</em> Mashed avocado & banana with whole milk curd.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">11:30 AM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Pre-nap milk feed (5–7 oz / 150–210 ml)</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">2:00 PM</td><td class="p-2.5 font-bold text-amber-900">Solids 2 (Lunch)</td><td class="p-2.5 text-slate-800 font-medium"><strong>2 to 3 tablespoons:</strong> Steamed carrot, green pea, and sweet potato mash with <strong>1/2 tsp butter/ghee</strong> <em>OR</em> Hard-boiled egg yolk mashed with breastmilk and olive oil.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">4:30 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Late afternoon milk feed (5–6 oz / 150–180 ml)</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">7:45 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Bedtime milk feed (6–8 oz / 180–240 ml)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- STAGE 3 (8 to 9 Months) -->
+      <div id="stage-3" class="stage-content hidden space-y-4">
+        <div class="flex items-center justify-between bg-slate-50 p-3 rounded-lg border border-slate-200 text-xs">
+          <div><strong>Frequency:</strong> 2 to 3 Solid Meals/Day (3–4 tbsp) + Finger Foods</div>
+          <div><strong>Texture:</strong> Minced, soft finger batons, paneer cubes</div>
+          <div><strong>Focus:</strong> Pincer grasp practice, chew mechanics, paneer/tofu protein</div>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="min-w-full text-xs text-left border border-slate-200 rounded-lg overflow-hidden">
+            <thead class="bg-slate-100 text-slate-700 font-semibold">
+              <tr>
+                <th class="p-2.5 border-b w-24">Time</th>
+                <th class="p-2.5 border-b w-40">Feed Type</th>
+                <th class="p-2.5 border-b">Menu Item & Calorie-Dense Fortification</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-200">
+              <tr><td class="p-2.5 font-semibold text-slate-800">7:00 AM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Morning milk feed (6–8 oz / 180–240 ml)</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">8:30 AM</td><td class="p-2.5 font-bold text-amber-900">Solids 1 (Breakfast)</td><td class="p-2.5 text-slate-800 font-medium"><strong>3 to 4 tablespoons:</strong> Scrambled egg yolk cooked in butter + ripe avocado cubes <em>OR</em> Sprouted ragi porridge with date puree and 1 tsp almond butter + ghee.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">11:30 AM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Pre-nap milk feed (5–6 oz / 150–180 ml)</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">1:00 PM</td><td class="p-2.5 font-bold text-amber-900">Solids 2 (Lunch)</td><td class="p-2.5 text-slate-800 font-medium"><strong>3 to 4 tablespoons:</strong> Thick vegetable-dal khichdi with ghee. <em>Finger food:</em> Steamed zucchini batons or sweet potato sticks.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">3:30 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Afternoon milk feed (5–6 oz / 150–180 ml)</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">5:30 PM</td><td class="p-2.5 font-bold text-amber-900">Solids 3 (Dinner)</td><td class="p-2.5 text-slate-800 font-medium"><strong>2 to 3 tablespoons:</strong> Mashed fresh unsalted paneer with stewed squash and olive oil <em>OR</em> Soft rice with thick lentil stew and ghee.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">8:00 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Bedtime milk feed (6–8 oz / 180–240 ml)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- STAGE 4 (9 to 12 Months) -->
+      <div id="stage-4" class="stage-content hidden space-y-4">
+        <div class="flex items-center justify-between bg-slate-50 p-3 rounded-lg border border-slate-200 text-xs">
+          <div><strong>Frequency:</strong> 3 Structured Meals + 1–2 Snacks + 3–4 Milk Feeds</div>
+          <div><strong>Texture:</strong> Chopped soft table foods, bite-sized cubes</div>
+          <div><strong>Focus:</strong> Family table eating, open cup water drinking, self-feeding</div>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="min-w-full text-xs text-left border border-slate-200 rounded-lg overflow-hidden">
+            <thead class="bg-slate-100 text-slate-700 font-semibold">
+              <tr>
+                <th class="p-2.5 border-b w-24">Time</th>
+                <th class="p-2.5 border-b w-40">Feed Type</th>
+                <th class="p-2.5 border-b">Menu Item & Calorie-Dense Fortification</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-200">
+              <tr><td class="p-2.5 font-semibold text-slate-800">7:00 AM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Morning milk feed (6–8 oz / 180–240 ml)</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">8:30 AM</td><td class="p-2.5 font-bold text-amber-900">Breakfast</td><td class="p-2.5 text-slate-800 font-medium">Whole egg scramble cooked in butter + soft fruit spears + 1/4 cup oatmeal cooked in whole milk with nuts powder.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">10:30 AM</td><td class="p-2.5 text-teal-800 font-medium">Water & Snack</td><td class="p-2.5 text-slate-700">Water in an open cup (2–3 oz); soft melon spears or whole-milk curd with banana mash.</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">12:30 PM</td><td class="p-2.5 font-bold text-amber-900">Lunch</td><td class="p-2.5 text-slate-800 font-medium">Mixed vegetable & lentil khichdi with 1 tsp ghee <em>OR</em> Soft chicken/fish mash with sweet potato.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">3:00 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Afternoon milk feed (5–6 oz / 150–180 ml)</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">5:00 PM</td><td class="p-2.5 font-bold text-amber-900">Evening Snack</td><td class="p-2.5 text-slate-800 font-medium">Steamed apple slices with thinned peanut butter <em>OR</em> Mashed paneer cube with cumin.</td></tr>
+              <tr class="bg-amber-50/40"><td class="p-2.5 font-bold text-amber-900">6:30 PM</td><td class="p-2.5 font-bold text-amber-900">Dinner</td><td class="p-2.5 text-slate-800 font-medium">Soft pasta with lentil/meat sauce and olive oil <em>OR</em> Soft roti soaked in thick dal with ghee.</td></tr>
+              <tr><td class="p-2.5 font-semibold text-slate-800">8:00 PM</td><td class="p-2.5 text-sky-800 font-medium">Milk Feed</td><td class="p-2.5 text-slate-700">Bedtime milk feed (6–8 oz / 180–240 ml)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================================================================================== -->
+  <!-- TAB 4: MCT POWDER & SUPPLEMENT PROTOCOLS -->
+  <!-- ================================================================================== -->
+  <div id="tab-supplements" class="tab-content hidden space-y-6">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      
+      <!-- Card 1: MCT Powder -->
+      <div class="card p-6 border-t-4 border-t-amber-500 lg:col-span-1">
+        <span class="badge badge-warning mb-2">Medical Food Pharmacology</span>
+        <h3 class="text-lg font-bold text-slate-900 mb-2">Dr. Prescribed MCT Powder</h3>
+        <p class="text-slate-600 text-xs mb-4">Prescribed for infant low weight, faltering growth velocity, and catch-up energy demands.</p>
+        
+        <div class="space-y-3 text-xs text-slate-700">
+          <div class="bg-amber-50 p-3 rounded-lg border border-amber-200">
+            <strong class="text-amber-950 block mb-1">1. Direct Portal Absorption:</strong>
+            Standard fats (LCT) require bile and pancreatic lipase to emulsify. MCTs (C8 Caprylic / C10 Capric acid) absorb <strong>directly across the gut into the portal vein straight to the liver</strong> for instant cellular energy without digestive work.
+          </div>
+          <div class="bg-slate-50 p-3 rounded-lg border border-slate-200">
+            <strong class="text-slate-900 block mb-1">2. Caloric Density in Tiny Volume:</strong>
+            Provides <strong>~8.3 kcal per gram</strong>. Delivers massive calories without requiring the infant to drink excessive fluid volumes that cause vomiting.
+          </div>
+          <div class="bg-slate-50 p-3 rounded-lg border border-slate-200">
+            <strong class="text-slate-900 block mb-1">3. Protein-Sparing for Height:</strong>
+            Rapid MCT energy stops the body from burning dietary protein for metabolism, freeing amino acids for <strong>epiphyseal bone elongation (height)</strong>.
+          </div>
+          <div class="bg-rose-50 p-3 rounded-lg border border-rose-200 text-rose-900">
+            <strong class="block mb-1 font-bold">Administration Rules:</strong>
+            • Stir into warm milk or puree right before feeding.<br>
+            • <strong>Never boil on the stove.</strong><br>
+            • Titrate slowly (start 0.5g/day) to prevent osmotic loose stools.
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2: Vitamin D (800 IU) -->
+      <div class="card p-6 border-t-4 border-t-sky-500 lg:col-span-1">
+        <span class="badge badge-primary mb-2">Linear Bone Elongation</span>
+        <h3 class="text-lg font-bold text-slate-900 mb-2">Vitamin D: 800 IU (2 Drops)</h3>
+        <p class="text-slate-600 text-xs mb-4">Why the pediatrician titrated your baby from standard 400 IU to 800 IU (2 drops) at 6 months.</p>
+        
+        <div class="space-y-3 text-xs text-slate-700">
+          <div class="bg-sky-50 p-3 rounded-lg border border-sky-200">
+            <strong class="text-sky-950 block mb-1">Preventive vs. Therapeutic:</strong>
+            <strong>400 IU/day</strong> is the preventive baseline for average infants. <strong>800 IU/day</strong> is a therapeutic pediatric dose for catch-up growth, lower percentiles, or subclinical deficiency.
+          </div>
+          <div class="bg-slate-50 p-3 rounded-lg border border-slate-200">
+            <strong class="text-slate-900 block mb-1">Calbindin-D9k Mechanism:</strong>
+            Vitamin D upregulates intestinal calcium transporters. Normal calcium absorption is only 10%–15%; 800 IU boosts this to 30%–40%, <strong>saturating epiphyseal growth plates</strong> with calcium and phosphorus for chondrocyte calcification.
+          </div>
+          <div class="bg-emerald-50 p-3 rounded-lg border border-emerald-200 text-emerald-950">
+            <strong class="block mb-1 font-bold">Optimal Administration:</strong>
+            Vitamin D is fat-soluble. Give the 2 drops with or immediately after a fat-containing meal (breastmilk, ghee khichdi, whole milk curd).
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 3: Hemfer Drops (Elemental Iron) -->
+      <div class="card p-6 border-t-4 border-t-rose-500 lg:col-span-1">
+        <span class="badge badge-danger mb-2">Appetite & IGF-1 Restoration</span>
+        <h3 class="text-lg font-bold text-slate-900 mb-2">Hemfer Drops (Elemental Iron)</h3>
+        <p class="text-slate-600 text-xs mb-4">Why iron drops were prescribed and how to administer them safely without staining teeth.</p>
+        
+        <div class="space-y-3 text-xs text-slate-700">
+          <div class="bg-rose-50 p-3 rounded-lg border border-rose-200">
+            <strong class="text-rose-950 block mb-1">The "Iron-Appetite Link":</strong>
+            Infants deplete prenatal iron reserves at 4–6 months. Subclinical iron deficiency causes <strong>anorexia (poor appetite)</strong> and blunts IGF-1 growth factor. Iron supplementation breaks this cycle and restores appetite!
+          </div>
+          <div class="bg-slate-50 p-3 rounded-lg border border-slate-200">
+            <strong class="text-slate-900 block mb-1">Pair with Vitamin C:</strong>
+            Give drops with a spoonful of fruit puree (pear, apple, sweet lime). Avoid giving simultaneously with dairy/calcium (calcium blocks absorption).
+          </div>
+          <div class="bg-amber-50 p-3 rounded-lg border border-amber-200 text-amber-950">
+            <strong class="block mb-1 font-bold">Tooth Protection & Stool Reassurance:</strong>
+            • Direct dropper to the <strong>inner cheek / back of tongue</strong>.<br>
+            • Wipe gums/teeth with a clean damp cloth immediately.<br>
+            • <strong>Stools will turn dark green or black:</strong> Completely harmless, normal, and expected.
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ================================================================================== -->
+  <!-- TAB 5: CLINICAL COURSE-CORRECTION FRAMEWORK -->
+  <!-- ================================================================================== -->
+  <div id="tab-course-correction" class="tab-content hidden space-y-6">
+    <div class="card p-6">
+      <h2 class="text-xl font-bold text-slate-900 mb-3 flex items-center gap-2">
+        <span class="w-2.5 h-6 bg-emerald-600 rounded-full inline-block"></span>
+        6-Step Clinical Course-Correction Protocol for Low Weight & Height
+      </h2>
+      <p class="text-slate-600 text-xs mb-6">When an infant's growth curves are in the lower percentiles or trending downward, apply this structured pediatric protocol:</p>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        
+        <div class="card p-5 border-l-4 border-l-amber-500 bg-amber-50/20">
+          <div class="text-xs font-bold text-amber-800 uppercase tracking-wider mb-1">Step 1</div>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Fortify Every Single Spoonful</h3>
+          <p class="text-slate-600 text-xs leading-relaxed">
+            Never feed empty volume. Add 1/2 to 1 tsp pure desi ghee, cold-pressed coconut oil, extra virgin olive oil, or doctor-prescribed MCT powder to every single bowl of puree or porridge.
+          </p>
+        </div>
+
+        <div class="card p-5 border-l-4 border-l-rose-500 bg-rose-50/20">
+          <div class="text-xs font-bold text-rose-800 uppercase tracking-wider mb-1">Step 2</div>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Stop the "Caloric Dilution Trap"</h3>
+          <p class="text-slate-600 text-xs leading-relaxed">
+            Eliminate watery dal ("dal ka paani") and thin rice water. These contain < 10 kcal/100 ml and stretch the stomach, suppressing appetite. Feed thick mashed lentils and rice that sit upright on a spoon.
+          </p>
+        </div>
+
+        <div class="card p-5 border-l-4 border-l-sky-500 bg-sky-50/20">
+          <div class="text-xs font-bold text-sky-800 uppercase tracking-wider mb-1">Step 3</div>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Protect Baseline Milk Intake</h3>
+          <p class="text-slate-600 text-xs leading-relaxed">
+            Solids are complementary at 6–9 months. Ensure your infant receives 24 to 30 oz (700 to 900 ml) of breastmilk or formula daily. If baby rejects milk due to solid satiety, scale back solids.
+          </p>
+        </div>
+
+        <div class="card p-5 border-l-4 border-l-indigo-500 bg-indigo-50/20">
+          <div class="text-xs font-bold text-indigo-800 uppercase tracking-wider mb-1">Step 4</div>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Synergize Supplements</h3>
+          <p class="text-slate-600 text-xs leading-relaxed">
+            Administer Vitamin D (800 IU / 2 drops) with fat feeds to accelerate bone plate calcification, and Hemfer drops between dairy meals to stimulate appetite and boost IGF-1 growth hormones.
+          </p>
+        </div>
+
+        <div class="card p-5 border-l-4 border-l-purple-500 bg-purple-50/20">
+          <div class="text-xs font-bold text-purple-800 uppercase tracking-wider mb-1">Step 5</div>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Rule Out Asymptomatic Pathology</h3>
+          <p class="text-slate-600 text-xs leading-relaxed">
+            If velocity does not recover after 4–6 weeks of fortification, screen with your pediatrician for: Occult UTI (the #1 silent cause of growth lag), CMPA, silent GERD, or celiac disease.
+          </p>
+        </div>
+
+        <div class="card p-5 border-l-4 border-l-emerald-500 bg-emerald-50/20">
+          <div class="text-xs font-bold text-emerald-800 uppercase tracking-wider mb-1">Step 6</div>
+          <h3 class="font-bold text-slate-900 text-sm mb-2">Deep Sleep & Active Floor Time</h3>
+          <p class="text-slate-600 text-xs leading-relaxed">
+            70%–80% of human Growth Hormone (GH) pulses during deep slow-wave NREM sleep. Pair restorative sleep with unrestricted floor exploration and tummy time to stimulate bone mineralization.
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- ================================================================================== -->
+  <!-- TAB 6: 7 ENERGY-DENSE RECIPES -->
+  <!-- ================================================================================== -->
+  <div id="tab-recipes" class="tab-content hidden space-y-6">
+    <div class="card p-6">
+      <div class="flex justify-between items-center mb-4">
+        <div>
+          <h2 class="text-xl font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            7 Energy-Dense Growth Recipes for Infants (6+ Months)
+          </h2>
+          <p class="text-slate-600 text-xs mt-1">High caloric density, rich in bioavailable iron, zinc, healthy lipids, and calcium.</p>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        
+        <!-- Recipe 1 -->
+        <div class="card p-4 border border-slate-200">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-sm">1. Golden Moong Khichdi</h3>
+            <span class="badge badge-warning">Carbs + Protein + Fats</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-2"><strong>Ingredients:</strong> 1 tbsp yellow moong dal, 1 tbsp rice, diced carrot, cumin pinch, <strong>1 tsp pure ghee</strong>.</p>
+          <p class="text-slate-700 text-xs mb-2"><strong>Prep:</strong> Pressure cook dal, rice, and carrot with 1/2 cup water until soft. Mash thoroughly with the back of a spoon. Stir in 1 tsp pure ghee right before serving.</p>
+          <div class="text-[11px] text-amber-900 bg-amber-50 p-2 rounded">
+            <strong>Benefit:</strong> Ideal balanced staple; ghee provides concentrated energy without bloat.
+          </div>
+        </div>
+
+        <!-- Recipe 2 -->
+        <div class="card p-4 border border-slate-200">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-sm">2. Sprouted Ragi & Almond</h3>
+            <span class="badge badge-purple">Calcium + Iron</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-2"><strong>Ingredients:</strong> 1 tbsp sprouted ragi flour, 1/2 cup water/breastmilk, 1 tsp smooth thinned almond butter, 1/2 tsp ghee.</p>
+          <p class="text-slate-700 text-xs mb-2"><strong>Prep:</strong> Whisk ragi flour in water. Cook on medium heat for 4–5 mins until thick. Remove from flame; stir in almond butter and ghee.</p>
+          <div class="text-[11px] text-purple-900 bg-purple-50 p-2 rounded">
+            <strong>Benefit:</strong> Highest vegetable calcium for bone growth; healthy monounsaturated fats.
+          </div>
+        </div>
+
+        <!-- Recipe 3 -->
+        <div class="card p-4 border border-slate-200">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-sm">3. Butter Egg Yolk & Avocado</h3>
+            <span class="badge badge-success">Choline + DHA + Lipids</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-2"><strong>Ingredients:</strong> 1 pasteurized egg yolk, 1/2 tsp butter, 1 tbsp ripe mashed avocado.</p>
+          <p class="text-slate-700 text-xs mb-2"><strong>Prep:</strong> Gently scramble egg yolk in butter over low heat until fluffy. Mash together with fresh ripe avocado.</p>
+          <div class="text-[11px] text-emerald-900 bg-emerald-50 p-2 rounded">
+            <strong>Benefit:</strong> Zero sugar, exceptional choline and healthy lipids for brain synaptogenesis.
+          </div>
+        </div>
+
+        <!-- Recipe 4 -->
+        <div class="card p-4 border border-slate-200">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-sm">4. Sweet Potato & Chicken Puree</h3>
+            <span class="badge badge-danger">Heme Iron + Zinc</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-2"><strong>Ingredients:</strong> 1/4 cup diced sweet potato, 2 tbsp minced chicken, 1/2 tsp olive oil.</p>
+          <p class="text-slate-700 text-xs mb-2"><strong>Prep:</strong> Steam chicken and sweet potato until tender. Puree or fork-mash with olive oil into a thick paste.</p>
+          <div class="text-[11px] text-rose-900 bg-rose-50 p-2 rounded">
+            <strong>Benefit:</strong> Bioavailable heme iron and zinc stimulate skeletal growth and tissue repair.
+          </div>
+        </div>
+
+        <!-- Recipe 5 -->
+        <div class="card p-4 border border-slate-200">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-sm">5. Paneer & Pumpkin Mash</h3>
+            <span class="badge badge-primary">Dairy Protein + Vitamin A</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-2"><strong>Ingredients:</strong> 2 tbsp fresh unsalted paneer, 1/4 cup sweet pumpkin, 1/2 tsp ghee.</p>
+          <p class="text-slate-700 text-xs mb-2"><strong>Prep:</strong> Steam pumpkin until tender. Mash together with crumbled fresh paneer and warm ghee.</p>
+          <div class="text-[11px] text-sky-900 bg-sky-50 p-2 rounded">
+            <strong>Benefit:</strong> Dense dairy fat, bioavailable calcium, and beta-carotene.
+          </div>
+        </div>
+
+        <!-- Recipe 6 -->
+        <div class="card p-4 border border-slate-200">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-sm">6. Fortified Banana Oatmeal</h3>
+            <span class="badge badge-warning">Complex Carbs + Fiber</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-2"><strong>Ingredients:</strong> 2 tbsp powdered oats, 1/2 cup breastmilk/milk, 1/4 mashed banana, 1/4 tsp flaxseed powder, 1/2 tsp ghee.</p>
+          <p class="text-slate-700 text-xs mb-2"><strong>Prep:</strong> Cook oats in milk for 3 mins. Stir in mashed banana, flaxseed, and ghee.</p>
+          <div class="text-[11px] text-amber-900 bg-amber-50 p-2 rounded">
+            <strong>Benefit:</strong> Soluble fiber prevents constipation while healthy fats provide sustained energy.
+          </div>
+        </div>
+
+        <!-- Recipe 7 -->
+        <div class="card p-4 border border-slate-200">
+          <div class="flex justify-between items-start mb-2">
+            <h3 class="font-bold text-slate-900 text-sm">7. Masoor Lentil & Spinach Mash</h3>
+            <span class="badge badge-success">Iron + Folate</span>
+          </div>
+          <p class="text-slate-600 text-xs mb-2"><strong>Ingredients:</strong> 2 tbsp red masoor dal, 4–5 spinach leaves, 1/2 tsp extra virgin olive oil.</p>
+          <p class="text-slate-700 text-xs mb-2"><strong>Prep:</strong> Cook red lentils and spinach until soft. Blend into a thick mash and drizzle with extra virgin olive oil.</p>
+          <div class="text-[11px] text-emerald-900 bg-emerald-50 p-2 rounded">
+            <strong>Benefit:</strong> High plant iron paired with carotenoids and gut-friendly fats.
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="mt-8 text-center text-xs text-slate-500 pb-8">
+    <p>Grounded in WHO Child Growth Standards, AAP Clinical Practice Guidelines, and Pediatric Gastroenterology Science.</p>
+    <p class="mt-1">Baby Development Guide for New Parents • Interactive Pediatric Reference</p>
+  </footer>
+
+  <!-- Script for Interactive Dashboard -->
+  <script>
+    // WHO Standards Data
+    const whoData = {
+      girl: {
+        0: { w: [2.4, 2.8, 3.2, 3.7, 4.2], l: [45.4, 47.3, 49.1, 51.0, 52.9], hc: [31.5, 32.7, 33.9, 35.1, 36.2] },
+        3: { w: [4.5, 5.2, 5.8, 6.6, 7.5], l: [55.6, 57.7, 59.8, 61.9, 64.0], hc: [37.4, 38.5, 39.5, 40.6, 41.6] },
+        6: { w: [5.7, 6.5, 7.3, 8.3, 9.3], l: [61.2, 63.5, 65.7, 68.0, 70.3], hc: [40.2, 41.2, 42.2, 43.3, 44.5] },
+        9: { w: [6.5, 7.3, 8.2, 9.3, 10.5], l: [65.3, 67.7, 70.1, 72.6, 75.0], hc: [41.7, 42.8, 43.8, 45.0, 46.2] },
+        12: { w: [7.0, 7.9, 8.9, 10.1, 11.5], l: [68.9, 71.4, 74.0, 76.6, 79.2], hc: [42.8, 43.9, 44.9, 46.1, 47.3] },
+        18: { w: [8.1, 9.1, 10.2, 11.6, 13.2], l: [74.9, 77.7, 80.7, 83.6, 86.5], hc: [44.1, 45.2, 46.4, 47.6, 48.9] },
+        24: { w: [9.0, 10.2, 11.5, 13.0, 14.8], l: [80.0, 83.1, 86.4, 89.6, 92.9], hc: [45.0, 46.1, 47.4, 48.6, 50.0] }
+      },
+      boy: {
+        0: { w: [2.5, 2.9, 3.3, 3.9, 4.4], l: [46.1, 48.0, 49.9, 51.8, 53.7], hc: [31.9, 33.2, 34.5, 35.7, 37.0] },
+        3: { w: [5.0, 5.7, 6.4, 7.2, 8.0], l: [57.3, 59.4, 61.4, 63.5, 65.5], hc: [38.3, 39.5, 40.5, 41.7, 42.7] },
+        6: { w: [6.4, 7.1, 7.9, 8.9, 9.8], l: [63.3, 65.5, 67.6, 70.0, 71.9], hc: [41.2, 42.2, 43.3, 44.5, 45.6] },
+        9: { w: [7.1, 8.0, 8.9, 10.0, 11.0], l: [67.5, 69.7, 72.0, 74.3, 76.5], hc: [42.8, 43.9, 45.0, 46.2, 47.3] },
+        12: { w: [7.7, 8.6, 9.6, 10.8, 12.0], l: [71.0, 73.4, 75.7, 78.1, 80.5], hc: [43.8, 45.0, 46.1, 47.3, 48.4] },
+        18: { w: [8.8, 9.8, 10.9, 12.3, 13.7], l: [76.9, 79.6, 82.3, 85.0, 87.7], hc: [45.1, 46.3, 47.6, 48.8, 50.1] },
+        24: { w: [9.7, 10.8, 12.2, 13.7, 15.3], l: [81.7, 84.6, 87.8, 90.8, 93.9], hc: [46.0, 47.3, 48.6, 49.9, 51.2] }
+      }
+    };
+
+    function getPercentile(val, arr) {
+      if (val < arr[0]) return { text: '< 3rd %ile', color: 'badge-danger' };
+      if (val < arr[1]) return { text: '3rd–15th %ile', color: 'badge-warning' };
+      if (val < arr[2]) return { text: '15th–50th %ile', color: 'badge-success' };
+      if (val < arr[3]) return { text: '50th–85th %ile', color: 'badge-primary' };
+      if (val < arr[4]) return { text: '85th–97th %ile', color: 'badge-purple' };
+      return { text: '> 97th %ile', color: 'badge-primary' };
+    }
+
+    function calculateGrowth() {
+      const sex = document.getElementById('calc-sex').value;
+      const age = document.getElementById('calc-age').value;
+      const w = parseFloat(document.getElementById('calc-weight').value);
+      const l = parseFloat(document.getElementById('calc-length').value);
+      const hc = parseFloat(document.getElementById('calc-hc').value);
+
+      const ref = whoData[sex][age];
+      if (!ref) return;
+
+      const pW = getPercentile(w, ref.w);
+      const pL = getPercentile(l, ref.l);
+      const pHc = getPercentile(hc, ref.hc);
+
+      document.getElementById('res-summary').innerText = `Baby ${sex === 'girl' ? 'Girl' : 'Boy'} at ${age} Months: Growth Percentiles`;
+      
+      const badgesContainer = document.getElementById('res-badges');
+      badgesContainer.innerHTML = `
+        <span class="badge ${pW.color}">Weight: ${pW.text} (${w} kg)</span>
+        <span class="badge ${pL.color}">Length: ${pL.text} (${l} cm)</span>
+        <span class="badge ${pHc.color}">Head Circ: ${pHc.text} (${hc} cm)</span>
+      `;
+
+      let advice = "";
+      if (w < ref.w[1] || l < ref.l[1]) {
+        advice = `<strong class="text-amber-800">Special Care / Catch-Up Recommended:</strong> Measurements are tracking below the 15th percentile. Implement high-density lipid fortification (ghee, MCT powder), ensure 800 IU Vitamin D and iron coverage, and retain a 10:30 PM dream feed.`;
+      } else {
+        advice = `<strong class="text-emerald-800">Optimal Growth Velocity:</strong> Child is tracking well along standard WHO percentiles. Continue responsive feeding and age-appropriate solids.`;
+      }
+      document.getElementById('res-advice').innerHTML = advice;
+
+      updateTable(sex);
+    }
+
+    function updateTable(sex) {
+      document.getElementById('table-title').innerText = `WHO Child Growth Standards Reference Table (${sex === 'girl' ? 'Girls' : 'Boys'} 0–24m)`;
+      const tbody = document.getElementById('who-table-body');
+      tbody.innerHTML = "";
+
+      const ages = [0, 3, 6, 9, 12, 18, 24];
+      const ageLabels = { 0: 'Birth', 3: '3m', 6: '6m', 9: '9m', 12: '12m', 18: '18m', 24: '24m' };
+
+      ages.forEach(a => {
+        const item = whoData[sex][a];
+        tbody.innerHTML += `
+          <tr class="hover:bg-slate-50">
+            <td rowspan="3" class="p-2.5 font-bold text-slate-800 bg-slate-50/50 border-r border-slate-200">${ageLabels[a]}</td>
+            <td class="p-2.5 font-medium text-slate-700">Weight (kg)</td>
+            <td class="p-2.5 text-amber-800 font-semibold bg-amber-50/30">${item.w[0]}</td>
+            <td class="p-2.5 text-slate-700">${item.w[1]}</td>
+            <td class="p-2.5 text-emerald-800 font-bold bg-emerald-50/30">${item.w[2]}</td>
+            <td class="p-2.5 text-slate-700">${item.w[3]}</td>
+            <td class="p-2.5 text-slate-700">${item.w[4]}</td>
+          </tr>
+          <tr class="hover:bg-slate-50">
+            <td class="p-2.5 font-medium text-slate-700">Length (cm)</td>
+            <td class="p-2.5 text-amber-800 font-semibold bg-amber-50/30">${item.l[0]}</td>
+            <td class="p-2.5 text-slate-700">${item.l[1]}</td>
+            <td class="p-2.5 text-emerald-800 font-bold bg-emerald-50/30">${item.l[2]}</td>
+            <td class="p-2.5 text-slate-700">${item.l[3]}</td>
+            <td class="p-2.5 text-slate-700">${item.l[4]}</td>
+          </tr>
+          <tr class="hover:bg-slate-50 border-b border-slate-200">
+            <td class="p-2.5 font-medium text-slate-700">Head Circ (cm)</td>
+            <td class="p-2.5 text-amber-800 font-semibold bg-amber-50/30">${item.hc[0]}</td>
+            <td class="p-2.5 text-slate-700">${item.hc[1]}</td>
+            <td class="p-2.5 text-emerald-800 font-bold bg-emerald-50/30">${item.hc[2]}</td>
+            <td class="p-2.5 text-slate-700">${item.hc[3]}</td>
+            <td class="p-2.5 text-slate-700">${item.hc[4]}</td>
+          </tr>
+        `;
+      });
+    }
+
+    function switchTab(tabId) {
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden'));
+      document.querySelectorAll('.tab-btn').forEach(b => {
+        b.classList.remove('active');
+        b.classList.add('bg-white', 'text-slate-700');
+      });
+      document.getElementById(tabId).classList.remove('hidden');
+      const activeBtn = document.getElementById(`btn-${tabId}`);
+      activeBtn.classList.add('active');
+      activeBtn.classList.remove('bg-white', 'text-slate-700');
+    }
+
+    function switchStage(stageId) {
+      document.querySelectorAll('.stage-content').forEach(c => c.classList.add('hidden'));
+      document.querySelectorAll('.stage-btn').forEach(b => {
+        b.classList.remove('active');
+        b.classList.add('text-slate-700');
+      });
+      document.getElementById(stageId).classList.remove('hidden');
+      const activeBtn = document.getElementById(`btn-${stageId}`);
+      activeBtn.classList.add('active');
+      activeBtn.classList.remove('text-slate-700');
+    }
+
+    function toggleFreqView(mode) {
+      const normalCols = document.querySelectorAll('.freq-col-normal');
+      const specialCols = document.querySelectorAll('.freq-col-special');
+      const btnSide = document.getElementById('btn-view-side');
+      const btnSpecial = document.getElementById('btn-view-special');
+
+      if (mode === 'special-care') {
+        normalCols.forEach(el => el.classList.add('hidden'));
+        btnSide.classList.remove('bg-white', 'shadow-sm', 'font-bold', 'text-slate-900');
+        btnSide.classList.add('text-slate-600');
+        btnSpecial.classList.add('bg-white', 'shadow-sm', 'font-bold', 'text-slate-900');
+        btnSpecial.classList.remove('text-slate-600');
+      } else {
+        normalCols.forEach(el => el.classList.remove('hidden'));
+        btnSpecial.classList.remove('bg-white', 'shadow-sm', 'font-bold', 'text-slate-900');
+        btnSpecial.classList.add('text-slate-600');
+        btnSide.classList.add('bg-white', 'shadow-sm', 'font-bold', 'text-slate-900');
+        btnSide.classList.remove('text-slate-600');
+      }
+    }
+
+    // Initial run
+    calculateGrowth();
+  </script>
+</body>
+</html>

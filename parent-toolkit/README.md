@@ -65,6 +65,26 @@ Companion to [Module 23](../23-life-skills-critical-moments/README.md). Every sk
 
 Includes the safety-critical skills (marked ⚠), what your child should know in an emergency, body-safety concepts, and a checklist for you — CPR training, pool fencing, car seat, button batteries.
 
+### 6. [Infant Diet Charts & Growth Guide](infant-diet-charts-and-growth-guide.md)
+
+Complete nutrition, WHO growth percentiles, and clinical catch-up recovery:
+- 6 key metrics to track (Weight, Length, Weight-for-Length, Head Circumference, Velocity, Output)
+- Feeding frequency: normal care vs. special care month-by-month
+- Complete WHO Growth Standards reference tables (0 to 24 months) for girls and boys
+- Stage-by-stage diet charts and daily schedules from 6 months onward
+- Dr.-prescribed MCT powder guide (pharmacology, dosage, and mixing)
+- Pediatric supplement protocols for Vitamin D (800 IU) and Hemfer Drops (Iron)
+- Step-by-step clinical course-correction framework for low weight and height
+- 7 energy-dense growth recipes for infants (6+ months)
+
+### 7. [Interactive Web Dashboard](../index.html)
+
+A standalone single-page interactive web application you can open directly in any browser:
+- Instant WHO percentile calculator for weight, length, and head circumference
+- Side-by-side normal care vs. special care feeding frequency comparator
+- Filterable stage-by-stage diet charts
+- Pharmacology reference and interactive recipe cards
+
 ---
 
 ## Fastest Ways to Use This Toolkit
