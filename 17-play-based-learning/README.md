@@ -221,6 +221,60 @@ Persistent lack of interest in other children, across settings and over time, is
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+**Safety and timing:** Before you stock the loose-parts basket, check it against the play-material and home-safety checklists in Module 34 (small parts, batteries, magnets, and furniture that can tip). For where play fits around meals, naps, and school in a real day, see the sample days by age in Module 32.
+
+---
+
+## A Day in Real Life: The Box the Washing Machine Came In
+
+A new washing machine arrives. The 4-year-old ignores the machine and claims the box. Track one week of the box's career:
+
+- **Monday:** It's a house. Requires a cushion, a torch, and a "doorbell" (drawn on with crayon).
+- **Tuesday:** It's a rocket. The child spends 40 minutes on the countdown sequence alone — sequencing, counting backwards, narrative, delayed gratification, all self-assigned.
+- **Wednesday:** It's a shop. You are required to buy invisible mangoes. Prices are invented, negotiated, and inflated (early math, early economics, early nerve).
+- **Thursday:** It's a cave for bears. Sibling is admitted after negotiation — a treaty more delicate than most trade agreements.
+- **Friday:** The box, structurally exhausted, becomes a flattened "ramp." Physics testing commences.
+
+Meanwhile, the ₹3,000 / $40 light-up toy purchased last month made sounds *at* the child for twenty minutes before being retired. The difference is the **90/10 rule**: in great play, the child supplies 90% of the content and the object supplies 10%. The light-up toy inverted the ratio — it did the playing, and the child was the audience. When choosing any plaything, ask one question: *who does the work?*
+
+---
+
+## Tips & Tricks: Play
+
+1. **Strew, don't instruct.** "Strewing" is the quiet art of leaving an invitation out: three cars parked on a masking-tape road, dough with a rolling pin beside it, a bowl of water with cups on a towel. No announcement. Children treat discovered setups as their own idea — which multiplies engagement.
+2. **Stock loose parts.** The "theory of loose parts" (from playground design research): materials with no fixed purpose — boxes, scarves, sticks, stones, tubes, clips, fabric — generate more varied play than any finished toy, because every session they can be something new. A loose-parts basket is the cheapest, longest-lasting toy purchase you'll ever make.
+3. **Join, seed, fade.** When invited to play: join genuinely for a few minutes, add one seed idea if the play is looping ("Oh no, the shop has run out of mangoes!"), then fade to the edge. You're a guest star, not the director.
+4. **Protect deep play like a meeting.** A child 40 minutes into an elaborate game is in the most cognitively valuable state childhood offers — the focused, self-directed kind that attention is built from. Don't break it for a snack that can wait; when you must end it, give the same warnings you'd want ("five more minutes, then lunch").
+5. **Permit real (managed) risk.** A 2015 review of 21 studies of risky outdoor play (Brussoni and colleagues) linked climbing high, going fast, and rough-and-tumble with more physical activity and better social health, with positive findings even for injuries, though it called for better-quality studies **[C]**. The idea that graded risk protects against later anxiety (Sandseter) is a promising theory, not yet proven. The standard worth adopting: **"as safe as necessary, not as safe as possible."** Spot, don't hover; coach, don't carry.
+6. **Sportscast sibling disputes.** "Two children, one truck" (Module 09) never really ends — narrate neutrally ("You both want the crane. Aarav had it; Meera wants a turn.") and let them propose the deal before you impose one. Sibling play is negotiation school; don't teach the class for them.
+7. **Let boredom finish its work.** "I'm bored" is the uncomfortable lobby outside self-directed creativity. Offer sympathy and materials, not entertainment: "Sounds hard. The loose-parts basket is there." Twenty minutes of whining is the standard entry fee; pay it and the fort appears.
+
+---
+
+## The Elite Edge: Forest Schools and the $400 Toy Shelf
+
+**Forest schools and adventure playgrounds.** In wealthy urban circles, "forest kindergarten" ($$$) is the hot credential: children outdoors for hours in all weather, climbing trees, using real tools, building dens. The active ingredients are exactly three — *unstructured time, nature and loose parts, trusted risk* — and none is proprietary. A weekly unhurried park/waste-ground/rooftop-garden session where the child leads, gets dirty, climbs what they can climb, and is not narrated at, delivers the same core. (Peter Gray's research on the historical decline of free play, and its correlation with rising childhood anxiety, is the intellectual backbone of this entire movement.)
+
+**The curated-shelf aesthetic.** Instagram-Montessori homes display six wooden toys on a low shelf and it looks like wealth. Strip the rosewood and the actual evidence-backed principles are: **few** (fewer toys → longer, more varied play in one small lab study of 36 toddlers, Dauch et al. 2018 — a single study, not yet replicated), **open-ended** (the 90/10 rule), **visible and reachable** (child-height display invites independent starting), **rotated** (novelty without buying). A cardboard shoe-rack running the same principles produces the same child — the shelf is decor, the principles are development.
+
+**The play-coach industry.** Some families now hire "play consultants" to teach them to play with their children. Their entire method fits in one line you already know: *sit on the floor, follow, imitate, describe, don't ask questions, don't teach* — PRIDE skills (Module 08) plus fading (above). Save the fee; spend the floor time.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Educationalizing everything.** Turning the block tower into a color quiz ("What color is THIS one?") converts play into a test, and children exit tests. The learning is already inside the play; interrogation only evicts it.
+2. **Buying single-outcome toys.** A toy that does one thing (press button → song) is finished the day it's understood. Judge toys by how many *different* games they can become — the box beat the toy for exactly this reason.
+3. **Interrupting focus casually.** The toddler absorbed in posting blocks through a slot is doing attention-span construction. Interrupt for hugs, photos, and snacks often enough and you've trained distraction. Approach absorbed children the way you'd want your own focus approached.
+4. **Sanitizing all risk.** The child never allowed on the high bar arrives at age 10 with unpracticed judgment and either recklessness or fear. Graded, supervised risk is the safety training.
+5. **Using screens as the default transition.** Every waiting room, car ride, and cooking hour handled by a screen is a boredom-rep not practiced (and boredom-reps are where imagination trains). Keep a "waiting kit" (small notebook, crayons, two tiny toys) as the first-line transition tool.
+
+---
+
 ## 5-Minute Action Plan
 
 **Put away two-thirds of the visible toys today.**

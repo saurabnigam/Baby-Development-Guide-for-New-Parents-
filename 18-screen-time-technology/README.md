@@ -239,6 +239,95 @@ Then deal with the settings, quietly, afterwards.
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+### The Numbers: WHO, IAP, and AAP Side by Side
+
+| Age | WHO (2019 and 2020) | IAP (2022, India) | AAP (2026, US) |
+|-----|---------------------|-------------------|----------------|
+| Under 2 | No screen time under 1. For 1-year-olds, no sedentary screen time | No screens of any type | Babies under 18 months learn little from screens. Brief, occasional high-quality video is not harmful |
+| 2 to 4 | No more than 1 hour a day; less is better | At most 1 hour a day, supervised (up to 59 months) | If a family wants a number: under 1 hour a day for toddlers and preschoolers |
+| 5 to 10 | Limit recreational screen time; no fixed number | Less than 2 hours a day | About 1 to 2 hours a day of entertainment media, set to fit the family |
+
+All three are expert guidelines built mostly on observational studies **[A]**. They agree on the shape: little or nothing before 2, an hour at most from 2 to 5, and protected sleep, meals, and play after that. Video calls with family are the usual exception (Module 06). In India, your pediatrician will likely follow the IAP, which is stricter for under-2s. Where the rules differ, the stricter one is the safe default. The AAP's 2026 policy statement drops fixed limits as its headline advice. It focuses on content quality, app design, and what screens push out, and it recommends phone-free meals, bedrooms, and the hour before bed.
+
+### Screens, Eyes, and the Outdoor Fix
+
+Short sight (myopia) is now very common in schoolchildren in East Asia and still rising. A 2021 meta-analysis linked smartphone and tablet time with higher odds of myopia (odds ratio 1.26), but the studies were observational and measured screen time poorly **[C]**. The stronger evidence is for going outside. In a 2024 Cochrane review of 5 trials (10,733 children aged about 6 to 9, all in China and Taiwan), extra outdoor time lowered 2-year myopia onset from 26.7% to 22.5% **[A]**. One of those trials added 40 minutes outdoors per school day and cut 3-year onset from 39.5% to 30.4% **[B]**. Bright daylight, not just "fresh air," seems to be the active ingredient. A practical target for school-age children is about 2 hours outdoors a day, split up any way. Outdoor time helps prevent myopia. It does not treat myopia a child already has; that is an eye doctor's call.
+
+### New in 2026: AI Chatbots, Voice Assistants, and the First Phone
+
+A 4-year-old asks the smart speaker for a story, then says goodnight to it. That is normal for the age. It is also why the AAP now has advice on AI.
+
+In April 2026 the AAP published its first review of generative AI for families (in *Pediatrics*). It is expert guidance, not trial evidence, and it sorts advice by age **[A]**:
+
+| Age | What the AAP advises |
+|-----|----------------------|
+| 0 to 5 | Young children have a limited ability to tell AI from a person. Put human interaction and ordinary play first. If AI is used, use it together |
+| 6 to 11 | Build critical thinking. Ask together: "How would we tell if these things were real or not?" |
+| 12 and up | Set AI boundaries together as a family. Keep time with friends and family that is free of AI and screens |
+
+The review says voice assistants can reinforce basic concepts and vocabulary. It also warns that children may come to see AI as a friend or caregiver, and its message for children is plain: "AI is not your friend." It cites a 2025 US survey in which 72% of teens had used AI chatbots as companions. At home, treat AI chat as screen time: same limits, used together with young children, and no private companion apps.
+
+**The first phone.** The AAP's 2026 digital-media policy says research does not point to one right age for a smartphone. Readiness depends on the teen: media literacy, honesty with parents, handling conflict with friends, and practical need. A basic phone or watch can cover logistics first, and the AAP's free PhoneReady questionnaire can start the conversation. Module 37 covers AI chatbots, online safety, and a step-by-step first-phone plan.
+
+---
+
+## A Day in Real Life: A Family Screen Audit, Honestly Done
+
+A realistic dual-earner household with a 3-year-old runs a one-day audit — not of the child's screen time, but of *all screens in the child's environment*. The findings surprise them:
+
+- **7:15 a.m.** — Parent scrolls news through breakfast. Child's four conversation bids answered with "hmm."
+- **All evening** — TV on "in the background" while nobody watches. (Research finding worth knowing: background TV measurably reduces both the quality of children's play *and* the number of words parents speak to children — it's not neutral wallpaper; it's a language tax on the room.)
+- **7:00 p.m.** — Tablet at dinner "so he eats." Eating happens; hunger-fullness awareness and table conversation don't.
+- **8:30 p.m.** — Cartoon right before bed "to wind down." Bedtime takes 45 minutes longer; the light and stimulation were winding *up*.
+
+The family changes three defaults, none of which is a rule *for the child*:
+1. **TV goes off unless someone is actually watching.** The room gets its words back.
+2. **Meals are screen-free for everyone** — the adults' phones sleep in another room during dinner.
+3. **The last hour before bed is screens-off for the household**; cartoon moves to after-nap.
+
+Child screen minutes barely changed. Language exposure, dinner conversation, and sleep onset all improved within a week. **The most powerful screen-time intervention for a young child is usually aimed at the adults' devices and the always-on TV, not the child's tablet.**
+
+---
+
+## Tips & Tricks: Screens
+
+1. **Kill background TV.** The single most under-rated change in this module (see above). If nobody's watching it, it's not entertainment — it's interference.
+2. **Triage content by interactivity, not brand.** Green: video calls with responsive relatives (real interaction — see Module 06). Yellow: slow, story-driven, co-viewable shows. Red: fast-cut, autoplay-chained, algorithmic feeds — engineered for retention, not comprehension. The same "educational" platform can host all three.
+3. **Co-view like a book.** Watching *with* the child and talking ("Why is she sad? That's like your bucket!") converts passive viewing into something closer to shared reading. Research calls it joint media engagement; children call it nicer.
+4. **Engineer the ending before the beginning.** "Two episodes. When the second ends, we switch it off together and go make toast." Known dose + child's hand on the off switch + an appealing *next thing* removes most end-of-screen meltdowns. Screens ended by ambush produce fights; screens ended by ritual produce toast.
+5. **Give your phone a parking spot.** A basket or drawer where phones physically live during play, meals, and bedtime. Out of hand beats face-down: Radesky's research (Module 01) is about parents *using* phones around children, and a phone within reach gets used. (The separate claim that a phone merely in view drains your attention is shaky: a 2022 direct replication of the best-known study found no effect.)
+6. **Narrate your own use.** "I'm checking the map so we find the shop, then it goes in my pocket." Children can't distinguish scrolling from working; narration teaches purposeful use — which is what you actually want them to inherit.
+7. **Sequence the day: movement → boredom → screens last.** Outdoor play and unstructured time first, entertainment media in a known slot afterwards. The order protects the developmentally load-bearing activities from being displaced. Displacement is one of the best-documented ways screens do harm, but not the only one: in one experiment, 9 minutes of a fast-paced cartoon worsened 4-year-olds' self-control right afterwards (Lillard & Peterson 2011), and evening screens delay sleep. Content and timing matter, not just minutes.
+
+---
+
+## The Elite Edge: Why Tech Executives Raise Low-Tech Kids
+
+One of the most widely reported ironies in modern parenting: journalists (for example, the *New York Times* in 2018) have described Silicon Valley executives who send their children to screen-free Waldorf-style schools, hire nannies contractually barred from phone use around the kids, and delay smartphones well past the norm. These are anecdotes, not survey data. The people who *build* the attention economy buy their own children out of it.
+
+**What they know that the marketing doesn't say:**
+- Engagement features — autoplay, infinite scroll, variable-reward notifications — are deliberately engineered to defeat self-regulation. An adult PFC struggles against them; a 7-year-old's has no chance. "My child can't put it down" isn't a discipline failure; it's the product working.
+- The emerging class divide isn't access to screens — it's **access to human attention.** Screen-based childcare is becoming the budget option; live caregivers, conversation, and analog play the premium one. Reclaiming human attention at home (the audit above) is the entire premium, free.
+- Their playbook, portable to any income: delay the personal smartphone as long as socially feasible (coordinating with 2–3 other families' parents makes 13–14 achievable — a "dumb phone" covers logistics); no devices in bedrooms overnight, ever, for anyone; screens in shared spaces; family media plan written down (the AAP has a free builder).
+
+**One honest nuance for the teen years:** for adolescents, the phone is also the social lifeline, and research on outcomes is more mixed than headlines suggest — blanket confiscation can amputate belonging, and removing it as routine punishment teaches concealment, not moderation. Aim structure at *sleep, meals, and homework* (the evidence-backed choke points) rather than at the phone's existence.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **The guilt binge cycle.** Strict zero-screen weeks collapsing into unlimited weekends teaches bingeing, not regulation. A boring, sustainable, written norm beats an aspirational one you abandon.
+2. **Outsourcing all regulation to the screen.** If every wait, tantrum, and restaurant is solved by a tablet, the child gets zero reps of the boredom and self-soothing skills those moments exist to train. Keep screens as *one* tool, never the reflex (the waiting kit from Module 17 is the reflex).
+3. **Enforcing rules you visibly exempt yourself from.** "No phones at dinner" while answering "one work thing" teaches that the rule is about power, not principle. Household rules bind the household; that's what makes them legible to children.
+4. **Making rules vague.** "Less screen time" is unenforceable and invites hourly negotiation. "Screens after outdoor play, off at 7, never in bedrooms" is a system — anchored to times and places, it eventually stops being argued with, like gravity.
+5. **Treating all screen time as one substance.** A video call with grandmother, a Minecraft build with a friend, and an autoplay binge are as different as a conversation, a LEGO session, and a sugar drip. Judge by what it is and what it displaced, not by the minute count alone.
+
+---
+
 ## 5-Minute Action Plan
 
 **Pick one protected screen-free window and defend it.**
@@ -261,7 +350,7 @@ Every link checked on 2026-08-06.
 - **AAP** — [Family Media Plan](https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx) · [Media and Children](https://www.aap.org/en/patient-care/media-and-children/)
 - **Haidt, J. (2024).** *The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness.* Penguin Press.
 - **Gray, P. (2013).** *Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life.* Basic Books.
-- *For in-depth analysis of cognitive development and screen literature, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#category-5-cognition-play-free-range-parenting--screen-science).*
+- *For in-depth analysis of cognitive development and screen literature, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#master-comparison-matrix-25-bestselling-books).*
 
 ---
 

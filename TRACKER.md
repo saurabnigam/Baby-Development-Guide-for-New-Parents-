@@ -326,6 +326,69 @@ Repo grew from **6,648** lines to **10,179** — a 53% increase, with the four t
 
 ---
 
+## Phase 9 — 2026 research refresh, merged from the knowledge-base copy ✅
+
+This repo is now the single source of truth. A diverged copy of the guide lived in the
+`knowledge_base` repo (`books/baby-iq-eq-development.md`). Between August and September 2026 it
+received a research refresh; that work was merged here on 2026-09-26 and the knowledge-base copy
+was archived.
+
+| What | Where it landed |
+|------|-----------------|
+| 13 new modules | 25 Prenatal · 26 Language, Bilingualism & Reading · 27 Music, Movement & Arts · 28 Executive Function · 29 Elite Playbook · 30 Supplements · 31 Research Frontier · 32 Daily Routines by Age · 33 Environmental Toxins · 34 Health & Safety · 35 Traditions & the Caregiving Team · 36 Developmental Differences · 37 Growing Up Safe |
+| Four recurring sections (A Day in Real Life, Tips & Tricks, The Elite Edge, Mistakes) | Modules 00–19 (Module 04 got Elite Edge + Mistakes only), placed before the 5-Minute Action Plan |
+| "2026 Research Update" sections | Modules 00, 02–20: pointers to the new modules plus short evidence boxes (Indian complementary feeding, B12 and DHA for vegetarians, board-exam and coaching pressure, WHO/IAP/AAP screen numbers, AI chatbots, smacking and time-out, India help pathways, NEP 2020) |
+| Module 20 | More FAQs, a free-tools table, India help pathways, a list of Modules 25–37 |
+| README / lesson objectives | Part 7 table, evidence-grade legend, two reading paths; objectives for 25–37 |
+
+**How the evidence was checked.** 12 research domains produced 168 findings; 166 survived adversarial
+verification against primary sources (63 A, 52 B, 40 C, 11 D). 84 high-risk claims in the old
+knowledge-base text were fact-checked and corrected there. Most of those claims had already been
+removed or fixed here by the red-team pass, so only the corrected versions inside the ported
+sections came across; no base text in Modules 00–24 was rewritten.
+
+**Known gaps (open items):** see Phase 10 below for what was closed and what remains.
+
+---
+
+## Phase 10 — Whole-guide check after the merge (2026-09-26) ✅
+
+A full check of Modules 00–37 and the parent toolkit, done inline (no agent fan-out).
+
+**Structural:** 11 broken section links fixed (all pre-dated the merge: diet-chart quick navigation,
+book-reference "category" anchors that never existed, and a renamed sleep-training heading). Final pass:
+every relative link and anchor resolves; every table row has the right column count; code fences balanced;
+no duplicate headings or repeated sentences.
+
+**Consistency across modules:** vitamin D, toothpaste amounts, cow's-milk cap, honey, screens, solids, and
+sleep-hour tables agree. Fixed:
+- Vitamin D for formula-fed babies: Modules 03, 04, 05, 06, 15 gave only the US exemption; added India's IAP 2021 rule (400 IU for all infants, no formula exemption).
+- Module 14 teen iron and calcium rows: labelled US values and added ICMR-NIN 2020 values (girls 28–32 mg iron) and NFHS-5 anaemia in girls 15–19.
+- Module 03 crying curve softened ("often highest around 6–8 weeks"; about 2 h/day on average).
+- Diet-chart guide: egg yolk no longer called an iron source; milk range made consistent (24–32 oz); **Sections 5–6 (MCT powder, 800 IU vitamin D, Hemfer drops) now open with a warning that they document one baby's prescription**, and the toolkit README and WhatsApp card say so too.
+
+**Review backlog:** applied 133 exact-replacement reviewer fixes to Modules 31–36, then about 30 hand-picked
+medium fixes (fever threshold for armpit vs rectal readings; bed-sharing harm-reduction wording; mask safety for
+children; skin-lightening creams and sambrani smoke as exposures; water testing in India; tobacco in Key
+Takeaways; AAP 2026 screen policy; outdoor-time trial wording; ADHD and CBSE details; M-CHAT access; iodine and
+bilingualism evidence levels; corrected citations). An audit found that the automatic pass had pasted about 8
+reviewer *instructions* into the text; all were resolved and a pattern scan now finds none.
+
+**Unreviewed modules:** Modules 35 and 37 read in full by hand. Both hold up; small fixes to 35 (walker
+citation, safest option for nazar threads first, IAP screen rule on the house rulebook).
+
+**Overlaps:** "How this fits" notes at the top of 26, 28, 34, 37 and "Go deeper" notes in 22 and 23. Module 01
+gained a "2026 Research Update" (genes vs environment, toxins, nutrition and myelin) and Module 16 a pointer to
+Module 32's sleep and nap table; Module 16's "wake windows" and "sleep regressions" tips were aligned with Module 32.
+
+**Still open:**
+- About 90 lower-priority reviewer suggestions (mostly structure and readability: split long paragraphs in 31, shorten evidence-heavy table cells in 33 and 36, turn Module 32's Elite Edge into a table, move effect-size detail from 36's body to its Research Notes).
+- Some content repeats across 31 and 36 (SMPY and acceleration figures); a later pass could keep the detail in 31 only.
+- The four recurring sections are still missing from Modules 21–24.
+- NFHS-6 figures quoted in Module 35 could not be independently checked in this pass.
+
+---
+
 ## Notes for whoever picks this up
 
 - **Don't delete a rejected red-team finding.** Mark it ➖ with the reason. A finding someone considered and dismissed is more useful to the next reviewer than a missing row.

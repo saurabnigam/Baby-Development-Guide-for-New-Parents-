@@ -272,6 +272,69 @@ Parental sleep deprivation is not a side issue. It directly affects your patienc
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+For sleep hours **and typical nap counts** at every age (AASM/AAP and WHO), when naps drop out, and sample days that protect sleep around school buses and coaching classes, see [Module 32: Daily Routines by Age](../32-daily-routines-by-age/README.md). Safe-sleep details for cradles and jhulas are in [Module 34](../34-health-and-safety/README.md) and [Module 35](../35-traditions-and-caregiving-team/README.md).
+
+---
+
+## A Day in Real Life: Engineering an Evening Backwards
+
+A family's 20-month-old is "a terrible sleeper": bedtime is a 90-minute battle ending at 10 p.m., with three night wakings. Watch a sleep consultant's actual first move — they don't touch bedtime at all. They fix the *day*, backwards:
+
+```
+7:00 am  Fixed wake time (the anchor — even after bad nights)
+7:15     Breakfast near a bright window / balcony (light sets the body clock)
+12:30    Nap begins — capped by 3:00 pm (late naps steal night sleep)
+4:30     Outdoor hour (sunlight + movement = sleep pressure)
+6:00     Dinner
+6:45     Wind-down begins: bath → pajamas → teeth → 2 books → song → lights
+7:30     In bed, drowsy but awake
+```
+
+The old evening failed because of a cascade invisible at bedtime: a 4:30 p.m. nap ending at 5:45 meant zero sleep pressure at 8, which meant battles until 10, which meant an overtired child (and overtired children often sleep worse, not better, in clinicians' experience), which meant a 8:30 a.m. wake, which pushed the nap late again. A fixed wake time, held steady for a week or two, is the first lever to try for breaking the loop.
+
+**The rule:** bedtime problems are usually daytime problems. Fix the anchor (wake time), the light, the nap cap, and the movement — then the evening mostly fixes itself.
+
+---
+
+## Tips & Tricks: Sleep
+
+1. **Guard wake time, not bedtime.** One consistent wake time (weekends within ~30–60 minutes) does more for the body clock than any bedtime rule. It's also the only lever fully under parental control.
+2. **In infancy, watch sleepy cues, not the clock.** The yawn-eye-rub window is short, and missing it buys you a "second wind" baby. Popular "wake window" charts are a rule of thumb, not research (Module 32). Track your baby's own pattern for three days and the schedule writes itself.
+3. **Practice "drowsy but awake" at zero stakes.** Once a night, put the baby down drowsy rather than asleep. If it fails, rescue and try tomorrow — no method, no crying plan, just reps. Many babies quietly learn self-settling from this alone.
+4. **Use the bedtime pass for curtain calls.** For the preschooler with infinite post-bedtime requests: one physical "pass" card, exchangeable for one trip out of bed or one visit — then done. In studies (Friman), the pass cut curtain calls dramatically; children often fall asleep holding it. Structure beats willpower.
+5. **Be reliably boring after lights out.** Every post-bedtime interaction: flat voice, dim light, same six words ("It's sleep time. I love you."). A parent who is sometimes fun after lights-out is running a lottery, and children buy lottery tickets indefinitely.
+6. **Make mornings bright and evenings dim.** Ten minutes of morning outdoor light anchors the clock; dim, warm lighting for the last hour cues melatonin. If a nightlight is needed, dim red beats bright white/blue.
+7. **When nights fall apart, check for the earlier bedtime.** Worth trying: many clinicians report that an *earlier* bedtime often helps with night wakings and early rising, on the theory that it heads off overtiredness. This is clinical experience; no controlled trial has tested it in toddlers **[D]**. Move bedtime 30 minutes earlier for a week and watch. If nothing changes, move it back.
+
+---
+
+## The Elite Edge: The $5,000 Sleep Consultant, Decoded
+
+**What the wealthy buy:** private sleep consultants ($300 calls to $5,000 live-in packages) and smart bassinets ($1,500+). What the purchase actually contains:
+
+1. **A written plan.** Method chosen, exact scripts, exact responses to each scenario, printed on the fridge. The magic ingredient isn't the method — it's that *both parents execute the same plan for 14 consecutive nights*. Inconsistency is the disorder consultants actually treat: responding differently on night 3 than night 1 is intermittent reinforcement, the strongest habit-builder known, applied accidentally against yourself at 3 a.m.
+2. **Permission and confidence.** A calm authority saying "this is normal, hold the plan" — worth real money at 3 a.m., free from a partner who has agreed on the plan in daylight.
+3. **The evidence they're built on (public):** Mindell's studies show a consistent bedtime routine alone improves sleep within days. Randomized trials found graduated methods (checked intervals, bedtime fading) effective for suitable-age infants. In the small Gradisar 2016 trial (43 infants), cortisol fell slightly in the trained groups and attachment showed no differences at 12 months **[B]**. The larger Price 2012 trial (326 families) found no harm to behavior, attachment, or cortisol five years later, and also no lasting benefit on most measures **[B]**. And the boring foundations — wake time, light, nap timing, wind-down — do most of the work before any "method" enters.
+4. **Smart bassinets:** the honest read is modest convenience gains in the early months, no demonstrated development gains, and full replacement by the free fundamentals plus safe-sleep basics (firm flat surface, no loose bedding, back to sleep — which outrank every gadget ever sold).
+
+**A cultural note the Western sleep industry skips:** across much of the world, including many Indian homes, babies sleep close to a parent and move to their own bed later. The research target is *sufficient, consistent sleep for everyone in the family*, not any particular sleeping geography. But in the first year, room-sharing and bed-sharing are not the same. The AAP recommends **room-sharing** (baby on their own firm, flat surface in your room) for at least the first 6 months; it can cut SIDS risk by up to 50% **[A]**. It advises against **bed-sharing**: the risk of sleep-related death is 5 to 10 times higher under 4 months, 2 to 5 times higher for preterm or low-birth-weight babies, more than 10 times higher with a tired or medicated adult, and especially high if the adult smokes, has drunk alcohol, or has used drugs. Never sleep with a baby on a sofa or armchair (up to 67 times higher). A cot or bassinet right beside your bed keeps the baby within arm's reach. Within those limits, choose what gets your family the most sleep, and ignore anyone selling shame either way.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Treating the routine as broken because a regression hit.** Sleep "regressions" are rough patches parents often notice around new skills, illness, or nap changes. The term is not a diagnosis, and the popular age lists are not based on research (Module 32). The move is to hold the routine steady *through* the storm — families who improvise new habits mid-regression keep the habits long after the regression leaves.
+2. **Letting naps float.** "He'll sleep when he's tired" works for almost no young child. Late naps and skipped naps both tax the night. The nap schedule is night sleep's foundation, not its competitor.
+3. **Using screens as wind-down.** The relaxed-looking child watching a tablet is aroused (light + content), not down-regulating. The last hour belongs to bath, books, and boredom.
+4. **Responding differently every night.** Ignore, then rock, then bring to bed, then back — each variation teaches "escalate longer." Pick any response you can sustain and make it the *only* response. Consistency beats correctness of method.
+5. **Sacrificing the parents indefinitely.** A household running on two years of broken sleep is a developmental risk factor in itself (responsiveness, mood, safety). Fixing family sleep — by whichever method fits your values — is not selfish; it's infrastructure.
+
+---
+
 ## 5-Minute Action Plan
 
 **Pick the last ten minutes and make them identical, starting tonight.**
@@ -304,7 +367,7 @@ Every link checked on 2026-08-06.
 - Ferber, R. (2006). *Solve Your Child's Sleep Problems: New, Revised, and Expanded Edition.* Simon & Schuster.
 - Weissbluth, M. (2021). *Healthy Sleep Habits, Happy Child.* 5th ed. Ballantine Books.
 - Oster, E. (2019). *Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool.* Penguin Press.
-- *For detailed book profiles and scientific fact-checks, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#category-6-sleep-science--bedtime-challenges).*
+- *For detailed book profiles and scientific fact-checks, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#master-comparison-matrix-25-bestselling-books).*
 
 ---
 

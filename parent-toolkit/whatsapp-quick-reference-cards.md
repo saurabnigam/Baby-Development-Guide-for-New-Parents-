@@ -78,7 +78,7 @@ _(Special Care / Catch-Up Weight Plan)_
 • ⚠️ *Rule:* Never give with milk/formula/calcium (calcium blocks iron absorption by 50–60%). Separate by at least 1 hour.
 • 💡 *Tip:* Drop onto inner cheek (not front teeth); wipe gums/teeth with a damp washcloth to prevent harmless staining. Dark green/black poops are completely normal!
 
-2️⃣ *Vitamin D Drops (800 IU / 2 Drops):*
+2️⃣ *Vitamin D Drops (800 IU / 2 Drops — only if prescribed; the standard dose is 400 IU):*
 • *Timing:* Give with morning or afternoon milk/food
 • ⚠️ *Rule:* Vitamin D is fat-soluble; giving it with milk or ghee doubles absorption into the bloodstream for bone growth.
 

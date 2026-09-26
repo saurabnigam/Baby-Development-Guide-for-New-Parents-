@@ -98,6 +98,26 @@ The modules above tell you *what happens and when*. These four tell you *what to
 | [23](23-life-skills-critical-moments/README.md) | **Life Skills & Critical Moments** | 5 hrs | The universal teaching loop, plus swimming and water safety, roads, cycling, knives and fire, body safety and consent, money, chores, and emergencies |
 | [24](24-behaviour-and-discipline/README.md) | **Behaviour & Discipline** — Teaching, Not Punishing | 4 hrs | One coherent behaviour model, a playbook for tantrums / hitting / whining / lying / siblings, and a full section on food and mealtime behaviour |
 
+### Part 7: Deep Dives & the 2026 Research Refresh (32 hours)
+
+| Module | Title | Time | Focus |
+|--------|-------|------|-------|
+| [25](25-prenatal/README.md) | Prenatal | 2 hrs | Pregnancy nutrients, prenatal learning, stress, cord clamping, paracetamol, preconception checklist |
+| [26](26-language-bilingualism-reading/README.md) | Language, Bilingualism & Raising a Reader | 3 hrs | Bilingual homes without the myths, the reading staircase, the speech therapist's toolkit |
+| [27](27-music-movement-arts/README.md) | Music, Movement & the Arts | 2 hrs | Honest evidence on music, sport sampling, process art |
+| [28](28-executive-function/README.md) | Executive Function | 2.5 hrs | Working memory, inhibition and flexibility; the EF gym by age |
+| [29](29-elite-playbook/README.md) | The Elite Playbook | 2 hrs | What expensive programmes actually buy, decoded; India's enrichment market |
+| [30](30-supplements-micronutrients/README.md) | Supplements & Micronutrients | 2 hrs | The small evidence-based core, India's free programmes, the ten-second label test |
+| [31](31-research-frontier/README.md) | The Research Frontier | 3 hrs | Genes vs environment, what has been shown to move IQ, gifted children, embryo screening |
+| [32](32-daily-routines-by-age/README.md) | Daily Routines by Age | 3 hrs | Sample days from newborn to teen, household variants, routine cards, weekly rhythm |
+| [33](33-environmental-toxins/README.md) | Protecting the Developing Brain | 2.5 hrs | Lead (kajal, spices, cookware), air quality, arsenic, fluoride, plastics |
+| [34](34-health-and-safety/README.md) | Health and Safety Essentials That Protect the Brain | 3 hrs | Newborn screening, fever danger signs, safe sleep, choking/CPR, injury prevention, vaccines |
+| [35](35-traditions-and-caregiving-team/README.md) | Traditional Practices and the Caregiving Team | 2 hrs | Keep/modify/stop customs, grandparents, nannies, creches |
+| [36](36-developmental-differences/README.md) | When Development Needs a Closer Look | 2.5 hrs | Screening schedule, autism, ADHD, speech, dyslexia, giftedness, assessment in India |
+| [37](37-growing-up-safe/README.md) | Growing Up Safe | 2.5 hrs | Body safety, online life, AI chatbots, first phone, puberty, teen mental health |
+
+> **2026 research refresh:** these modules, and the "2026 Research Update" and "A Day in Real Life" / "Tips & Tricks" / "Elite Edge" / "Mistakes" sections added to Modules 00–20, were checked against research published through September 2026. Research claims carry an evidence grade: **[A]** strong (several randomized trials, a meta-analysis, or a major guideline body) · **[B]** good · **[C]** mixed or observational · **[D]** early or weak. Modules 26 and 28 go deeper on topics Module 22 introduces; Modules 34 and 37 complement Module 23.
+
 ---
 
 ## How to Use This Guide
@@ -107,6 +127,12 @@ Go straight to the module for your child's age. Then read Part 5 — food, sleep
 
 ### 📍 If You're Expecting
 Start with Part 1 to see how development works. Then Module 15 for nutrition in pregnancy. When the baby arrives, go to Module 03.
+
+### 📍 If You Want a Daily Routine
+Go to [Module 32](32-daily-routines-by-age/README.md): a sample day for every age from newborn to 18, with versions for grandparents, nannies, and creches.
+
+### 📍 If You Want the Latest Research
+Start with [Module 31](31-research-frontier/README.md). It answers "Can I raise a super-intelligent child?" honestly and ranks what has actually been shown to move a child's potential.
 
 ### 📍 If You Want the Quick Version
 Every module opens with **Key Takeaways** and closes with a **5-Minute Action Plan**. Read those two and skip the rest.

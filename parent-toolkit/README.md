@@ -73,7 +73,7 @@ Complete nutrition, WHO growth percentiles, and clinical catch-up recovery:
 - Complete WHO Growth Standards reference tables (0 to 24 months) for girls and boys
 - Stage-by-stage diet charts and daily schedules from 6 months onward
 - Dr.-prescribed MCT powder guide (pharmacology, dosage, and mixing)
-- Pediatric supplement protocols for Vitamin D (800 IU) and Hemfer Drops (Iron)
+- One baby's prescribed supplement plan (Vitamin D 800 IU, Hemfer iron drops), shown as an example only — not a general recommendation
 - Step-by-step clinical course-correction framework for low weight and height
 - 7 energy-dense growth recipes for infants (6+ months)
 
@@ -99,7 +99,7 @@ An exhaustive cross-correlation of 25 best-selling parenting and child psycholog
 Pre-formatted, mobile-friendly WhatsApp cards designed for effortless sharing and pinning:
 - How to add the live dashboard to phone home screen in 10 seconds (PWA bookmark)
 - 6–9 months daily feeding and solids routine (times, milk volumes, solid meals)
-- Pediatric supplement & MCT powder checklist (morning Hemfer, 800 IU Vitamin D, MCT mixing)
+- Checklist for following a prescribed supplement & MCT powder plan (only if your own pediatrician prescribed it)
 - 5-minute high-calorie baby growth recipes
 - Fussy evening soothing SOS (Harvey Karp 5 S's + safe sleep)
 - Pediatrician checkup question checklist

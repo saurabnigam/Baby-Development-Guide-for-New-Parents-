@@ -265,6 +265,63 @@ Every technical term, in plain English. Come back here whenever one turns up.
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+**In India:** the free government programme Rashtriya Bal Swasthya Karyakram (RBSK) screens children from birth to 18 years for the "4 Ds" — defects at birth, deficiencies, diseases, and developmental delays including disability — and refers children up to age 6 to a District Early Intervention Centre (DEIC) for free assessment and therapy. Bring your Mother and Child Protection (MCP) card to every visit, since it records growth, vaccines, and milestones to age 3, and see Module 34 (health essentials) and Module 36 (screening and when development needs a closer look).
+
+---
+
+## A Day in Real Life: How Busy Parents Actually Use This Guide
+
+Meet a realistic parent: two jobs in the household, a 7-month-old, 20 free minutes a day — usually after bedtime, usually exhausted.
+
+Here's the rhythm that works:
+
+- **Sunday, 10 minutes:** Skim the Key Takeaways of the module for your child's age. Pick ONE idea to try this week. Write it on a sticky note on the fridge.
+- **Daily, 0 extra minutes:** Attach the idea to a routine you already do (feeding, bath, commute, diaper change). You are not adding activities; you are upgrading existing ones.
+- **Saturday, 2 minutes:** Ask: did it become natural? If yes, keep it and pick the next idea. If no, keep practicing — habits take 2–3 weeks.
+
+That's it. A parent who applies one idea per week applies 50 ideas a year — more than almost any structured parenting class delivers.
+
+---
+
+## Tips & Tricks for Getting the Most From This Guide
+
+1. **One change per week, maximum.** Parents who try to overhaul everything quit by week two. Parents who change one habit at a time still have it a year later.
+2. **Split modules with your partner.** One reads Sleep, the other reads Nutrition; swap summaries over dinner. Halves the reading, doubles the buy-in.
+3. **Keep a 1-line observation journal.** One sentence a day: "Studied her hands for 5 minutes." In 6 months this becomes the most precious document you own — and the most useful thing to show a pediatrician if a question ever arises.
+4. **Read one stage ahead, not three.** Knowing what's coming next month keeps you prepared. Reading about age 5 when your baby is 5 months old just creates anxiety.
+5. **Screenshot the Red Flags section** of your child's current module to your phone. You'll never need to search for it in a worried moment.
+6. **When advice conflicts with your pediatrician, the pediatrician wins.** They know your actual child; this guide knows children in general.
+
+---
+
+## The Elite Edge: What Wealthy Families Buy (and the Free Version)
+
+Affluent families spend heavily on parenting support. It's worth decoding what that money actually buys, because the *active ingredient* is almost always free.
+
+| What the wealthy buy | Typical cost | What it actually delivers | The free version |
+|----------------------|-------------|---------------------------|------------------|
+| Parent coach / newborn consultant | $150–300/hour | A calm expert who *observes your specific child* and points out cues you're missing | The observation habit above — 5 minutes of watching per day teaches you your child's cues |
+| Concierge pediatrician | $2,000–10,000/year | Unhurried visits, questions answered without time pressure | Write your questions down before each well-child visit; every module's Red Flags list tells you what's worth asking |
+| Milestone tracking apps/services | $10–40/month | Reassurance, structured awareness | The milestone tables in this guide + the free CDC Milestone Tracker app |
+| Curated developmental toy subscriptions | $80–120/box | Stage-appropriate simple objects | Each age module's toy table lists the same object types; most exist in your kitchen |
+
+**The research-backed truth:** Very different kinds of studies (Hart & Risley's small 1995 study of 42 families; the large NICHD Study of Early Child Care; Heckman's analyses of early-childhood programs) point the same way — *responsive interaction quality* matters a great deal, and most of it costs nothing. The wealthy aren't buying better inputs; they're buying reminders, confidence, and time. This guide is designed to give you the first two. The third you carve out five minutes at a time.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Reading everything, applying nothing.** Knowledge without one concrete habit change does nothing for your child. The sticky-note method beats a finished book.
+2. **Treating milestones as a competition.** Checking a WhatsApp or parents' group daily to compare babies raises your cortisol and changes how you interact with your child — for the worse.
+3. **Saving the guide for "when things calm down."** They don't. Start with 5 minutes during the chaos.
+4. **Assuming more effort is always better.** Overstimulated parents create overstimulated babies. "Good enough plus consistent" outperforms "perfect but burned out" in every study that has looked.
+
+---
+
 ## 5-Minute Action Plan
 
 **Watch your child for five uninterrupted minutes.** No phone. No agenda. Don't teach, don't direct, don't test.

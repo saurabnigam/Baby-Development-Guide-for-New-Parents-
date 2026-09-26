@@ -278,6 +278,66 @@ At 12–18 months the spread is huge. Check the other things first: do they unde
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+**Fit it into a day:** For a sample 12–18 month day with these activities in place, see Module 32. Walking and climbing open up balconies, windows, water tanks and sumps, medicines, and cleaners — Module 34 covers injury prevention by age.
+
+---
+
+## A Day in Real Life: Getting Out the Door With a 16-Month-Old
+
+The task: leave for the pediatrician at 10:00. The old way: wrestle a protesting toddler into shoes at 9:55, carry them out crying, arrive frazzled. The developmental way costs ten extra minutes and builds three skills:
+
+- **9:40 — Transition warning.** "After this song, we put on shoes and go see the doctor." Toddlers can't switch tasks instantly; a warning respects how their brain works.
+- **9:45 — Choice.** "Red shoes or blue shoes?" Not *whether* shoes — *which* shoes. The limit is intact; the autonomy need is fed. Watch the protest rate drop.
+- **9:48 — Helper job.** "Can you carry the water bottle to the door?" A toddler with a job is a toddler with status. Jobs convert the energy that fuels resistance into competence.
+- **9:52 — The struggle.** They insist on trying the shoe themselves. It goes on backwards. You wait (this is the hard part), then: "You pushed your foot in! Want help with the strap?" Effort acknowledged, help offered, dignity intact.
+- **9:58 — Out the door.** One small protest about the door handle ("You wanted to press the lift button — you can press it when we come home"). Feeling named, limit held.
+
+Nothing here is permissive. Every limit stood. What changed is that autonomy got channeled instead of crushed — and channeled autonomy is the raw material of self-regulation.
+
+---
+
+## Tips & Tricks: 12 to 18 Months
+
+1. **Two choices, both acceptable.** "Blue cup or red cup?" works because the toddler's real question is "Do I have any power here?" Answer yes in small things and you can hold the line on big things.
+2. **"First… then…"** is the most useful sentence structure of the toddler years: "First diaper, then park." It teaches sequencing and makes limits predictable rather than arbitrary.
+3. **Translate "no."** Toddler "no" usually means one of: "I want to do it myself" / "I need warning" / "I'm tired or hungry" / "I actually mean no." Respond to the translation, not the word.
+4. **Keep fewer toys out.** In one small lab study (Dauch et al., 2018; 36 toddlers), toddlers with 4 toys played longer with each toy, and in more different ways, than with 16 **[C]**. It did not test rotation at home, but putting most toys away and rotating weekly is a cheap experiment to try.
+5. **Build a "yes shelf."** One low shelf with 4–6 open-ended items they can access without permission. Self-directed choosing is planning practice — early executive function.
+6. **Add 15 minutes to everything.** Toddler pace isn't slowness; it's thoroughness. The walk to the gate that takes you 1 minute takes them 12 because they audited every stone. That audit is the curriculum.
+7. **Praise the doing, not the child.** "You carried that all by yourself" beats "Good girl/boy." In one home-observation study of 53 families (Gunderson et al., 2013), more process praise at ages 1–3 predicted a stronger "abilities can grow" mindset five years later **[C]**. That is a correlation, not proof, and growth-mindset programs move school results only slightly on average (Module 31).
+
+---
+
+## The Elite Edge: What a $2,000/Month Montessori Toddler Program Actually Does
+
+Montessori toddler communities are among the most expensive childcare products on earth. Strip the mystique and the daily practice is remarkably replicable:
+
+| What the program does | Why | Home version |
+|----------------------|-----|--------------|
+| Child-sized real tools (small jug, small broom, low sink access) | Real work builds competence; toys that imitate work don't satisfy the drive | One low drawer of real things: small steel cup, cloth, spoon. A stool at the sink |
+| "Practical life" as curriculum (pouring, wiping, carrying) | Trains focus, sequencing, fine motor, and finish-the-task persistence | Your helper jobs ARE practical life: laundry into basket, wiping spills, carrying plates |
+| Freedom within limits (choose any activity; use it properly) | Autonomy support — which one correlational study of 80 families (Bernier et al., 2010) linked to stronger executive function at 18 and 26 months | The yes shelf + two-choices habit |
+| Observation before intervention | Adults watch 10 seconds before helping | Your 10-second rule from Module 05, still the single best habit |
+| Order and repetition (everything has a place) | Predictability lowers cognitive load, freeing attention for learning | Consistent toy homes; toddler helps put things back |
+
+**The honest read:** Montessori's toddler-level "secret" is a coherent environment plus adults trained to not over-help. The environment costs almost nothing to copy. The not-over-helping is free and hard — which is exactly why people pay someone else to do it.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Doing it for them because it's faster.** It is faster — today. Every skill you routinely do for a capable toddler is a skill they learn to wait for. Budget the slow minutes as tuition.
+2. **Punishing autonomy as defiance.** "I do it!" is the healthiest sentence a 15-month-old produces. Meet it with safe outlets, not battles — the child who's allowed to struggle with their shoe is the child who later persists with math homework.
+3. **Reasoning mid-meltdown.** A dysregulated toddler cannot process logic; the thinking brain is offline. Presence first, few words, then — after calm — the short lesson.
+4. **Spending "no" like it's free.** Save it for safety and real limits. If everything is "no," the word carries no signal when the stakes are real. Childproofing is cheaper than vigilance.
+5. **Bribing bites.** "One more spoon and you get a sweet" teaches that vegetables are the toll and dessert is the destination. The division of responsibility (you decide what's offered; they decide how much) wins on 20 years of feeding research.
+
+---
+
 ## 5-Minute Action Plan
 
 **Give them one real job today.**

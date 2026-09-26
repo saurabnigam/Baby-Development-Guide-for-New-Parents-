@@ -6,14 +6,14 @@
 ---
 
 ## Quick Navigation
-1. [The 6 Key Metrics to Track (The Pediatric Growth Dashboard)](#1-the-6-key-metrics-to-track)
-2. [Feeding Frequency: Normal Care vs. Special Care (Month-by-Month Guide)](#2-feeding-frequency-normal-vs-special-care)
-3. [WHO Child Growth Standards: Complete Reference Tables (0 to 24 Months)](#3-who-child-growth-standards-reference-tables)
+1. [The 6 Key Metrics to Track (The Pediatric Growth Dashboard)](#1-the-6-key-metrics-to-track-the-pediatric-growth-dashboard)
+2. [Feeding Frequency: Normal Care vs. Special Care (Month-by-Month Guide)](#2-feeding-frequency-normal-care-vs-special-care-month-by-month-guide)
+3. [WHO Child Growth Standards: Complete Reference Tables (0 to 24 Months)](#3-who-child-growth-standards-complete-reference-tables-0-to-24-months)
 4. [Comprehensive Diet Charts: 6 Months Onward](#4-comprehensive-diet-charts-6-months-onward)
-5. [Dr. Prescribed MCT Powder: Pharmacology & Safe Administration](#5-mct-powder-for-infant-low-weight)
-6. [Pediatric Supplement Protocol: Vitamin D (800 IU) & Hemfer Drops (Iron)](#6-pediatric-supplement-protocol)
-7. [Clinical Course-Correction Framework for Low Weight & Height](#7-clinical-course-correction-framework)
-8. [7 Energy-Dense Growth Recipes for Infants (6+ Months)](#8-energy-dense-growth-recipes)
+5. [Dr. Prescribed MCT Powder: Pharmacology & Safe Administration](#5-dr-prescribed-mct-powder-pharmacology--safe-administration)
+6. [Pediatric Supplement Protocol: Vitamin D (800 IU) & Hemfer Drops (Iron)](#6-pediatric-supplement-protocol-vitamin-d-800-iu--hemfer-drops-iron)
+7. [Clinical Course-Correction Framework for Low Weight & Height](#7-clinical-course-correction-framework-for-low-weight--height)
+8. [7 Energy-Dense Growth Recipes for Infants (6+ Months)](#8-7-energy-dense-growth-recipes-for-infants-6-months)
 
 ---
 
@@ -222,6 +222,8 @@ The WHO Child Growth Standards represent the international benchmark for breastf
 ---
 
 <a name="5-mct-powder-for-infant-low-weight"></a>
+> ⚠️ **Read this before Sections 5 and 6.** They describe one baby's prescription, written by that baby's pediatrician for low weight and slow length gain. They are not a general protocol. Do not start MCT powder, iron drops, or more than the standard 400 IU of vitamin D without your own pediatrician: vitamin D and iron can both be harmful in excess. The standard preventive guidance is in Modules 03, 15, and 30.
+
 ## 5. Dr. Prescribed MCT Powder: Pharmacology & Safe Administration
 
 Medium-Chain Triglyceride (MCT) powder is a specialized clinical medical food prescribed by pediatricians for infants with low weight, faltering growth velocity, or fat malabsorption.
@@ -295,7 +297,7 @@ When a baby has low weight and height percentiles or crosses downward on curves,
 ### 1. Fortify Every Single Bite (Caloric Density)
 Underweight babies have small stomachs (~200 ml capacity). Every spoonful must deliver maximum energy:
 * Add **1/2 to 1 teaspoon of pure desi ghee, cold-pressed coconut oil, or extra virgin olive oil** to every single bowl of food.
-* Incorporate **boiled egg yolk** (rich in choline, iron, and cholesterol needed for nerve myelination).
+* Incorporate **boiled egg yolk** (rich in choline and fats needed for nerve myelination). Its iron is poorly absorbed, so rely on dal, meat, fish, or iron-fortified cereal for iron.
 * Add **MCT powder** as prescribed by your pediatrician.
 * Use full-fat unsweetened whole-milk yogurt, curd, or mashed fresh paneer.
 
@@ -304,7 +306,7 @@ Underweight babies have small stomachs (~200 ml capacity). Every spoonful must d
 * **The Fix:** Feed **thick, mashed lentils and rice** cooked with ghee, carrots, and cumin. The puree must sit upright on a spoon, not drip like broth.
 
 ### 3. Protect Breastmilk / Formula Volumes
-Solids are complementary between 6 and 9 months. Ensure your infant receives **24 to 30 oz (700 to 900 ml)** of milk daily. If an infant refuses milk because they are stuffed with low-calorie vegetables, scale back solid portions and prioritize milk.
+Solids are complementary between 6 and 9 months. Ensure your infant receives **24 to 32 oz (700 to 950 ml)** of milk daily. If an infant refuses milk because they are stuffed with low-calorie vegetables, scale back solid portions and prioritize milk.
 
 ### 4. Zero-Pressure Responsive Feeding
 * Never force-feed, pin hands down, or distract with screens to shove spoons into the mouth.

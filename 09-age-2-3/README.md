@@ -290,6 +290,70 @@ Ask for a hearing test. It's quick. Glue ear is common at this age and quietly a
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+**Fit it into a day:** For a sample day for a 2- to 3-year-old, with meals, outdoor play, a nap, and a steady bedtime in place, see Module 32.
+
+**Body safety starts here too.** Toilet learning and bath time are the natural moments to teach the correct names for every body part, private parts included. Pediatricians advise real names: pet names can suggest these parts are shameful or not to be talked about, and a child with clear words can tell you clearly if something happens. Add one simple idea: a surprise (like a birthday gift) is fine to keep for a little while, but secrets about bodies always get told to a parent. Module 37 builds this into a full body-safety plan by age.
+
+Module 23 (Life Skills & Critical Moments) shows how to teach body safety step by step.
+
+---
+
+## A Day in Real Life: Two Toddlers, One Truck
+
+A playdate. Two 2.5-year-olds, one irresistible dump truck. You know how this ends. Here's the developmental version:
+
+- **The setup you did in advance:** you put out *duplicates* of the popular items (two diggers, two cups) and stashed your child's single most-precious toy before the guest arrived. Prevention is 80% of playdate success at this age.
+- **The grab.** Guest child takes the truck; your child shrieks "MINE!" Neither child is being bad — "mine" is identity-under-construction, and true sharing is developmentally out of reach at 2.5.
+- **The script.** You narrate ownership and turns instead of moralizing: "Aarav is having a turn. Then it's your turn. Let's do your turn with the digger while you wait." No "be nice," no "you have to share" — turn-taking language gives structure; sharing lectures give shame.
+- **The timer trick.** For a contested toy: "When the timer beeps, it's switch time." A neutral timer takes the enforcement role off both children — and off you.
+- **What success looks like:** the children spend most of the hour playing *next to* each other, occasionally watching, occasionally imitating. That's parallel play, and it is exactly on target. The brief moment where one hands the other a block? That's the future arriving early. Don't force more of it.
+
+---
+
+## Tips & Tricks: Age 2 to 3
+
+1. **Feed the language explosion with rare words.** Harvard's home-language research (Catherine Snow, Diane Beals and colleagues, with low-income US families of preschoolers) found that *mealtime conversation with uncommon words* — "delicious," "slippery," "enormous," "disappear" — predicted children's vocabulary at ages 5 and 7 **[C]**. It adds to book reading; it does not replace it. Picture books contain even more unique words than everyday talk (Montag et al. 2015). Talk to your 2-year-old like they're interesting; the fancy words stick.
+2. **Do "number talk" daily.** Susan Levine's research found the amount parents talk about numbers and quantities ("You have three grapes. One, two, three!") strongly predicts children's math foundation at school entry. Count stairs, spoons, buses. It costs nothing and it's largely invisible to the families not doing it.
+3. **Answer some "why"s with "What do you think?"** Half the value of the why-phase is the child practicing making theories. Wrong theories ("the moon follows us because it likes us") are excellent — theory-making is the skill, correctness comes later.
+4. **Recast grammar, never correct it.** "I goed park!" → "You went to the park! Was it fun?" The child hears the correct form without hearing "you're wrong." Direct correction demonstrably shuts down talking; recasting increases it.
+5. **Assign roles in pretend play.** "You be the doctor, I'll be the sick teddy." Role-play forces perspective-taking — the machine that builds empathy — and stretches sequences: check-up, medicine, bandage, better.
+6. **Use self-talk and parallel talk.** Narrate what you're doing ("I'm cutting the apple in half") and what they're doing ("You're making the snake long"). Two speech-therapist staples that fit into ordinary minutes.
+7. **Follow toilet-learning readiness, not the calendar.** Interest, dry stretches, telling you about wet/dry, following simple routines — start there and it takes weeks. Start on the preschool deadline instead, and it takes months plus tears.
+
+---
+
+## The Elite Edge: What Selective Preschools Actually Assess
+
+In big cities, families pay admissions consultants ($1,000–10,000) to prep 2-year-olds for elite preschool "playgroup observations." What those observations actually score is worth knowing — not to game them, but because it's a leaked answer key for what matters at this age:
+
+| What observers watch for | What builds it (free, daily) |
+|--------------------------|------------------------------|
+| Separates from parent with brief distress and recovers | Predictable goodbyes + warm reunions, practiced since infancy |
+| Engages with materials for sustained stretches | Toy rotation, fewer toys out, uninterrupted play time |
+| Communicates wants with words or clear gestures | Expansion and recasting, feeling words, being listened to |
+| Recovers from small frustrations with adult support | Co-regulation reps: name it, stay calm, help after |
+| Shows curiosity about new activities | A home where exploration is met with interest, not correction |
+
+Notice what's missing: letters, numbers, colors-on-command, or any drillable academic skill. The most selective early-childhood institutions in the world screen for *regulation, language, and curiosity* — the exact outputs of the free practices in this guide. The consultants know this; now you do too.
+
+**Also decoded — the bilingual nanny premium.** Wealthy families pay steep premiums for Mandarin/French/Spanish-speaking nannies. The research: children this age acquire a second language from *live, sustained, emotionally warm interaction* — not from apps or videos. If your family has a second language, one grandparent or parent consistently using it is the same mechanism at zero cost. Dose matters, though: children's skill in each language tracks how much of it they hear, so light exposure often gives a child who understands the language but doesn't speak it. If your family has no second language, relax: whether bilingualism sharpens thinking is genuinely disputed. One large meta-analysis found the small advantage disappeared after correcting for publication bias **[C]**. The real prizes are family connection and a second language. A monolingual child with rich language input is not behind anyone.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Starting academics because the vocabulary exploded.** A 2.5-year-old with 500 words is ready for richer conversation and stories — not worksheets. Drilling letters now buys nothing by age 8 and risks teaching that learning is performance.
+2. **Forcing "sharing" by taking the toy.** When an adult pries a toy away to hand it over, the lesson learned is "big people can grab." Turn-taking with support teaches the actual skill; forced sharing teaches power.
+3. **Treating parallel play as a social problem.** Parents see two toddlers ignoring each other and worry. Parallel play *is* age-appropriate social development — proximity first, interaction later.
+4. **Over-scheduling enrichment.** Music Monday, gym Tuesday, phonics Wednesday… The evidence for structured classes at 2 is thin; the evidence for free play, outdoor time, and conversation is enormous. One class chosen for joy is plenty.
+5. **Punishing toilet accidents.** Accidents are data about readiness, not defiance. Shame measurably delays the process and can create withholding problems that take months to undo.
+
+---
+
 ## 5-Minute Action Plan
 
 **Pick one feeling word and use it all week.**

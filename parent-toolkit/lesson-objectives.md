@@ -243,6 +243,119 @@ By the end of this module, parents should be able to:
 
 ---
 
+## Deep-Dive Modules (25–30)
+
+### Module 25: Prenatal — Building the Brain Before Birth
+
+By the end of this module, parents should be able to:
+
+- name the pregnancy nutrients that do disproportionate brain work and how to cover them from ordinary food
+- distinguish real prenatal learning (voice, rhythm, language melody) from stimulation-product marketing
+- treat maternal stress, sleep, and prenatal care attendance as brain-development inputs
+
+### Module 26: Language, Bilingualism & Raising a Reader
+
+By the end of this module, parents should be able to:
+
+- run a bilingual home confidently, free of the myths that cost families their heritage language
+- support each step of the reading staircase, protecting love of books above level-advancement
+- use the speech therapist's stimulation toolkit in daily routines, and know the referral red flags
+
+### Module 27: Music, Movement & the Arts
+
+By the end of this module, parents should be able to:
+
+- use singing, rhythm, and dance daily with an honest view of what music does and doesn't build
+- apply the sampling-over-specialization evidence to sport and activity choices
+- support process art and respond to children's creative work without grading it
+
+### Module 28: Executive Function — The Hidden Skill
+
+By the end of this module, parents should be able to:
+
+- explain working memory, inhibition, and flexibility, and why they predict so much
+- run age-appropriate EF "gym" activities from infancy through the teen years
+- scaffold with routines and planning questions, then deliberately fade the scaffold
+
+### Module 29: The Elite Playbook
+
+By the end of this module, parents should be able to:
+
+- decode any expensive program into its active ingredient and free replication
+- direct any spare resources toward what money genuinely buys (time, stability, healthcare, targeted help)
+- run the any-budget portfolio while avoiding the achievement-pressure trap
+
+### Module 30: Supplements & Micronutrients
+
+By the end of this module, parents should be able to:
+
+- name the small evidence-backed supplement core and who actually needs each item
+- apply the ten-second label test to any product before buying
+- treat supplements as gap-correction chosen with a pediatrician, never as enhancement
+
+---
+
+## Research Refresh Modules (31–37)
+
+### Module 31: The Research Frontier
+
+By the end of this module, parents should be able to:
+
+- explain how much of a child's intelligence genes and environment account for at different ages
+- rank interventions by the size of their proven effect, including the ones that turned out not to work
+- make an informed decision about gifted programmes, acceleration, and embryo screening claims
+
+### Module 32: Daily Routines by Age
+
+By the end of this module, parents should be able to:
+
+- build a realistic daily routine for their child's age from the sleep, feeding, movement, and screen numbers
+- adapt it for grandparents, nannies, creches, school buses, and coaching evenings
+- protect the few routine elements that matter most when life gets disrupted
+
+### Module 33: Protecting the Developing Brain
+
+By the end of this module, parents should be able to:
+
+- find and remove the most common sources of lead in an Indian home
+- act on air-quality readings indoors and outdoors
+- reduce arsenic, fluoride, mercury, and plastic exposure where it matters, and ignore what does not
+
+### Module 34: Health and Safety Essentials
+
+By the end of this module, parents should be able to:
+
+- confirm their baby received the newborn screens that prevent lost IQ
+- recognise fever and danger signs that need urgent care
+- childproof for the injuries that actually harm Indian children at each age
+
+### Module 35: Traditional Practices and the Caregiving Team
+
+By the end of this module, parents should be able to:
+
+- sort family customs into keep, modify, and stop using evidence
+- align grandparents, helpers, and creche staff on one set of household rules
+- choose and brief a nanny or creche with a safety-first checklist
+
+### Module 36: When Development Needs a Closer Look
+
+By the end of this module, parents should be able to:
+
+- follow a screening schedule and know which tool is used at which age
+- tell normal variation from signs that need assessment for autism, ADHD, speech, or learning differences
+- navigate the assessment pathway in India
+
+### Module 37: Growing Up Safe
+
+By the end of this module, parents should be able to:
+
+- teach body safety from toddlerhood onward
+- plan a staged first phone and set family rules for AI tools and social media
+- recognise teen mental-health warning signs and have a crisis plan ready
+
+
+---
+
 ## Suggested Teaching Sequence
 
 If you are turning this into a workshop, cohort, or self-study program, use this order:

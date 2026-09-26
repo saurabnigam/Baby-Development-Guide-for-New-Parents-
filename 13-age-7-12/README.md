@@ -274,6 +274,76 @@ Make truth-telling reliably reduce the consequence, and then hold to that exactl
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+The values in this table are mostly US reference values. India's ICMR-NIN 2020 values differ, most of all for iron: they set 15 mg/day at age 7-9, and 16 mg (boys) or 28 mg (girls) at age 10-12. Module 15 explains how to use both sets of numbers.
+
+For a sample school-day schedule that fits school, homework, play, and 9-12 hours of sleep, see Module 32.
+
+### Puberty and Online Life
+
+Puberty often begins in this age band, earlier for girls than for boys. Many children also get their first phone or social-media account in these years.
+
+What helps:
+- Explain body changes before they start, not after
+- Teach body-safety rules by name: private parts, safe and unsafe touch, no secrets from parents
+- Agree on phone and app rules before the device arrives
+- Make one standing promise: "Tell me anything you see online. You won't lose your phone for telling me."
+
+Module 37 covers puberty preparation, body safety, online life, and AI in detail.
+
+If reading, writing, math, attention, or speech stay much harder for your child than for classmates despite real effort, ask the school and your pediatrician for an assessment rather than waiting. Module 36 covers dyslexia, ADHD, speech and language difficulties, and how to get help.
+
+---
+
+## A Day in Real Life: "I'm Just Bad at Math"
+
+Tuesday, 7 p.m. Your 9-year-old shoves the workbook away: "I'm just bad at math." This sentence is a fork in the road — it's a claim about *identity*, and how you respond decides whether math becomes a fixed verdict or a solvable problem.
+
+- **Don't argue with the feeling.** "This chapter is really frustrating you" beats "No you're not, you're so smart!" (which accidentally confirms that smart/not-smart is the frame).
+- **Shrink the claim.** "Bad at math" is too big to be true. Find the actual edge: "Show me one that worked. Now show me where it went wrong." Usually it's one specific step — regrouping, or the 7s tables, or reading the word problem too fast. "You're not bad at math; you're stuck on regrouping" is both kinder and *more accurate*.
+- **Diagnose before drilling.** Ten more problems of the same type is punishment without information. Three problems done slowly out loud ("talk me through it") reveals the broken step in minutes.
+- **Attack the specific gap playfully.** Stuck on 7s? Two minutes of 7s at breakfast for a week — as a race against yesterday's self, not against a sibling.
+- **Close the loop out loud.** When it clicks: "Remember Tuesday when you said you were bad at math? What actually happened?" You're teaching the meta-lesson — *stuck plus strategy equals unstuck* — which transfers to every subject they'll ever meet.
+
+---
+
+## Tips & Tricks: Age 7 to 12
+
+1. **Teach the two study techniques that actually work.** Cognitive science reviews (Dunlosky et al.) rated study methods: **practice testing** (retrieval) and **spaced practice** came out on top; re-reading and highlighting near the bottom — yet schools rarely teach this. Install two habits: "close the book and tell me what you remember" (retrieval), and small reviews across days instead of one cram (spacing). A 9-year-old with these two habits studies better than most college students.
+2. **Use "teach it back."** The fastest comprehension check ever devised: "Pretend I'm a kid in your class who missed the lesson — teach me." Explaining exposes gaps that "did you understand?" never finds — and casts the child as competent.
+3. **Run pocket money as a finance lab.** A fixed allowance with real choice (and real consequence: spent means gone) teaches budgeting, delayed gratification, and regret-processing at stakes of a few rupees or dollars. Add a save/spend/give split for structure.
+4. **Feed the obsession.** Dinosaurs, cricket statistics, space, Minecraft redstone — a child deep in an interest is running the deepest reading, memory, and reasoning workout available. Obsessions are engines: connect them to books, museums, projects, people. Breadth can wait.
+5. **Build a competence portfolio.** Photograph the fort, the origami, the code, the cake. A folder of "things I made and problems I solved" is a self-esteem asset the child can literally revisit when confidence dips — evidence beats reassurance.
+6. **Keep one no-stakes weekly debate.** "Should kids set their own bedtime? Defend your answer." Arguing a position (occasionally the one they don't hold) builds reasoning and shows disagreement is safe. This is the family-discussion activity above, systematized.
+7. **Watch the mask.** Children this age get better at *hiding* emotions before they get better at handling them. "Fine" at 10 conceals more than "fine" at 6 did. Side-by-side time (drives, walks, cooking) remains the reliable extraction method.
+
+---
+
+## The Elite Edge: Deliberate Practice and the Hidden Curriculum
+
+**What elite coaches actually do.** Behind every $100/hour sports or music coach is Anders Ericsson's *deliberate practice* research — the study of how experts actually improve. The ingredients aren't secret: (1) a specific micro-goal per session ("land the recovery after the missed note," not "practice piano"), (2) immediate feedback, (3) work at the *edge* of current ability, not comfortably inside it, (4) short and focused beats long and sloppy. Parents can install this structure on anything: "Today, just free throws from the left side, 15 minutes, count your streak." The coach's real product is structured attention — buy it for advanced technique; replicate it for foundations.
+
+**Bloom's famous finding.** Educational psychologist Benjamin Bloom reported that students tutored 1:1 scored about two standard deviations above classroom-only students — the "2 sigma problem." That was a best case from two small doctoral studies. Larger reviews find smaller but real gains: about 0.79 SD for human tutoring (VanLehn 2011) and 0.37 SD across rigorous tutoring trials (Nickow 2020) **[A]**. The active ingredients (immediate feedback, mastery before moving on, adjusted pace) explain why targeted tutoring works. Parent tutoring showed weaker effects than trained tutors in those trials, but a parent doing 15 focused minutes on the *diagnosed gap* (see the math story above) still uses the same ingredients, free.
+
+**The real hidden curriculum.** Sociologist Annette Lareau's landmark fieldwork ("concerted cultivation") found that beyond activities, professional-class families transmit something subtler: their children practice *negotiating with adults and institutions* — asking doctors questions, disputing a rule respectfully, expecting their voice to matter. This shows up years later as comfort with professors, interviewers, and bosses. The free version is deliberate delegation: your child orders at the restaurant, asks the librarian for the book, explains the symptoms at the doctor, emails the coach about the schedule change (you review, they send). Ten reps a year of "speaking to the institution" is an inheritance most families never think to give.
+
+**If your child seems far ahead.** Module 31 covers gifted and high-potential children: what the long-term studies show, why to get a proper above-grade-level assessment first, and acceleration (skipping a grade or moving ahead in one subject). Research syntheses find real academic gains from acceleration, with small positive, not negative, social effects **[B]**. Module 31 also explains twice-exceptional children, who are bright and also have a learning difference.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Grading the report card instead of the method.** "Why only 82?" teaches grade-hiding. "Which subject's *studying* worked best? What will you try differently?" teaches process ownership. The child who owns the method eventually owns the grades.
+2. **Running a forgotten-homework delivery service.** Rescuing every forgotten item outsources executive function to you permanently. Let small, survivable consequences land at 9 — they're the cheapest tuition the child will ever pay. (Rescue genuinely big things; you're a parent, not a policy.)
+3. **Dismissing friendship drama as noise.** Belonging is this stage's core currency; exclusion registers in the brain's pain systems. Take it seriously, coach it, and monitor for the line where drama becomes bullying (repeated, targeted, power-imbalanced) — that line requires adults.
+4. **Fusing the child to one talent.** When "our cricketer" or "our topper" is the family identity, a bad season becomes an identity crisis. Keep at least one domain that's purely for joy, and praise the person beyond the performance.
+5. **Comparing siblings out loud.** "Why can't you focus like your sister?" damages both children — one gets a verdict, the other gets a pedestal with a fall built in. Compare each child only to their own last month.
+
+---
+
 ## 5-Minute Action Plan
 
 **Ask them to teach you something.**

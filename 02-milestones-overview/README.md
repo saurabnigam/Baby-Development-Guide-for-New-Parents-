@@ -325,6 +325,72 @@ This is Vygotsky's zone of proximal development in practice. Below the edge, not
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+> **Updated checklists:** In 2022 the CDC, working with the AAP, revised its milestone checklists. Each milestone is now one that at least 75% of children reach by that age, and new checklists were added for 15 and 30 months, so a missing milestone is a reason to act, not to wait and see (Zubler et al., 2022). The list above is a quick guide; for the full screening schedule — which tools, at which ages, including India's free RBSK screening — see Module 36.
+
+---
+
+## A Day in Real Life: Reading the Map Without Panicking
+
+Here's a scenario every parent recognizes. Your child is 14 months old and hasn't said a clear first word. Your cousin's baby said "mama" at 9 months. Cue the 11 p.m. search spiral.
+
+Now use the map properly:
+
+1. **Check the range, not the mean.** First words: 8–15 months. Your child is *inside the normal range*.
+2. **Check the trajectory.** Is babbling getting more varied? Do they point, wave, respond to their name, understand "where's the ball"? Comprehension and gestures are the leading indicators — production follows.
+3. **Don't explain the gap away.** You may hear that toddlers "pour everything into walking" and go quiet on talking. The research points the other way: in one study, vocabulary grew faster once babies started walking (Walle & Campos, 2014) [C]. So "busy walking" is no reason to delay a check-in.
+4. **Set a checkpoint, then stop.** "If no words by 16 months, I'll mention it at the next visit." Decision made; anxiety parked; interaction quality preserved.
+
+That is the entire skill of milestone tracking: ranges, trajectory, an honest look, checkpoint.
+
+---
+
+## Tips & Tricks: Making the Theories Earn Their Keep
+
+Each big theory in this module compresses into one practical question you can ask on any ordinary day:
+
+| Theory | The one question to ask | What you do with the answer |
+|--------|------------------------|------------------------------|
+| Piaget | "What experiment is my child running right now?" | Join it instead of stopping it — the dropped spoon, the emptied drawer, the 40th "why" are all experiments |
+| Erikson | "What question is my child asking about themselves?" | Answer it with your behavior: "Can I trust?" → respond; "Can I do it myself?" → let them try; "Can I succeed?" → give real tasks |
+| Bowlby/Ainsworth | "Am I being a safe base right now?" | Greet returns warmly, allow departures calmly — exploration and clinginess are both attachment working correctly |
+| Vygotsky | "What can they *almost* do?" | Help exactly there, and nowhere they're already competent |
+
+More practical tricks:
+
+1. **Film 60 seconds a month.** A monthly one-minute video (same setting, e.g., floor play) shows development a daily observer literally cannot see — and it's gold for a pediatrician if a concern ever comes up.
+2. **Don't read skill loss as a leap.** Sleep and mood can get rocky around growth spurts, but popular "leap" calendars haven't held up when independent researchers tested them. A rough patch with skills intact is usually just a rough patch. Losing a skill your child already had — words, babble, pointing, eye contact — is never a launch signal: call your pediatrician.
+3. **Preemie? Use corrected age** for all milestone tables until age 2 (a baby born 2 months early "counts" from the due date, not the birth date).
+4. **Track two domains, not one.** Parents fixate on motor and language because they're visible. Give the EQ column equal attention — social referencing at 8 months predicts more than early walking does.
+
+---
+
+## The Elite Edge: The Screening Wealthy Parents Pay For — Free
+
+**What the wealthy buy:** Private developmental assessments ($500–2,500) and developmental-pediatrician consultations for reassurance that everything is "on track" — often at premium preschools that market "developmental monitoring" as a feature.
+
+**What those services actually use:** Mostly the same standardized screeners available to everyone:
+
+- **ASQ-3 (Ages & Stages Questionnaires)** — the parent-completed screener used by elite preschools and public early-intervention programs alike. Many pediatric practices administer it free at well-child visits; ask for it by name.
+- **CDC Milestone Tracker app** — free, evidence-based, recently updated checklists with video examples of each milestone.
+- **M-CHAT-R** (18 and 24 months) — the standard free autism screener; insist on it if it's skipped.
+
+**The economics worth knowing:** Nobel laureate James Heckman's analyses of intensive early-childhood programs for disadvantaged children found returns of roughly 7–10% per year for Perry Preschool (Heckman et al., 2010) and about 13.7% for Abecedarian/CARE (García et al., 2020). Those are returns on years of high-quality preschool and care, not on screening itself — but they point the same way as "don't wait and see": early support costs less than later repair. The wealthy pay to shortcut waitlists; the assessment content itself is standardized and largely free. What you can't buy anywhere is the daily observation data — and you, not any specialist, own that.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Treating stage theories as schedules.** Piaget's ages are approximations from small mid-century samples; modern research shows abilities (like theory of mind) emerging earlier and more gradually. Use stages as a lens, never a deadline.
+2. **Reading "early" as gifted and "late" as trouble.** Within the normal ranges, timing has near-zero predictive power for adult outcomes. Early walkers don't become better athletes; late talkers (within range) include plenty of future professors.
+3. **Drilling ahead of readiness.** Teaching a 3-year-old to read via flashcards mostly teaches them that books mean pressure. Letting the child lead most of the time matters because forced skills cost motivation — and motivation is the asset that compounds.
+4. **Screening once and relaxing forever.** Development is a moving picture. The checklist you did at 9 months says nothing about 18 months; put the next checkpoint in your calendar.
+
+---
+
 ## 5-Minute Action Plan
 
 **Start a one-page milestone diary.**

@@ -4,6 +4,8 @@
 >
 > *This is the "how do I teach my kid to do X" module: swimming, crossing roads, using a knife, handling money, keeping their body safe, calling for help.*
 
+> **Go deeper:** [Module 34](../34-health-and-safety/README.md) (the adults' side of safety: screening, fever, childproofing) and [Module 37](../37-growing-up-safe/README.md) (online safety, AI, puberty, teen mental health).
+
 ---
 
 ## Safety note — read this first
@@ -614,7 +616,7 @@ Use the [Life Skills Tracker](../parent-toolkit/life-skills-tracker.md) in the P
 - **Davies, S. (2019).** *The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being.* Workman Publishing.
 - **Doucleff, M. (2021).** *Hunt, Gather, Parent: What Ancient Cultures Can Teach Us About the Lost Art of Raising Happy, Helpful Little Humans.* Avid Reader Press.
 - **Haidt, J. (2024).** *The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness.* Penguin Press.
-- *For complete cross-cultural and autonomy literature analysis, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#category-3-communication-discipline--cross-cultural-parenting).*
+- *For complete cross-cultural and autonomy literature analysis, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#master-comparison-matrix-25-bestselling-books).*
 
 ---
 

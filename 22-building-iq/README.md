@@ -4,6 +4,8 @@
 >
 > *Companion to [Module 21: Building EQ](../21-building-eq/README.md). Read that one first if your child struggles to stay regulated — a dysregulated brain cannot use the cognitive skills it has.*
 
+> **Go deeper:** [Module 26](../26-language-bilingualism-reading/README.md) (bilingualism and raising a reader), [Module 28](../28-executive-function/README.md) (executive function), and [Module 31](../31-research-frontier/README.md) (what research says actually moves a child's potential).
+
 ---
 
 ## Key Takeaways
