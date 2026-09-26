@@ -778,7 +778,7 @@ Children younger than 12 months need 400 IU vitamin D daily.
 
 - Breastfed babies need vitamin D drops starting shortly after birth.
 - Partially breastfed babies usually need vitamin D drops too.
-- Fully formula-fed babies may not need extra vitamin D if they drink at least about 27 ounces (800ml) of fortified formula per day.
+- Under US guidance, fully formula-fed babies may not need extra vitamin D if they drink at least about 27 ounces (800ml) of fortified formula per day. In India, the Indian Academy of Pediatrics (2021) recommends 400 IU a day for **all** infants through age one, formula-fed included, with no exemption for formula volume; ask your pediatrician before skipping the drops.
 - Ask your paediatrician if unsure.
 
 ### Iron

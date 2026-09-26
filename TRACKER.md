@@ -347,11 +347,45 @@ knowledge-base text were fact-checked and corrected there. Most of those claims 
 removed or fixed here by the red-team pass, so only the corrected versions inside the ported
 sections came across; no base text in Modules 00–24 was rewritten.
 
-**Known gaps (open items):**
-- Reviewers left 134 medium and 145 low suggestions on the new modules that were not applied.
-- Modules 35 (Traditions) and 37 (Growing Up Safe) had no full review; helplines, laws, and medical claims were spot-checked by hand.
-- Overlap to smooth in a later pass: Modules 26 and 28 go deeper on topics Module 22 introduces; Modules 34 and 37 overlap parts of Module 23; the ported "Mistakes" and "Elite Edge" sections were written against the older base text and may repeat points the red-team rewrite added.
-- The four recurring sections were not added to Modules 21–24 (they were written after the fork).
+**Known gaps (open items):** see Phase 10 below for what was closed and what remains.
+
+---
+
+## Phase 10 — Whole-guide check after the merge (2026-09-26) ✅
+
+A full check of Modules 00–37 and the parent toolkit, done inline (no agent fan-out).
+
+**Structural:** 11 broken section links fixed (all pre-dated the merge: diet-chart quick navigation,
+book-reference "category" anchors that never existed, and a renamed sleep-training heading). Final pass:
+every relative link and anchor resolves; every table row has the right column count; code fences balanced;
+no duplicate headings or repeated sentences.
+
+**Consistency across modules:** vitamin D, toothpaste amounts, cow's-milk cap, honey, screens, solids, and
+sleep-hour tables agree. Fixed:
+- Vitamin D for formula-fed babies: Modules 03, 04, 05, 06, 15 gave only the US exemption; added India's IAP 2021 rule (400 IU for all infants, no formula exemption).
+- Module 14 teen iron and calcium rows: labelled US values and added ICMR-NIN 2020 values (girls 28–32 mg iron) and NFHS-5 anaemia in girls 15–19.
+- Module 03 crying curve softened ("often highest around 6–8 weeks"; about 2 h/day on average).
+- Diet-chart guide: egg yolk no longer called an iron source; milk range made consistent (24–32 oz); **Sections 5–6 (MCT powder, 800 IU vitamin D, Hemfer drops) now open with a warning that they document one baby's prescription**, and the toolkit README and WhatsApp card say so too.
+
+**Review backlog:** applied 133 exact-replacement reviewer fixes to Modules 31–36, then about 30 hand-picked
+medium fixes (fever threshold for armpit vs rectal readings; bed-sharing harm-reduction wording; mask safety for
+children; skin-lightening creams and sambrani smoke as exposures; water testing in India; tobacco in Key
+Takeaways; AAP 2026 screen policy; outdoor-time trial wording; ADHD and CBSE details; M-CHAT access; iodine and
+bilingualism evidence levels; corrected citations). An audit found that the automatic pass had pasted about 8
+reviewer *instructions* into the text; all were resolved and a pattern scan now finds none.
+
+**Unreviewed modules:** Modules 35 and 37 read in full by hand. Both hold up; small fixes to 35 (walker
+citation, safest option for nazar threads first, IAP screen rule on the house rulebook).
+
+**Overlaps:** "How this fits" notes at the top of 26, 28, 34, 37 and "Go deeper" notes in 22 and 23. Module 01
+gained a "2026 Research Update" (genes vs environment, toxins, nutrition and myelin) and Module 16 a pointer to
+Module 32's sleep and nap table; Module 16's "wake windows" and "sleep regressions" tips were aligned with Module 32.
+
+**Still open:**
+- About 90 lower-priority reviewer suggestions (mostly structure and readability: split long paragraphs in 31, shorten evidence-heavy table cells in 33 and 36, turn Module 32's Elite Edge into a table, move effect-size detail from 36's body to its Research Notes).
+- Some content repeats across 31 and 36 (SMPY and acceleration figures); a later pass could keep the detail in 31 only.
+- The four recurring sections are still missing from Modules 21–24.
+- NFHS-6 figures quoted in Module 35 could not be independently checked in this pass.
 
 ---
 

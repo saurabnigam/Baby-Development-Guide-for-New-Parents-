@@ -35,7 +35,7 @@ It is 11 p.m. in Bengaluru. Meera is feeding her 8-month-old daughter, Anaya, an
              (not a "super-intelligent" child on demand)
 ```
 
-Why constraints first? A constraint causes large harm, and removing it prevents that harm. Enrichment adds smaller gains on top of a brain that is already well supplied. A child who has lost points to lead or iodine deficiency cannot fully read her way back. You will see this pattern in every table below.
+Why constraints first? A constraint causes large harm, and removing it prevents that harm. Enrichment adds smaller gains on top of a brain that is already well supplied. Lead damage looks largely permanent: a drug that pulled lead out of the blood did not restore IQ, so prevention beats repair. You will see this pattern in every table below.
 
 ---
 
@@ -58,12 +58,12 @@ No. Heritability is a population statistic. It says how much of the *spread* in 
 The rise has a name: the **Wilson effect**. The study authors' explanation is that as children grow, they increasingly choose and shape their own experiences, in line with their genes. A bookish child seeks out books. The family's shared influence on IQ is largest in early childhood and fades by adulthood. That makes the early years the window where the home you build shows up most in IQ. It does not mean parenting stops mattering later. It matters for values, relationships, mental health, and opportunity, which twin studies measure poorly.
 
 **Question 2: "Do genes matter more in rich families?"**
-This is the famous gene-by-SES idea (SES means socioeconomic status: income, education, occupation). A 2016 meta-analysis of about 25,000 twin and sibling pairs found it **in the US only**. There, heritability was 26% in families 2 standard deviations below average SES and 61% in families 2 above. In Western Europe and Australia the interaction was not significant **[A]**. A 2024 test using DNA-based scores in about 5,500 US children found **no interaction at all**: income and genes each predicted cognition a little, independently **[B]**. The honest reading: where schooling, food, and healthcare reach almost everyone, environment helps across the whole range. The "genes only show up if you're privileged" story is not settled science.
+This is the famous gene-by-SES idea (SES means socioeconomic status: income, education, occupation). A 2016 meta-analysis of about 25,000 twin and sibling pairs found it **in the US only**. There, heritability was 26% in families 2 standard deviations below average SES and 61% in families 2 above. In Western Europe and Australia the interaction was not significant **[A]**. A 2024 test using DNA-based scores in about 5,500 US children of European genetic ancestry found **no interaction at all**: income and genes each predicted cognition a little, independently **[B]**. One plausible reading, not proven: where schooling, food, and healthcare reach almost everyone, poverty does less to hold back children's genetic potential. The "genes only show up if you're privileged" story is not settled science.
 
 **Question 3: "Could a DNA test tell us how bright Anaya will be?"**
 Not usefully. A **polygenic score** adds up thousands of small genetic signals. The largest study of this kind (EA4, about 3 million people) built a score that explains 12-16% of the variation in years of schooling across adults **[A]**. Three problems shrink its value for one child:
 
-1. **About half of the score's apparent effect is not the child's own genes acting.** When researchers compare siblings, the direct genetic effect is roughly half as large as the population association. The rest reflects "genetic nurture": parents' genes shaping the home they create. In the 2024 US study above, the intelligence score's link to cognition was 0.25 across families but only 0.06 within families.
+1. **About half of the score's apparent effect is not the child's own genes acting.** When researchers compare siblings, the direct genetic effect is roughly half as large as the population association. The rest reflects family-level factors: "genetic nurture" (parents' genes shaping the home they create), plus ancestry differences and parents choosing partners similar to themselves. In the 2024 US study above, the intelligence score's link to cognition was 0.25 across families but only 0.06 within families.
 2. **Scores are built mostly from people of European ancestry** and predict much worse in other groups, including South Asians.
 3. **Explaining 12-16% of the spread across a population leaves most of any one child's outcome unexplained.**
 
@@ -83,10 +83,10 @@ A small everyday comparison first. Two Indian families put the same effort into 
 
 | Lever | What was found | Grade | Cost |
 |-------|----------------|-------|------|
-| **Iodine** (pregnancy and childhood) | In a meta-analysis of 37 Chinese studies (12,291 children), children in severely iodine-deficient areas scored about 12.45 IQ points lower than children in iodine-sufficient areas. Iodine before and during pregnancy recovered about 8.7 points. | [B] observational, but a consistent and large signal | Very low: iodized salt |
+| **Iodine** (pregnancy and childhood) | In a meta-analysis of 37 Chinese studies (12,291 children), children in severely iodine-deficient areas scored about 12.45 IQ points lower than children in iodine-sufficient areas. Children whose mothers got iodine before and during pregnancy scored about 8.7 points higher (comparisons of areas and birth cohorts, not randomized). This applies to *severe* deficiency: in a randomized trial of 832 mildly deficient pregnant women in Bengaluru and Bangkok (MITCH), daily iodine supplements did not raise child IQ at 5-6 years. | [B] harm of severe deficiency; [C] exact size | Very low: iodized salt. No extra iodine supplements unless your doctor advises |
 | **Lead** | In a pooled analysis of 7 cohorts (1,333 children), a rise in blood lead from 2.4 to 10 µg/dL went with a 3.9-point IQ drop. The steepest harm is at the *lowest* levels. The CDC says no safe blood lead level is known. | [A] harm; [B] exact curve | Low: remove sources |
 | **Lead: treating after exposure** | A drug that pulls lead out of the blood (succimer) lowered blood lead in 780 toddlers with levels of 20-44 µg/dL, but did **not** improve IQ or behaviour over 36 months of follow-up. | [B] null | Prevention is the main fix for brain effects. Chelation is still used for very high levels; your pediatrician decides |
-| **Iron drops for infants who mostly were not deficient** | In the BRISC trial in rural Bangladesh (3,300 infants), 3 months of iron syrup had no effect on Bayley cognitive scores (difference −0.30 points). | [B] null | Treat deficiency; don't dose blindly |
+| **Iron syrup for all infants, not only deficient ones** | In the BRISC trial in rural Bangladesh, where anemia was common (3,300 8-month-olds), 3 months of iron syrup had no effect on Bayley cognitive scores (difference −0.30 points), though it did reduce anemia. | [B] null | Prevents anemia; not an IQ booster |
 | **Delayed cord clamping** | Swedish trial: better fine-motor and social scores at age 4, especially in boys, with **no IQ difference**. At age 10, no effect on ADHD symptoms. WHO recommends clamping no earlier than 1 minute for babies who do not need resuscitation. | [B] | Free: put it in the birth plan |
 | **Cleaner air** | Each 1 µg/m³ of PM2.5 was linked to 0.27 fewer IQ points (6 studies, 4,860 children, observational). One trial of HEPA purifiers in pregnancy found +2.5 IQ points at age 4, but the confidence interval crossed zero. | [B] association; [C] intervention | Low to moderate |
 
@@ -97,14 +97,14 @@ A small everyday comparison first. Two Indian families put the same effort into 
 | **Years of schooling** | Each extra year of education raises IQ by about 1-5 points. The finding comes from 42 datasets and over 600,000 people, with three quasi-experimental designs, and the gain lasts into old age. | [A] | Public or school fees |
 | **Moving to a better-resourced home** | In Sweden, siblings adopted into higher-SES homes scored 4.41 IQ points higher at 18 than siblings raised by birth parents (3.18 in a larger half-sibling sample). Each unit of rearing-parent education added 1.71 points. | [A] | Not a lever to pull, but proof that environment moves IQ |
 | **Home-visit stimulation (Jamaica, Reach Up)** | In a trial of about 130 stunted Jamaican toddlers randomized to four groups, those given 2 years of weekly play-coaching visits earned 25% more at age 22 and had 43% higher hourly wages at 31. This comes from one small cohort of very poor, stunted children and has not been replicated; effects in a well-nourished child are likely smaller. Across 18 trials of the Reach Up program in several countries, cognitive d = 0.49. | [B] original trial; [A] meta-analysis | Low: a trained visitor |
-| **India trial: nutrition plus responsive parenting** | Rural India cluster trial run through Anganwadi centres: cognitive d = 0.31 and mother-child interaction d = 0.40 at 24 months. One trial, not yet replicated. | [B] | Low |
+| **India trial: nutrition plus responsive parenting** | "Rural India cluster trial: trained local women volunteers made fortnightly home visits for 2 years, linked to the local Anganwadi.": cognitive d = 0.31 and mother-child interaction d = 0.40 at 24 months. One trial, not yet replicated. | [B] | Low |
 | **Shared picture-book reading** | 19 trials: expressive language d = 0.41, receptive d = 0.26. Too few sessions had little effect. | [A] | A library card |
-| **Dialogic reading** (asking questions, expanding answers) | A 2026 meta-analysis reports an added effect of about g = 0.19 on reading literacy over ordinary reading. The exact figure was checked only through secondary sources. | [A] direction; exact size unverified | Free |
+| **Dialogic reading** (asking questions, expanding answers) | A 2026 meta-analysis reports an overall effect of about g = 0.19 on reading literacy. The effect was smaller when the comparison group also did ordinary shared reading. The exact figure was checked only through secondary sources. | [A] direction; exact size unverified | Free |
 | **Conversational turns / parentese coaching** | A trial of 71 families found that coaching parents raised back-and-forth talk and later vocabulary, with gains lasting to 30 months. Separately, turns at 18-24 months explained 14-27% of the variation in IQ and vocabulary 10 years later (correlational). | [B] trial; [C] long-term link | Free |
 | **Active play** | 31 trials in children aged 2-6: inhibitory control SMD 0.42, working memory 0.30. Effects were largest for game-based, thinking-heavy play. | [A] | Free |
-| **Spatial play** (blocks, puzzles, mental rotation) | 217 studies: g = 0.47. The gain lasts and transfers to *other spatial tasks*. | [A] | Low |
+Relabel as "Spatial training" and add: "Pooled training studies of many kinds and ages. Blocks and puzzles are the home version, not what was tested." The gain lasts and transfers to *other spatial tasks*. | [A] | Low |
 | **Montessori (public, US)** | First national lottery-based trial (588 children): higher end-of-kindergarten reading (g = 0.297) and executive function (g = 0.250), and over three years it cost districts $13,127 less per child. Later-grade results are not yet published. | [B] | Varies |
-| **Breastfeeding** | The PROBIT trial (17,046 infants): +5.9 IQ points at age 6.5. By 16, only +1.4 verbal points remained, with no difference in overall cognition. Sibling comparisons in another dataset found no cognitive advantage. | [B] | Free, but not a reason for guilt |
+| **Breastfeeding** | The PROBIT trial (17,046 breastfed infants in Belarus) randomized hospitals to *promote* longer, exclusive breastfeeding. At 6.5, verbal IQ was 7.5 points higher; full-scale IQ was 5.9 points higher, but that estimate's uncertainty range included zero. By 16, only +1.4 verbal points remained, with no difference in overall cognition. Sibling comparisons in another dataset found no cognitive advantage. | [B] | Free, but not a reason for guilt |
 
 ### Mixed, null, or negative
 
@@ -112,17 +112,17 @@ A small everyday comparison first. Two Indian families put the same effort into 
 |-------|----------------|-------|
 | **Unconditional cash** (Baby's First Years, $333/month) | Infant brain-activity (EEG) differences at 12 months did not survive correction for multiple comparisons. At age 4, no effect on language, executive function, social-emotional outcomes, or the main EEG measure. | [B] null for cognition |
 | **Perry Preschool / Abecedarian** | Updated benefit-cost ratios are 6.0 and 5.2. But each study had only about 110-125 children, and the IQ gains faded. The payoff came through adult life outcomes, not IQ. | [D] for generalising |
-| **Tennessee state pre-K** | A randomized study of 2,990 children: by 6th grade, the pre-K group scored *lower* in maths (ITT −0.178) and had more discipline incidents and special-education plans. | [B] negative |
-| **Maternal choline** (930 vs 480 mg/day) | One trial of 26 women found faster infant processing. A larger trial (140) found nothing, and a 2025 systematic review says the evidence is "insufficient to support or refute". | [C] |
-| **Prenatal DHA** | 21 randomized trials: no benefit on IQ, attention, language, or executive function. Only birth weight rose (about 72 g). | [A] null |
+| **Tennessee state pre-K** | A randomized study of 2,990 children: by 6th grade, Extend 'How to read the table': "d, g and SMD are all effect sizes in SD units. About 0.2 is small, 0.5 medium, 0.8 large. 'Publication bias' means studies with exciting results get published more often, which inflates averages. An 'active control group' does some other activity, which rules out the effect of simply getting attention." Replace "ITT −0.178" with "0.18 SD lower in maths". Replace "confidence interval crossed zero" with "could be chance". Replace "did not survive correction for multiple comparisons" with "stopped looking real once the statisticians allowed for testing many things at once". Replace "ρ = .24-.30" with "a modest correlation (about 0.24-0.30)". Add a 'Size in plain words' column (large / medium / small / none) to each ledger table. and had more discipline incidents and special-education plans. | [B] negative |
+| **Maternal choline** (trial doses of 930 vs 480 mg/day; not a recommendation — discuss intake with your obstetrician) | One trial of 26 women found faster infant processing. A larger trial (140) found nothing, and a 2025 systematic review says the evidence is "insufficient to support or refute". | [C] |
+| **Prenatal DHA** | 21 randomized trials: no benefit on IQ, attention, language, or executive function; only birth weight rose (about 72 g). One other recent meta-analysis reported a small language benefit, so read this as 'no reliable brain benefit'. | [A] null for IQ |
 | **Music, chess, working-memory "brain training"** | With proper active control groups, transfer to general cognition is near zero. | [A] null |
-| **Growth-mindset interventions** | Small average effect (d = 0.05) that was no longer significant after correcting for publication bias, and null (d = 0.02) in the 6 highest-quality studies. Small gains appear only for lower achievers in supportive schools. | [A] |
+| **Growth-mindset interventions** | Small average effect (d = 0.05) that was no longer significant after correcting for publication bias, and null (d = 0.02) in the 6 highest-quality studies. Grade gains appeared mainly for lower achievers, and were larger in schools whose peer culture supported taking on challenges. | [A] |
 
-**The fade-out rule.** Most early "IQ boosts" shrink. A 2024 review of 86 randomized interventions found cognitive effects fell from 0.40 SD at the end of the program to 0.22 SD after 6-12 months and 0.16 SD after 1-2 years **[A]**. What lasts is a *changed environment*: a home that keeps talking, a school year that keeps teaching. A one-time burst does not last. This is why this book keeps saying "daily, for years".
+**The fade-out rule.** Most early "IQ boosts" shrink. A 2024 review of 86 randomized interventions found cognitive effects fell from 0.40 SD at the end of the program to 0.22 SD after 6-12 months and 0.16 SD after 1-2 years **[A]**. The durable effects in this module come from lasting changes in environment, such as extra years of school or adoption into a new home. Our reading: a home that keeps talking and a school that keeps teaching is more likely to hold gains than a one-time burst. A one-time burst does not last. This is why this book keeps saying "daily, for years".
 
 ---
 
-## What Changed 2023-2026: Classics Revised
+Retitle to "## What Newer Evidence Changed: Classics Revised" and put the year of the key study in each row.
 
 Think of a parent who read the popular books of the 2000s: praise effort, drill the brain, count the words, "EQ matters more than IQ". Here is what newer evidence did to each idea.
 
@@ -135,9 +135,9 @@ Think of a parent who read the popular books of the 2000s: praise effort, drill 
 | **Bloom's 2 sigma** | 1:1 tutoring lifts students 2 SD | A 2020 meta-analysis of randomized tutoring trials found a pooled 0.37 SD. That is large for education, but about one-fifth of "two sigma". **[A]** |
 | **30-million-word gap** | Poor children hear 30 million fewer words | A 2019 re-examination of 42 children across 5 US communities did not find the gap once all caregivers and overheard speech were counted. Back-and-forth *turns*, not word totals, carry the signal. **[C]** |
 | **EQ beats IQ** | Emotional intelligence predicts success better than IQ | IQ remains the stronger single predictor of performance. EI measures correlate with job performance at about ρ = .24-.30 and add a little on top. **[B]** |
-| **Bilingual brain advantage** | Bilingual children have better executive function | Small at best, and possibly zero. One meta-analysis found it disappeared after correcting for publication bias (Lehtonen 2018); another found small advantages on some tasks only; a 2026 study with strong measures found none. **[A]** for "small at best". Two languages are their own reward (Module 26). |
+| **Bilingual brain advantage** | Bilingual children have better executive function | Small at best, and possibly zero. The best evidence is mostly from adults: one meta-analysis found the advantage disappeared after correcting for publication bias (Lehtonen 2018), and a 2026 adult study with strong measures found none; in children, results are inconsistent across tasks and studies. **[C]** Don't choose bilingualism for an IQ or executive-function boost. Two languages are their own reward (Module 26). |
 | **Walking vs talking trade-off** | Babies stall in talking while learning to walk | The one direct test we found points the other way. In 44 infants followed every 2 weeks, starting to walk went with a *jump* in understood and spoken words. **[C]** small studies |
-| **Wonder Weeks "leaps"** | Fussy "leaps" arrive on fixed weeks for every baby | Based on small observational studies (15 Dutch families originally; 18 babies in a Catalan follow-up). We found no large independent study confirming fixed-week leaps. **[D]** Fussy phases are real; the calendar is not proven. |
+| **Wonder Weeks "leaps"** | Fussy "leaps" arrive on fixed weeks for every baby | Based on small observational studies (15 Dutch families originally; a Catalan follow-up of 18 babies also reported regression periods). No large independent study has confirmed that leaps arrive on fixed weeks. We found no large independent study confirming fixed-week leaps. **[D]** Fussy phases are real; the calendar is not proven. |
 | **Cash changes baby brains** | 2022 headline: cash to mothers rewires infant brains | At age 4, the same trial found no cognitive effect (2025-2026). **[B]** |
 | **Prenatal DHA for IQ** | Fish oil in pregnancy builds a smarter baby | A 2026 meta-analysis of 21 trials found no neurodevelopmental benefit. **[A]** |
 
@@ -151,7 +151,7 @@ To stay honest, here are statements that earlier editions of this guide made and
 - **Module 09:** "The bilingual advantage is real but modest" becomes "small at best, and may be zero".
 - **Module 13:** Bloom's "two standard deviations" for tutoring. Use 0.37 SD, which is still one of the best effects in education. Parent tutoring showed smaller effects than trained tutors, so a parent's 15 minutes is practice and encouragement, not a substitute.
 - **Module 20:** The FAQ answers "mostly no" on acceleration. For a child who has been carefully assessed, the evidence on acceleration is more favourable (next section). The FAQ also said formal identification "works fine after age 5-6"; the largest stability meta-analysis (205 studies) finds IQ scores reliable enough for decisions about one child only from about age 7. And its claim that conversational turns and shared reading have "the largest effect sizes in this entire guide" now reads "the largest effects you can get free at home".
-- **Module 25:** Prenatal DHA was called the clearest supplement case. It may still help for other reasons, but not for child IQ. Choline is promising but unproven.
+- "**Module 25:** The clearest case for omega-3 was said to be pregnancy and lactation without fish. Omega-3 may still help for other reasons, but 21 trials found no benefit for child IQ." It may still help for other reasons, but not for child IQ. Choline is promising but unproven.
 - **Module 29:** Perry and Abecedarian are tiny, decades-old studies. A large modern public pre-K trial (Tennessee) went negative. Program *quality* is the variable, not "early school" as a category.
 
 ---
@@ -163,8 +163,8 @@ Picture Kabir, age 6, in a Pune apartment. He does two-digit sums in his head, a
 ### What the long-term data say
 
 - **SMPY** (Study of Mathematically Precocious Youth) has followed over 5,000 people identified by age 13 through above-grade-level SAT testing. Even *within* the top 1%, higher ability predicted more achievement: 13.2% of the top quarter held patents vs 4.8% of the bottom quarter **[B]**. Maths-leaning talent predicted STEM careers and verbal-leaning talent predicted humanities. The study is correlational. It shows who achieves, not how to create precocity.
-- **Acceleration** (grade-skipping or moving ahead in one subject): syntheses report academic effects of about +0.67 SD, with small *positive* social (+0.34) and psychological (+0.42) effects **[B]**. The common fear of social harm is not supported, with one caveat: the children accelerated were usually chosen partly for their emotional readiness.
-- **Spatial ability** predicts STEM outcomes beyond maths and verbal skill, and it is trainable (g = 0.47) **[A]**.
+"- **Acceleration.** For grade-skipping, one 2015 synthesis (Rogers) reports academic effects of about +0.67 SD (another aggregation gives +0.78), with small positive social (+0.34) and psychological (+0.42) effects **[B]**." In the Elite Edge, change "(+0.67 SD academic)" to "(grade-skipping: about +0.67 SD academic)"., with small *positive* social (+0.34) and psychological (+0.42) effects **[B]**. The common fear of social harm is not supported, with one caveat: the children accelerated were usually chosen partly for their emotional readiness.
+- **Spatial ability** predicts STEM outcomes beyond maths and verbal skill in long-term studies of gifted youth **[B]**. Spatial skills are also trainable (g = 0.47 on other spatial tests) **[A]**. No study has yet shown that spatial training raises later STEM achievement itself.
 - **Early maths** at school entry was the strongest predictor of later achievement in 6 long-term datasets, ahead of early reading and attention **[A]**. The finding is predictive, not proof that drilling maths causes success.
 - **Curiosity** (intellectual engagement) together with effort predicts academic performance about as strongly as intelligence does **[B]**.
 
@@ -192,7 +192,7 @@ In IVF, a few embryos are created. PGT-M and PGT-A are standard tests that check
 
 ### What the gain actually is
 
-- **About 2.5 IQ points on average** from choosing the top-scoring embryo instead of an average one, "given current technology", with wide prediction intervals (Karavani et al. 2019, Cell) **[B]**. The gain grows very slowly as the number of embryos goes up.
+- **About 2.5 IQ points on average** from choosing the top-scoring embryo instead of an average one, "given current technology", with wide prediction intervals (Karavani et al. 2019, Cell) **[B]**. The estimate assumes about 5 testable embryos and uses a European-ancestry score. With fewer than 5 embryos the gain drops sharply, and for South Asian parents it is likely smaller. More embryos add very little.
 - In real families, the sibling with the highest polygenic score for *height*, a much easier trait to predict, was actually the tallest in only **25%** of families.
 - At the 2024 ESHG conference, a Japanese biobank study found that different scoring methods picked the same "best" embryo less than half the time.
 - Company claims such as "an 8.5-point difference between the best and worst of three embryos" measure the *spread* among a few embryos. They do not measure the expected gain, and they are about 3-4 times the peer-reviewed average **[D]**.
@@ -212,7 +212,7 @@ In IVF, a few embryos are created. PGT-M and PGT-A are standard tests that check
   4. South Asian ancestry              ─► scores trained on Europeans predict worse
                                 │
                                 ▼
-          ≈ 2.5 IQ points on average, wide uncertainty, not guaranteed
+          ≤ 2.5 IQ points on average (European estimate, 5 embryos); likely less for South Asian families; not guaranteed
 ```
 
 ### Where professional bodies stand
@@ -227,11 +227,11 @@ The published rebuttals to ESHG and ACMG include authors with financial ties to 
 
 ### Cost, law, and ethics
 
-- **Cost:** reported consumer tiers of $8,999-$24,999 (about ₹8-22 lakh), on top of IVF itself **[D]**, as reported by secondary news sources.
+- **Cost:** reported consumer tiers of $8,999-$24,999 (about ₹8-22 lakh) **[D]**, as reported by secondary news sources; IVF costs may be extra.
 - **India:** the ART (Regulation) Act 2021 says embryo testing shall screen "for known, pre-existing, heritable, or genetic diseases only". Clinics must also follow the PCPNDT Act, which bans offering a child of a chosen sex. As we read it, ranking embryos for IQ is not permitted in Indian clinics. Confirm with your IVF specialist.
 - **Ethics:** Polygenic scores also affect other traits in ways that are not fully known. The scores work worse for non-European ancestry. And a child chosen for "high IQ" carries an expectation she never asked for.
 
-**The honest verdict:** If you need IVF, embryo testing for a known serious genetic disease can be sound medicine. Ranking embryos for IQ buys an uncertain couple of points at great cost, against the advice of every major professional body we checked, and is outside Indian law. The same money and attention spent on the ranked list below does more.
+**The honest verdict:** If you need IVF, embryo testing for a known serious genetic disease can be sound medicine. "...and, as we read India's ART Act, is not permitted in Indian clinics. Having it done abroad does not change what the evidence shows." The same money and attention spent on the ranked list below does more.
 
 ---
 
@@ -241,8 +241,8 @@ Ranked from highest to lowest expected value for a typical family. Health items 
 
 **Tier 1: Remove constraints (do these first)**
 - [ ] **Iodized salt in the kitchen.** NFHS-5 found 94.3% of Indian households use iodized salt. Check that yours is one of them, especially if you buy loose or "rock" salt (Module 25).
-- [ ] **Anemia screening.** 67.1% of Indian children aged 6-59 months were anemic in NFHS-5, up from 58.6% in NFHS-4. Ask your pediatrician when to check your child's hemoglobin, and follow the national iron programme (Anemia Mukt Bharat) as prescribed. Treat a deficiency that is found; don't dose blindly (Module 30).
-- [ ] **Cut lead sources.** Stop applying kajal or surma to babies. Surma and some kohl products are among the worst sources measured. Buy turmeric and other spice powders from reputable brands; lead chromate has been found in turmeric across South Asia. Avoid unregulated traditional remedies. Ask about a blood lead test if you live near battery recycling or old paint. Pooled studies put Indian children's average blood lead at 10.4 µg/dL, nearly 3 times the US reference value (Module 33).
+- [ ] **Anemia screening.** 67.1% of Indian children aged 6-59 months were anemic in NFHS-5, up from 58.6% in NFHS-4. Ask your pediatrician when to check your child's hemoglobin, and whether your child should follow the national programme's preventive iron schedule (Anemia Mukt Bharat). Preventive iron is for preventing anemia, not for boosting IQ. Beyond that, give extra iron only for a deficiency your pediatrician has diagnosed (Module 30).
+- [ ] **Cut lead sources.** Stop applying kajal or surma to babies. Surma and some kohl products are among the worst sources measured. Buy turmeric and other spice powders from reputable brands; lead chromate has been found in turmeric across South Asia. Avoid unregulated traditional remedies. Ask about a blood lead test if you live near battery recycling or old paint. A 2025 pooling of 51 Indian studies found an average blood lead of 10.4 µg/dL, nearly 3 times the US reference value of 3.5. Many of those studies were done where lead exposure was already suspected, so the true national average may be lower (Module 33).
 - [ ] **Vegetarian households:** discuss B12 for mother and child with your doctor (Modules 15, 30).
 - [ ] **Birth plan:** ask for delayed cord clamping (at least 1 minute) if the baby does not need resuscitation (Module 25).
 - [ ] **Lower chronic stress at home.** Share the load, get help for maternal depression, and keep routines predictable (Modules 19, 32).
@@ -250,7 +250,7 @@ Ranked from highest to lowest expected value for a typical family. Health items 
 **Tier 2: Enrich daily (free, compounding)**
 - [ ] **Talk in turns every day.** Serve and return: pause, wait for the reply, answer it. Use parentese with infants, in any home language (Modules 01, 26).
 - [ ] **Read together daily, dialogic style.** Ask "What's happening here?", expand the answer, follow the child's interest.
-- [ ] **Move for about an hour a day through games with rules.** Freeze dance, Simon Says, obstacle courses (Modules 17, 28).
+"- [ ] **Move a lot, and make some of it games with rules.** Follow the WHO targets in Module 32: under 1, floor play and at least 30 minutes of tummy time; ages 1-4, at least 180 minutes a day, with 60 of them energetic at 3-4. From about age 3, add freeze dance, Simon Says and obstacle courses (Modules 17, 28)."
 - [ ] **Play with space and numbers.** Blocks, puzzles, counting stairs, measuring dal.
 - [ ] **Protect sleep** (Module 16).
 
@@ -280,7 +280,7 @@ The pattern repeats from Module 29. The expensive products rent the ingredients 
 
 ## Mistakes Even Loving Parents Make
 
-1. **Chasing enrichment while a constraint goes unfixed.** A ₹5,000 class cannot make up for untreated anemia or a daily line of surma. Check the boring things first. They carry the largest effects.
+1. **Chasing enrichment while a constraint goes unfixed.** "A ₹5,000 / $60 class..." and "($8,999-$24,999, about ₹8-22 lakh)". Check the boring things first. They carry the largest effects.
 2. **Treating a heritability number as a verdict on your child.** Heritability describes spread across a population. It is not a ceiling for one child, and in the early years your home shows up most.
 3. **Expecting a one-time program to give a permanent boost.** Gains fade unless the environment keeps them going. Daily habits beat intensive bursts.
 4. **Buying a headline.** "Cash rewires baby brains", "bilingual kids are smarter", "EQ beats IQ": each shrank on a closer look. Before you pay, ask two questions: was it randomized, and did the effect last?
@@ -306,6 +306,7 @@ The pattern repeats from Module 29. The expensive products rent the ingredients 
 - AAP (2024), lead in traditional cosmetics including surma and kohl. https://pubmed.ncbi.nlm.nih.gov/39352031/
 - Forsyth et al. (2024), lead chromate in turmeric across South Asia. https://pubmed.ncbi.nlm.nih.gov/39053552/
 - NFHS-5 India fact sheet (iodized salt 94.3%; child anemia 67.1%). https://dhsprogram.com/pubs/pdf/OF43/India_National_Fact_Sheet.pdf
+- Wai, Lubinski & Benbow (2009), spatial ability and STEM outcomes in long-term studies of talented youth, *Journal of Educational Psychology*.
 - Pasricha et al. (2021), BRISC iron trial, NEJM. https://pubmed.ncbi.nlm.nih.gov/34496174/
 - Andersson et al. (2015), cord clamping, 4-year outcomes; Isacson et al. (2025), 10-year ADHD null. https://pubmed.ncbi.nlm.nih.gov/26010418/ ; https://pubmed.ncbi.nlm.nih.gov/40744000/
 - WHO (2014), delayed cord clamping guideline. https://www.ncbi.nlm.nih.gov/books/NBK310513/
@@ -329,7 +330,7 @@ The pattern repeats from Module 29. The expensive products rent the ingredients 
 - Liu et al. (2026), physical activity and preschool executive function. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1882118/full
 - Uttal et al. (2013), spatial training meta-analysis. https://groups.psych.northwestern.edu/uttal/documents/1Themalleabilityofspatialskills-Ametaanalysisoftrainingstudies1_001.pdf
 - Sala & Gobet (2017), no far transfer from chess, music, or working-memory training. https://pubmed.ncbi.nlm.nih.gov/29276344/
-- Macnamara & Burgoyne (2023) and Burnette et al. (2023), growth-mindset meta-analyses; Yeager et al. (2019). https://doi.org/10.1037/bul0000384 ; https://www.nature.com/articles/s41586-019-1466-y
+- Macnamara & Burgoyne (2023), growth-mindset meta-analysis. https://doi.org/10.1037/bul0000352 ; Burnette et al. (2023). https://doi.org/10.1037/bul0000368 ; Tipton et al. (2023) commentary on both. https://doi.org/10.1037/bul0000384 ; Yeager et al. (2019). https://www.nature.com/articles/s41586-019-1466-y
 - Credé, Tynan & Harms (2017), grit meta-analysis. https://pubmed.ncbi.nlm.nih.gov/27845531/
 - Macnamara, Hambrick & Oswald (2014), deliberate practice by domain. https://journals.sagepub.com/doi/abs/10.1177/0956797614535810
 - Nickow, Oreopoulos & Quan (2020), tutoring meta-analysis, 0.37 SD. https://www.nber.org/papers/w27476
@@ -353,7 +354,7 @@ The pattern repeats from Module 29. The expensive products rent the ingredients 
 
 ## 5-Minute Action Plan
 
-Go to your kitchen now. Read the salt packet for the word "iodized", and check that the turmeric comes from a brand you trust. If there is a kajal or surma pot meant for the baby, put it away. Then add one line to your next pediatrician visit: "Should we check her hemoglobin?" Tonight, read one picture book and ask one "what do you think happens next?" question. That is the research frontier, done at home.
+Go to your kitchen now. Read the salt packet for the word "iodized", and check that the turmeric comes from a brand you trust. If there is a kajal or surma pot meant for the baby, put it away. Then add one line to your next pediatrician visit: "Should we check her hemoglobin?" Tier 2: "Read together daily. Under 2: point, name, pause for her sound, then answer it. From about 2: ask 'What's happening here?', then add one word to her answer." Action Plan: "Tonight, read one picture book. With a baby: point, name, pause. With a child of 2 or older: ask one 'what happens next?'" That is the research frontier, done at home.
 
 ---
 

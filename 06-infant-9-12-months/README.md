@@ -220,7 +220,7 @@ The AAP has called for a **ban on their manufacture and sale**. **Canada banned 
 | Milk | Breast milk or formula still matters nutritionally through month 12 |
 | Finger foods | Soft pieces they can pick up — banana, well-cooked carrot, small pasta, soft cheese |
 | Water | Small amounts in an **open cup** at meals |
-| Vitamin D | 400 IU a day, unless taking over ~27oz/800ml formula |
+| Vitamin D | 400 IU a day (US: not needed above ~27oz/800ml of formula; India's IAP: every infant, formula-fed included) |
 
 ### Still off the list
 

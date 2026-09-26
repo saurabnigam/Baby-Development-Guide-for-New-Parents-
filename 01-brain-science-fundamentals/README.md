@@ -317,6 +317,20 @@ Not a scorecard. If you hit three, that was a good day.
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+> **What genes decide and what you decide**
+>
+> Twin studies show the heritability of IQ *rises* with age: about 41% at age 9, 55% at 12, and 66% at 17 (Haworth et al., 2010), levelling off near 80% in adulthood (Bouchard, 2013) **[A]**. That sounds fixed, but heritability describes differences across a population, not a ceiling on your child. Environment still moves real outcomes: in Swedish sibling pairs split by adoption, the sibling raised by more educated adoptive parents scored about 4.4 IQ points higher at 18 (Kendler et al., 2015) **[A]**. Your part is to remove what holds a child back — deficiencies, toxins, chronic stress — and keep daily life rich. [Module 31](../31-research-frontier/README.md) covers what the research says actually moves a child's potential.
+
+**Toxins are brain inputs too.** Lead and fine-particle air pollution are both linked to lower child IQ, and the CDC says no safe blood lead level in children has been identified. In Indian homes the common sources are kajal and surma, adulterated turmeric, and some cookware ([Module 33](../33-environmental-toxins/README.md)).
+
+**Nutrition and myelin, precisely.** Iron and vitamin B12 deficiency are well-established risks for myelination and development. DHA is a building block of myelin, yet trials of DHA supplements in pregnancy or for healthy term babies show little or no clear cognitive benefit **[A]**; a varied diet usually covers it ([Modules 15 and 30](../30-supplements-micronutrients/README.md)).
+
+---
+
 ## A Day in Real Life: Brain Science on an Ordinary Tuesday
 
 Forget the lab. Here is what "building neural architecture" looks like at 7:15 a.m.:

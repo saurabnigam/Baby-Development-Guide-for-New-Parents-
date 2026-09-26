@@ -6,8 +6,8 @@
 
 ## Key Takeaways
 
-- Routines are one of the few parenting tools with a measured dose-response. In a 13-country survey that included India, more nights a week with a bedtime routine went with better sleep. In a trial with 8-18-month-olds, most of the gain came in the first 3 nights.
-- Keeping the whole day steady matters more than any single ritual. In a US cohort, children whose chores, play, meals and bedtime routines stayed consistent from age 3 to age 5 had fewer attention and behaviour problems than children whose routines slipped.
+- Bedtime routines show a dose-response pattern. In a 13-country survey that included India, more nights a week with a bedtime routine went with better sleep. This is an association, not proof of cause. In an industry-funded study of 8-18-month-olds with sleep problems, the fastest gains came in the first 3 nights.
+- Keeping the whole day steady matters more than any single ritual. In a US cohort with many low-income families, children whose chores, play, meals and bedtime routines stayed high from age 3 to age 5 had fewer attention and behaviour problems than children whose routines slipped. The link is correlational.
 - Build the day from a few numbers: sleep hours, meals, movement minutes, outdoor time and screen limits. The sample days below are those numbers, laid out on a clock.
 - Some popular routine rules are convention, not evidence. That includes "wake windows" and the claim that "chores at age 3 predict success at 25." Use them if they help, but do not treat them as science.
 - A routine exists to protect a few things: sleep, connection, movement and outdoor time. When life breaks the routine, protect those and let the rest go.
@@ -21,15 +21,15 @@ Picture two evenings with the same 14-month-old. In the first, bath time moves a
 **What the evidence shows:**
 
 - **Frequency matters, not just having a routine.** Mindell and colleagues surveyed 10,085 mothers of children aged 0-5 in 13 countries and regions, including 998 in India. More nights a week with a bedtime routine went with earlier bedtimes, faster sleep onset, fewer night wakings and longer sleep. The pattern was close to linear. Among infants and toddlers, mothers reported a sleep problem for 23.3% of children with a routine every night and 47.2% of those with no routine. **[C]** The data are correlational and the study was industry-funded.
-- **The payoff comes fast.** In a 2-week bedtime-routine trial with 134 infants aged 8-18 months, the fastest improvement came in the first 3 nights. Time to fall asleep stopped improving after night 3. Night waking and parents' ratings of bedtime kept improving slowly for the rest of the 2 weeks. **[B]** In practice: give a new routine 3 nights before you judge it. If nothing has changed after a week, change the steps, not your level of patience.
-- **The whole day matters.** Selman and colleagues (2026) followed 2,353 US children from age 3 to age 5 and grouped their chores, play, mealtime and bedtime routines. About 75% stayed in the same routine group. Children whose routines stayed stable and high had fewer attention, behaviour and anxiety problems at age 5 than children whose routines declined (standardised effects 0.23-0.40). **[C]** Children whose routines stayed high did better than children whose routines dropped away. The study could not show that the drop itself caused the difference, because family stress may drive both.
+- **The payoff comes fast.** In a 2-week study of 134 babies aged 8-18 months whose mothers reported a sleep problem, the fastest improvement after starting a bedtime routine came in the first 3 nights. Time to fall asleep stopped improving after night 3. Night waking and parents' ratings of bedtime kept improving slowly for the rest of the 2 weeks. **[C]** This timing comes from the routine group of an industry-funded trial, without a comparison against the control group, so treat it as a useful guide, not a precise rule. In practice: give a new routine 3 nights before you judge it. If nothing has changed after a week, change the steps, not your level of patience.
+- **The whole day matters.** Selman and colleagues (2026) followed 2,353 US children from age 3 to age 5 and grouped their chores, play, mealtime and bedtime routines. About 75% stayed in the same routine group. Children whose routines stayed stable and high had fewer attention, behaviour and emotional (internalising) problems, such as worry or sadness, at age 5 than children whose routines declined (standardised effects 0.23-0.40). **[C]** Children whose routines stayed high did better than children whose routines dropped away. The study could not show that the drop itself caused the difference, because family stress may drive both.
 - **Bedtime is more than sleep.** A narrative review by Mindell and Williamson groups the useful parts of a bedtime routine into four: *nutrition* (the last feed or snack), *hygiene* (bath, teeth), *communication* (books, songs, talk) and *touch* (massage, cuddles). **[C]** The four have never been tested together as one package. Each part rests on its own research base. A small UK study (N=50, ages 3-5) linked better bedtime routines with better executive function, school readiness and dental health. **[C]** It was small and correlational, so it shows an association, not proof.
 
 **What is convention, not evidence:**
 
 | Popular rule | Honest status |
 |---|---|
-| "Wake windows" (for example, "a 6-month-old should be awake exactly 2-2.5 hours") | Searches of PubMed and Europe PMC found no peer-reviewed study that defines or tests age-specific wake-window ranges **[D]**. Sleep pressure building up while awake is real biology. The minute ranges come from sleep-consultant practice. Treat them as a starting guess and let your child's sleepy cues decide. (Module 16's tip to "watch wake windows" is reasonable if you read it as "watch the cues.") |
+| "Wake windows" (for example, "a 6-month-old should be awake exactly 2-2.5 hours") | Searches of PubMed and Europe PMC found no peer-reviewed study that defines or tests age-specific wake-window ranges **[D]**. Sleep pressure building up while awake is real biology. The minute ranges come from sleep-consultant practice. Treat them as a starting guess and let your child's sleepy cues decide. |
 | "Children who did chores at 3-4 succeed in their mid-20s" | This claim is usually credited to Marty Rossmann at the University of Minnesota. It could not be found as a peer-reviewed publication **[D]**. It may be true, but it is not verified. Chores are still worth doing (see below), for plainer reasons. |
 | "A strict clock schedule from birth" | Newborns feed 8-12 times a day on cue. In the first months, a rhythm (feed, awake, sleep) fits the evidence better than set clock times. |
 | "Routine = rigid" | The studies above measured how consistently routines happened, not clock precision. A routine that shifts by 30 minutes but keeps its order is doing its job. |
@@ -57,18 +57,18 @@ The sample days in this module are these numbers placed on a clock. When you bui
 |---|---|---|---|---|---|
 | 0-3 months | 14-17 h (WHO). The AASM gives no range under 4 months | Sleep spread around the clock | 8-12 feeds per 24 h. No gap longer than about 2-3 h by day or 4 h at night in the newborn weeks (AAP) | Tummy time from the first days: 3-5 min, 2-3 times a day, building to 15-30 min a day by 7 weeks (AAP). WHO: at least 30 min a day, spread out, for babies who are not yet mobile | None (WHO, IAP, AAP) |
 | 4-12 months | 12-16 h (AASM/AAP, WHO) | Most take 2-3 naps | Breast milk or formula. From 6 months: 2-3 meals a day at 6-8 months, 3-4 meals plus 1-2 snacks at 9-11 months (WHO) | Active several times a day, mostly floor play. Not strapped into a pram, high chair or carrier for more than 1 h at a time (WHO) | None |
-| 1-2 years | 11-14 h | 2 naps, and most move to 1 nap by about 18 months | 3-4 meals plus 1-2 snacks up to 23 months (WHO). No cow's milk as a drink before 12 months (CDC) | At least 180 min a day at any intensity (WHO) | Age 1: none. Age 2: no more than 1 h (WHO). IAP: none under 2. AAP (2016): avoid under 18 months except video chat |
+| 1-2 years | 11-14 h | 2 naps, and most move to 1 nap by about 18 months | 3-4 meals plus 1-2 snacks up to 23 months (WHO). No cow's milk as a drink before 12 months (CDC) | At least 180 min a day at any intensity (WHO) | Age 1: none. Age 2: no more than 1 h (WHO). IAP: none under 2. AAP (2026): no fixed limit; under 1 h a day if the family wants a number |
 | 3-5 years | 10-13 h | Naps fade between about 2 and 5. About 94% have stopped by age 5 | 3 meals plus snacks (Module 15) | At least 180 min a day, with at least 60 min moderate-to-vigorous, at ages 3-4 (WHO) | No more than 1 h, and less is better (WHO; IAP for ages 2-5) |
 | 6-12 years | 9-12 h | None expected. Sleep should come at night | 3 meals plus a school snack | An average of 60 min a day moderate-to-vigorous. Vigorous activity and muscle or bone strengthening at least 3 days a week (WHO 2020) | IAP: less than 2 h a day for ages 5-10. WHO: limit recreational screen time, with no fixed number |
-| 13-18 years | 8-10 h | None | 3 meals. Protect breakfast | Same as 6-12 | Canada: no more than 2 h of recreational screens. IAP and AAP set no fixed hour cap for teens |
+| 13-18 years | 8-10 h | None | 3 meals. Protect breakfast | Same as 6-12 | Canada: no more than 2 h of recreational screens. IAP sets no hour cap for teens. AAP (2026): 1-2 h a day or more of entertainment media, set with the family |
 
-Sources: WHO 2019 guideline for under-5s **[A]**; AASM 2016 consensus, endorsed by the AAP **[A]**; WHO 2020 guideline for ages 5-17 **[A]**; IAP 2022 screen guideline **[A]**; nap patterns from Staton 2020 **[A]** and Nemours KidsHealth. Sleep ranges are population ranges, not targets for one child. Note: in 2026 the AAP published a new policy statement, *Digital Ecosystems, Children, and Adolescents*. It frames screens by what they push out, such as sleep and movement. Its abstract sets no hour limits. We could not confirm from the full text whether it formally retires the 2016 age-by-age advice (Module 18 has the details).
+Sources: WHO 2019 guideline for under-5s **[A]**; AASM 2016 consensus, endorsed by the AAP **[A]**; WHO 2020 guideline for ages 5-17 **[A]**; IAP 2022 screen guideline **[A]**; nap patterns from Staton 2020 **[A]** (a meta-analysis of observational studies, which the authors rated high for risk of bias and for differences in how napping was measured) and Nemours KidsHealth. Sleep ranges are population ranges, not targets for one child. Note: in February 2026 the AAP published a new policy statement, *Digital Ecosystems, Children, and Adolescents* (Munzer 2026). It moves away from fixed age-by-age limits. It says infants do not learn from screens, although occasional brief, high-quality videos are not harmful. If a family wants a number, it suggests limits that might range from under 1 hour a day for toddlers and preschoolers to 1-2 hours a day or more of entertainment media for school-age children and teens. It keeps two firm rules: no screens in the hour before bed, and no devices in the bedroom. The 2016 AAP limits are the older guidance (Module 18 has the details).
 
 **Other daily numbers**
 
 | Item | Number | Source and strength |
 |---|---|---|
-| Outdoor time (myopia prevention, from about age 6) | In a trial, 40 extra minutes a day outdoors at school cut 3-year myopia onset from 39.5% to 30.4%. Time outdoors of about 120-150 min a day lowered risk by 15-24% | He 2015 RCT **[B]**; He 2022 trial **[B]**; Cochrane 2024: reduces onset, moderate certainty at 2 years **[A]**. All trials were in China and Taiwan with ages 6-9. Treat about 2 h a day, split through the day, as a target, not a precise dose |
+| Outdoor time (myopia prevention, from about age 6) | In a trial, 40 extra minutes a day outdoors at school cut 3-year myopia onset from 39.5% to 30.4%. In a second Shanghai trial, children who spent 120-150 minutes a day outdoors in bright daylight (about 5,000 lux) had a 15-24% lower risk. That figure comes from wearable data within the trial; the randomised comparison itself found an 11-16% lower risk with 40-80 extra minutes a day | He 2015 RCT **[B]**; He 2022 trial **[B]**; Cochrane 2024: reduces onset, moderate certainty at 2 years **[A]**. All trials were in China and Taiwan with ages 6-9. Treat about 2 h a day, split through the day, as a target, not a precise dose |
 | Read-aloud | Daily, from birth. The AAP (2024) says shared reading should start at birth and continue at least through kindergarten | The AAP sets no frequency. In a meta-analysis of book-sharing trials, low doses had minimal effect on language (Dowdall 2020) **[A]**. That is why "daily" is the practical rule |
 | Tooth brushing | Twice a day with fluoride toothpaste from the first tooth. Under 3: a smear the size of a grain of rice. Ages 3-6: pea-sized. An adult supervises | ADA **[A]** |
 | Baby baths | Three baths a week in the first year may be enough. More can dry the skin. Sponge baths until the cord stump falls off | AAP (HealthyChildren) |
@@ -99,8 +99,8 @@ At this age you cannot hold a timetable. Follow a repeating loop instead. Module
 
 | Time (example) | What happens |
 |---|---|
-| Night (roughly 10 p.m. to 6 a.m.) | 2-4 feeds. Keep lights dim and talk to a minimum. Parents split the night into shifts: one sleeps a protected 4-5 h block while the other, a grandparent or a japa helper covers |
-| Morning | Feed, then time near a bright window, 3-5 min of tummy time, a song, then a nap |
+| Night (roughly 10 p.m. to 6 a.m.) | 2-4 feeds. Keep lights dim and talk to a minimum. Parents split the night into shifts: one sleeps a protected 4-5 h block while the other, "a grandparent or a japa helper (a postnatal nanny hired for the first weeks after birth) covers". |
+| Morning | "Feed, burp, diaper change and talk, then 3-5 min of tummy time near a bright window, a song, then a nap." |
 | Midday to afternoon | Loops repeat about every 2-3 h. Add one short walk or some balcony light |
 | Evening | Feed, sponge bath or wipe-down, gentle massage if the baby likes it, dim lights, same song, sleep |
 
@@ -118,7 +118,7 @@ At this age you cannot hold a timetable. Follow a repeating loop instead. Module
 | 11:00 | Nap 2 |
 | 12:30-5:00 | Feed, floor play, a board book, nap 3, feed, singing with a grandparent |
 | 5:30 | Optional short "cat nap" if the baby needs one |
-| 6:30 | Bath (3 times a week is enough) or wipe-down, massage, feed |
+| 6:30 | Bath (3 times a week may be enough, AAP) or wipe-down, massage, feed |. In the 6-9-month and 9-12-month rows, write "bath or wipe-down".
 | 7:00-7:30 | Book, song, into the cot drowsy. Night feeds as needed |
 
 - **Why this order:** Active floor time comes after feeds and before naps, when the baby is most alert. The calm steps sit at the end of the day.
@@ -194,7 +194,7 @@ At this age you cannot hold a timetable. Follow a repeating loop instead. Module
 | 7:30-8:00 | Lights out |
 
 - **Why this order:** The biggest movement block comes before the nap, which helps build sleep pressure. Special time sits in the afternoon, when meltdowns are most likely.
-- **Flex rule:** No screen time for 1-year-olds (WHO; IAP says none under 2). Video calls with grandparents are the usual exception (Module 18). By the second birthday, the WHO target of at least 180 active minutes should be close to the daily pattern.
+- **Flex rule:** No screen time for 1-year-olds (WHO; IAP says none under 2). The AAP treats video calls with grandparents as an exception, though evidence that toddlers learn from them is mixed (Module 18). WHO's target of at least 180 active minutes a day, at any intensity, already applies from the first birthday.
 
 ### 2-3 Years
 
@@ -206,7 +206,7 @@ At this age you cannot hold a timetable. Follow a repeating loop instead. Module
 | 12:30 | Nap or quiet time in bed with books (1-2 h) |
 | 2:30 | Snack, pretend play, helper jobs |
 | 4:00 | Park: climbing, tricycle, chasing games |
-| 6:00 | Screen slot if used: up to 1 h at most, co-viewed, ending by 6:45 |
+| 6:00 | "Screen slot if used: 30-45 min, watched together with an adult, ending by 6:45". |
 | 7:00 | Dinner |
 | 7:30 | Bath, brush, books, bed by 8:15 |
 
@@ -242,7 +242,7 @@ At this age you cannot hold a timetable. Follow a repeating loop instead. Module
 | 7:10 | School bus |
 | 7:45-1:30 | School |
 | 2:15 | Home: lunch, then 20-30 min of down time (quiet, no screens) |
-| 3:15 | Homework, 15-20 min at a fixed spot (you are the consultant, not the contractor, as in Module 12) |
+| 3:15 | 5-7 row: "Reading or a play-based task, 15-20 min, at a fixed spot. India's School Bag Policy 2020 says no homework up to Class II. If the school sends some anyway, keep it short (you are the consultant, not the contractor, as in Module 12)." 7-12 row: "Homework block: 20-30 min for Classes III-V, up to 1 h for VI-VIII". Add the four limits to the homework card, with: "If homework often runs over, talk to the class teacher." Cite https://ncert.nic.in/pdf/Final%20School%20Bag%20Policy%202020.pdf. (you are the consultant, not the contractor, as in Module 12) |
 | 3:45-5:45 | Outdoors: park, cycling, games with other children |
 | 6:00 | Read-aloud or paired reading, 15-20 min |
 | 6:30 | Screen slot if used, ending by 7:15 |
@@ -266,13 +266,13 @@ At this age you cannot hold a timetable. Follow a repeating loop instead. Module
 | 6:30 | Instrument practice, reading, or a hobby |
 | 7:00 | Recreational screens (IAP: under 2 h a day at ages 5-10) |
 | 7:45 | Dinner |
-| 8:15 | Screens down (the screen-down hour starts here), shower, pack bag for tomorrow |
-| 8:40 | Reading in bed, lights out 9:00 (gives 9 h until 6:00, the bottom of the 9-12 h range) |
+| 8:00 | Screens down (the screen-down hour starts here), shower, pack bag for tomorrow |
+| 8:40 | Reading in bed, lights out 9:00. This gives 9 h in bed until 6:00. Time asleep will be less, because falling asleep takes a while, so many children will get less than the 9-12 h they need. For a 7- or 8-year-old, move lights-out to 8:30. |
 
 - **Why this order:** Homework comes before screens. Screens end well before bed.
 - **Flex rule:** The sleep math is tight. Before adding any class, remove something. If dinner in your home cannot move before 8:30, give the child an early plate and keep lights-out fixed.
 
-### 12-18 Years (School Day With Coaching)
+Rename the heading "12-18 Years (School Day With Tuition or Coaching)". Add one line under the sleep-math box: "National guidelines (2024) say coaching centres should not enrol students under 16, and there is no good evidence that early coaching helps (Module 37). If your 12-15-year-old does go to tuition, use this table to protect sleep, meals and movement."
 
 ```
 SLEEP MATH FOR AN EARLY-START TEEN
@@ -293,11 +293,11 @@ SLEEP MATH FOR AN EARLY-START TEEN
 | 5:00-7:30 | Coaching or sport. On coaching days, find 30-60 minutes of movement elsewhere: walk or cycle to coaching, badminton after school, or skipping on the terrace. Aim for an average of 60 active minutes a day, with hard exercise on at least 3 days a week (WHO) |
 | 8:00 | Dinner with the family: the day's one unhurried conversation |
 | 8:30 | Self-study, part 2, with a hard stop |
-| 9:30 | Phone to the family charging point outside the bedroom (Module 14) |
+| 9:00 | Screens off: phone and any study device to the family charging point outside the bedroom (Module 14). The last 30 minutes of study are on paper |
 | 9:30-10:00 | Shower, reading, lights out |
 
 - **Why this order:** The AAP recommends that secondary schools start at 8:30 or later, because teen body clocks shift later (AAP 2014) **[A]**. If your teen's school starts well before that, as many do in India, the family's main defence is the evening end point. Light first thing in the morning helps too.
-- **Flex rule:** On weekends, keep wake time within about 30-60 minutes of the school-day time (Module 16). Pay back sleep debt with an earlier bedtime, not with noon wake-ups. Note that this sample gives exactly 8 hours, the bottom of the range; any evening overrun takes it below.
+- **Flex rule:** On weekends, keep wake time within about 30-60 minutes of the school-day time (Module 16). Pay back sleep debt with an earlier bedtime, not with noon wake-ups. Note that this sample gives 8 hours in bed. Time asleep will be less, because falling asleep takes a while, so most teens on this schedule will get less than the 8-10 h range. If you can, end self-study at 9:00 and move lights-out to 9:30, or drop one coaching evening a week.
 
 ### A Weekend Day (Any Age)
 
@@ -317,32 +317,24 @@ SLEEP MATH FOR AN EARLY-START TEEN
 
 ## Variants for Real Households
 
-Most Indian children are cared for by more than one adult. A routine that only one parent knows is not a routine. Research on care outside the family points one way: the quality of the adult's moment-to-moment interaction matters more than the building or the ratio. In a meta-analysis of 185 studies, interaction quality in childcare was linked to small gains in most child outcomes. Structural features such as ratios and group size were not linked to outcomes on their own (von Suchodoletz 2023) **[A]**. Module 35 covers choosing and working with caregivers. This section is about fitting the routine to them.
+Most Indian children are cared for by more than one adult. A routine that only one parent knows is not a routine. Research on care outside the family points one way: how the adult interacts with the child moment to moment tracks with outcomes, while the building or the ratio on its own does not. In a meta-analysis of 185 studies, most of them correlational and from the US, better interaction quality in childcare was linked to slightly better outcomes in most areas. The effects were small. Structural features such as ratios and group size were not linked to outcomes on their own (von Suchodoletz 2023) **[A]**. Module 35 covers choosing and working with caregivers. This section is about fitting the routine to them.
 
 | Household | What changes | What to protect |
 |---|---|---|
 | **Two working parents, grandparents in charge** | Grandparents run the daytime rows. Parents own the bedtime and weekend rows | Agree on 3 things in writing: screen rules, how naps happen, and "no force-feeding." A 2024 review of 38 studies linked grandparent care to slightly worse child mental health; the effects were trivial to small, the paper drew a published critique, and a UK study found no link (Module 35) **[C]**. The practical lever is agreement between the adults |
-| **Nanny or domestic help** | The helper follows the day's table taped inside a kitchen cupboard | Floor play and talk, with the helper's phone away during care. Brief the helper on the 3 Ts from Module 01 (Tune in, Talk more, Take turns) |
+| **Nanny or domestic help** | Give the helper the day's plan in her language, or as a picture chart. A 1-minute voice note on her phone also works. Walk through it together once (Module 35). | Floor play and talk, with the helper's phone away during care. Brief the helper on the 3 Ts from Module 01 (Tune in, Talk more, Take turns) |
 | **Creche or daycare** | The creche sets the daytime clock. Home owns the morning and evening | Evening connection time and bedtime. In India, workplaces with 50 or more employees must provide a creche, and mothers may visit 4 times a day (first set by the Maternity Benefit (Amendment) Act 2017; carried over by the Code on Social Security, 2020, in force since November 2025; see Module 35). Use the visits for feeds if you are breastfeeding |
 | **Single parent** | Fewer adults means fewer steps. Cut the routine down to what you can do on your worst day | A 3-step bedtime done every night beats a 7-step one done some nights. The dose-response finding is about frequency, not length |
 | **Tuition or coaching evenings** | Dinner and homework get pushed later | Lights-out. If the numbers do not add up, the coaching slot changes, not sleep |
 
-**Caregiver handoff card** (print one per shift, or use a shared phone note)
+**If you get home at 8:** do not keep a baby up until 10 to see you. If the school bus allows, shift the whole day an hour later: later wake, later bedtime, same total sleep. Or make the morning your connection time (bath or breakfast together) and do bedtime at weekends. What matters is the sleep total and the same steps, not which adult does them.
+
+**Caregiver handoff card:** use the handoff card and household rulebook in [Module 35](../35-traditions-and-caregiving-team/README.md), and add three routine lines:
 
 ```
-┌──────────────────────── HANDOFF CARD ────────────────────────┐
-│ Date: ______   From: ______   To: ______   Time: ______      │
-│ Slept: last night ____ h   naps today: ____ (start/end)      │
-│ Ate: breakfast ____  lunch ____  milk feeds ____             │
-│ Diapers / toilet: ______   Medicines given (time): ______    │
-│ Mood today: calm / fussy / upset   New (skill, word, worry): _ │
-│ Outdoors today: ____ min    Screens today: ____ min          │
-│ Still to do: nap ☐  outdoor ☐  bath ☐  book ☐                │
-│ Tonight's bedtime target: ______                             │
-│ House rules (same for everyone): no screens at meals; no     │
-│ screens in the hour before bed; no forcing food; calm voice  │
-│ Emergency: pediatrician ______  parent ______  112           │
-└──────────────────────────────────────────────────────────────┘
+Outdoors today: ____ min
+Still to do:    nap ☐  outdoor ☐  bath ☐  book ☐
+Tonight's lights-out: ______
 ```
 
 ---
@@ -402,7 +394,7 @@ The weekly rhythm is built from convention and practical sense. It has not been 
 
 ## Chores by Age
 
-Your 3-year-old wants to "help" wash the dal. It takes three times as long and water goes everywhere. That is the moment to say yes. A child who is turned away at 3 is hard to recruit at 10.
+Your 3-year-old wants to "help" wash the dal. It takes three times as long and water goes everywhere. That is the moment to say yes. Many parents find that a child who is turned away at 3 is harder to recruit at 10. That comes from experience, not from a study.
 
 | Age | Chores that fit | What it builds |
 |---|---|---|
@@ -412,7 +404,7 @@ Your 3-year-old wants to "help" wash the dal. It takes three times as long and w
 | 9-12 | Simple cooking (sandwiches, eggs, poha with supervision), wash dishes, run their own laundry load, care for a younger sibling for short periods | Real competence, contribution |
 | 13-18 | Plan and cook one family meal a week, run errands, manage a small budget, book their own appointments | Adult life skills (Module 14's handover) |
 
-**The honest evidence:** No strong study shows that chores cause adult success. The famous "chores at 3-4 predict success in the mid-20s" claim could not be verified as peer-reviewed **[D]**. One Taiwanese survey of 755 parents studied preschoolers' housework, but it measured health and attitudes at one point in time, not later success **[C]**. The best related finding is Selman 2026: routines that included chores and stayed steady through the preschool years went with better behaviour at age 5 **[C]**. Chores earn their place because they build skills, add structure to the day, and make the child a contributor. Those are reasons enough.
+**The honest evidence:** No strong study shows that chores cause adult success. The famous "chores at 3-4 predict success in the mid-20s" claim could not be verified as peer-reviewed **[D]**. One Taiwanese survey of 755 parents studied preschoolers' housework, but it measured health and attitudes at one point in time, not later success **[C]**. The best related finding is Selman 2026. Children whose overall routines (chores, play, meals, bedtime and outings, counted together) stayed high through the preschool years had fewer behaviour problems at age 5 than children whose routines dropped away **[C]**. Chores were one part of a combined score, so the study cannot say whether chores themselves mattered. Chores earn their place because they build skills, add structure to the day, and make the child a contributor. Those are reasons enough.
 
 ---
 
@@ -436,19 +428,20 @@ ROUTINE BROKEN?  →  PROTECT these 3          →  DROP these freely
 | **Travel** | The bedtime order (pack the same book and song), the wake time | Nap location, meal timing | Home by early evening on the last day, and a normal bedtime that night |
 | **Festivals and weddings** (Diwali, a baraat at midnight) | Naps on the day (a stroller or car nap counts), a known comfort object | One late night | Next day: normal wake time, early bedtime. Don't let a child sleep until noon to "recover" |
 | **Time-zone travel** | Daylight exposure in the new zone's morning, meals at the new zone's times | Perfect nights for the first few days | Shift bedtime toward local time from day 1. Do not give melatonin unless your pediatrician advises it. An international consensus (IPSA 2025) exists because the data on melatonin in healthy children are thin |
-| **New sibling** | The older child's bedtime routine with the same parent, one-on-one time | New demands such as toilet training or a new bed in the same month | Keep the older child's day as unchanged as possible. Some regression, such as baby talk or night wakings, is common and passes (Module 19) |
+| **New sibling** | The older child's bedtime routine with the same parent, one-on-one time | New demands such as toilet training or a new bed in the same month | Keep the older child's day as unchanged as possible. Protect the older child's one-on-one time (Module 19). If they act younger for a while, respond calmly. Ask your pediatrician if it lasts for weeks or they lose skills they had. |
 | **"Sleep regressions"** | The same bedtime order, the same response to night waking | Worry about the label. "Sleep regression" is a parenting-forum term, not a clinical diagnosis | Check the boring causes first: illness, teething, a new skill, a nap that is due to be dropped. See the pediatrician if waking goes on for weeks or comes with snoring or poor growth |
 | **Exam season** | Sleep (memory is consolidated during sleep), breakfast, a daily walk | Sport matches, extra classes, chores | Plan revision around a fixed lights-out. For a teen in distress, Tele-MANAS (14416, free, many languages) is India's national mental-health helpline. Modules 14 and 37 cover teen mental health |
+| **Bad air, heat wave, or heavy rain** | The movement minutes | Where they happen | Check the AQI before the outdoor block (Module 33 gives the levels). On bad-air days, move active play indoors: cushion obstacle course, freeze dance, animal walks. In summer heat, go out before 9 a.m. or after 5:30 p.m. |
 
 ---
 
 ## The Elite Edge: What Sleep Consultants, Night Nannies and Coaches Actually Sell
 
-**Sleep consultants** mainly sell three things. First, a fixed wake time, a nap schedule and a bedtime routine: the tables above. Second, a plan for night waking that the parents stick to. Third, daily accountability (you send a log, they reply). The underlying method is behavioural sleep training. Its best long-term study is reassuring on both sides. An Australian trial with 326 children found no harm at the 5-year follow-up: no differences in emotional or behavioural problems, attachment or stress hormones. It also found no lasting benefit on most measures (Price 2012) **[B]**. *Free version:* pick your age table, keep a 7-day sleep log on the handoff card, and change one thing at a time. Give a new bedtime routine 3 nights before you judge how fast your child falls asleep. Give a night-waking plan the full 2 weeks: in the same trial, night wakings kept improving slowly for 2 weeks (Module 16).
+**Sleep consultants** mainly sell three things. First, a fixed wake time, a nap schedule and a bedtime routine: the tables above. Second, a plan for night waking that the parents stick to. Third, daily accountability (you send a log, they reply). The underlying method is behavioural sleep training. Its best long-term study is reassuring on both sides. An Australian trial followed 326 babies who had sleep problems at 7 months. Nurses taught their parents behavioural sleep techniques at 8-10 months. At age 6, with 69% of families followed up, the trial found no evidence of harm: no differences in emotional or behavioural problems, the parent-child relationship, or stress. It also found no lasting difference on any outcome, including sleep (Price 2012) **[B]**. It was one trial, and not every method sold today was tested. *Free version:* pick your age table, keep a 7-day sleep log on the handoff card, and change one thing at a time. Give a new bedtime routine 3 nights before you judge how fast your child falls asleep. Give a night-waking plan the full 2 weeks: in the same trial, night wakings kept improving slowly for 2 weeks (Module 16).
 
 **Night nannies** sell protected sleep for the parents. *Free version:* split the night into shifts. One parent (or a grandparent) covers 10 p.m. to 2 a.m. and the other covers 2 a.m. to 6 a.m. A breastfeeding mother is woken only for feeds, or expressed milk is used. Each adult gets one unbroken block of about 4 hours.
 
-**Executive-function coaches** (Module 28) sell outside structure: planners, checklists, time-boxed work and a weekly review. *Free version:* the morning launch card, the homework block card and the Sunday family meeting. That is the whole method, except for the fee.
+**Executive-function coaches** (Module 28) sell outside structure: planners, checklists, time-boxed work and a weekly review. *Free version:* the morning launch card, the homework block card and the Sunday family meeting. That covers the core of what they sell for most children, without the fee. A child with ADHD may need more (Module 36).
 
 What none of them can sell: the same routine carried out by every adult in the child's life. The handoff card does that.
 
@@ -456,7 +449,7 @@ What none of them can sell: the same routine carried out by every adult in the c
 
 ## Mistakes Even Loving Parents Make
 
-1. **Building the day around the adults' dinner time.** A 9:30 p.m. family dinner is a good tradition, but it can quietly cost a 6-year-old an hour of sleep every night. Feed the child early and keep them at the table for the talk.
+1. **Building the day around the adults' dinner time.** A 9:30 p.m. family dinner is a good tradition, but it can quietly cut into a 6-year-old's sleep every night. Feed the child early and keep them at the table for the talk.
 2. **Starting strong, then letting it slide.** In the Selman data, children whose routines stayed steady and full through the preschool years did better than children whose routines fell away. The study did not compare a dropped routine with one that was modest all along. So choose a routine you can keep on a bad day, and keep it.
 3. **Judging a new routine too soon or too late.** Most of the settling benefit shows up within 3 nights. Quitting on night 2 is too soon. Waiting a month for a routine that has not helped at all is too long.
 4. **Treating wake-window charts as science.** If your baby does not fit the chart, the chart is wrong. Trust the yawns and eye-rubs.
@@ -482,7 +475,7 @@ What none of them can sell: the same routine carried out by every adult in the c
 - AAP (2014). School start times for adolescents. *Pediatrics* 134(3):642-649. https://pubmed.ncbi.nlm.nih.gov/25156998/ **[A]**
 - Cooper H, Robinson JC, Patall EA (2006). Does homework improve academic achievement? *Rev Educ Res* 76(1):1-62. https://eric.ed.gov/?id=EJ751143 **[B]** Liu W et al. (2026). Physical activity and executive function in preschool children: meta-analysis of RCTs. *Front Psychol*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1882118/full **[A]** Brushe ME et al. (2024). Screen time and parent-child talk, ages 1-3. *JAMA Pediatr*. https://jamanetwork.com/journals/jamapediatrics/fullarticle/2815514 **[C]**
 - von Suchodoletz A et al. (2023). ECEC quality and child outcomes: meta-analysis. *PLOS ONE*. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285985 **[A]**. Wang et al. (2024). Grandparental care and child mental health. *JCPP*. https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13943 **[C]**
-- Price AMH et al. (2012). Five-year follow-up of behavioral infant sleep intervention. *Pediatrics* 130(4):643-651. https://publications.aap.org/pediatrics/article-abstract/130/4/643/30241 **[B]** Owens J et al., IPSA Melatonin Task Force (2025). Melatonin use in typically developing children. *Sleep Med* 128:127-129. https://doi.org/10.1016/j.sleep.2025.02.002 **[B]**
+- Price AMH et al. (2012). Five-year follow-up of behavioral infant sleep intervention. *Pediatrics* 130(4):643-651. https://publications.aap.org/pediatrics/article-abstract/130/4/643/30241 **[B]** Owens J et al., IPSA Melatonin Task Force (2025). Melatonin use in typically developing children. *Sleep Med* 128:127-129. https://doi.org/10.1016/j.sleep.2025.02.002 (expert consensus; the authors describe the underlying data as sparse) **[D]**
 - Chores: the Rossmann claim could not be verified as peer-reviewed **[D]**. Lee CF, Tang SM (2022). Young children's housework participation in Taiwan. *IJERPH* 19(23):15448. https://doi.org/10.3390/ijerph192315448 **[C]** Wake windows: no peer-reviewed validation of age-specific ranges was found in PubMed or Europe PMC (searched 2026-09-24) **[D]**.
 - Maternity Benefit (Amendment) Act 2017, section 11A (creche for establishments with 50 or more employees; 4 visits a day). https://prsindia.org/files/bills_acts/acts_parliament/2017/the-maternity-benefit-(amendment)-act,-2017.pdf Tele-MANAS national mental-health helpline, 14416. https://telemanas.mohfw.gov.in/
 
@@ -490,7 +483,7 @@ What none of them can sell: the same routine carried out by every adult in the c
 
 ## 5-Minute Action Plan
 
-Find your child's age table above and copy only three rows onto a sticky note: **wake time, the outdoor block, and lights-out**. Stick it where every caregiver will see it. Tonight, do the bedtime card in the same order as always, and do it again for the next 3 nights. On night 4, look at how long it took your child to fall asleep, compared with last week.
+Find your child's age table above and copy only three rows onto a sticky note: **wake time, the outdoor block, and lights-out**. Stick it where every caregiver will see it. Tonight, do the bedtime card in the same order as always, and do it again for the next 3 nights. Tonight, write down two times: when you turn off the light and when your child falls asleep. Do the bedtime card in the same order for the next 3 nights and write down the same two times. On night 4, compare with night 1.
 
 ---
 

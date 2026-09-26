@@ -238,12 +238,14 @@ Growth spurts make intake wildly variable. Regular meals matter more than any si
 | | |
 |---|---|
 | Energy | Roughly 2,000–3,200 kcal a day; varies enormously by sex, age, and activity |
-| Iron (girls) | 15mg/day once periods start — iron-deficiency anaemia is the most common nutritional deficiency in adolescent girls |
-| Iron (boys) | 11mg/day; growing muscle raises demand |
-| Calcium | 1,300mg/day — much of peak bone mass is set before 20 |
+| Iron (girls) | 15mg/day is the US figure for ages 14–18 (set by age, not by the first period). India's ICMR-NIN (2020) sets 28–32 mg/day for girls aged 10–18, partly because iron from cereal-and-dal diets absorbs less well. NFHS-5 found anaemia in 59.1% of Indian girls aged 15–19 |
+| Iron (boys) | 11mg/day (US figure, ages 14–18); India's ICMR-NIN (2020) sets 22–26 mg/day for boys aged 13–18; growing muscle raises demand |
+| Calcium | 1,300mg/day (US figure); India's ICMR-NIN (2020) sets 1,000 mg at 13–15 and 1,050 mg at 16–18 — much of peak bone mass is set before 20 |
 | Vitamin D | 600 IU a day |
 | Protein | ~34g/day at 9–13, rising to ~46g (girls) / ~52g (boys) from 14 |
 | Zinc | 9–11mg/day |
+
+These are mostly US values. Module 15 explains India's ICMR-NIN values and when to use them; ask your pediatrician about checking haemoglobin once periods start.
 
 ### The three habits with the biggest effect
 

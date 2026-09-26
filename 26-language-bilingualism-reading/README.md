@@ -2,6 +2,8 @@
 
 > Time: 3 hours | Difficulty: Beginner | For: all families — especially multilingual households
 
+> **How this fits with Module 22:** [Module 22](../22-building-iq/README.md) introduces conversational turns and dialogic reading as everyday habits. This module goes deeper: bilingual homes, the reading staircase from love of books to comprehension, and the speech therapist's stimulation toolkit.
+
 ---
 
 ## Key Takeaways

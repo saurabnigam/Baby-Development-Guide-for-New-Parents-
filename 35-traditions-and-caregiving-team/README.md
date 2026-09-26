@@ -64,7 +64,7 @@ Grades: **[A]** strong (major guideline, many trials or a meta-analysis), **[B]*
 |---|---|---|---|
 | **Tight swaddling** | In 561 children with hip dysplasia (DDH, a loose or badly formed hip joint), swaddling for more than a month went with higher odds of both hips being affected (OR 1.56). The traditional tight wrap forces the legs straight and together | C | Wrap snug at the chest and arms only. The legs should bend up and out, like a frog (International Hip Dysplasia Institute). Stop swaddling at the first signs of rolling (Module 04) |
 | **Cradle or jhula sleep** | The AAP 2022 safe-sleep policy says babies should sleep on their back on a firm, flat surface with no tilt and no soft bedding. A cloth or saree jhula sags into a curve | A | Rock the baby to sleep in the jhula. Then move them to a flat cot or mattress. Do not leave the baby to sleep on in the cloth cradle, even with an adult nearby. Keep rai (mustard-seed) pillows and head-shaping pillows out of the sleep space |
-| **Black threads, nazar beads, and necklaces** | In 2018 the US FDA warned against teething necklaces and bracelets after reports that included an 18-month-old strangled by an amber necklace during a nap and a 7-month-old who choked on beads from a bracelet. In a lab test, 7 of 15 amber necklaces did not break open under 15 pounds of force | C | Nothing around the neck, ever. No beads a baby can bite off. If a plain wrist or ankle thread matters to the family, keep it loose (one finger fits under it), check it daily, and take it off for sleep. Or move the charm to the cot or the door |
+| **Black threads, nazar beads, and necklaces** | In 2018 the US FDA warned against teething necklaces and bracelets after reports that included an 18-month-old strangled by an amber necklace during a nap and a 7-month-old who choked on beads from a bracelet. In a lab test, 7 of 15 amber necklaces did not break open under 15 pounds of force | C | Nothing around the neck, ever. No beads a baby can bite off. Safest: move the charm to the cot or the doorframe. If a plain wrist or ankle thread matters to the family, keep it loose (one finger fits under it), check it daily, and take it off for sleep |
 
 ### Stop
 
@@ -140,8 +140,8 @@ FOOD
   • Screens off at meals. Water with meals; milk between meals
 
 SCREENS
-  • Under 18 months: none except video calls with family
-  • 18–24 months: short, good shows watched WITH an adult
+  • Under 18 months: none except video calls with family (India's IAP: none under 2)
+  • 18–24 months: short, good shows watched WITH an adult, if at all
   • Age 2+: ____ min/day, only: __________ (Module 18)
 
 SLEEP
@@ -328,7 +328,7 @@ The real product in every case is a **consistent, responsive adult who follows a
 - **Swaddling and hips:** retrospective DDH cohort (OR 1.56) — https://pmc.ncbi.nlm.nih.gov/articles/PMC10813854/ · International Hip Dysplasia Institute — https://hipdysplasia.org/infant-child/hip-healthy-swaddling/
 - **Safe sleep:** AAP 2022 policy — https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022
 - **Teething jewellery:** FDA safety warning, Dec 2018 (reported via AAP News) — https://publications.aap.org/aapnews/news/9241/FDA-Teething-necklaces-can-lead-to-choking · Soudek & McLaughlin, *Paediatr Child Health* 2018 — https://pubmed.ncbi.nlm.nih.gov/29686494/
-- **Walkers:** injury, ban, and delay figures (Burrows & Griffiths 2002; Garrett et al. 2002; Canada 2004 ban), summarised at https://en.wikipedia.org/wiki/Baby_walker (secondary source; the ban and delay figures are also reported in primary papers)
+- **Walkers:** walking delay of about 3 days per 24 hours of use from Garrett, McElroy & Staines, *BMJ* 2002 (cross-sectional study); injury trends from US emergency-department surveillance; Canada's 2004 ban under its Hazardous Products Act (Health Canada)
 - **Cow's milk:** CDC — https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html · Indian early salt/sugar/milk survey (n = 103) — https://pmc.ncbi.nlm.nih.gov/articles/PMC11624033/
 - **Mother's diet:** Greer et al., AAP clinical report, *Pediatrics* 2019 — https://pubmed.ncbi.nlm.nih.gov/30886111/ · Olajide et al., *PLOS ONE* 2024 (review of 17 studies) — https://doi.org/10.1371/journal.pone.0303185 · Mittal et al. 2017 (B12 in breastfed infants) — https://pubmed.ncbi.nlm.nih.gov/28513265/
 - **Jaundice:** AAP 2022 guideline — https://pubmed.ncbi.nlm.nih.gov/35927462/ · AAFP summary (visual estimates, G6PD, timing of the test) — https://www.aafp.org/afp/2023/0600/practice-guidelines-hyperbilirubinemia-newborns · Slusher et al., *NEJM* 2015 (filtered sunlight, n = 447) — https://pubmed.ncbi.nlm.nih.gov/26376136/

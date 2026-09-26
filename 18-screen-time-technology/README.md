@@ -350,7 +350,7 @@ Every link checked on 2026-08-06.
 - **AAP** — [Family Media Plan](https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx) · [Media and Children](https://www.aap.org/en/patient-care/media-and-children/)
 - **Haidt, J. (2024).** *The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness.* Penguin Press.
 - **Gray, P. (2013).** *Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life.* Basic Books.
-- *For in-depth analysis of cognitive development and screen literature, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#category-5-cognition-play-free-range-parenting--screen-science).*
+- *For in-depth analysis of cognitive development and screen literature, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#master-comparison-matrix-25-bestselling-books).*
 
 ---
 

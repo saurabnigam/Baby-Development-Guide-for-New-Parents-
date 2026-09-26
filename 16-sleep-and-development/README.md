@@ -303,7 +303,7 @@ The old evening failed because of a cascade invisible at bedtime: a 4:30 p.m. na
 ## Tips & Tricks: Sleep
 
 1. **Guard wake time, not bedtime.** One consistent wake time (weekends within ~30–60 minutes) does more for the body clock than any bedtime rule. It's also the only lever fully under parental control.
-2. **In infancy, watch wake windows, not the clock.** Babies have age-typical awake-tolerance spans; the yawn-eye-rub window is short, and missing it buys you a "second wind" baby. Track their pattern for three days and the schedule writes itself.
+2. **In infancy, watch sleepy cues, not the clock.** The yawn-eye-rub window is short, and missing it buys you a "second wind" baby. Popular "wake window" charts are a rule of thumb, not research (Module 32). Track your baby's own pattern for three days and the schedule writes itself.
 3. **Practice "drowsy but awake" at zero stakes.** Once a night, put the baby down drowsy rather than asleep. If it fails, rescue and try tomorrow — no method, no crying plan, just reps. Many babies quietly learn self-settling from this alone.
 4. **Use the bedtime pass for curtain calls.** For the preschooler with infinite post-bedtime requests: one physical "pass" card, exchangeable for one trip out of bed or one visit — then done. In studies (Friman), the pass cut curtain calls dramatically; children often fall asleep holding it. Structure beats willpower.
 5. **Be reliably boring after lights out.** Every post-bedtime interaction: flat voice, dim light, same six words ("It's sleep time. I love you."). A parent who is sometimes fun after lights-out is running a lottery, and children buy lottery tickets indefinitely.
@@ -327,7 +327,7 @@ The old evening failed because of a cascade invisible at bedtime: a 4:30 p.m. na
 
 ## Mistakes Even Loving Parents Make
 
-1. **Treating the routine as broken because a regression hit.** Sleep "regressions" (around 4 months, 8–10 months, 18 months, 2 years) are development surfacing at night. The move is to hold the routine steady *through* the storm — families who improvise new habits mid-regression keep the habits long after the regression leaves.
+1. **Treating the routine as broken because a regression hit.** Sleep "regressions" are rough patches parents often notice around new skills, illness, or nap changes. The term is not a diagnosis, and the popular age lists are not based on research (Module 32). The move is to hold the routine steady *through* the storm — families who improvise new habits mid-regression keep the habits long after the regression leaves.
 2. **Letting naps float.** "He'll sleep when he's tired" works for almost no young child. Late naps and skipped naps both tax the night. The nap schedule is night sleep's foundation, not its competitor.
 3. **Using screens as wind-down.** The relaxed-looking child watching a tablet is aroused (light + content), not down-regulating. The last hour belongs to bath, books, and boredom.
 4. **Responding differently every night.** Ignore, then rock, then bring to bed, then back — each variation teaches "escalate longer." Pick any response you can sustain and make it the *only* response. Consistency beats correctness of method.
@@ -367,7 +367,7 @@ Every link checked on 2026-08-06.
 - Ferber, R. (2006). *Solve Your Child's Sleep Problems: New, Revised, and Expanded Edition.* Simon & Schuster.
 - Weissbluth, M. (2021). *Healthy Sleep Habits, Happy Child.* 5th ed. Ballantine Books.
 - Oster, E. (2019). *Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool.* Penguin Press.
-- *For detailed book profiles and scientific fact-checks, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#category-6-sleep-science--bedtime-challenges).*
+- *For detailed book profiles and scientific fact-checks, see the [Master Literature Correlation Guide](../parent-toolkit/popular-books-and-literature-correlation.md#master-comparison-matrix-25-bestselling-books).*
 
 ---
 

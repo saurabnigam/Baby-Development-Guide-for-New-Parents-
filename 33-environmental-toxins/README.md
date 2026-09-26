@@ -7,8 +7,9 @@
 ## Key Takeaways
 
 - The honest frame for a "high-potential" child: first remove what holds the brain back, then enrich. Toxins are one of the few brakes on IQ that parents can find and release. No toxin-free home makes a child "super intelligent"; a lead-free home simply stops points being lost.
-- **Lead comes first.** No safe blood lead level exists. India carries the world's largest childhood lead burden. The main home sources are ones families don't think of as risks: kajal or surma on the baby, loose bright-yellow turmeric, some ayurvedic products, and some cookware.
-- **Air comes second.** Fine-particle pollution (PM2.5, specks small enough to pass from the lungs into the blood) is linked to lower child IQ in observational studies. A HEPA purifier in the room where your child sleeps, and cutting indoor smoke (mosquito coils, agarbatti), are the fixes with the best return.
+- **Lead comes first.** No safe blood lead level exists. By modelled estimates, India carries the world's largest childhood lead burden. The main home sources are ones families don't think of as risks: kajal or surma on the baby, loose bright-yellow turmeric, some ayurvedic products, and some cookware.
+- **Tobacco smoke is next.** No smoking in the home or car, ever. Smoke on clothes and hands still reaches a baby, and quitting is the real fix (details below).
+- **Then air.** Fine-particle pollution (PM2.5, specks small enough to pass from the lungs into the blood) is linked to lower child IQ in observational studies. A HEPA purifier in the room where your child sleeps, and cutting indoor smoke (mosquito coils, agarbatti), are the fixes with the best return.
 - **Water and food are regional.** Arsenic and fluoride matter a lot if you drink groundwater in an affected district, and barely matter if you don't. Cooking rice the right way cuts arsenic by more than half.
 - **Plastics, pesticides and microplastics are real but smaller.** A few free kitchen habits cover most of it. Do not let them crowd out the big three.
 - Every medical decision here, especially blood lead testing and what to do about a result, goes through your pediatrician.
@@ -30,7 +31,7 @@ The family is most worried about the Delhi air and the water. The evidence ranks
 ```
 What to fix first (Ananya's home)
 
-  kajal on the eyes ──► STOP TODAY       lead goes straight onto skin and into the mouth;
+  kajal on the eyes ──► STOP TODAY       some kajal and most surma contain lead; you can't tell by looking;
                                           no safe level; free to fix
   loose turmeric ─────► SWITCH THIS WEEK lead chromate adulteration found in Indian samples;
                                           costs a few rupees more for a sealed brand
@@ -38,7 +39,7 @@ What to fix first (Ananya's home)
                                           bed nets and window screens replace the coil
   Delhi AQI 400 ──────► PLAN AROUND IT   purifier in the sleeping room, indoor play,
                                           shift outings to the cleaner hours
-  RO water ───────────► ALREADY DONE     RO removes arsenic and fluoride; nothing to add
+  RO water ───────────► ALREADY DONE     RO removes most arsenic and fluoride if the membrane is changed on schedule; test after the RO once (judgment)
                                           unless the source is an untested borewell
 ```
 
@@ -56,10 +57,10 @@ Harm ranks how strong and how large the brain evidence is. Fixability ranks how 
 | 2 | **Tobacco smoke** (smoking in pregnancy, secondhand smoke) | Strong and consistent **[B]** | Very: smoke outside, or quit | Any home where someone smokes |
 | 3 | **Indoor smoke** (mosquito coils, agarbatti, dhoop, chulha) | Large particle loads measured; child brain outcomes not studied directly **[B/C]** | Very: swap products, ventilate | Most Indian homes |
 | 4 | **Outdoor PM2.5** | Observational, moderate, consistent **[B]** | Partly: purifier, timing, sealing | North Indian winters most; all cities some days |
-| 5 | **Groundwater arsenic or fluoride** | Fluoride above 1.5 mg/L: moderate confidence **[A]**; arsenic: modelled risk **[C]** | Very, once tested: RO or a safe source | Only borewell/groundwater users in affected districts |
+| 5 | **Groundwater arsenic or fluoride** | Fluoride above 1.5 mg/L: moderate confidence (NTP review), mostly cross-sectional studies **[B]**; arsenic: modelled risk **[C]** | Very, once tested: RO or a safe source | Only borewell/groundwater users in affected districts |
 | 6 | **Arsenic in rice** | Known toxicant; child IQ effect from rice not measured **[B]** for the cooking fix | Very: change the cooking method | Rice-heavy diets, rice first foods |
 | 7 | **Mercury in fish** | Well established for high-mercury species | Very: choose small fish | Fish-eating families |
-| 8 | **Noise** | Moderate, confounded by poverty **[B]** | Partly | Street-facing flats, loud schools |
+| 8 | **Noise** | Consistent direction, mostly cross-sectional, confounded by poverty **[C]** | Partly | Street-facing flats, loud schools |
 | 9 | **Pesticides, BPA, phthalates** | Small effects, low-to-moderate certainty **[C]** | Very: a few kitchen habits | Everyone, lightly |
 | 10 | **Microplastics** | No child brain evidence yet **[D]** | Mostly covered by the plastics habits | Everyone; do not panic |
 
@@ -84,9 +85,10 @@ Read the table top to bottom. If you only have one free Saturday, spend it on ra
 
 | Source | What the evidence shows | What to do |
 |--------|------------------------|------------|
-| **Kajal, surma, kohl** on babies' eyes or skin | US testing of 220 cultural products found surma and kohl far higher in lead than kajal, but kajal is not lead-free; these products are used on newborns (AAP 2024) **[A]**. One surma sample tested at 390,000 ppm lead; a mother and 4 children who used it had blood lead of 3–30 µg/dL (CDC MMWR 2024). In Bihar, eyeliner use was linked to 2.81 times the odds of a child having blood lead of 5 or more (Bihar study 2024) **[C]**. | Stop applying it to the baby. Keep the custom off the skin: hang a nazar charm on the outside of the cot, out of reach (Module 35). See Module 35 for talking with grandparents. |
+| **Kajal, surma, kohl** on babies' eyes or skin | New York City health department testing of 220 eye cosmetics and cultural powders found surma and kohl far higher in lead than kajal, but kajal is not lead-free; these products are used on children as young as newborns (Hore & Sedlar 2024, *Pediatrics*) **[C]**, product survey. One surma sample tested at 390,000 ppm lead; a mother and 4 children who used it had blood lead of 3–30 µg/dL (CDC MMWR 2024). In Bihar, eyeliner use was linked to 2.81 times the odds of a child having blood lead of 5 or more (Bihar study 2024) **[C]**. | Stop applying it to the baby. Keep the custom off the skin: hang a nazar charm on the outside of the cot, out of reach (Module 35). See Module 35 for talking with grandparents. |
+| **Skin-lightening (\"fairness\") creams** | In the same Bihar study, their use was linked to 5.11 times the odds of a child's blood lead being 5 µg/dL or more; the range is wide (1.6 to 16), so the exact size is uncertain **[C]** | Don't use them on children, and avoid them in pregnancy |
 | **Sindoor, bindi powders** | Named as an Indian lead source by lead researchers (Pure Earth); lab data on Indian brands could not be verified for this book. | Keep it off children and away from little hands. |
-| **Loose turmeric and other spices** | Lead chromate is added to make turmeric look brighter. Of 356 South Asian samples, 14% had detectable lead, and some from Patna exceeded 1,000 µg/g (Forsyth et al. 2024) **[B]**. In Bangladesh, enforcement cut market adulteration from 47% to 0% in two years (Forsyth et al. 2023). A 2023 US outbreak of lead in cinnamon apple pouches reached about 500 cases; toddlers averaged 11.7 µg/dL (CDC MMWR 2024) **[A]**. | Buy sealed, branded turmeric with an FSSAI licence number rather than loose bazaar powder. This lowers the risk but does not guarantee lead-free spice: the worst samples came from bazaars, but no study has tested Indian brands as a group (judgment). Do not assume grinding dried roots at home is safer; the lead chromate is dusted onto the dried roots during polishing (Forsyth et al. 2019). Unusually bright, glossy yellow roots or powder are the warning sign. |
+| **Loose turmeric and other spices** | Lead chromate is added to make turmeric look brighter. Of 356 South Asian samples, 14% had detectable lead, and some from Patna exceeded 1,000 µg/g (Forsyth et al. 2024) **[B]**. In Bangladesh, enforcement cut market adulteration from 47% to 0% in two years (Forsyth et al. 2023). A 2023 US outbreak of lead in cinnamon apple pouches reached about 500 reported cases. Among 22 North Carolina toddlers studied in detail, the average first blood lead was 11.7 µg/dL (CDC MMWR 2024) **[A]**. | Buy sealed, branded turmeric with an FSSAI licence number rather than loose bazaar powder. This lowers the risk but does not guarantee lead-free spice: the worst samples came from bazaars, but no study has tested Indian brands as a group (judgment). Do not assume grinding dried roots at home is safer; the lead chromate is dusted onto the dried roots during polishing (Forsyth et al. 2019). Unusually bright, glossy yellow roots or powder are the warning sign. |
 | **Some ayurvedic and traditional medicines** | 20.7% of ayurvedic medicines bought online contained detectable lead, mercury or arsenic; rasashastra (intentionally metal-containing) products were worst, 40.6% vs 17.1% (Saper et al. 2008) **[C]**. Poisoning cases are still reported (CMAJ 2023) **[D]**. | Tell your pediatrician everything the child takes (Module 30). Avoid rasashastra (bhasma) products for children and in pregnancy. |
 | **Cookware** | Some aluminium pots made from scrap, "hindalium" pans and brass pots leached lead far above child safety limits in lab tests; an Indian hindalium appam pan exceeded the limit by 1,400-fold (Fellows et al. 2022, 2024) **[C]**. The US FDA warned in August 2025 against some imported aluminium, brass and hindalium cookware. | Cook the baby's food in stainless steel. Do not store acidic food (tomato, tamarind, lemon) in old aluminium, brass or glazed clay. |
 | **Old paint** | Peeling paint and its dust are a classic source. | Wet-mop, keep the child away during renovation, and never dry-sand old paint. |
@@ -97,6 +99,7 @@ Read the table top to bottom. If you only have one free Saturday, spend it on ra
 Ask your pediatrician about a blood lead test if any of these apply. This book found no routine child lead screening in India, so the question usually has to come from you.
 
 - [ ] Kajal, surma or kohl has been used on the child, or by the mother in pregnancy
+- [ ] Anyone in the home uses skin-lightening creams, or the child's food is cooked in aluminium, brass, or hindalium pots
 - [ ] The family uses loose, unbranded spices, especially bright turmeric
 - [ ] The child has taken ayurvedic, siddha or other traditional remedies, especially bhasmas
 - [ ] You live near battery recycling, a smelter, or a metal or paint workshop, or a household member works in one
@@ -113,9 +116,9 @@ The CDC's guidance by level, simplified. Your pediatrician will decide the actua
 | Blood lead (µg/dL) | What CDC guidance says happens |
 |--------------------|-------------------------------|
 | Below 3.5 | Still remove any source you know of. No level is "safe." |
-| 3.5 to 19 | Find the source (home history, home check), test for iron deficiency, focus the diet on iron and calcium, check milestones, and retest in 1–3 months |
+| 3.5 to 19 | Confirm with a venous (arm) blood test, within 3 months at 3.5–9 and within 1 month at 10–19; a finger-prick can read falsely high if lead is on the skin. Then find the source (home history, home check), test for iron deficiency, focus the diet on iron and calcium, check milestones, and retest in 1–3 months |
 | 20 to 44 | Full examination; specialist advice; sometimes an X-ray to look for swallowed paint chips |
-| 45 or more | Urgent. Hospital care if the child has symptoms; chelation (medicine that pulls lead out) is a specialist decision |
+| 45 or more | Urgent: confirm with a venous test within 48 hours. Hospital admission if the child has symptoms, or if the home is not lead-safe or the source is still unknown; chelation (medicine that pulls lead out) is a specialist decision |
 
 ```
 Suspect lead ──► pediatrician orders blood test ──► result
@@ -144,7 +147,7 @@ The single most important step is removing the source. Lead in the body falls sl
 
 - **The IQ link.** A 2024 meta-analysis of 6 studies (4,860 children, mean age at testing about 9) found each extra 1 µg/m³ of long-term PM2.5 was associated with a 0.27-point lower full-scale IQ (Alter et al. 2024) **[B]**. Within the range these studies covered (mostly around 30 µg/m³), a 10 µg/m³ difference would correspond to roughly 2.7 points. The studies are observational: poorer families often live on busier roads. They did not study Delhi-winter levels above 300, so do not multiply this number up to those levels.
 - **The one trial.** In Mongolia, 540 pregnant women were randomly given HEPA air cleaners or none. At age 4, children in the purifier group scored 2.5 IQ points higher (2.8 after adjusting for preterm birth). The confidence interval crossed zero, so the result is a promising trend, not proof (UGAAR trial 2022) **[B]**, single study.
-- **Schools.** After a gas leak in Los Angeles, schools nearby received air filters. Test scores rose by 0.20 standard deviations and the gain lasted into the next year (Gilraine 2020) **[C]**. This is a single natural experiment, and some statisticians have questioned how large the effect really is.
+- **Schools.** After a gas leak in Los Angeles, schools nearby received air filters. Test scores rose by 0.1 to 0.2 standard deviations (Gilraine 2023, *Journal of Human Resources*) **[C]**. This is a single natural experiment, and some statisticians have questioned how large the effect really is.
 - **India.** An Indian cohort (APiPED, Delhi NCR, target 2,500 pregnancies) is following children to age 2. No results exist yet, so there is no India-specific IQ number to quote (Salve et al. 2025) **[D]**.
 - **The targets.** WHO's 2021 guideline for PM2.5 is an annual average of 5 µg/m³ and a 24-hour average of 15 µg/m³. India's AQI calls PM2.5 up to 60 µg/m³ "Satisfactory."
 
@@ -163,12 +166,13 @@ India's AQI bands come from the Central Pollution Control Board (CPCB). The acti
 
 ### Indoor smoke: the part you control completely
 
-Outdoor air is shared. Indoor smoke is yours, and in many Indian homes it is the bigger dose.
+Outdoor air is shared. Indoor smoke is yours, and in homes that burn coils, incense or solid fuel it can add a large dose on top of the outdoor air (judgment).
 
 | Source | What it does | The swap |
 |--------|--------------|----------|
-| **Mosquito coils** | One coil released as much PM2.5 as burning 75–137 cigarettes, plus formaldehyde, in lab tests (Liu et al. 2003) **[B]**, emissions study; child outcomes not measured | Bed nets and window screens; if you use a plug-in repellent, keep the room ventilated. Ask your pediatrician about local dengue advice. |
-| **Agarbatti, dhoop, sambrani** | Burning incense makes fine particles indoors | Light it briefly, in a ventilated puja corner, away from the baby; a diya or flowers for daily puja |
+| **Mosquito coils** | One coil released as much PM2.5 as burning 75–137 cigarettes, plus formaldehyde, in lab tests (Liu et al. 2003) **[B]**, emissions study; child outcomes not measured | Append: "Keep refill bottles locked away; toddlers drink them (Module 34)." Ask your pediatrician about local dengue advice. |
+| **Agarbatti, dhoop, sambrani** | Burning incense makes fine particles indoors | Light it briefly, in a ventilated puja corner, away from the baby; flowers, or a single diya placed away from the baby in a ventilated spot, for daily puja |
+| **Sambrani or loban on the baby** (drying hair after the oil bath, smoking clothes) | Puts smoke right at the baby's nose. No study has measured it; this is judgment | Dry hair with a soft towel in a warm room; air clothes in sunlight |
 | **Frying and tadka** | High-heat oil cooking makes smoke | Exhaust fan or chimney on, window open, baby out of the kitchen |
 | **Chulha, wood, coal, kerosene** | Heavy indoor smoke | LPG or electric; if not possible, cook outside or in a separate, ventilated space |
 | **Smoking indoors** | See the section on smoke below | Never inside the home or car |
@@ -185,7 +189,7 @@ Outdoor air is shared. Indoor smoke is yours, and in many Indian homes it is the
 Guidance from the US Pediatric Environmental Health Specialty Units (PEHSU):
 
 - **Under 2: no masks.** No respirator fits, and a baby cannot tell you if they can't breathe. Protect them with a clean room instead.
-- **Ages 2 to 7:** an N95 rarely fits; a child-size medical mask may. Use one only if the child can tell you when it is uncomfortable.
+- **Ages 2 to 7:** an N95 rarely fits; a child-size medical mask may. Use one only while the child is awake, with an adult present, and only if the child can tell you when it is uncomfortable and will not pull at it (PEHSU).
 - **Age 7 and up:** an adult-small N95 often fits. The mask must seal around the nose, cheeks and chin.
 - A mask lowers the dose. It is not a licence for extra outdoor exertion on a bad day.
 
@@ -200,7 +204,7 @@ Module 08 makes the outdoor hour a daily floor. In a North Indian winter, move t
 
 ### Heat waves
 
-Heat is the other outdoor limit Indian parents now face. Researchers think heat and pollution together may harm children's brain development. The idea is plausible, but no study has measured it in Indian children (Sahni et al. 2025) **[D]**. The safety rules are clear:
+Heat is the other outdoor limit Indian parents now face. Researchers think heat and pollution together may harm children's brain development. The idea is plausible, but this book found no study that has measured it in Indian children; the source is a commentary (Sahni et al. 2025) **[D]**. The safety rules are clear:
 
 - Babies under 6 months who are breastfed need no water, even on hot days. Feed more often instead (WHO).
 - Move outdoor play to early morning or evening. Dress the child lightly and keep them in shade.
@@ -215,9 +219,9 @@ Heat is the other outdoor limit Indian parents now face. Researchers think heat 
 
 **The scene.** Your in-laws in a Punjab village drink from a borewell. You will spend summer holidays there with a 1-year-old eating rice khichdi twice a day.
 
-- **Groundwater.** Arsenic is worst in the Ganga-Brahmaputra plains: parts of West Bengal, Bihar, Uttar Pradesh and Assam. The Central Ground Water Board has also found arsenic above the BIS limit in parts of Jharkhand, Punjab, Haryana, Chhattisgarh, Karnataka (Raichur, Yadgir) and other states (CGWB). A 2026 review of Indian groundwater studies found children carry the highest calculated risk (Sakalkar et al. 2026) **[C]**. India's drinking-water standard (BIS IS 10500) sets an acceptable limit for arsenic of 0.01 mg/L. The only way to know is to test the water.
+- **Groundwater.** Arsenic is worst in the Ganga-Brahmaputra plains: parts of West Bengal, Bihar, Uttar Pradesh and Assam. The Central Ground Water Board has also found arsenic above the BIS limit in parts of Jharkhand, Punjab, Haryana, Chhattisgarh, Karnataka (Raichur, Yadgir) and other states (CGWB). A 2026 review of Indian groundwater studies found children carry the highest calculated risk (Sakalkar et al. 2026) **[C]**. India's drinking-water standard (BIS IS 10500) sets an acceptable limit for arsenic of 0.01 mg/L. The only way to know is to test the water. In India, state and district water-testing labs set up under the Jal Jeevan Mission test samples from the public at nominal rates (Ministry of Jal Shakti). Ask for arsenic, fluoride, and nitrate. If you use RO, test the water after the RO, not only the borewell.
 - **Rice.** Rice takes up arsenic from soil and water. The US FDA set an action level of 100 ppb inorganic arsenic in infant rice cereal (FDA 2020).
-- **The cooking fix.** The "parboil and absorb" method removed 54% of inorganic arsenic from brown rice and 73% from white rice, with no significant loss of zinc (Menon et al. 2021) **[B]**. Steps: bring water to the boil, add the rice and boil 5 minutes, drain, add fresh water, then cook on low heat until the water is absorbed.
+- **The cooking fix.** The "parboil and absorb" method removed 54% of inorganic arsenic from brown rice and 73% from white rice, with no significant loss of zinc (Menon et al. 2021) **[B]**, one lab study. Steps: bring water to the boil, add the rice and boil 5 minutes, drain, add fresh water, then cook on low heat until the water is absorbed. Use tested or RO-treated water for both boils. Rice cooked in arsenic-rich borewell water picks up arsenic from the water (Signes et al. 2008; Biswas et al. 2021).
 - **Rotate grains.** Mix in ragi, jowar, bajra, oats, wheat and dal, so rice is not the only base of your baby's diet (judgment; this also helps iron intake, Module 15).
 
 ### Fluoride: a real risk in some districts, and still the right toothpaste
@@ -226,10 +230,10 @@ Heat is the other outdoor limit Indian parents now face. Researchers think heat 
 
 They are worried about the right thing and fixing the wrong one.
 
-- **High fluoride water does carry risk.** The US National Toxicology Program (NTP) concluded with moderate confidence that drinking water above 1.5 mg/L fluoride is associated with lower child IQ. It found too little data to judge 0.7 mg/L, the level used in US tap water (NTP 2024) **[A]**. A 2025 meta-analysis found 1.63 fewer IQ points per 1 mg/L rise in urine fluoride; in higher-quality studies the link held even below 1.5 mg/L (Taylor et al. 2025) **[A]**. The finding is still contested by some scientists.
+- **High fluoride water does carry risk.** The US National Toxicology Program (NTP) concluded with moderate confidence that drinking water above 1.5 mg/L fluoride is associated with lower child IQ. It found too little data to judge 0.7 mg/L, the level used in US tap water (NTP 2024) **[A]**. A 2025 meta-analysis of 74 studies, most of them cross-sectional, found 1.63 fewer IQ points per 1 mg/L rise in urine fluoride (Taylor et al. 2025) **[B]**. For drinking water below 1.5 mg/L, the pooled result across all studies showed no link. Only the lower-bias studies still showed one, and the authors call the evidence at these levels limited and uncertain. The finding is still contested by some scientists.
 - **India is where the high levels are.** An Indian meta-analysis of 11 studies found children exposed to more than 2.0 ppm fluoride scored 6.5 IQ points lower (Gunasekaran et al. 2025) **[B]**; most of those studies were cross-sectional, so poverty and other contaminants may explain part of the gap. In Rayalaseema, 66.5% of schoolchildren had dental fluorosis, 75% among borewell drinkers (Swetha et al. 2026). India's fluorosis programme (NPPCF) covers 163 endemic districts in 19 states and UTs. The BIS standard: acceptable 1.0 mg/L, permissible 1.5 mg/L.
 - **What to do.** If you drink groundwater in an endemic district, test it. If fluoride is above 1.0 mg/L, use RO, activated alumina, or a piped supply for drinking and for mixing formula.
-- **Toothpaste is a different exposure.** Toothpaste works on the tooth surface, and the amounts are tiny. Use fluoride toothpaste from the first tooth: a rice-grain smear under 3, a pea-sized amount from 3 to 6, with an adult supervising (ADA) **[A]**. The US FDA's October 2025 action was against unapproved swallowed fluoride drops and tablets for under-3s and for older children at low cavity risk, not toothpaste. For tooth care, see Module 34.
+- **Toothpaste is a different exposure.** Toothpaste works on the tooth surface, and the amounts are tiny. Keep using fluoride toothpaste from the first tooth. The fluoride in drinking-water studies is swallowed every day; toothpaste is used in tiny amounts on the teeth. Amounts by age, and what the FDA's 2025 action on fluoride drops did and did not cover, are in Module 34. The US FDA's October 2025 action was against unapproved swallowed fluoride drops and tablets for under-3s and for older children at low cavity risk, not toothpaste. For tooth care, see Module 34.
 
 ### Mercury: which fish to choose
 
@@ -243,7 +247,7 @@ Mapping Indian names to FDA species is this book's judgment; measured mercury da
 
 ### Pesticide residues: wash, don't panic
 
-- **The evidence.** Chlorpyrifos, an organophosphate pesticide linked to prenatal brain harm, is still in a legal fight in the US; EPA has not finalised a new rule as of August 2026 (EPA) **[C]**.
+- **The evidence.** Organophosphate pesticides such as chlorpyrifos have been linked to harm to the developing brain before birth [C]; regulators still disagree (the US has not finished its rule as of August 2026). Food residues are usually a small dose. Household spraying can be a bigger one. If a pest-control service treats your flat, ask for gel baits instead of sprays. Keep the baby out during treatment and until the rooms are aired, then wet-mop floors and wash toys (judgment).
 - **What works at home.** Wash all fruit and vegetables under cold running water (AAP). In a lab study, soaking apples in a baking soda solution (about 10 g per litre, 12–15 minutes) removed surface pesticide residues better than tap water. It could not remove residues that had soaked into the peel; peeling did (Yang et al. 2017) **[C]**, single study.
 - **Organic.** Module 15 is right: the big win is eating produce at all. If you want to spend on organic, spend it on the fruits your child eats most, unpeeled.
 
@@ -251,7 +255,7 @@ Mapping Indian names to FDA species is this book's judgment; measured mercury da
 
 **The scene.** The steel tiffin is in the wash, so dal goes into a plastic box and into the office microwave for your toddler's lunch.
 
-- **The evidence, graded honestly.** A 2024 meta-analysis of 11 pregnancy cohorts found phthalates linked to child neurodevelopment with small effects and mixed certainty, from moderate to very low (Antoniou & Otter 2024) **[C]**. One Shanghai cohort (424 mother-child pairs) linked higher bisphenol levels in pregnancy to lower IQ in boys only (Chen et al. 2023) **[C]**; this needs replication. For microplastics, no study has yet shown harm to children's brains **[D]**.
+- **The evidence, graded honestly.** A 2024 meta-analysis of 11 pregnancy cohorts found phthalates linked to child neurodevelopment with small effects and mixed certainty, from moderate to very low (Antoniou & Otter 2024) **[C]**. Its authors were funded by, or work for, the plasticiser industry, so read its 'small effects' with that in mind. One Shanghai cohort (424 mother-child pairs) linked higher bisphenol levels in pregnancy to lower IQ in boys only (Chen et al. 2023) **[C]**; this needs replication. For microplastics, no study has yet shown harm to children's brains **[D]**.
 - **The AAP's cheap habits:**
   - [ ] Don't microwave food, formula or pumped breast milk in plastic; use glass or steel
   - [ ] Don't heat cling wrap
@@ -259,7 +263,7 @@ Mapping Indian names to FDA species is this book's judgment; measured mercury da
   - [ ] Avoid plastics with recycling codes 3, 6 and 7
   - [ ] Choose BPA- and phthalate-free bottles, nipples, pacifiers and toys
   - [ ] Wet-mop floors; household dust collects these chemicals
-- India's feeding-bottle standard (BIS IS 14625:2015) prohibits BPA in plastic feeding bottles, as reported by Down To Earth. Look for the ISI mark. Steel dabbas and glass jars, which most Indian kitchens already own, do the rest.
+- India's feeding-bottle standard (BIS IS 14625:2015) prohibits BPA in plastic feeding bottles. Yet a 2019 Toxics Link test found low levels of BPA leaching from all 20 bottles it sampled (Down To Earth). The ISI mark helps but is not a guarantee. Glass or steel bottles avoid the question. Steel dabbas and glass jars, which most Indian kitchens already own, do the rest.
 
 ---
 
@@ -270,9 +274,11 @@ Mapping Indian names to FDA species is this book's judgment; measured mercury da
 **The scene.** Your father-in-law smokes on the balcony "so it doesn't reach the baby," then comes in and picks her up.
 
 - In India, 38.7% of adults were exposed to tobacco smoke at home (GATS-2, 2016–17).
-- Smoking in pregnancy has the clearest harm signal of any common prenatal exposure. In a US study of 1,970 children, it was linked to 1.84 times the odds of cognitive delay and 2.04 times the odds of language delay (ECHO cohort 2025) **[B]**. See Module 25.
+- Smoking in pregnancy has one of the most consistent harm signals among common prenatal exposures (alcohol is the other; see Module 25). In a US study of 1,970 children, it was linked to 1.84 times the odds of cognitive delay and 2.04 times the odds of language delay (ECHO cohort 2025) **[B]**. See Module 25.
 - After birth, nicotine exposure raises the risk of sudden infant death (AAP 2022 safe-sleep guidance; Module 16).
 - **The rule:** no smoking in the home or car, ever. Smoking on the balcony helps, but smoke still clings to clothes and hands. The best fix is quitting; ask your doctor about free help to quit.
+
+**What to do tonight** (this book's judgment): smoke outside the building, not on the balcony by the baby's room. Change the top layer of clothes and wash hands and face before picking the baby up. India's free national quitline is 1800-11-2356. A script: "Papa, the doctor said smoke stays on clothes and hands and reaches her lungs. Can you change your shirt and wash your hands before you hold her? And would you try the free quitline with me?"
 
 ### Vaping
 
@@ -280,10 +286,10 @@ India banned the making, sale, import, storage and advertising of e-cigarettes u
 
 ### Noise
 
-A 2025 meta-analysis of 8 studies (3,385 children aged 8–16) found that children exposed to chronic noise did worse on memory, learning and IQ tests. The effect was moderate (a standardised difference of −0.54) **[B]**. Louder homes are often poorer homes, so part of the effect may be poverty.
+A 2025 meta-analysis of 8 studies (3,385 children aged 8–16) found that children exposed to chronic noise did worse on memory, learning and IQ tests. The studies all pointed the same way, but they disagreed sharply on how large the effect was, most were cross-sectional, and many did not control for family income or education **[C]**. Louder homes are often poorer homes, so part of the effect may be poverty.
 
 - Put the child's bed on the quieter side of the home, away from street-facing windows.
-- White noise at a safe volume can mask traffic sounds at night (Module 16).
+- White noise can mask traffic sounds at night; keep the machine quiet and well away from the cot (Module 16).
 - Diwali: keep babies away from firecrackers at close range, for their ears and their lungs.
 - When choosing a school, notice whether classrooms face a main road.
 
@@ -301,7 +307,7 @@ Wealthy families buy peace of mind in four forms. Here is what each actually buy
 | "Heavy-metal-tested" baby food brands | Lower lead and arsenic in jars | The US FDA set lead action levels for baby food in January 2025 (10 ppb for most foods, 20 ppb for root vegetables and dry infant cereals) **[A]**. These are enforcement triggers, not guarantees, and this book found no binding Indian equivalent | Home-cooked dal, vegetables and varied grains, rice cooked by the parboil-and-absorb method, spices from sealed brands |
 | Home lead-test kits and paid home inspections | Finding hidden sources | This book found no evidence on how well home swab kits work on Indian spices or cosmetics | A blood lead test ordered by your pediatrician shows whether there is a problem at all; then remove the sources in this module |
 
-The pattern matches the rest of this book: the expensive version is mostly the free version plus reassurance. The one purchase with real evidence behind it is a HEPA purifier in the sleeping room in a polluted city.
+The pattern matches the rest of this book: the expensive version is mostly the free version plus reassurance. The purchase with the most evidence behind it is a HEPA purifier in a polluted city, and that evidence is still thin. It rests on one trial of purifiers used during pregnancy (a trend, not significant) and one school study. Put it in the sleeping room because that is where your child spends the most hours (judgment).
 
 ---
 
@@ -320,11 +326,11 @@ The pattern matches the rest of this book: the expensive version is mostly the f
 
 - CDC (2021). Blood lead reference value lowered to 3.5 µg/dL; no safe level identified. https://www.cdc.gov/lead-prevention/php/news-features/updates-blood-lead-reference-value.html
 - CDC. Clinical guidance by blood lead level. https://www.cdc.gov/lead-prevention/hcp/clinical-guidance/index.html
-- Lanphear BP et al. (2005). Low-level lead exposure and children's intellectual function: pooled analysis, 1,333 children. *Environ Health Perspect* 113:894–899. https://pubmed.ncbi.nlm.nih.gov/16002379/
+- Lanphear BP et al. (2005). Low-level lead exposure and children's intellectual function: pooled analysis, 1,333 children. *Environ Health Perspect* 113:894–899. https://pubmed.ncbi.nlm.nih.gov/16002379/ ; erratum with corrected estimates (2019): https://pubmed.ncbi.nlm.nih.gov/31526192/
 - Larsen B, Sánchez-Triana E (2023). Global health burden and cost of lead exposure. *Lancet Planet Health*. https://pubmed.ncbi.nlm.nih.gov/37714172/
 - UNICEF & Pure Earth (2020). *The Toxic Truth*. https://www.unicef.org/reports/toxic-truth-childrens-exposure-to-lead-pollution-2020 ; India figures (275 million): Pure Earth India factsheet, https://www.pureearth.org/wp-content/uploads/2022/10/PE-India_Lead_Factsheet.pdf
 - Upadhyay K et al. (2025). Pooled blood lead of Indian children, meta-analysis. *Toxicol Rep*. https://pubmed.ncbi.nlm.nih.gov/40104047/
-- AAP clinical report (2024), traditional cosmetics and lead. *Pediatrics* 154(Suppl 2). https://pubmed.ncbi.nlm.nih.gov/39352031/ ; Bihar child blood lead study (2024): https://pubmed.ncbi.nlm.nih.gov/38960355/ ; surma family case, CDC MMWR 2024: https://www.cdc.gov/mmwr/volumes/73/wr/mm7330a2.htm ; US FDA on kohl/kajal/surma: https://www.fda.gov/cosmetics/potential-contaminants-cosmetics/lead-cosmetics
+- Hore P, Sedlar S (2024). Traditional eye cosmetics and cultural powders as a source of lead exposure (NYC Department of Health). *Pediatrics* 154(Suppl 2):e2024067808O. https://pubmed.ncbi.nlm.nih.gov/39352031/ ; Bihar child blood lead study (2024): https://pubmed.ncbi.nlm.nih.gov/38960355/ ; surma family case, CDC MMWR 2024: https://www.cdc.gov/mmwr/volumes/73/wr/mm7330a2.htm ; US FDA on kohl/kajal/surma: https://www.fda.gov/cosmetics/potential-contaminants-cosmetics/lead-cosmetics
 - Forsyth JE et al. (2019, 2023, 2024). Lead chromate in turmeric: Bangladesh, enforcement results, South Asia survey. https://pubmed.ncbi.nlm.nih.gov/31550596/ ; https://pubmed.ncbi.nlm.nih.gov/37286126/ ; https://pubmed.ncbi.nlm.nih.gov/39053552/
 - CDC MMWR (2024). Cinnamon apple-pouch lead outbreak. https://www.cdc.gov/mmwr/volumes/73/wr/mm7328a2.htm
 - Saper RB et al. (2008). Metals in ayurvedic medicines sold online. *JAMA* 300:915–923. https://pubmed.ncbi.nlm.nih.gov/18728265/ ; Gitelman J et al. (2023), *CMAJ* case: https://pubmed.ncbi.nlm.nih.gov/37553150/
@@ -332,7 +338,7 @@ The pattern matches the rest of this book: the expensive version is mostly the f
 - US FDA (2025). Action levels for lead in food for babies and young children. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-action-levels-lead-processed-food-intended-babies-and-young-children
 - Alter NC et al. (2024). PM2.5 and child IQ meta-analysis. *Environ Health* 23:101. https://pmc.ncbi.nlm.nih.gov/articles/PMC11572473/
 - Ulziikhuu B et al. (2022). UGAAR HEPA trial in pregnancy. *Environ Health Perspect*. https://pubmed.ncbi.nlm.nih.gov/35730943/
-- Gilraine M (2020). Air filters, pollution and student achievement (working paper). https://edworkingpapers.com/ai20-188 ; a critique of the effect size: https://statmodeling.stat.columbia.edu/2020/01/09/filters-benefits/
+- Gilraine M (2023). Air filters, pollution, and student achievement. *Journal of Human Resources*. https://jhr.uwpress.org/content/early/2023/02/01/jhr.0421-11642R2 ; earlier working paper: https://edworkingpapers.com/ai20-188 ; a critique of the effect size: https://statmodeling.stat.columbia.edu/2020/01/09/filters-benefits/
 - Salve HR et al. (2025). APiPED cohort protocol, Delhi NCR. https://www.researchprotocols.org/2025/1/e72683
 - WHO Global Air Quality Guidelines (2021); values summarised in https://pmc.ncbi.nlm.nih.gov/articles/PMC8494774/
 - CPCB. About the National Air Quality Index (bands and PM2.5 breakpoints). http://www.airquality.cpcb.gov.in/ccr_docs/About_AQI.pdf
@@ -356,7 +362,7 @@ The pattern matches the rest of this book: the expensive version is mostly the f
 - GATS-2 India fact sheet (2016–17). https://assets.tobaccofreekids.org/global/pdfs/en/GATS_India_2016-17_FactSheet.pdf
 - Zar A et al. (2025). Prenatal tobacco and neurodevelopment, ECHO. https://www.tobaccoinduceddiseases.org/Association-of-prenatal-tobacco-exposure-and-child-neurodevelopment-Analysis-of-the,202349,0,2.html
 - Prohibition of Electronic Cigarettes Act, 2019 (PRS summary). https://prsindia.org/billtrack/the-prohibition-of-electronic-cigarettes-production-manufacture-import-export-transport-sale-distribution-storage-and-advertisement-ordinance-2019
-- Noise and child cognition meta-analysis (2025). https://pmc.ncbi.nlm.nih.gov/articles/PMC11944768/
+- Fernández-Quezada et al. (2025). Noise exposure and cognitive function in children and adolescents, meta-analysis. *NeuroSci*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11944768/
 
 ---
 

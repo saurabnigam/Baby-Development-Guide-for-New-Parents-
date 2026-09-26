@@ -76,7 +76,7 @@ There is a well-documented pattern to newborn crying, sometimes called the **Per
 
 | | |
 |---|---|
-| **P** | **Peak** — crying increases from about 2 weeks, peaks around **6–8 weeks**, then eases |
+| **P** | **Peak** — crying increases from about 2 weeks and is often highest around **6–8 weeks**, then eases (a 2017 review of 28 studies found about 2 hours a day on average through the first 6 weeks; not every baby has a clear peak) |
 | **U** | **Unexpected** — it starts and stops for no reason you can find |
 | **R** | **Resists soothing** — nothing works, and that doesn't mean you're doing it wrong |
 | **P** | **Pain-like face** — they look like they're in pain when they're not |
@@ -296,7 +296,7 @@ At this stage the best "toys" are faces, voices, textures, and movement.
 
 **400 IU (10 micrograms) per day, from the first days, for every baby** up to age one.
 
-The exception: babies drinking **more than about 27 ounces (800ml) a day of fortified formula** are getting enough already.
+The US exception: babies drinking **more than about 27 ounces (800ml) a day of fortified formula** are getting enough already. In India, the Indian Academy of Pediatrics (2021) recommends 400 IU a day for **all** infants through age one, formula-fed included, with no exemption for formula volume; ask your pediatrician before skipping the drops.
 
 If you're breastfeeding or mixed feeding, your baby needs drops. This is easy to forget and easy to fix. ([AAP](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx))
 

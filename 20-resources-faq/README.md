@@ -151,7 +151,7 @@ Every one of these appears constantly in parenting content. Several appeared in 
 | **"Growth mindset transforms achievement"** | Two meta-analyses (365,915 and 57,155 people): overall effects weak. A real signal for students who are academically at risk or low-income. [More](../12-age-5-7/README.md#praise-what-actually-holds-up) |
 | **"Screen time is driving the teen mental health crisis"** | The most careful analysis (n = 355,358) found the association explains **at most 0.4%** of variation in wellbeing. The strong screen findings are about under-2s, sleep, and displacement instead. [More](../18-screen-time-technology/README.md#weak-total-hours-and-teenage-mental-health) |
 | **"Learning styles" — visual, auditory, kinesthetic** | Repeatedly tested, repeatedly unsupported |
-| **"Sleep training damages attachment"** | Followed up at age 6 across 326 children — no difference on any outcome, including cortisol-based stress regulation. Genuinely your choice. [More](../16-sleep-and-development/README.md#sleep-training-an-honest-section) |
+| **"Sleep training damages attachment"** | Followed up at age 6 across 326 children — no difference on any outcome, including cortisol-based stress regulation. Genuinely your choice. [More](../16-sleep-and-development/README.md#sleep-training--night-settling-an-honest-evidence-based-guide) |
 | **"You can spoil a baby by holding them"** | Not in the first year. Responsive comfort builds security |
 | **"Delay peanuts and eggs to prevent allergy"** | **Reversed.** Early introduction reduces allergy substantially. [The trial](../05-infant-6-9-months/README.md#allergens-the-advice-has-reversed) |
 | **"Crawling is a milestone"** | Removed from CDC checklists. 4.3% of healthy children never crawl on hands and knees |
@@ -300,7 +300,7 @@ No. Bilingual children may split early vocabulary across two languages (so each 
 
 #### My child memorized the alphabet at 2 / reads at 4. Are they gifted? Should we accelerate?
 
-Maybe, and mostly no. Early skill displays are common and only loosely predict later trajectories. Feed genuine interests generously — books, questions, projects — but keep the childhood balanced: play, friends, boredom, and sleep are still doing the heavy lifting. Formal identification, if ever relevant, is most dependable from about age 7, when IQ scores become stable enough for decisions about one child (Module 31).
+Maybe. Early skill displays are common and only loosely predict later trajectories. Feed genuine interests generously — books, questions, projects — but keep the childhood balanced: play, friends, boredom, and sleep are still doing the heavy lifting. Formal identification, if ever relevant, is most dependable from about age 7, when IQ scores become stable enough for decisions about one child; for a child who has been carefully assessed, acceleration tends to help academically (Module 31).
 
 #### We can't afford enrichment. Is our child at a disadvantage?
 

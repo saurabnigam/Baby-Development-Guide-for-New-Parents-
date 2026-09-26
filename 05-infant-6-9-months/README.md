@@ -328,7 +328,7 @@ Whole nuts · whole grapes and cherry tomatoes (**quarter them lengthways**) · 
 | Priority foods | **Iron-rich** — whole egg, lentils, beans, meat, fortified cereal, tofu |
 | Texture | Smooth → lumpier → soft mashed pieces by 8–9 months |
 | Milk | Still the main nutrition source |
-| Vitamin D | 400 IU a day, unless taking over ~27oz/800ml of formula |
+| Vitamin D | 400 IU a day (US: not needed above ~27oz/800ml of formula; India's IAP: every infant, formula-fed included) |
 | Water | Small amounts in an open cup with meals is fine now |
 | Never | Honey, cow's milk as a drink, added salt or sugar, whole nuts or grapes |
 

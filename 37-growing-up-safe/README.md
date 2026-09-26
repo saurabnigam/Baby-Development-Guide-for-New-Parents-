@@ -2,6 +2,8 @@
 
 > Time: 3 hours | Difficulty: Intermediate | For: parents of children aged 2 to 18. Read the body-safety section now, whatever your child's age. Read the rest before age 8.
 
+> **How this fits with Module 23:** [Module 23](../23-life-skills-critical-moments/README.md) teaches body safety and consent as a life skill. This module adds the Indian law and helplines, online safety and sextortion, the first phone, AI, puberty, substances, and a teen mental-health crisis plan.
+
 ---
 
 ## Key Takeaways

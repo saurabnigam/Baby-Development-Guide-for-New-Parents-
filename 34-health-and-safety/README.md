@@ -2,6 +2,8 @@
 
 > Time: 2.5 hours (read once, then keep the checklists on the fridge) | Difficulty: Essential | For: every parent, grandparent, nanny, and driver in the child's life
 
+> **How this fits with Module 23:** [Module 23](../23-life-skills-critical-moments/README.md) teaches swimming, roads, fire, knives and emergencies as skills your child learns. This module covers what the adults do: newborn screening, fever and danger signs, safe sleep, choking and CPR, and childproofing by age.
+
 ---
 
 ## Key Takeaways
@@ -11,7 +13,7 @@
 - In a baby under 3 months, any temperature of 38.0°C (100.4°F) or higher means you call a doctor right away, day or night. Treat diarrhoea with ORS plus zinc. With dengue, the danger usually starts *after* the fever breaks.
 - Every adult who cares for your baby needs a written crying plan: put the baby down safely, walk away, and call someone. Shaking a crying baby causes severe, often permanent brain injury, and it is preventable.
 - The injuries that most threaten young Indian children follow a few patterns: water (buckets, sumps), heights (balconies, beds), heat (tea, pressure cookers), chemicals (medicines, kerosene, cleaners), small objects (button batteries, magnets), and roads (children on laps and on two-wheelers). A few cheap fixes cover most of them.
-- Check eyes, ears, teeth, and iron on a schedule. About 2 in 3 Indian children under 5 are anaemic. Outdoor time is the best-proven way to prevent short-sightedness.
+- Check eyes, ears, teeth, and iron on a schedule. Between 2 in 5 and 2 in 3 Indian children under 5 are anaemic, depending on how blood is tested. Daily outdoor time is the best-proven everyday habit for lowering the risk of short-sightedness.
 
 ---
 
@@ -55,13 +57,13 @@ A daily thyroid tablet fixes it, but only if treatment starts early. One Taiwane
 | **Heel-prick TSH** | Congenital hypothyroidism (and often CAH, a hormone disorder of the adrenal glands) | After 24 hours of age, before discharge | "Has the newborn screening (TSH) sample been sent?" |
 | **G6PD** | An enzyme deficiency that can cause sudden, severe jaundice. Common in India: one Delhi screening series found it in 1 in 125 newborns and 1 in 87 boys [C] | Same blood sample | "Can G6PD be added?" |
 | **Hearing (OAE or AABR)** | Permanent hearing loss, which silently blocks language (Module 26) | Before discharge, and no later than 1 month | "Has the hearing screen been done, and did both ears pass?" |
-| **Pulse oximetry** | Critical congenital heart disease | Around 24 hours of age. A sensor on the right hand and on one foot; both readings should be 95% or higher | "Has the pulse-ox screen been done?" |
+| **Pulse oximetry** | Critical congenital heart disease | Around 24 hours of age. A sensor on the right hand and on one foot; both readings should be 95% or higher and no more than 3 points apart | "Has the pulse-ox screen been done?" |
 | **Red reflex** | Cataract, retinoblastoma (an eye cancer), and other problems that block vision | Newborn exam, then at every well visit | "Was the red reflex normal in both eyes?" |
 | **Hip exam** | Developmental dysplasia of the hip, where the hip socket forms loosely | Newborn exam and early visits | "Were both hips stable?" |
 
 **The hearing rule is 1-3-6.** Screen by 1 month. Confirm any hearing loss by 3 months. Start intervention by 6 months (Joint Committee on Infant Hearing, 2019) [A]. A failed newborn screen often turns out to be fluid in the ear, but you cannot assume that. Book the repeat test before you leave the hospital.
 
-**Swaddling and hips.** In a retrospective study of 561 children with hip dysplasia, swaddling for more than one month went with higher odds of *both* hips being affected (OR 1.56) [C]. Keep swaddling, but do it the hip-healthy way: snug around the arms and chest, loose at the hips so the legs can bend up and out like a frog. Never wrap the legs straight and tight together.
+**Swaddling and hips.** In a retrospective study of 561 children with hip dysplasia, swaddling for more than one month went with higher odds of *both* hips being affected (OR 1.56) [C]. If you swaddle, do it the hip-healthy way: snug around the arms and chest, loose at the hips so the legs can bend up and out like a frog. Never wrap the legs straight and tight together.
 
 ### Jaundice and the Sunlight Myth
 
@@ -90,7 +92,7 @@ If your baby went home before 48 hours of age, the AAP advises a check-up within
 | **UIP schedule** | The government's Universal Immunization Programme. Free at government facilities. Covers 12 diseases | Core vaccines, e.g. pentavalent at 6, 10, and 14 weeks; measles-rubella at 9-12 months; DPT boosters at 16-24 months and 5-6 years; Td at 10 and 16 years |
 | **U-WIN** | National digital vaccination record, launched nationwide in October 2024. Covers children from birth to 16 years and pregnant women | SMS reminders and a QR-code vaccination certificate. Ask for private-clinic doses to be entered too |
 | **MCP card** | The Mother and Child Protection card, shared by the health and women-and-child ministries since 2010 | Growth chart, milestone checks up to age 3, vaccine and vitamin A record, and danger signs. Carry it to every visit |
-| **RBSK and DEICs** | Rashtriya Bal Swasthya Karyakram. Free screening from birth to 18 years for the "4 Ds": Defects at birth, Diseases, Deficiencies, and Developmental delays (32 conditions). District Early Intervention Centres (DEICs) manage children aged 0-6 | India's free early-intervention route, similar to US early-intervention services. Ask your pediatrician or district hospital for a DEIC referral |
+| **RBSK and DEICs** | Rashtriya Bal Swasthya Karyakram. Free screening from birth to 18 years for the "4 Ds": Defects at birth, Diseases, Deficiencies, and Developmental delays (32 conditions). District Early Intervention Centres (DEICs) manage children aged 0-6 | India's free early-intervention route, similar to US early-intervention services. You can walk in yourself, or ask your pediatrician for a referral (Module 36) |
 | **Anganwadi** | Neighbourhood centres under Mission Saksham Anganwadi and Poshan 2.0 | Six services: supplementary nutrition, preschool education, immunisation, health check-ups, referrals, and nutrition and health education |
 
 **Numbers to save in every caregiver's phone today:**
@@ -113,11 +115,11 @@ The HPV vaccine prevents most cervical cancers. It works best when given years b
 
 **A scene.** It is 2 a.m. Your 7-week-old feels warm. The thermometer reads 38.2°C. The family WhatsApp group says, "Give paracetamol and see in the morning." For a baby this young, that advice is wrong.
 
-In the first 3 months, the immune system cannot yet contain a serious infection, and the usual signs are hidden. The AAP rule is simple: **any temperature of 38.0°C (100.4°F) or higher in a baby under 3 months needs a doctor right away. Call your pediatrician now, and if you cannot reach them, go to the emergency room. Do not wait until morning.** [A] Doctors usually test blood and urine even if the baby looks well.
+In the first 3 months, the immune system cannot yet contain a serious infection, and the usual signs are hidden. The AAP rule is simple: **any temperature of 38.0°C (100.4°F) or higher in a baby under 3 months needs a doctor right away. Call your pediatrician now, and if you cannot reach them, go to the emergency room. Do not wait until morning.** [A] The 38.0°C figure is for a rectal reading. Armpit thermometers read lower, so for a baby this young treat an armpit reading of 37.5°C or more as a fever. Doctors usually test blood and urine even if the baby looks well.
 
 | Age | Go now (emergency or same-day doctor) | Call your pediatrician |
 |---|---|---|
-| **Under 3 months** | Temperature 38.0°C or higher; temperature below 35.5°C; breathing 60 or more times a minute; chest pulling in hard with each breath; not feeding; a seizure; moving only when stimulated | Any illness at all. Do not wait it out at home |
+| **Under 3 months** | Temperature 38.0°C or higher rectally, or 37.5°C or higher in the armpit (the threshold India's IMNCI protocol uses); temperature below 35.5°C; breathing 60 or more times a minute; chest pulling in hard with each breath; not feeding; a seizure; moving only when stimulated | Any illness at all. Do not wait it out at home |
 | **3 months to 5 years** | Hard to wake; seizure; struggling to breathe; blue lips; a rash that does not fade when pressed; signs of dehydration; stiff neck | Fever lasting more than 24 hours (under 2 years) or more than 3 days (2 years and older); temperature above 40°C again and again |
 | **Any age** | Fever with severe headache, stiff neck, breathing difficulty, an unexplained rash, or confusion | You feel something is wrong. Parent worry is a valid reason to be seen |
 
@@ -125,9 +127,9 @@ The young-infant danger signs above come from the WHO and Indian IMNCI protocols
 
 ### Diarrhoea: ORS Plus Zinc
 
-The standard treatment since the 2004 WHO/UNICEF statement has two parts [A]. The first is **low-osmolarity ORS** (oral rehydration salts), sipped often. The second is **zinc for 10-14 days**, which shortens the episode and lowers the chance of diarrhoea and pneumonia in the next 2-3 months. Your pediatrician sets the zinc dose by age. Keep breastfeeding and keep feeding. Juice, glucose water, and "energy drinks" are not ORS.
+The standard treatment since the 2004 WHO/UNICEF statement has two parts [A]. The first is **low-osmolarity ORS** (oral rehydration salts), sipped often. The second is **zinc for 10-14 days**, which shortens the episode, makes it less severe, and lowers the chance of further illness in the next 2-3 months. Your pediatrician sets the zinc dose by age. Keep breastfeeding and keep feeding. Juice, glucose water, and "energy drinks" are not ORS.
 
-**Dehydration signs (see a doctor now):** very few wet nappies, no tears, a dry mouth, sunken eyes, unusual sleepiness, or blood in the stool.
+**See a doctor now if you see signs of dehydration** (very few wet nappies, no tears, a dry mouth, sunken eyes, unusual sleepiness) **or blood in the stool.**
 
 ### Dengue: The Danger Comes After the Fever
 
@@ -155,7 +157,7 @@ Child unwell
 
 **Abusive head trauma** (shaken baby syndrome) is brain injury caused by shaking or impact. Its most common trigger is crying that will not stop. Infant crying normally peaks in the early weeks (Module 03), and that is also when the risk of shaking is highest. Shaking can cause bleeding in the brain and eyes, lifelong disability, or death.
 
-**The evidence.** In a randomised trial of 2,738 mothers, the Period of PURPLE Crying materials raised knowledge about crying (score 69.5 vs 63.3). More mothers who received them told others about walking away when frustrated [B]. When British Columbia gave this education to the parents of 354,477 newborns, hospital admissions for abusive head trauma fell by 35%. The drop was statistically significant for children under 2 [C, before-and-after data]. A similar statewide programme in Pennsylvania found *no* drop in admissions, partly because only 5.7% of parents received the full programme [C]. The lesson: a one-time leaflet is not enough. Repeat the plan, and teach it to every caregiver.
+**The evidence.** In a randomised trial of 2,738 mothers, the Period of PURPLE Crying materials raised knowledge about crying (score 69.5 vs 63.3). Append: "But their actual responses to crying did not change." When British Columbia gave this education to the parents of 354,477 newborns, hospital admissions for abusive head trauma fell by 35%. The drop was statistically significant for children under 2 [C, before-and-after data]. A similar statewide programme in Pennsylvania found *no* drop in admissions. One possible reason: although 74% of parents signed up, only 5.7% of surveyed parents received every part of the programme [C]. The lesson: a one-time leaflet is not enough. Repeat the plan, and teach it to every caregiver.
 
 **The plan. Print it and stick it on the fridge. Every caregiver learns it: parents, grandparents, nanny, and cook.**
 
@@ -191,10 +193,10 @@ Module 04 lists the core rules. The 2022 AAP update keeps them and adds new warn
 
 **Jhulas and cloth cradles.** No major guideline addresses the Indian saree jhula directly. The judgment call: a sagging cloth curls the baby into a chin-to-chest position, which is the same mechanism that made inclined sleepers dangerous. Use a jhula only for rocking while you are awake and watching. For sleep, move the baby to a flat, firm cot, or to a flat, firm mattress on the floor.
 
-**If you will bed-share anyway, remove the risk factors the AAP lists:**
+**If you will bed-share anyway, reduce the risk.** The AAP advises against bed-sharing under any circumstances. Even with every step below, the risk stays higher for babies under 4 months, and for babies born early or small. These steps avoid the dangers the AAP names (sofas, soft bedding, alcohol, sedating medicines, smoking) and add harm-reduction steps from breastfeeding-medicine guidance:
 - [ ] Use a firm mattress on the floor, away from walls and gaps. Never a sofa or a waterbed.
 - [ ] Place the baby on their back beside the mother, not between two adults, and away from pillows and quilts.
-- [ ] No smoking in the house. No alcohol, sleeping pills, or sedating medicines for the adult beside the baby.
+- [ ] No smoking in the house; bed-sharing with an adult who smokes carries especially high risk, even if they never smoke in bed. No alcohol, sleeping pills, or sedating medicines for the adult beside the baby.
 - [ ] No older siblings or pets in the same bed. The baby should be dressed light, with the head uncovered.
 
 ---
@@ -217,10 +219,10 @@ Never do abdominal thrusts on an infant. Do not sweep a finger blindly in the mo
 
 ### Button Batteries and Magnets: Emergencies Without Symptoms
 
-A coin-sized lithium battery from a remote, a car key, a musical greeting card, or a festival toy can burn through the food pipe in **as little as 2 hours** (US National Capital Poison Center) [A]. The child may look completely fine.
+A coin-sized lithium battery from a remote, a car key, a musical greeting card, or a festival toy can cause serious burns in the food pipe in **as little as 2 hours** (US National Capital Poison Center) [A]. The child may look completely fine.
 
 - [ ] Suspected swallowing = go to the emergency room now. Do not wait for symptoms. Do not make the child vomit.
-- [ ] On the way, **only for children over 1 year** and within 12 hours: 10 mL (2 teaspoons) of honey every 10 minutes, up to 6 doses. Honey slows the burn but does not remove the battery. Never give honey to a baby under 1.
+- [ ] On the way, **only for children over 1 year** who can swallow, within 12 hours of a suspected coin-battery swallow, and only if honey is at hand and it does not delay you: 10 mL (2 teaspoons) of honey every 10 minutes, up to 6 doses (National Capital Poison Center protocol). Honey slows the burn but does not remove the battery. Never give honey to a baby under 1.
 - [ ] Tape battery compartments shut. Store spare batteries locked away. Throw used ones out at once. Used batteries still carry enough charge to burn.
 
 **Strong magnets** from toys, "buckyball" desk sets, and magnetic jewellery can pull together through two loops of bowel and punch holes in it. US emergency rooms treated an estimated 26,600 magnet ingestions between 2010 and 2021 (CPSC). If you think a child swallowed more than one magnet, or a magnet plus a piece of metal, go to the emergency room.
@@ -231,14 +233,14 @@ A coin-sized lithium battery from a remote, a car key, a musical greeting card, 
 
 **A scene.** Your toddler is watching the maid mop, with a full bucket on the bathroom floor. Toddlers are top-heavy. A child who tips headfirst into a bucket cannot always push back out, and drowning is silent. There is no splashing and no shouting.
 
-Drowning is the fourth leading cause of death worldwide for children aged 1-4 (WHO, 2024) [A]. Barriers work: covered wells and tanks, fenced pools, door barriers, playpens, and supervised childcare. In one US case-control study, formal swimming lessons went with 88% lower drowning risk in children aged 1-4. The estimate was imprecise (95% CI 3%-99%) [C]. Lessons add a layer of protection. They never replace an adult within arm's reach.
+Drowning is the fourth leading cause of death worldwide for children aged 1-4 (WHO, 2024) [A]. Barriers work: covered wells and tanks, fenced pools, door barriers, playpens, and supervised childcare. Append: "The study left out bathtub drownings and included only 61 young children who drowned. It tells you nothing about buckets, tubs, or sumps; for those, only barriers and an adult within arm's reach work." Lessons add a layer of protection. They never replace an adult within arm's reach.
 
 | Stage | Top hazards in Indian homes | Fix |
 |---|---|---|
 | **Rolling (3-6 m)** | Falls from the adult bed, the diwan, or the changing table | Floor play; one hand on the baby always; bed-rail gaps are a trap |
 | **Crawling and cruising (6-18 m)** | Buckets and tubs; phenyl, acids, and floor cleaners under the sink; iron and other tablets in handbags; hot tea on low tables; tablecloth pulls; walkers | Empty every bucket and tub straight away; lock chemicals up high; no hot drinks while holding the baby; **no baby walkers** (Module 04) |
 | **Climbing (18 m-4 y)** | Balconies and windows in high-rise flats; furniture near grills; TVs and cupboards tipping over; open sumps and overhead tanks; pressure-cooker steam; kerosene or thinner in soft-drink bottles; liquid mosquito repellents | Grills with narrow gaps and no footholds; nothing to climb within reach of a balcony; anchor TVs and cupboards to the wall; sumps covered and locked; keep children out of the kitchen while the cooker is whistling; never store chemicals in food bottles |
-| **Preschool (4-7 y)** | Diyas and firecrackers; apartment pools; dogs; roads | An adult holds and lights all firecrackers, with a bucket of water nearby; pool gate latched; after any dog bite, wash the wound at once with soap and running water and see a doctor the same day for rabies care (the IAP's 2025 schedule gives a 5-dose rabies vaccine plan) |
+| **Preschool (4-7 y)** | Diyas and firecrackers; apartment pools; dogs; roads | An adult holds and lights all firecrackers, with a bucket of water nearby; pool gate latched; after any dog bite, wash the wound at once with soap and running water and see a doctor the same day for rabies care (the IAP's 2025 schedule gives a 5-dose rabies vaccine plan on days 0, 3, 7, 14, and 28, plus rabies immunoglobulin or a monoclonal antibody for more serious bites, as the doctor decides) |
 | **School age and teens** | Cycling, two-wheelers, swimming in lakes and quarries, sports concussion | Helmets; no lake swimming without a lifeguard; any head injury with confusion or vomiting means a doctor visit the same day (teen driving and risk-taking: Module 37) |
 
 **Poisoning.** If a child swallows a medicine or chemical, call **1800 116 117** (the AIIMS National Poisons Information Centre) or go to the emergency room. Take the bottle with you. Never make the child vomit. Kerosene and other oily liquids are dangerous mainly because vomiting can pull them into the lungs.
@@ -271,7 +273,7 @@ A baby held on an adult's lap is not safe in a crash. In a crash, the baby is th
 Myopia, urban Indian children aged 11-15 (last decade):  15.0%
 ```
 
-**Outdoor daylight is the best-proven prevention.** A 2024 Cochrane review pooled 5 trials with 10,733 children. Two-year myopia onset was 22.5% with extra outdoor time vs 26.7% without (RR 0.84) [A]. In the landmark Guangzhou trial, one extra 40-minute outdoor class a day cut 3-year onset from 39.5% to 30.4% [B]. A Shanghai trial found 120-150 minutes a day outdoors lowered risk by 15-24% [B]. Two limits: all these trials were in China and Taiwan with children aged 6-9, and outdoor time prevents myopia better than it slows myopia that has already started. Aim for about 2 hours of daylight a day, in any combination of play, walks, and sport (Module 32 shows how to fit it in). If the air quality is poor, see Module 33. If a child is already myopic, low-dose atropine drops and special lenses are decisions for a pediatric eye doctor.
+**Outdoor daylight is the best-proven prevention.** A 2024 Cochrane review pooled 5 trials with 10,733 children. Two-year myopia onset was 22.5% with extra outdoor time vs 26.7% without (RR 0.84) [A]. In the landmark Guangzhou trial, one extra 40-minute outdoor class a day cut 3-year onset from 39.5% to 30.4% [B]. In a Shanghai trial of 6,295 children, adding 40 or 80 minutes of outdoor time a day cut new myopia by 16% and 11% [B]. In a secondary analysis, children who got 120-150 minutes a day in bright outdoor light (about 5,000 lux) had 15-24% lower risk [C, observational analysis within the trial]. Two limits: all these trials were in China and Taiwan with children aged 6-9, and outdoor time prevents myopia better than it slows myopia that has already started. Aim for about 2 hours of daylight a day, in any combination of play, walks, and sport (Module 32 shows how to fit it in). If the air quality is poor, see Module 33. If a child is already myopic, low-dose atropine drops and special lenses are decisions for a pediatric eye doctor.
 
 ### Ears
 
@@ -290,15 +292,15 @@ Toothpaste is not the same as fluoride drops. In October 2025, the US FDA acted 
 
 ### Iron: India's Biggest Silent Deficiency
 
-In India's National Family Health Survey 2019-21 (NFHS-5), **67.1% of children aged 6-59 months were anaemic**, up from 58.5% in 2015-16 [A]. Anaemia is common even in well-off families.
+In India's National Family Health Survey 2019-21 (NFHS-5), **67.1% of children aged 6-59 months were anaemic**, up from 58.5% in 2015-16 [A]. Two cautions: NFHS tested a drop of finger-prick blood, which likely overstates anaemia (a national survey using venous blood, CNNS 2016-18, found 40.5% in children aged 1-4), and NFHS-5 fieldwork overlapped COVID disruptions. Either way, between 2 in 5 and 2 in 3 young Indian children are anaemic. Anaemia is common even in well-off families.
 
 ```
 Anaemic Indian children aged 6-59 months (NFHS-5):  67.1%
 ```
 
 - **Screening.** A new AAP clinical report (July 2026) replaces its 2010 guidance. Secondary summaries of it describe screening at 9-12 months for breastfed babies and 15-18 months for formula-fed babies, and iron drops for exclusively breastfed babies from about 4 months. The full text was not accessible for this edition, so confirm the exact plan with your pediatrician. Module 03's line "iron screening by 4 months" should be read in this light.
-- **Prevention.** Iron-rich complementary foods from 6 months (Module 15). No cow's milk as a drink before 12 months (CDC). India's Anemia Mukt Bharat programme gives iron-folic acid syrup twice a week to children aged 6-59 months (1 mL = 20 mg of iron), along with deworming.
-- **Honest limit.** Iron fixes a deficiency; it does not add IQ on top of normal levels. In the BRISC trial of 3,300 Bangladeshi infants, 3 months of iron syrup did not change cognitive scores [B]. Test, treat what is found, and avoid extra iron "just in case". Iron tablets are also a leading cause of child poisoning, so lock them away (Module 30).
+- **Prevention.** Iron-rich complementary foods from 6 months (Module 15). No cow's milk as a drink before 12 months (CDC). India's Anemia Mukt Bharat programme gives iron-folic acid syrup twice a week to children aged 6-59 months (1 mL = 20 mg of iron, given through your ASHA or anganwadi, or as your pediatrician advises), and twice-yearly deworming from age 1.
+- **Honest limit.** Treat anaemia because it matters for health, not as an IQ booster. In the BRISC trial of 3,300 infants in rural Bangladesh, where anaemia was common, 3 months of daily iron syrup lowered anaemia but did not improve cognitive or other developmental scores [B, one large trial]. Whether treating iron deficiency restores lost cognitive ground is still uncertain. Follow the routine prevention your pediatrician or the government programme advises, such as iron drops for exclusively breastfed babies or Anemia Mukt Bharat syrup. Beyond that, test before adding more iron, and never give higher doses 'just in case'. An iron overdose is one of the most dangerous poisonings in young children, so lock iron tablets and syrups away (Module 30).
 
 ---
 
@@ -311,7 +313,7 @@ Anaemic Indian children aged 6-59 months (NFHS-5):  67.1%
 1. **Someone who picks up at 2 a.m.** The real value is fast triage, meaning someone who knows the fever-under-3-months rule. **Free version:** the danger-sign table above, your pediatrician's after-hours number, and 108. If you pay for concierge care, test it: call once with a non-urgent question and see who answers.
 2. **Tests done without asking.** Private panels bundle thyroid, G6PD, CAH, and hearing checks. **Free version:** the five-question discharge checklist in this module. Expanded metabolic panels can find rare treatable disorders, and they also produce false alarms. Ask what each panel covers and what the follow-up is, and get the price up front.
 3. **Genome sequencing for a healthy newborn.** It is still a research tool for healthy babies. Its findings are uncertain, and it can create worry about conditions that never develop (Module 31 covers genetic screening claims).
-4. **Smart monitors.** The AAP says they do not prevent SIDS. **Free version:** the safe-sleep table above, which does.
+4. **Smart monitors.** The AAP says not to rely on them to reduce SIDS risk, and warns they can give false reassurance. **Free version:** the safe-sleep table above, which does lower the risk.
 5. **Baby-proofing consultants.** Their walkthrough covers the injury table in this module. **Free version:** get down on your hands and knees in each room and look at it from a toddler's height.
 
 **The one purchase worth making:** a hands-on infant CPR and choking course for everyone who cares for your child.
@@ -325,7 +327,7 @@ Anaemic Indian children aged 6-59 months (NFHS-5):  67.1%
 3. **Waiting until morning with a feverish baby under 3 months.** At this age, a fever means seeing a doctor right away, even if the baby looks fine.
 4. **Teaching "crying is normal" but not "here is what to do when you snap".** Every caregiver needs the put-down, walk-away, call-someone plan. Asking for help is part of good parenting.
 5. **Holding the baby on your lap in the car or on the scooter.** Parents do this out of love, and in a crash it offers no protection. A car seat, and a harness and helmet on two-wheelers, are the law and the evidence.
-6. **Swapping outdoor time for tuition.** Indoor near-work and too little daylight are the main risk factors for myopia. Protect about 2 hours outdoors a day, even in exam years.
+6. **Swapping outdoor time for tuition.** Too little daylight, and long hours of close-up work, are the main myopia risk factors a parent can change. Protect about 2 hours outdoors a day, even in exam years.
 
 ---
 
@@ -333,7 +335,7 @@ Anaemic Indian children aged 6-59 months (NFHS-5):  67.1%
 
 - ICMR Task Force on Inherited Metabolic Disorders (2018). Newborn screening for congenital hypothyroidism and CAH, 104,094 newborns; CH 1 in 722 overall, 1 in 1,130 permanent. *Indian J Pediatr* 85:935-940. https://pubmed.ncbi.nlm.nih.gov/29549556/
 - Hsiao PH et al. (1999). IQ in 82 unscreened children with CH; treated before 3 months, IQ 90 vs 75 [C]. https://pubmed.ncbi.nlm.nih.gov/10463002/
-- Verma J et al. (2019). Newborn screening in Delhi, 13,376 babies; G6PD deficiency 1 in 125. *J Pediatr Intensive Care*. https://pmc.ncbi.nlm.nih.gov/articles/PMC6978160/
+- Verma J et al. (2020). Newborn screening at Sir Ganga Ram Hospital, Delhi, 13,376 babies; G6PD deficiency 1 in 125 overall, 1 in 87 boys. *J Pediatr Intensive Care* 9(1):40-44. https://pubmed.ncbi.nlm.nih.gov/31984156/ https://pmc.ncbi.nlm.nih.gov/articles/PMC6978160/
 - Joint Committee on Infant Hearing (2019). Position statement, 1-3-6 benchmarks. https://www.jcih.org/JCIH_2019_Executive_Summary.pdf
 - AAP (2025). Newborn screening for critical congenital heart disease, updated algorithm (95% or higher in both hand and foot). https://publications.aap.org/pediatrics/article/155/1/e2024069667/200337/
 - Kemper AR et al. (2022). AAP hyperbilirubinemia guideline. *Pediatrics* 150(3):e2022058859. https://pubmed.ncbi.nlm.nih.gov/35927462/ ; parent guidance on sunlight and follow-up: https://www.healthychildren.org/English/ages-stages/baby/Pages/jaundice.aspx

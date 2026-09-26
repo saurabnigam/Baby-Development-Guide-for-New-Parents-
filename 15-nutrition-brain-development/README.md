@@ -104,7 +104,7 @@ And B12 for the nervous system — **this one matters especially on a vegetarian
 
 ### Vitamin D
 
-**400 IU a day** for all babies up to age one — unless they're taking more than about 27oz/800ml a day of fortified formula. **600 IU a day** from age one.
+**400 IU a day** for all babies up to age one — under US guidance, unless they're taking more than about 27oz/800ml a day of fortified formula; India's IAP (2021) makes no formula exemption. **600 IU a day** from age one.
 
 This is the supplement most often forgotten, and the one most clearly recommended. ([AAP](https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx))
 

@@ -2,6 +2,8 @@
 
 > Time: 2.5 hours | Difficulty: Intermediate | For: all ages — the skill the age modules kept pointing at
 
+> **How this fits with Module 22:** [Module 22, Part 4](../22-building-iq/README.md) gives the working-memory and executive-function games by age. This module adds the research behind them (Dunedin, the marshmallow test re-examined), the full EF gym from 6 months to the teens, and how to scaffold and then fade.
+
 ---
 
 ## Key Takeaways
