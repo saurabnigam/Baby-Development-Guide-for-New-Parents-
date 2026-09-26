@@ -415,6 +415,74 @@ Get help if wet nappies drop, weight is a concern, they cough or choke often dur
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+**Fit it into a day:** For a sample 6–9 month day that places these games around feeds and naps, see Module 32. Sitting and crawling also bring new injury risks — falls, choking on small objects, water buckets, hot tea within reach — and Module 34 covers injury prevention by age.
+
+### The Indian Kitchen Version: Thick, Rich, and Iron-Smart
+
+Many families start with dal ka paani, rice water, or thin kanji. These fill a small stomach with water, not nutrition. The Indian Academy of Pediatrics' feeding guideline says complementary food should be thick enough to stay on a tilted spoon, because thick food packs more energy into the small amounts a baby can eat **[A]**.
+
+- **Go thick, not watery.** Soft, well-mashed khichdi (rice and dal cooked together), dal mashed into rice, or a porridge that holds on the spoon. Serve the dal itself, not just its water.
+- **Add a little fat.** Stir a little ghee or oil into each meal for energy. The same IAP guideline also suggests sugar or jaggery for energy, but the WHO's 2023 guideline says children aged 6–23 months should not be given foods high in sugar, so leave out sugar and jaggery until at least age 2 (see the table below).
+- **Put iron in most meals.** Dals and other legumes, iron-fortified cereal, and green leafy vegetables; for non-vegetarian families, finely minced meat, chicken, or fish, which carry the best-absorbed iron.
+- **Pair plant iron with vitamin C.** A squeeze of lemon on the dal, mashed tomato, or a little orange or guava in the same meal helps the body absorb iron from plant foods **[B]**.
+- **No tea for babies.** Beyond the caffeine, tea's tannins block iron absorption.
+
+**Why iron gets this much space:** In India's latest national survey (NFHS-5, 2019–21), 67.1% of children aged 6–59 months were anemic, up from 58.5% in 2015–16 **[A]**. Ask your pediatrician about checking hemoglobin and whether your baby needs iron drops. Food sources are in Module 15; supplements, doses, and cautions are in Module 30. Iron treats and prevents deficiency; one large trial in Bangladesh found no development gain from iron drops given to 8-month-olds, so treat it as anemia prevention, not a brain booster **[B]**.
+
+---
+
+## A Day in Real Life: The Kitchen-Floor Laboratory
+
+It's 9 a.m. Your 8-month-old sits on the kitchen floor with a steel bowl, a wooden spoon, a silicone spatula, and a clean cloth napkin. You sit nearby with your tea. Watch what actually happens:
+
+- Baby grabs the spoon, mouths it (*texture and temperature data*), bangs it on the floor (*sound source #1*), then bangs it on the bowl (*sound source #2 — different! A discovery*).
+- Bangs alternately: floor, bowl, floor, bowl. This is a controlled comparison. Nobody taught it.
+- Drops the spoon *into* the bowl, retrieves it, drops it again. In-and-out is the first container schema — the same concept that later underlies sorting, sets, and math.
+- Loses the spoon under the napkin. Pauses. Pulls the napkin away and finds it — object permanence, freshly installed, visibly delighting its owner.
+- Looks up at you. You smile: "You found the spoon!" That glance was social referencing — the emotional check-in that turns solo play into secure exploration.
+
+Twelve minutes, zero toys with batteries, and your baby practiced physics, categories, memory, motor planning, and emotional security. Your job was the environment, the safety, and the smile.
+
+---
+
+## Tips & Tricks: 6 to 9 Months
+
+1. **Build a "yes space."** One fully baby-proofed zone where everything is touchable means exploration without "no." Every "no" you don't have to say is attention and trust preserved for when it counts.
+2. **Rotate a treasure basket.** A low basket of 6–8 safe *real* household objects (steel katori, wooden spoon, silicone brush, fabric scraps, large shell). Swap two items a week — novelty resets curiosity for free.
+3. **Use the 10-second rule before rescuing.** When the toy rolls out of reach and fussing starts, sportscast first: "The ball rolled away. You're stretching for it." Ten seconds of supported struggle builds persistence; instant rescue builds waiting-for-rescue.
+4. **Level up peekaboo deliberately.** Face behind hands → toy under cloth (half showing) → toy fully hidden → toy hidden under one of two cups. You are literally titrating working-memory load.
+5. **Your face is the instruction manual.** After a minor bump, babies look at you *before* deciding whether to cry. A calm "Oops! You're okay — big bump!" teaches recovery. A gasp teaches alarm. Same bump, different lesson.
+6. **Make mealtime a second lab.** Let them hold a spoon while you feed with another; expect smearing and dropping. Messy self-feeding practice now buys you an independent eater later — the cleanup is tuition.
+7. **Keep goodbyes short, warm, and honest.** A predictable ritual ("Kiss, wave, 'Mama always comes back'") beats sneaking out — disappearing parents teach a baby to monitor you constantly instead of playing.
+
+---
+
+## The Elite Edge: Treasure Baskets, RIE Nannies, and What Elite Daycares Actually Do
+
+**Heuristic play (the original "curated toy box").** Elinor Goldschmied's *treasure basket* — a basket of natural, real-world objects for seated babies — is a staple of expensive European-style nurseries and the intellectual ancestor of today's $120 subscription boxes. The research-backed core: infants explore *real materials* (metal, wood, cloth, brush) longer and more inventively than plastic toys, because real objects have richer sensory properties. Cost to replicate: nearly zero (see the tips above).
+
+**RIE / Magda Gerber-trained caregivers.** Celebrity families pay premium rates for RIE-trained nannies. Strip the branding and the method is: observe more than you interrupt, tell the baby what you're about to do before you do it ("I'm going to pick you up now"), allow uninterrupted floor play, and treat care routines as full-attention together-time. Every element is free; the expensive part is the discipline to actually do it.
+
+**What elite daycare buys.** The NICHD Study of Early Child Care — one of the largest US childcare studies (1,364 families) — found that higher-quality care, meaning *responsive caregivers and rich language*, went with better cognitive and language outcomes **[B]**. It also found that parenting at home generally predicted more than child care did, and that more hours in care went with somewhat more behavior problems. It never tested facilities, curriculum brand, or price. When evaluating any care setting, watch one thing: do adults respond to individual babies' bids within a few seconds, with words? A modest center that does this beats a marble lobby that doesn't.
+
+**Baby swim classes.** Fun, bonding, vestibular input — all real. Water-safety skill acquisition before ~12 months: minimal. Buy it for the joy, not the résumé.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Using a baby walker.** Wheeled walkers cause enough injuries that Canada banned their sale outright in 2004. Whether they delay walking is less settled: a small review of four studies estimated a delay of 11–26 days, but the two randomized trials in it found no significant effect **[C]**. The injury case alone is enough. A stationary activity center or the floor does the job safely.
+2. **Propping babies into positions they can't reach themselves.** A baby sat up with cushions before they can sit is stuck in a position they can't safely exit and skips the trunk-strength work of getting there. Floor time in positions they achieve themselves is the developmental path.
+3. **Rescuing at the first grunt.** Frustration tolerance is a muscle; it grows only under load. Support with words first, hands second.
+4. **Training away stranger anxiety.** Passing a crying baby to an eager relative "so they get used to it" backfires — pressure amplifies wariness. Let the baby observe from your arms; warm-up time is the fix.
+5. **Quietly replacing milk with solids.** At 6–9 months, solids are a *supplement to* breast milk or formula, not a substitute. The reverse displaces the calories and fats the brain is built from.
+
+---
+
 ## 5-Minute Action Plan
 
 **Play hide-and-find, and don't rescue.**

@@ -314,6 +314,63 @@ Extremely common at this age and it can be exhausting for one parent and hurtful
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+**Fit it into a day:** For a sample 9–12 month day built around these activities, see Module 32. Pulling up and cruising bring new risks — furniture tip-overs, stair and balcony falls, buckets and open water — and Module 34 covers injury prevention by age.
+
+---
+
+## A Day in Real Life: The Pointing Walk
+
+It's 5:30 p.m. You carry your 11-month-old to the balcony, or walk the lane outside your home. What happens next is the single most language-rich activity of the day, and it looks like nothing:
+
+- Baby points at a crow. You follow the point *within a couple of seconds*: "A crow! Caw caw. The crow is on the wire." Baby looks at the crow, then back at your face, then at the crow again. That triangle — baby, object, you — is **joint attention**, and it's the exact mechanism by which words get attached to the world.
+- Baby points at a bus. "Bus! A big red bus. It's going fast." You didn't choose the topic; they did. Words learned inside the child's own focus of attention stick dramatically better than words about what *you* wanted to discuss.
+- Baby holds up a leaf to show you. Showing is a milestone hiding in plain sight: it means your baby now understands that two minds can share an experience. Receive it like the gift it is: "You found a leaf! Thank you."
+
+Fifteen minutes, thirty labeled sights, and every label was requested by the learner. No flashcard set can compete with a balcony.
+
+---
+
+## Tips & Tricks: 9 to 12 Months
+
+1. **Respond to points within a few seconds.** Babies who follow gaze and point more at 10–11 months build vocabulary faster through age 2 (Brooks & Meltzoff, 2005, 2008). Separate research on responsive parenting (Goldstein & Schwade, 2008; Tamis-LeMonda et al., 2014) shows quick, contingent replies help babies learn **[B]**. Speed of response is what teaches "communication works."
+2. **Name what they're looking at — not what you want them to look at.** Following the child's attention is the highest-yield language habit known; redirecting attention to teach actually *costs* words.
+3. **Use fill-in-the-blank songs.** Sing the familiar line and stop: "Twinkle twinkle little ___." The expectant pause invites a vocalization and teaches conversational timing.
+4. **Rehearse separations as a game.** Peekaboo → hiding behind the door for 5 seconds → "I'm going to the kitchen, I'll be back" → short real departures. Each round proves the rule: parents leave AND return.
+5. **Set up cruising furniture deliberately.** A stable sofa-to-table-to-chair circuit with a prize at the far end builds walking the safe way — no hand-holding "walking practice" needed; they're building their own balance system.
+6. **Give words to intentions, not just objects.** "You want the cup." "You're showing me the dog." Intention language builds the self-awareness layer of EQ before speech exists.
+7. **Read the same book until *you* hate it.** Repetition is comprehension-building; the 20th read is when the baby starts participating (patting, pointing, page-turning). That participation is pre-reading.
+
+---
+
+## The Elite Edge: What Actually Predicts Vocabulary (It's Not a Class)
+
+**The research nobody sells:** Decades of work by Michael Tomasello and colleagues established that **joint attention — shared focus plus responsiveness — is the engine of early word learning.** Infants' pointing at 10–12 months predicts later language better than almost any purchasable input. The richest families in the world cannot buy a better mechanism than the pointing walk above; they can only buy reminders to do it.
+
+| What the wealthy buy | What it claims | What the evidence says | Free replacement |
+|----------------------|---------------|------------------------|------------------|
+| "Early language" classes and apps | Bigger vocabulary | Passive exposure and screens don't teach words at this age; live responsive humans do (Kuhl) | Follow points, name their focus, pause for replies |
+| First-birthday developmental assessments | Reassurance / early detection | Standard screeners (ASQ-3, M-CHAT-R at 18m) cover the same ground | Ask your pediatrician to run ASQ-3; it's parent-completed |
+| Daycare "transition consultants" | Smoother starts | Gradual-entry + predictable goodbye ritual is the entire method | Week 1: one hour with you present; week 2: short solo stretches; same goodbye script daily |
+| Premium "sign language for babies" curricula | Earlier communication | Modest evidence for reduced frustration, mainly via increased parental attentiveness | Five signs, used consistently at routines |
+
+**The one screen exception worth knowing:** the AAP's advice to avoid screens before 18 months makes an exception for live video chat, because a responsive person is real interaction, not passive viewing. The learning evidence comes from older toddlers: in one small study (Myers et al., 2017; ages 12–25 months), toddlers recognized their video-chat partner and the oldest learned new words **[C]**, while a larger study of 2-year-olds found video did not reliably teach words. So a weekly call with a grandparent who follows the baby's attention is guilt-free connection that builds the extended attachment network — not a proven brain-builder at this age.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Quizzing instead of conversing.** "Say ball! Say BALL!" produces pressure, not words. Words come from hearing labels attached to their own interests, hundreds of times, with no performance demand.
+2. **Waiting for words while ignoring gestures.** Pointing, showing, waving, and giving ARE language milestones. A 12-month-old with rich gestures and no words is typically on track; a quiet non-gesturer is the one worth mentioning to the pediatrician.
+3. **Extending goodbyes at peak separation anxiety.** The lingering, guilty, five-return goodbye teaches that departures are dangerous. Warm, short, identical, honest — then go.
+4. **Baby-led weaning zealotry or purée zealotry.** The evidence supports *mixed pragmatism*: safe finger foods for self-feeding practice plus spoon-fed textures for iron efficiency. Ideology is the only wrong answer.
+5. **Planning to switch to cow's milk as the main drink right at 12 months without an iron plan.** Cow's milk is iron-poor and can displace iron-rich foods; keep milk under ~500ml/day after the switch and keep daily iron foods non-negotiable.
+
+---
+
 ## 5-Minute Action Plan
 
 **Pick one book. Sit face to face. Say only what they look at.**

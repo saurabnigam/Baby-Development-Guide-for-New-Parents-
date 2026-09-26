@@ -391,6 +391,76 @@ Follow safe sleep for actual sleep. Contact naps while you are awake and holding
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+### Health Checks That Protect the Brain
+
+A few simple checks in the first weeks prevent rare but serious brain injuries. Module 34 covers each one in full.
+
+- **Newborn screening (heel-prick blood test).** It finds hidden conditions such as congenital hypothyroidism, where early treatment protects brain development. Indian specialists recommend screening every newborn, ideally at 48 to 72 hours of age, but a 2020 estimate found most babies born in India were not screened at all [A]. Ask for it before you leave hospital, and ask whether the hearing screen was done too.
+- **Jaundice.** Many newborns turn a little yellow. Every baby should have a bilirubin check (skin meter or blood test) before discharge, and yellow skin in the first 24 hours needs a test right away [A]. At home, call your doctor if the yellow deepens or spreads, the whites of the eyes turn yellow, or baby is hard to wake or feeding poorly. Very high bilirubin can injure the brain.
+- **Fever under 3 months is urgent.** A rectal temperature of 100.4°F (38°C) or higher in a baby 3 months or younger means call your pediatrician immediately, even if baby seems well [A].
+- **A crying plan.** Make it now, while you are calm. If anger or panic rises, put baby on their back in the cot, walk away, breathe, and call someone. Check on baby every 5 to 10 minutes [A]. A crying baby left safely for a few minutes is fine. Shaking is not: it can cause lifelong brain injury. Share this plan with every caregiver, including grandparents and helpers.
+
+**Family customs.** Kajal or surma on the eyes, janam ghutti, gripe water, and honey on a finger or pacifier are common, loving traditions. Kajal and surma can contain lead, and honey can cause infant botulism before age one [A]. Module 35 goes through each custom and how to talk about it with elders.
+
+---
+
+## A Day in Real Life: One Awake Window, Done Well
+
+A newborn's awake time is short, and most of it goes to feeding. The popular "awake window" figure of 45–90 minutes is a sleep-consultant rule of thumb, not a research finding [D]; many babies tire sooner in the first weeks, so watch for tired cues, not the clock. Here's what a genuinely brain-building window looks like — no equipment, no plan, 2:00 p.m. on a Wednesday:
+
+- **2:00 — Feed.** Phone out of reach. You look at your baby's face; they study yours. (This *is* the visual curriculum: 8–12 inches is exactly their focal range.)
+- **2:25 — Burp + chat.** Baby is calm and alert. You hold them upright, say "Hello! You're awake!" and pause. They twitch an eyebrow. You treat it as a reply: "Oh really? Tell me more." Three of these loops = three serve-and-return reps.
+- **2:35 — Tummy time.** Two minutes on your chest counts. They lift their head briefly, complain; you roll them over and call it a win. It was one.
+- **2:40 — First yawn.** You spot the cue early (this is the skill), dim the input, and start the wind-down instead of "getting one more activity in."
+- **2:50 — Asleep.** Total structured activity: about 15 gentle minutes. That was a complete, excellent developmental day for a 6-week-old. Repeat.
+
+**The lesson:** at this age the win is not doing more — it's *reading the cues* well enough to act at the right moment.
+
+For full sample days at every age, from newborn to teen, see Module 32.
+
+---
+
+## Tips & Tricks: The Newborn Stage
+
+1. **Learn the cue ladder.** Hunger cues escalate: stirring → rooting/hand-to-mouth → fussing → crying. Feeding at the early rungs is easier for everyone; crying is a *late* cue.
+2. **One sense at a time.** Talking OR rocking OR eye contact. Newborn nervous systems overload fast; stacked stimulation is why the "fun" play session ended in tears.
+3. **Your voice is the premium toy.** Newborns recognize and prefer the voices they heard in the womb (DeCasper & Fifer, 1980). Sing badly and often — pitch doesn't matter, familiarity does.
+4. **Speak your mother tongue.** If your home is bilingual, use whichever language is most natural and emotional for you. Babies handle multiple languages effortlessly; stilted, self-conscious speech in a second language costs richness (more in the Language module).
+5. **Babywearing is a development strategy,** not just convenience: regulated heartbeat and temperature, upright vestibular input, a front-row seat to your face and conversations.
+6. **Survive the witching hour with rotation, not solutions.** Late-afternoon crying (common in the first 6 to 8 weeks) usually has no fixable cause. Rotate: carry, white noise, dim lights, motion, break for the other parent. You're not failing; you're buffering.
+7. **Sleep when it's offered.** A rested parent reads cues dramatically better than an exhausted one doing extra chores. Cue-reading is the actual job; protect the machinery that does it.
+
+---
+
+## The Elite Edge: Night Nurses, Doulas, and Baby Massage — Decoded
+
+**What the wealthy buy at this stage** (this is the most money-intensive stage of all):
+
+| Service | Cost | The active ingredient | The free version |
+|---------|------|----------------------|------------------|
+| Night nurse / night nanny | $300–600/night | *Parental sleep* — which restores your responsiveness and mood | Split the night into hard shifts with your partner (e.g., 9–2 and 2–7); each parent gets one protected block. Accept every offer of family help |
+| Postpartum doula | $35–80/hour | Reassurance + someone who reads the baby's cues aloud, teaching you them | The cue ladder above; ask your pediatric nurse to show you cues at a visit — they'll happily demonstrate |
+| Lactation consultant (IBCLC) | $150–400/visit | Genuinely expert latch/supply troubleshooting | Often covered by insurance; hospitals and many communities run free lactation clinics — this is the one service worth chasing hard if feeding hurts or weight gain is slow |
+| Infant massage classes | $100–250/course | Structured touch + parent confidence | One lab (Field, Touch Research Institute) reported benefits from *simple, moderate-pressure strokes* — legs, arms, back, 10 minutes before bath time — but a 2013 Cochrane review of 34 trials found the evidence too weak to recommend massage for healthy, low-risk babies [C]. Do it for bonding and wind-down, not as a brain boost; if you use oil, pick a plain one and patch-test first. A free video from a children's hospital teaches everything a boutique class does |
+
+**The honest research summary:** No study shows the *baby* of a night-nursed family developing faster. The mechanism is indirect: services buy parental sleep and confidence, and rested, confident parents do more serve-and-return. Aim money (or help) at whatever restores *your* capacity — that's the evidence-based purchase.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Treating crying as a performance review.** Healthy babies fuss and cry about 2 hours a day on average in the first 6 weeks, and some cry 3 hours or more; it eases by 10 to 12 weeks, with no single universal peak week [A]. It measures the stage, not your parenting.
+2. **Running an enrichment program for a 3-week-old.** Black-and-white cards are fine for a few minutes, but a newborn's developmental to-do list is: feed, feel safe, sleep, look at your face. That's the whole list.
+3. **Filling every calm-alert moment.** Quiet staring at the ceiling fan is your baby processing. Boredom does not exist at 8 weeks; downtime is when consolidation happens.
+4. **Worrying about spoiling.** You cannot spoil a young baby with warmth. Fast, warm responses in the early months build the security that makes independence possible later [A]. The evidence is less uniform later in the first year: a trial of gentle sleep training at 8 to 10 months found no harm to attachment at age 5 (Module 16). Treat quick, warm response as your strong default, not a rule you break by sometimes pausing.
+5. **Skipping your own postpartum check.** About 1 in 5 mothers (22% in a pooled analysis of Indian studies) and about 1 in 10 fathers experience postpartum depression [A]. Treatment reliably helps you. It helps your baby too, though less than people assume, and most when it also works on the parent-baby relationship [B]. Your own health is reason enough to get checked.
+
+---
+
 ## 5-Minute Action Plan
 
 **At your next nappy change, do exactly three things:**

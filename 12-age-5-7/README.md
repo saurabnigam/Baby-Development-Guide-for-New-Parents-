@@ -262,6 +262,63 @@ Ask the teacher directly what they see, and ask what would help. Check hearing a
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+School is often when learning differences first show. For the early signs of ADHD, dyslexia, and speech or language concerns, and how to get an assessment, see Module 36. If your child is racing ahead instead, Module 31 covers what research says about high-potential children.
+
+---
+
+## A Day in Real Life: "How Was School?" — "Fine."
+
+3:45 p.m. You collect your 6-year-old, hungry for details about their day. You ask; you get "fine." You ask more; you get less. By the fifth question they're melting down over the wrong snack. Nothing is wrong — you've just met **after-school restraint collapse**: a child who held it together all day in a demanding environment unloads the moment they reach their safe person. Being the meltdown target is, inconveniently, a compliment.
+
+The redesign:
+
+- **3:45 — Connection, zero questions.** A smile, a hug, "I'm happy to see you." Snack and water in hand (half of after-school mood is blood sugar). Let the walk home be quiet or silly — their choice.
+- **4:30 — Side-by-side time.** Big conversations at this age happen shoulder-to-shoulder (drawing, LEGO, walking, chopping vegetables together), not face-to-face across an interrogation table.
+- **Dinner — specific beats general.** "How was school?" is too big a question for a 6-year-old to compress. Ask small and concrete: "Who did you sit next to at lunch?" "What was the funniest thing anyone did?" "Did anything feel unfair today?" Small doors open big rooms.
+- **Bedtime — the confession window.** The last 10 minutes before sleep, lights low, is when the real material surfaces ("Riya said I couldn't play"). Budget for it: start bedtime 10 minutes early so disclosures don't compete with the clock.
+
+Same child, same day, entirely different data yield — because you worked with the nervous system instead of against it.
+
+**Fit it into a day:** For a full sample school day for ages 5 to 7, see Module 32. Protect outdoor time in daylight. In a school trial in China with children around 6 to 7, one extra 40-minute outdoor class a day cut new short-sightedness over three years from 39.5% to 30.4% **[B]**, and a Cochrane review of five trials agrees that outdoor time lowers the risk **[A]**. Module 34 covers eye health.
+
+---
+
+## Tips & Tricks: Age 5 to 7
+
+1. **Keep reading aloud after they learn to read.** Parents quit read-alouds exactly when comprehension benefits peak. A child's listening comprehension outstrips their reading level by years — reading them books *above* their own level builds vocabulary and story sense their own reading can't reach yet.
+2. **Try paired reading.** You read a page, they read a page (or you read together and they take over on a signal). It keeps the frustration of decoding from swamping the joy of story — and it's the core of several validated reading-support programs.
+3. **Be the homework consultant, not the contractor.** Your jobs: a predictable time and place, a started child, and available help when *asked*. The moment you're erasing their answers and rewriting them, the teacher is now assessing you, and the child has learned homework is your problem.
+4. **Use money as the math lab.** Shop budgets ("We have ₹100 / $5 for fruit — what can we get?"), change-counting, and saving for a toy teach number sense with stakes. Real math beats worksheet math for engagement every time.
+5. **Schedule boredom.** Unscheduled time is where self-directed play, invention, and daydreaming live. A child who complains "I'm bored" and then, twenty minutes later, has built a fort has practiced exactly the resourcefulness over-scheduled children never rehearse.
+6. **Rehearse bravery rituals.** Before anything scary (performance, injection, first day): three slow "brave breaths," one phrase ("I can do hard things"), and a debrief after that emphasizes what they *did*, not how it went. You're building a lifelong pre-performance routine.
+7. **Let them hear you fail well.** Narrate your own mistakes at dinner: "I sent the wrong file today. I felt embarrassed, then I fixed it and apologized." Children of parents who hide struggle conclude that struggle is shameful. Your recoveries are the masterclass.
+
+---
+
+## The Elite Edge: Tutors, Summers, and the Dinner Table
+
+**Private tutoring at 5–7, decoded.** The tutoring industry starts pitching early. What the research actually shows: 1:1 tutoring is genuinely powerful (it delivers immediate feedback, precise difficulty targeting, and undivided attention), but at this age those ingredients are fully available at home — paired reading, math-in-shops, and games supply them. Tutoring earns its fee later, for *specific diagnosed gaps*; bought generically at 6 it mostly buys parent reassurance and child fatigue.
+
+**The summer question.** The Baltimore school studies (Alexander & Entwisle) found low- and high-income children learned at *similar rates during the school year* and argued the gap grew over long US **summers**. A 2019 reanalysis (von Hippel & Hamrock) found much of that summer effect came from how the tests were scaled, and that most of the gap already exists before school starts **[B]**. The practical lesson survives: long breaks go better with continued reading, new experiences, and adult conversation. A library card, free museum days, cooking projects, and a daily read-aloud supply those without an expensive camp.
+
+**The cheapest "program" with the strongest correlations: family dinner.** Regular family meals correlate with larger vocabularies (rare words at mealtimes predicted later vocabulary in Harvard's home-language studies, alongside reading aloud rather than instead of it), better adjustment, and — in adolescence — lower risk behavior. The variable is conversation, not cuisine. Four dinners a week where the child talks and is listened to is an elite intervention wearing pajamas.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Interviewing at pickup.** Peak questions at the moment of lowest capacity. Feed first, connect first, ask later — see the day-in-real-life above.
+2. **Doing the homework.** Rescuing produces clean worksheets and a child who believes they can't. Teachers need to see the real level; children need to feel the real competence. Struggle-with-support is the point.
+3. **Treating reading level as a leaderboard.** Reading onset and early level vary enormously and settle out; pressure and comparison are the variables that leave marks. The goal at 5–7 is a child who *likes* books — protect that above level-advancement.
+4. **Filling every afternoon.** Five activities a week isn't enrichment; it's a commute schedule. Evidence-based dose: one or two chosen activities, daily outdoor play, and genuinely free time.
+5. **Dismissing friendship pain because the stakes look small.** "She said I'm not her best friend anymore" is a real grief at 6. Children who get validation plus coaching ("That hurt. What do you want to do tomorrow?") learn to process social pain; children who get "you'll make other friends" learn to stop reporting it.
+
+---
+
 ## 5-Minute Action Plan
 
 **Change one question.**

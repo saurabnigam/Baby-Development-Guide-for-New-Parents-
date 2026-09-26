@@ -1153,6 +1153,39 @@ Calm does not mean beneficial. Under 18 months, screen media is not needed excep
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+For fuller sample days at every age, and how the day changes as your baby grows, see Module 32.
+
+---
+
+## The Elite Edge: Baby Classes and Subscription Boxes — Decoded
+
+This is the age when the baby-industrial complex arrives: sensory classes, baby music groups, swim programs, curated toy subscriptions. Here is what the evidence says each one actually delivers.
+
+| What the wealthy buy | Cost | The active ingredient | The free version |
+|----------------------|------|----------------------|------------------|
+| Baby sensory / music classes | $20–40/session | A scheduled hour where the parent is fully present, singing, with novel objects and other babies | Same hour at home: one song ritual, one new household texture, floor time — plus a free library rhyme-time for the social part |
+| Curated toy subscriptions (Lovevery-style) | $80–120/box | Stage-matched *simple* objects: rattle, crinkle cloth, mirror, ring | The toy table in this module. A steel bowl, a wooden spoon, and a scarf cover most of the box |
+| Baby sign language courses | $100–200 | Not faster talking (evidence is weak there) — the real effect is parents who watch their baby more closely and respond more | Learn 5 signs free (milk, more, all done, sleep, up) and use them at routines. The watching is the point |
+| "Language immersion" recordings/apps | $10–60/month | Nothing, at this age | In Patricia Kuhl's landmark 2003 experiment, 9-month-olds learned Mandarin speech sounds from *live tutors* and nothing measurable from the same tutors on video or audio [B]. Later work softens this a little: video watched alongside another baby, or live video chat that responds to a toddler, can teach some. Language learning is socially gated. A talking human relative beats any product |
+
+**The honest summary:** classes are worth paying for when they buy *you* something real — structure, community, accountability, a reason to leave the house. Those are legitimate purchases for parental wellbeing. Just know the baby's development is driven by the interaction, which travels home for free.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Container rotation.** Swing → bouncer → jumper → car seat can quietly consume a whole day. Every container hour is a floor-exploration hour lost. Aim for the floor as the default and containers as the exception.
+2. **Performing constantly.** A baby staring intently at their own hands is mid-experiment. Narrate or wait — don't interrupt focus to entertain. Attention span is built by *not* breaking attention.
+3. **Starting solids early because of sleep promises.** "Cereal helps them sleep through" is mostly folklore. In one large trial (EAT, 1,303 babies), solids from 3 months bought about 17 extra minutes of sleep a night at the 6-month peak and slightly fewer wakings [B]. That is too small to justify starting early, and early solids displace milk nutrition. Wait for the readiness signs around 6 months.
+4. **Propping bottles.** It costs the feeding interaction (the richest serve-and-return slot of the day) and raises choking and ear-infection risk.
+5. **Comparing rolling and sitting dates.** Motor timing within the normal ranges predicts nothing long-term. The trajectory and symmetry matter; the date does not.
+
+---
+
 ## Red Flags: Talk to a Paediatrician
 
 Talk with your paediatrician if:

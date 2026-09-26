@@ -308,6 +308,70 @@ Autonomy, again. Reduce the number of yes/no questions you ask. "Time for the ba
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+**Fit it into a day:** For a sample 18–24 month day that builds in movement breaks and a steady bedtime, see Module 32. Climbing, running, and opening things bring risks from windows, balconies, water, medicines, and road traffic — Module 34 covers injury prevention by age.
+
+---
+
+## A Day in Real Life: Anatomy of a Well-Handled Tantrum
+
+Park, 5:40 p.m. You gave the two-minute warning. Time's up, and your 21-month-old goes to the ground anyway. Here's the whole arc, honestly:
+
+- **5:40 — Detonation.** Screaming, arching, the works. You crouch nearby. You say almost nothing — maybe "You're mad. Park time is over." Then you stop talking. A flooded toddler cannot process sentences; your words are for labeling, not persuading.
+- **5:42 — The hardest 90 seconds.** Other parents glance over. You resist the three classic exits: giving in ("Okay, five more minutes"), threatening ("Fine, I'm leaving without you"), or lecturing. You stay physically close, visibly calm. You are lending them your nervous system — that's what co-regulation literally means.
+- **5:44 — The turn.** Screaming becomes crying. Crying becomes hiccups. They look at you. *This* is the moment for contact: "That was hard. You love the park." Arms open; they come in.
+- **5:46 — Repair and exit.** Carried to the gate, one shuddery breath, then: "Wave bye-bye to the slide. We'll come back tomorrow." Done.
+- **On the walk home — the actual teaching moment.** Now, calm and connected, one sentence: "When park time ends, you can say 'more park' and I'll always tell you when we can come back." Skills are taught in the calm, never in the storm.
+
+What the child learned: big feelings end; parents stay; limits hold; there are words for this. Run that loop a few hundred times over toddlerhood and you have built emotional regulation — there is no faster method, because the loop *is* the method.
+
+---
+
+## Tips & Tricks: 18 to 24 Months
+
+1. **Run the body checklist before the psychology.** The module's list is worth engraving: hungry, tired, constipated, overstimulated, under-moved. Most "behavior problems" at this age are one of these five wearing a costume.
+2. **Expand, don't correct.** Child: "More milk." You: "You want more milk in your blue cup!" Expansions and recasts — the exact technique private speech therapists bill for — add grammar and vocabulary without ever signaling "you said it wrong."
+3. **Teach the pressure valve early.** Drill one phrase or sign on calm days: "Help, please." A toddler who can summon help mid-frustration detonates measurably less. Practice it as a game before you need it.
+4. **Try the whisper.** When escalation starts, dropping your voice to a whisper is oddly effective — it's novel, it's calm, and the child has to quiet down to hear you.
+5. **Map your hotspots.** Most families have 2–3 daily flashpoints (leaving the house, bath entry/exit, dinner). Pre-engineer only those: warning + choice + job. Fixing three predictable battles improves the whole day's tone.
+6. **Prioritize the outdoor hour.** An hour of outdoor movement is the cheapest behavior medication known: better sleep, better appetite, fewer tantrums, and vestibular/proprioceptive input a living room can't supply.
+7. **"When-then" beats "if-then."** "When your teeth are brushed, then we read books" states a sequence. "If you brush, I'll give you books" opens a negotiation. Same content, different frame, very different toddler response.
+
+---
+
+## The Elite Edge: The Private Parenting Coach's Actual Toolkit — PRIDE
+
+**What the wealthy buy:** Private parent coaches and therapist-led programs, the gold standard being **PCIT (Parent-Child Interaction Therapy)** — developed in academia, backed by dozens of randomized trials, delivered privately at specialist-therapist rates, often with a therapist coaching the parent through an earpiece in real time.
+
+**The hidden-in-plain-sight part:** PCIT's foundation phase is a 5-minute daily practice called *special time*, run with the **PRIDE** skills — all public research, none of it secret:
+
+| Skill | What it means | Sounds like |
+|-------|---------------|-------------|
+| **P**raise (labeled) | Praise the specific behavior, not the child | "You put the block on so gently." |
+| **R**eflect | Repeat/expand what the child says | Child: "Car go!" → "The car is going fast!" |
+| **I**mitate | Play alongside, copying their play | They stack; you stack too |
+| **D**escribe | Sportscast their actions | "You're putting the cow in the barn." |
+| **E**njoy | Warmth, delight, physical affection | Smile, laugh, be visibly glad to be there |
+
+Equally important is what you *don't* do during those 5 minutes: no questions, no commands, no corrections. The child leads; you follow with PRIDE. Standard PCIT is built for ages 2–7. In a trial of the toddler version (PCIT-T; 66 families, children 14–24 months), this child-led phase alone improved parenting and reduced difficult behavior **[B]**. No trial shows the discipline phase becomes unnecessary; the play phase is the foundation, not the whole program.
+
+**Your version:** 5 minutes a day, one-on-one, child picks the activity, you run PRIDE and bite your tongue on questions. Five minutes a day is a small price for one of the better-tested parenting practices in this guide.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Giving in intermittently.** Holding the limit four times and caving the fifth doesn't teach the limit 80% — it teaches that screaming is a slot machine that sometimes pays. Intermittent reinforcement is the strongest schedule known; make limits boring and certain.
+2. **Punishing the tantrum itself.** A tantrum at this age is neurological overflow, not manipulation. Punishing it teaches "my big feelings make me lose my parent." Ride it out, hold limits, teach after.
+3. **Talking too much at every stage of the arc.** Pre-tantrum: short warning. During: five words maximum. After: one sentence of teaching. Word count is inversely related to effectiveness in every phase.
+4. **Using time-outs as isolation at 18–24 months.** A child this age lacks the regulation to "think about what they did" alone; they just experience abandonment at peak distress. Time-*in* (calm proximity) does the same limit-holding without the cost.
+5. **Grading yourself against an "easy" toddler.** Temperament is real and substantially inborn. The parent of an intense, persistent, sensory-sensitive child is playing the same game on a harder difficulty setting — judge your parenting by your responses, not by their combustibility.
+
+---
+
 ## 5-Minute Action Plan
 
 **Pick your worst recurring moment** — leaving the park, getting in the bath, coming off a screen — and add exactly two things:

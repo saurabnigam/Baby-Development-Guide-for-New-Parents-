@@ -305,6 +305,80 @@ Very little buys more credibility at this age than a parent who concedes a good 
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+### Board Exams, Entrance Coaching, and the Indian Pressure Cooker
+
+Picture a Class 9 student in Bengaluru: school until 3:30, JEE coaching until 8, self-study until midnight, up at 6. That is about 6 hours of sleep for a brain that needs 8-10 (Module 16). The schedule feels like investment. The science says it is a tax on attention, memory, mood, and learning.
+
+What has changed:
+- **Coaching age limits.** The Ministry of Education's 2024 guidelines tell coaching centres not to enrol students under 16, not to promise ranks, and not to run more than 5 hours of classes a day. States enforce them unevenly, so check any centre yourself.
+- **Two chances at CBSE Class 10 boards.** From 2026 the first sitting (February) is compulsory and a second (May) is optional, with the better score counted. One bad day no longer decides the result.
+
+What helps:
+- **Guard 8 hours of sleep as a study tool.** Teens who sleep less than their range have worse attention, memory, and mood, and higher rates of depression and self-harm thoughts **[A]**. Cut a coaching slot before you cut sleep.
+- **Separate the child from the rank.** Say out loud that your love and respect do not depend on a percentile. Talk about Plan B and Plan C colleges early, calmly, and often.
+- **Stop public comparisons.** Relatives' results, cousins' ranks, and WhatsApp toppers' lists are not motivation. They add pressure without adding skill.
+- **Watch for warning signs** during exam season: withdrawal, hopeless talk, not sleeping or sleeping all day, dropping friends and food. Act early (see Red Flags below, and Module 37's crisis plan).
+
+**If your teen talks about suicide or self-harm, act the same day.** Stay with them, remove easy access to medicines and other means, and get help. In India, call Tele-MANAS on **14416** (or 1800-89-14416): free, 24 hours a day, in English and 20 Indian languages. In an emergency, call 112. Module 37 has a full crisis plan to prepare before you ever need it.
+
+---
+
+## A Day in Real Life: The 10:47 p.m. Doorway Test
+
+Your 15-year-old appears in the doorway as you're about to sleep. "So... something happened at Dev's party." What you do in the next 30 seconds determines whether you hear about the *next* thing that happens — at 16, at 17, at the moment it really matters.
+
+- **Flatten your face.** Alarm, anger, or visible panic ends the disclosure mid-sentence. Your face is being read for "is it safe to keep talking?" Aim for calm interest you may not feel: "Okay. Tell me."
+- **Ask, don't verdict.** "What happened next?" "How did you handle it?" "What did you think about it?" Every question extends the channel; every judgment narrows it. The lecture you're composing can wait until tomorrow — and shrunk to one sentence, it will land better.
+- **Honor the act of telling.** Whatever the content, the *telling* was the behavior you want more of: "I'm really glad you told me." If consequences are needed, price them fairly — **never make honesty cost more than concealment would have.** Teens run this arithmetic precisely.
+- **Close with the standing offer:** "You can tell me anything, including things you think I'll hate. I might not love it, but I'll always help." Then actually live it, because they will test it on something small before trusting it with something big.
+
+The research leans one way. In Stattin and Kerr's study of 703 Swedish 14-year-olds, what parents knew came mainly from what teens chose to tell them, and that *voluntary disclosure* was more closely linked to lower delinquency than parental tracking was **[C]**. Teens disclose to parents who react like this. That does not make oversight useless: for risks built on secrecy, such as online grooming or sextortion, some open, agreed oversight still matters (Module 37). The doorway at 10:47 is where that asset is built or destroyed.
+
+---
+
+## Tips & Tricks: Age 12 to 18
+
+1. **Use the side door, not the front door.** "Sit down, let's talk about your feelings" triggers the teen immune system. Drives, late-night kitchen raids, walks, and doing dishes together produce the real conversations — no eye contact, natural exits, shoulder to shoulder.
+2. **Trade autonomy for demonstrated responsibility, explicitly.** Make the ladder visible: "Handle the 10 p.m. curfew well for a month and it moves to 10:30." Autonomy granted on a schedule feels arbitrary; autonomy *earned* teaches the actual adult contract.
+3. **Teach them their own brain.** Teens find the science genuinely interesting: reward system at full sensitivity, prefrontal cortex still maturing into the mid-to-late 20s, peer presence measurably shifting risk decisions (Steinberg's driving-game studies). "Your brain is a sports car with bicycle brakes — plan for it" lands better than "be careful."
+4. **Fight for sleep like it's a grade.** Teen circadian rhythms genuinely shift later; 8–10 hours are still needed. The highest-yield interventions: consistent wake time, phone charging outside the bedroom, and treating sleep as performance-enhancing (it is — memory consolidation happens overnight) rather than as childish.
+5. **Keep the family dinner alive on whatever terms you can get.** Teens who share regular family meals do better on many wellbeing measures. The link shrinks once family income and relationships are accounted for, but some of it survives stricter tests (Musick & Meier 2012, 17,977 teens) **[C]**. Aim for what you can sustain, even 3–4 relaxed meals a week. Phones in a basket, no ambush topics.
+6. **Run the adulthood checklist before 18.** Can they: cook five meals, do laundry, manage a bank account, make their own appointment, take a bus/train alone, email an adult professionally, handle a week's budget? Each is one delegation away. A teen trusted with real logistics behaves more like someone worth trusting.
+7. **Take romantic grief seriously.** First heartbreak activates the same systems as adult grief, minus the coping history. "There are other fish" is dismissal; "this really hurts, and it's supposed to" is coaching. How you treat their small heartbreaks decides whether you hear about the big ones.
+8. **Keep the teen vaccines current.** Adolescence has its own vaccines. Since February 2026, India's national programme offers girls a free single dose of HPV vaccine at age 14 at government health facilities. It protects against HPV types 16 and 18, which cause more than 80% of cervical cancers in India. Module 34 covers the full teen schedule; confirm timing with your pediatrician.
+
+---
+
+## The Elite Edge: Mentors, Internships, and the Style That Actually Predicts Outcomes
+
+**What the wealthy buy for teens:** college admissions consultants ($5,000–50,000+), résumé-grade internships via family networks, and "passion project" packaging. Decode the ingredients and most are replicable:
+
+| Purchased version | Active ingredient | Free version |
+|-------------------|-------------------|--------------|
+| Family-network internship | Real work, real stakes, adults treating the teen as competent | Any real job or serious volunteering: a shop, a coaching role, an NGO, building something for a local business. The status of the placement matters far less than the reality of the responsibility |
+| Admissions consultant's "spike" strategy | Sustained, authentic depth in one self-chosen thing, with visible output | A 2-year genuine project (blog, robotics, tournament chess, a small business, published research with a teacher) beats a purchased-looking résumé — admissions readers actively discount polish now |
+| Curated mentor introductions | A non-parent adult who knows and champions the teen | Research on "natural mentors" (Search Institute and others) finds teens with even one such adult — coach, teacher, aunt, family friend — show better outcomes across the board. You can engineer this: invite it, name it, make space for it |
+| Test-prep packages | Retrieval practice + spacing + familiarity | The Module 13 study science, applied; official free practice materials are now excellent |
+
+**The most valuable finding money keeps re-buying:** decades of parenting-style research (Baumrind, Steinberg's large adolescent studies, and a 2018 meta-analysis of 428 studies) favour the same combination in every world region studied — **high warmth plus high expectations plus growing autonomy** ("authoritative" parenting) **[B]**. The pattern is not uniform: the link with grades was weaker for Asian-heritage families in Western countries, and researcher Ruth Chao argues the Western labels miss how many Asian parents pair strictness with close, caring involvement. The studies are mostly correlational, so read these as tendencies: strict-and-cold tends to go with compliance or rebellion; warm-and-limitless with entitlement or anxiety; warm-and-demanding with the outcomes everyone is trying to purchase. It costs nothing and cannot be delegated.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Reading withdrawal as rejection and retaliating with distance.** The teen who grunts at you still measures whether you showed up. Stay in the stands, keep the rituals, issue invitations that survive being declined. Connection in adolescence is maintained mostly by the parent, on patience.
+2. **Punishing the confession harder than the crime.** One over-punished honest disclosure buys years of polished lying. Price honesty correctly (see the doorway).
+3. **Using sarcasm and contempt as discipline.** Teens can now decode contempt precisely, and it damages the relationship faster than shouting. Firmness survives adolescence fine; mockery doesn't.
+4. **Snooping as the default.** Covert surveillance, when discovered (it usually is), converts a communication problem into a trust rupture. Graduated, *transparent* oversight tied to age and track record works with adolescent psychology; spying works against it. (Genuine safety concerns — self-harm, exploitation — change the calculus; act, and own it.)
+5. **Going all-structure or no-structure.** Clamping down hardest at 16 produces sneaking; abdicating at 13 produces drift. The developmental task is a *controlled handover* — fewer rules each year, each one actually enforced, with the teen inside the negotiation.
+6. **Making achievement the relationship.** If every conversation audits grades and applications, the teen correctly infers what they're valued for. Keep provable interest in their non-performance life — the meme they showed you, the match, the friend drama. That's the channel everything else travels through.
+
+---
+
 ## 5-Minute Action Plan
 
 **Replace one lecture with one question and a long silence.**

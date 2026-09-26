@@ -326,6 +326,35 @@ Repo grew from **6,648** lines to **10,179** — a 53% increase, with the four t
 
 ---
 
+## Phase 9 — 2026 research refresh, merged from the knowledge-base copy ✅
+
+This repo is now the single source of truth. A diverged copy of the guide lived in the
+`knowledge_base` repo (`books/baby-iq-eq-development.md`). Between August and September 2026 it
+received a research refresh; that work was merged here on 2026-09-26 and the knowledge-base copy
+was archived.
+
+| What | Where it landed |
+|------|-----------------|
+| 13 new modules | 25 Prenatal · 26 Language, Bilingualism & Reading · 27 Music, Movement & Arts · 28 Executive Function · 29 Elite Playbook · 30 Supplements · 31 Research Frontier · 32 Daily Routines by Age · 33 Environmental Toxins · 34 Health & Safety · 35 Traditions & the Caregiving Team · 36 Developmental Differences · 37 Growing Up Safe |
+| Four recurring sections (A Day in Real Life, Tips & Tricks, The Elite Edge, Mistakes) | Modules 00–19 (Module 04 got Elite Edge + Mistakes only), placed before the 5-Minute Action Plan |
+| "2026 Research Update" sections | Modules 00, 02–20: pointers to the new modules plus short evidence boxes (Indian complementary feeding, B12 and DHA for vegetarians, board-exam and coaching pressure, WHO/IAP/AAP screen numbers, AI chatbots, smacking and time-out, India help pathways, NEP 2020) |
+| Module 20 | More FAQs, a free-tools table, India help pathways, a list of Modules 25–37 |
+| README / lesson objectives | Part 7 table, evidence-grade legend, two reading paths; objectives for 25–37 |
+
+**How the evidence was checked.** 12 research domains produced 168 findings; 166 survived adversarial
+verification against primary sources (63 A, 52 B, 40 C, 11 D). 84 high-risk claims in the old
+knowledge-base text were fact-checked and corrected there. Most of those claims had already been
+removed or fixed here by the red-team pass, so only the corrected versions inside the ported
+sections came across; no base text in Modules 00–24 was rewritten.
+
+**Known gaps (open items):**
+- Reviewers left 134 medium and 145 low suggestions on the new modules that were not applied.
+- Modules 35 (Traditions) and 37 (Growing Up Safe) had no full review; helplines, laws, and medical claims were spot-checked by hand.
+- Overlap to smooth in a later pass: Modules 26 and 28 go deeper on topics Module 22 introduces; Modules 34 and 37 overlap parts of Module 23; the ported "Mistakes" and "Elite Edge" sections were written against the older base text and may repeat points the red-team rewrite added.
+- The four recurring sections were not added to Modules 21–24 (they were written after the fork).
+
+---
+
 ## Notes for whoever picks this up
 
 - **Don't delete a rejected red-team finding.** Mark it ➖ with the reason. A finding someone considered and dismissed is more useful to the next reviewer than a missing row.

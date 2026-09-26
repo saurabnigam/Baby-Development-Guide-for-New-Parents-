@@ -305,6 +305,78 @@ By around 4, strangers should follow most of what your child says. If **you** fr
 
 ---
 
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+**Fit it into a day:** For a sample day for a 3- to 4-year-old, see Module 32. Build in outdoor play in daylight every day, for the eyes as well as the body. Trials in school-age children show more daily time outdoors lowers the chance of becoming short-sighted **[A]**, and the habit is easiest to set now. Module 34 covers eye health.
+
+### Body Safety: Names, Rules, and Surprises
+
+Three- and four-year-olds can learn a few body-safety rules, taught as calmly as road safety. Keep using the correct names for private parts. Teach one rule: nobody looks at or touches your private parts except to keep you clean or healthy, like a parent at bath time or a doctor with a parent in the room, and nobody asks you to keep that secret. Practise the difference between a surprise (a gift for Nani, fun to keep for a short while) and a secret you are told never to tell. Then say the most important line: "You can always tell me, and you will never be in trouble for telling." Module 37 covers body safety at every age.
+
+Module 23 (Life Skills & Critical Moments) shows how to teach body safety step by step.
+
+---
+
+## A Day in Real Life: The Same Bedtime Book, Read Like a Researcher
+
+Bedtime, the same tiger book for the ninth night. Tonight, read it the way reading researchers taught parents to in the *dialogic reading* trials (Whitehurst) — one of the best-tested home literacy techniques, backed by many trials **[A]**. The difference is who does the talking:
+
+- **Ordinary reading:** you read every word, child listens. Fine, but passive.
+- **Dialogic reading:** the book becomes a conversation scaffold. On each page, one move from this menu (researchers call it PEER — Prompt, Evaluate, Expand, Repeat):
+
+> **You:** "What's the tiger doing?" *(prompt)*
+> **Child:** "Eating!"
+> **You:** "Yes!" *(evaluate)* "He's gobbling all the food in the kitchen." *(expand)*
+> **Child:** "Gobbling all the food!" *(repeat — and a new word just landed)*
+
+Vary the prompts across nights: completion ("The tiger drank all the water in the ___"), recall ("What did he eat first?"), open-ended ("Tell me what's happening here"), wh- questions, and the best one — distancing: "Remember when *you* were really hungry after the park? Was it like the tiger?" That last type links book to life, which is where comprehension actually lives.
+
+In the first trial (Whitehurst et al. 1988, 30 middle-class children aged about 2 to 3), a month of this put children 6 to 8.5 months ahead on expressive-language tests. Later reviews confirm it works, but the effect shrinks a lot for 4- to 5-year-olds and for children already at risk **[A]**. Expect a real boost, not months of gain. Total cost: the book you already own, read slightly differently.
+
+---
+
+## Tips & Tricks: Age 3 to 4
+
+1. **Wait five seconds after asking anything.** Preschoolers need processing time adults find uncomfortable. Most parents re-ask or answer their own question at second two. The good stuff arrives at second four.
+2. **"Tell me about your picture"** beats "What is it?" (which implies you couldn't tell) and beats "It's beautiful!" (which ends the conversation). Description invites narrative — and narrative is pre-literacy.
+3. **Inject problems into pretend play.** When play stalls, don't direct — complicate: "Oh no, the teddy has a fever and the doctor kit is missing!" Problems force planning, negotiation, and storyline — the cognitive load-bearing parts of pretend.
+4. **Strive for five.** Aim for conversations that go five turns deep on one topic instead of one turn on five topics. Depth of exchange, not breadth, is what builds language (the conversational-turns research from Module 01 applies double now).
+5. **Cook together weekly.** One simple recipe covers measuring (math), sequencing (executive function), vocabulary ("whisk," "dissolve"), fine motor, patience, and pride — the densest single activity available to a preschool family.
+6. **Welcome the imaginary friend.** Research (Marjorie Taylor) finds children with imaginary companions score *higher* on theory-of-mind measures. It's rehearsal space, not loneliness. Set limits as usual ("Even if Mimi made the mess, we clean it up").
+7. **Reshape bossiness; don't shame it.** The bossy 3-year-old is running early leadership software without the diplomacy patch. Install scripts: "Can I have a turn when you're done?" / "Let's ask what game he wants." The drive is an asset for life; only the interface needs work.
+
+---
+
+## The Elite Edge: Play Plans — the $30,000 Preschool Technique You Can Run at Dinner
+
+**What the wealthy buy:** Some high-fee preschools run *Tools of the Mind* or HighScope-style curricula. Parents pay boutique prices for what looks, to a visitor, like ordinary pretend play. The difference is invisible and structural: children **plan their play before they play**.
+
+- In Tools of the Mind, a child draws or dictates a "play plan": *"I am going to be the doctor. The babies are sick."* Then they play it, stay in role, and review afterward.
+- In HighScope (the curriculum behind the famous Perry Preschool Project — the study underlying the entire economic case for early childhood education), the cycle is called **plan-do-review**.
+
+**Why planning play matters:** committing to a role and holding it is deliberate self-regulation — a preschooler who is "the guard who stands still" can stand still longer than one simply told to stand still (a Soviet-era study retold by Bodrova & Leong; the "ten times" figure often quoted has no clear source). Be honest about the limits: a major review (Lillard et al. 2013) found the evidence that pretend play *causes* better self-control still weak **[C]**, and a large randomized trial of Tools of the Mind found no self-regulation gains **[B]**. Planning and reviewing pretend play is still a cheap, fun way to practise these skills, just not a proven shortcut.
+
+**Your version, free, tonight:**
+1. Before play: "What are you going to play? Who will you be? What will you need?"
+2. After play: "How did the hospital game go? What happened to the sick baby?"
+3. That's the entire mechanism. Two questions bracket the play; the play does the work.
+
+**And the honest caution the brochures skip:** some studies of *academic-drill* preschools (worksheets at 4) found early letter-and-number advantages that faded within a few years, and one study of low-income children found grades slipping behind by grade 4 **[C]**. Fade-out hits almost all early programs, play-based ones included **[A]**, so the honest case is not "drills backfire" but "drills buy nothing that lasts." When a program shows you laminated flashcards as evidence of rigor at age 3–4, that's a red flag wearing a bow tie.
+
+---
+
+## Mistakes Even Loving Parents Make
+
+1. **Turning books into tests.** If every page comes with a quiz ("What color? How many? What letter?"), reading becomes performance and children start declining books. Dialogic prompts are conversation, not examination — follow interest, keep it warm.
+2. **Policing pretend-play realism.** "Tigers don't live in kitchens." They do now. Correcting imagination teaches that ideas need permission; the counterfactual thinking in wild pretend is the same muscle later used for science and story-writing.
+3. **Adjudicating every peer conflict instantly.** Swooping in with verdicts robs children of the negotiation reps. Stay close, narrate both sides ("You both want the red one"), and let them attempt a solution before you rule.
+4. **Dismissing imagination-based fears with logic.** "There's no such thing as monsters" argues with the imagination that created them — and loses. Validate the feeling, then give the child *power* in the story: monster spray, a guard teddy on duty, checking together. Agency beats debate at this age.
+5. **Confusing letter-drilling with literacy.** At 3–4, literacy is vocabulary, story structure, rhyme, and loving books. Letters learned through name-writing, signs, and play stick fine; flashcard drills buy fade-out plus resistance.
+
+---
+
 ## 5-Minute Action Plan
 
 **After your next story, ask exactly two questions:**

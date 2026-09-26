@@ -178,7 +178,7 @@ No — but check the right things. Ranges are far wider than charts suggest: wal
 
 **Look at the pattern, not the single item:** are they progressing compared to three months ago? Is understanding keeping up? Are there several concerns or just one?
 
-**Two things always warrant a call, regardless:** losing a skill they had, and a worry that keeps returning. [How to raise it](../19-common-challenges/README.md#say-it-properly).
+**Two things always warrant a call, regardless:** losing a skill they had, and a worry that keeps returning. If your child misses an item on the CDC checklist for their age, ask for a developmental screen at the next visit (Module 36). [How to raise it](../19-common-challenges/README.md#say-it-properly).
 
 ### "Does early reading mean my child is gifted?"
 
@@ -265,6 +265,76 @@ You do not have to optimise childhood. Children grow well in relationships that 
 **"Safe enough" is doing a lot of work in that sentence, and it is deliberate.** The research does not describe perfect parents. It describes ordinary ones who notice, respond, get it wrong, and come back.
 
 Your presence matters more than your performance.
+
+---
+
+## 2026 Research Update
+
+> Added in the 2026 research refresh. Grades in brackets rate the evidence: **[A]** strong · **[B]** good · **[C]** mixed or observational · **[D]** early or weak.
+
+### In India: Where to Get Help
+
+| Need | Where to go | What it offers |
+|------|-------------|----------------|
+| A health or development concern, birth to 18 | **RBSK** (Rashtriya Bal Swasthya Karyakram) | Free government screening for the "4 Ds": defects at birth, deficiencies, diseases, and developmental delays including disability. Mobile health teams visit Anganwadi centres twice a year and government and government-aided schools once a year |
+| A suspected or confirmed delay, mainly under 6 | **DEIC** (District Early Intervention Centre), at the district hospital | Assessment, therapy, and referral under RBSK. Ask your pediatrician, Anganwadi worker, or ASHA about a referral |
+| A child in danger or being abused | **Childline 1098** | Round-the-clock child helpline, now linked with the national emergency number 112. In immediate danger, call 112 |
+| Parent or teen mental health | **Tele-MANAS: 14416 or 1-800-891-4416** | Free, 24x7 national mental-health helpline run by the Ministry of Health, in many Indian languages |
+| The guidance your pediatrician follows | **IAP** (Indian Academy of Pediatrics) | India's pediatric professional body. Its guidelines, such as the immunisation schedule and the 2022 screen-time guideline, are the Indian reference points in this book |
+
+When you choose a private therapist, check that the psychologist or special educator is registered with the Rehabilitation Council of India (RCI). Module 36 walks through assessment step by step.
+
+### More Questions Parents Ask
+
+#### Do supplements make children smarter?
+
+No supplement has ever been shown to raise a well-nourished child's intelligence. Supplements matter when they correct a real gap — vitamin D for most infants, iron when intake or screening indicates, and B12 when the diet runs short. In India that is not only vegan homes: a national survey (CNNS 2016-18) found about 14% of preschoolers, 17% of school-age children, and 31% of adolescents B12-deficient. The case for DHA pills is weaker; trials adding DHA to term babies' formula found no developmental benefit. Correct gaps, skip enhancement promises, and run everything past your pediatrician (see Module 30).
+
+#### Are expensive preschools, classes, and toy subscriptions worth it?
+
+Decades of research keep finding the same active ingredients: responsive language-rich adults, play, routine, sleep, and nutrition. Paid programs can be worth it for logistics, community, and childcare quality — but the developmental engine is the interaction, which is free and portable (see Module 29 for the full decode).
+
+#### Will raising my child bilingual confuse them or delay speech?
+
+No. Bilingual children may split early vocabulary across two languages (so each looks smaller counted alone), but total vocabulary and language timelines are normal, and mixing languages in one sentence is a skill, not confusion. Use whichever languages the child's loving adults speak best (see Module 26).
+
+#### My child memorized the alphabet at 2 / reads at 4. Are they gifted? Should we accelerate?
+
+Maybe, and mostly no. Early skill displays are common and only loosely predict later trajectories. Feed genuine interests generously — books, questions, projects — but keep the childhood balanced: play, friends, boredom, and sleep are still doing the heavy lifting. Formal identification, if ever relevant, is most dependable from about age 7, when IQ scores become stable enough for decisions about one child (Module 31).
+
+#### We can't afford enrichment. Is our child at a disadvantage?
+
+The habits this guide leans on most — conversation, shared reading, responsive warmth, predictable routines, outdoor play, family meals — cost nothing. Their evidence varies: shared reading has trial evidence, while conversation and family meals rest mostly on observational studies that cannot fully separate the habit from other family advantages. Money buys convenience and access; it does not buy the mechanism. Where libraries are scarce, books can come from school, swaps with other families, or free multilingual story sites such as Pratham Books' StoryWeaver.
+
+
+### Hidden Gems: Free Tools That Match Paid Ones
+
+| Free resource | What it replaces | What it is |
+|---------------|------------------|------------|
+| **Vroom** (app + website, Bezos Family Foundation) | Parent coaches, activity subscriptions | Daily 1-minute "brain building" prompts matched to your child's age, built on the serve-and-return science in Module 01 |
+| **CDC Milestone Tracker** app | Paid milestone-monitoring services | Checklists with photo/video examples, revised in 2022 to show milestones about 75% of children reach by each age (US data plus expert review). Some milestones moved later, so raise a worry early rather than waiting for a missed box; in India, use it alongside your pediatrician's checks and RBSK screening |
+| **Triple P Online / community parenting programs** | Private parenting coaches | One of the most-trialed parenting programs on earth; free or subsidized in many regions |
+| **Khan Academy Kids** | Paid preschool-learning apps | Genuinely high-quality, ad-free, free forever — for the ages when screen learning starts to help (3+, co-viewed) |
+| **Your public library** | Book subscriptions, story-time classes, summer camps | Rhyme time, story hours, summer reading programs — the summer-slide antidote from Module 12, staffed by professionals |
+| **UNICEF / WHO parenting pages** | Premium "expert" newsletters | Global, evidence-based, and free of products to sell |
+
+### Further Reading Inside This Guide: Modules 25–37
+
+The deep-dive and 2026 research-refresh modules. Start with the one that matches your current worry.
+
+- [Module 25: Prenatal — Building the Brain Before Birth](../25-prenatal/README.md)
+- [Module 26: Language, Bilingualism & Raising a Reader](../26-language-bilingualism-reading/README.md)
+- [Module 27: Music, Movement & the Arts](../27-music-movement-arts/README.md)
+- [Module 28: Executive Function — The Hidden Skill Behind IQ and EQ](../28-executive-function/README.md)
+- [Module 29: The Elite Playbook — What Expensive Programs Actually Buy](../29-elite-playbook/README.md)
+- [Module 30: Supplements & Micronutrients — Evidence, Doses, Cautions](../30-supplements-micronutrients/README.md)
+- [Module 31: The Research Frontier — What Actually Moves a Child's Potential](../31-research-frontier/README.md)
+- [Module 32: Daily Routines by Age — Sample Days From Newborn to Teen](../32-daily-routines-by-age/README.md)
+- [Module 33: Protecting the Developing Brain — Lead, Air, Water, and Everyday Toxins](../33-environmental-toxins/README.md)
+- [Module 34: Health and Safety Essentials That Protect the Brain — Screening, Emergencies, and Injury Prevention From Birth to Teens](../34-health-and-safety/README.md)
+- [Module 35: Traditional Practices and the Caregiving Team — Grandparents, Helpers, and Custom](../35-traditions-and-caregiving-team/README.md)
+- [Module 36: When Development Needs a Closer Look — Autism, ADHD, Dyslexia, Speech, and Giftedness](../36-developmental-differences/README.md)
+- [Module 37: Growing Up Safe — Body Safety, Online Life, AI, and Teen Health](../37-growing-up-safe/README.md)
 
 ---
 
